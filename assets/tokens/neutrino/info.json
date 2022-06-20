@@ -1,0 +1,15 @@
+{
+  "key": "neutrino",
+  "name": "Neutrino USD",
+  "symbol": "usdn",
+  "logoURI": "https://assets.coingecko.com/coins/images/10117/large/78GWcZu.png?1600845716",
+  "website": "https://neutrino.at/",
+  "description": "Token, Asset-backed Tokens, Stablecoins, Decentralized Finance (DeFi)\r\nUSD Stablecoin, Neutrino",
+  "coingeckoId": "neutrino",
+  "links": {
+    "twitter": "https://twitter.com/neutrino_proto",
+    "facebook": "https://www.facebook.com/Neutrino-Protocol-106351204088941",
+    "telegram": "https://t.me/neutrino_protocol_news",
+    "github": "https://github.com/ventuary-lab/neutrino-contract"
+  }
+}

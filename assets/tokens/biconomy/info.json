@@ -1,0 +1,14 @@
+{
+  "key": "biconomy",
+  "name": "Biconomy",
+  "symbol": "bico",
+  "logoURI": "https://assets.coingecko.com/coins/images/21061/large/biconomy_logo.jpg?1638269749",
+  "website": "https://www.biconomy.io/",
+  "description": "Biconomy provides plug-n-play APIs to make web3.0 user-friendly & frictionless. \r\n\r\nBiconomy is on a mission to make the decentralized web accessible to everyone. We are the missing piece to crypto adoption for onboarding the next billion. Our APIs & SDKs transform any dAapp to become usable for anyone regardless of their crypto knowledge and experience. Our multi-chain relayer infrastructure processes almost 50K daily transactions for 40+ DApps to ensure all the benefits of web3.0 come with the intuitiveness of web2.0.\r\n\r\nBiconomy provides a simple & quick way for Dapps to abstract away web3 complexities for their users.\r\n\r\nWith Biconomy, users get a simple multi-chain experience where they connect their wallet to any dApp, instantly access their funds on any chain or L2/rollup, and enjoy a completely gasless experience. We enable this superior experience though powerful features:\r\n\r\n1) Free gasless transactions\r\n2) Instant cross-chain transfers\r\n3) Flexible options to pay gas\r\n4) Assured successful transactions\r\n5) Simple instant onboarding to scaling solutions\r\n6) Automatically connect to any L2 & EVM compatible chains\r\n7) Cheap and instant cross-chain contract calls\r\n\r\nThe future of the internet is decentralized, and Biconomy is a critical infrastructure on which it will stand. We make web3.0 more usable, interoperable & composable.",
+  "coingeckoId": "biconomy",
+  "links": {
+    "twitter": "https://twitter.com/biconomy",
+    "telegram": "https://t.me/biconomy",
+    "github": "https://github.com/bcnmy"
+  }
+}

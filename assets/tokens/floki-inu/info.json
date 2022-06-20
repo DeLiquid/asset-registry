@@ -1,0 +1,13 @@
+{
+  "key": "floki-inu",
+  "name": "Floki Inu",
+  "symbol": "floki",
+  "logoURI": "https://assets.coingecko.com/coins/images/16746/large/PNG_image.png?1643184642",
+  "website": "https://www.floki.com/",
+  "description": "FLOKI is the utility token of the Floki Ecosystem. The Floki Ecosystem is a community-powered ecosystem that aims to give people control of their finances through four key utility offerings:\r\n\r\n- The Valhalla NFT Metaverse Game.\r\n- The Floki University Crypto Education platform.\r\n- DeFi.\r\n- The FlokiPlaces NFT & Merchandise Marketplace.\r\n\r\nThere is a 3% tax on every buy/sell transaction on the FLOKI contract which goes to a treasury wallet that is used to fund development and growth activity. You can buy FLOKI with a 3 - 5% slippage.",
+  "coingeckoId": "floki-inu",
+  "links": {
+    "twitter": "https://twitter.com/realflokiinu",
+    "telegram": "https://t.me/FlokiInuToken"
+  }
+}

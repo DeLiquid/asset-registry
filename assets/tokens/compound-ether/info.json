@@ -1,0 +1,14 @@
+{
+  "key": "compound-ether",
+  "name": "cETH",
+  "symbol": "ceth",
+  "logoURI": "https://assets.coingecko.com/coins/images/10643/large/ceth2.JPG?1581389598",
+  "website": "https://compound.finance/",
+  "description": "Compound protocol balance token",
+  "coingeckoId": "compound-ether",
+  "links": {
+    "twitter": "https://twitter.com/compoundfinance",
+    "reddit": "https://www.reddit.com/r/compound/",
+    "github": "https://github.com/compound-finance/compound-protocol"
+  }
+}

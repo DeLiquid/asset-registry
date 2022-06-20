@@ -1,0 +1,14 @@
+{
+  "key": "regen",
+  "name": "Regen",
+  "symbol": "regen",
+  "logoURI": "https://assets.coingecko.com/coins/images/16733/large/REGEN.png?1624861317",
+  "website": "https://www.regen.network/",
+  "description": "REGEN coin is the token for the Regen Network Platform",
+  "coingeckoId": "regen",
+  "links": {
+    "twitter": "https://twitter.com/regen_network",
+    "telegram": "https://t.me/regennetworkdevannounce",
+    "github": "https://github.com/regen-network/"
+  }
+}

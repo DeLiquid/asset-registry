@@ -1,0 +1,12 @@
+{
+  "key": "binance-coin-wormhole",
+  "name": "Binance Coin (Wormhole)",
+  "symbol": "bnb",
+  "logoURI": "https://assets.coingecko.com/coins/images/22884/large/BNB_wh_small.png?1644224553",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "binance-coin-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

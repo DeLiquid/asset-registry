@@ -1,0 +1,19 @@
+{
+  "key": "neo",
+  "name": "NEO",
+  "symbol": "neo",
+  "logoURI": "https://assets.coingecko.com/coins/images/480/large/NEO_512_512.png?1594357361",
+  "website": "https://neo.org/",
+  "description": "NEO is a next generation smart economy platform (formerly Antshares) and China's first open source blockchain that was founded in 2014, is often known as the \u201c<a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> of China\u201d. \r\n\r\nWhat is NEO?\r\nNEO uses a smart economy approach to implement its distributed network concept. Its main objective is to digitize assets using the decentralized network of blockchain technology and digital identity.\r\n\r\nNeo\u2019s main aim is to be the distributed network for \u201csmart economy\u201d.  As their website states: \"Digital Assets + Digital Identity + <a href=\"https://www.coingecko.com/en?category_id=29\">Smart Contract</a> = Smart Economy.\" Neo was developed by Shanghai-based blockchain R&D company \u201cOnChain\u201d and funded by two crowdsales: first crowdsale on October 2015 sold 17.5 million NEO tokens for $550,000 and the second crowdsale sold the remaining 22.5 million NEO tokens for $4.5 million.\r\n\r\nSo why NEO?\r\nAsset digitization and identity on the <a href=\"https://www.coingecko.com/en?asset_platform_id=480\">NEO platform</a> essentially creates a novel way for asset registration, issuance, and circulation. This means that tangible assets like real estate, company shares or even fiat money can be digitized and traded on the NEO network, thus giving rise to a whole new economy.\r\n\r\nIts digital identity system allows for integration between the platform and the real world economy. It has custom digital identity standards that enable the creation of electronic identity data for individuals, organizations and even entities. These electronic systems use multi-layered authentication models that include facial and voice recognition as well as fingerprints.\r\n\r\nAll digital assets on the platform enjoy legal protection thanks to the use of digital certificates on its public blockchain. This, in turn, guarantees trust as the system offers an indelible and unalterable record of all entities\u2019 holdings.",
+  "coingeckoId": "neo",
+  "links": {
+    "slack": "https://antshares-slack.herokuapp.com/",
+    "github": "https://github.com/neo-project",
+    "twitter": "https://twitter.com/NEO_Blockchain",
+    "facebook": "https://www.facebook.com/antshares",
+    "linkedin": "https://www.linkedin.com/company/10882446?trk=prof-0-ovw-curr_pos",
+    "whitepaper": "https://github.com/AntShares/AntShares/wiki",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2057932",
+    "reddit": "https://www.reddit.com/r/NEO"
+  }
+}

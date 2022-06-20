@@ -1,0 +1,15 @@
+{
+  "key": "acala",
+  "name": "Acala",
+  "symbol": "aca",
+  "logoURI": "https://assets.coingecko.com/coins/images/20634/large/upOKBONH_400x400.jpg?1647420536",
+  "website": "https://acala.network/",
+  "description": "Acala is the decentralized finance network and liquidity hub of Polkadot. It\u2019s a layer-1 smart contract platform that\u2019s scalable, Ethereum-compatible, and optimized for DeFi with built-in liquidity and ready-made financial applications. With its trustless exchange, decentralized stablecoin (aUSD), DOT Liquid Staking (LDOT), and EVM+, Acala lets developers access the best of Ethereum and the full power of Substrate.",
+  "coingeckoId": "acala",
+  "links": {
+    "twitter": "https://twitter.com/AcalaNetwork",
+    "telegram": "https://t.me/acalaofficial",
+    "reddit": "https://www.reddit.com/r/AcalaNetwork/",
+    "github": "https://github.com/AcalaNetwork/Acala"
+  }
+}

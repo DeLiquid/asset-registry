@@ -1,0 +1,14 @@
+{
+  "key": "stabilize-usd",
+  "name": "Stabilize USD",
+  "symbol": "susd",
+  "logoURI": "https://assets.coingecko.com/coins/images/19754/large/SUSD_200.png?1635824557",
+  "website": "https://app.stabilize.fi",
+  "description": "Stabilize is a decentralized borrowing protocol2.0 that allows you to draw interest-free loans against basic asset & ibTKNs used as collaterals.",
+  "coingeckoId": "stabilize-usd",
+  "links": {
+    "twitter": "https://twitter.com/stabilize_fi",
+    "telegram": "https://t.me/StabilizeFi",
+    "github": "https://github.com/Stabilizefi"
+  }
+}

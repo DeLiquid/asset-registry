@@ -1,0 +1,14 @@
+{
+  "key": "dock",
+  "name": "Dock",
+  "symbol": "dock",
+  "logoURI": "https://assets.coingecko.com/coins/images/3978/large/dock-icon-dark-large.png?1623764407",
+  "website": "https://dock.io",
+  "description": "dock.io is a decentralized data exchange protocol that lets people connect their profiles, reputations and experiences across the web with privacy and security.",
+  "coingeckoId": "dock",
+  "links": {
+    "twitter": "https://twitter.com/docknetwork",
+    "telegram": "https://t.me/dockio",
+    "reddit": "https://www.reddit.com/r/dockio/"
+  }
+}

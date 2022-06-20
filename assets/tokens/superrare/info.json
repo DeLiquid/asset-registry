@@ -1,0 +1,14 @@
+{
+  "key": "superrare",
+  "name": "SuperRare",
+  "symbol": "rare",
+  "logoURI": "https://assets.coingecko.com/coins/images/17753/large/RARE.jpg?1629220534",
+  "website": "https://superrare.com/",
+  "description": "Buy and sell NFTs from the world\u2019s top artists",
+  "coingeckoId": "superrare",
+  "links": {
+    "twitter": "https://twitter.com/SuperRare",
+    "telegram": "https://t.me/SuperRare",
+    "reddit": "https://www.reddit.com/r/SuperRare/"
+  }
+}

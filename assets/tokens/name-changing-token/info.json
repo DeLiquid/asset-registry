@@ -1,0 +1,12 @@
+{
+  "key": "name-changing-token",
+  "name": "Name Change",
+  "symbol": "nct",
+  "logoURI": "https://assets.coingecko.com/coins/images/13826/large/hashmasks-nct.png?1612879286",
+  "website": "https://www.thehashmasks.com/nct",
+  "description": "The Name Change Token (NCT) is the native token of the Hashmasks artwork. The NCT serves only one single purpose: It allows its holder to give their Hashmask a unique name that is permanently stored and publicly visible on the Ethereum Blockchain. Thus, commoditizing the name itself and making it the rarest of all attributes within the entire project. This opens up a whole new dimension for collectibles where the value hierarchy of the individual pieces of the whole collective art is highly impacted by the preferences of the consumers.",
+  "coingeckoId": "name-changing-token",
+  "links": {
+    "twitter": "https://twitter.com/TheHashmasks"
+  }
+}

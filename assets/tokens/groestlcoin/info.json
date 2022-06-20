@@ -1,0 +1,16 @@
+{
+  "key": "groestlcoin",
+  "name": "Groestlcoin",
+  "symbol": "grs",
+  "logoURI": "https://assets.coingecko.com/coins/images/71/large/image001.png?1547033733",
+  "website": "http://www.groestlcoin.com/",
+  "description": "What is Groestlcoin?\r\n\r\nGroestlcoin is a proof of work cryptocurrency created in 2014. Designed for everyday use, Groestlcoin features an average block time of one minute, as opposed to Bitcoin's ten. As a consequence, it has a maximum total supply that will cap out at 105 million coins, as opposed to the 21 million for Bitcoin. The main idea of creating Groestlcoin was to establish an electronic payment model that was purely based on mathematical proof. It uses the proof of work system (POW) to facilitate secure online money transactions. This is a system that is independent of influence from centralized authorities.\r\n\r\nHow does it work?\r\n\r\nGroestlcoin is mined using the Groestl algorithm. Groestl was chosen as one of the five finalists of the NIST hash function competition. It uses the same S-box as AES in a custom construction. The cryptocurrency operates as open source software on a peer-to-peer model (transactions take place directly between the payer and payee). This means that no trusted intermediary such a bank or PayPal is required to verify the details of the sender and receiver. Rather, the transactions are verified by nodes (the network of computers/users spread globally) and recorded in an open ledger.\r\n\r\nWhat does it aim to solve?\r\n\r\nWith a shorter block period than Bitcoin, Groestlcoin aims to be more functional for everyday payments. Merchants don\u2019t need to wait 10 minutes to confirm whether or not they have received their payment. The reduction in hashrate intensity also gave Groestlcoin an opportunity to be mined by individuals with less computing power. However, companies and teams have created ASICs for Groestlcoin, albeit at a higher cost than creating ASICs for Bitcoin. Rather than just a simple fork, Groestlcoin also works to adopt developments and additions inspired from discussions surrounding the Bitcoin network, and was actually one of the first adopters to several key features such as Segregated Witness (SegWit) and the Lightning Network.",
+  "coingeckoId": "groestlcoin",
+  "links": {
+    "twitter": "https://twitter.com/GroestlcoinTeam",
+    "facebook": "https://www.facebook.com/GroestlCoinGRS",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=525926",
+    "reddit": "https://www.reddit.com/r/groestlcoin",
+    "github": "https://github.com/GroestlCoin/GroestlCoin"
+  }
+}

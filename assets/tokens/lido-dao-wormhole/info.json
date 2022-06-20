@@ -1,0 +1,12 @@
+{
+  "key": "lido-dao-wormhole",
+  "name": "Lido DAO (Wormhole)",
+  "symbol": "ldo",
+  "logoURI": "https://assets.coingecko.com/coins/images/22995/large/LDO_wh_small.png?1644226233",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "lido-dao-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

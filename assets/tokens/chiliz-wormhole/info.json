@@ -1,0 +1,12 @@
+{
+  "key": "chiliz-wormhole",
+  "name": "Chiliz (Wormhole)",
+  "symbol": "chz",
+  "logoURI": "https://assets.coingecko.com/coins/images/23029/large/CHZ_wh_small.png?1644224878",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "chiliz-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

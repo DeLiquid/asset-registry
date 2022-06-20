@@ -1,0 +1,15 @@
+{
+  "key": "mask-network",
+  "name": "Mask Network",
+  "symbol": "mask",
+  "logoURI": "https://assets.coingecko.com/coins/images/14051/large/Mask_Network.jpg?1614050316",
+  "website": "https://mask.io/",
+  "description": "Mask Network is the core product of Dimension, which is positioned to become the bridge that connects internet users from Web 2.0 to Web 3.0. The foundational technology of Mask Network is a peer-to-peer encrypted messaging application, with new functions continuously being created around this foundation. We at Mask Network are strong believers in the ownership economy. People should own what they produce, people should own their data, their attention and the virtual space they choose to contribute to.\r\n\r\nMask Network integrates decentralized social messaging, borderless payment network, and decentralized file storage and sharing to provide a safe and convenient portal for users to jump right into the continent of decentralized finance and then the new world of Web 3.0.",
+  "coingeckoId": "mask-network",
+  "links": {
+    "twitter": "https://twitter.com/realMaskNetwork",
+    "telegram": "https://t.me/maskbook_group",
+    "reddit": "https://www.reddit.com/r/MaskNetwork/",
+    "github": "https://github.com/DimensionDev"
+  }
+}

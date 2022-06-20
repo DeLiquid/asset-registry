@@ -1,0 +1,15 @@
+{
+  "key": "arweave",
+  "name": "Arweave",
+  "symbol": "ar",
+  "logoURI": "https://assets.coingecko.com/coins/images/4343/large/oRt6SiEN_400x400.jpg?1591059616",
+  "website": "https://arweave.org/",
+  "description": "Welcome to the future of data storage\r\nA new data storage blockchain protocol based on a novel proof of access consensus mechanism that creates truly permanent data storage for the first time. Now data is finally permanent, low-cost, and truly censorship free.\r\n\r\nArweave has solved the millennia old problem of decentralised data availability.\r\nPay Once, Store Forever.\r\nArweave makes permanent data storage a reality for the very first time. As the $3 trillion data-storage industry is growing, the need for cheap, distributed, permanent data-storage on the blockchain has become an urgent necessity.",
+  "coingeckoId": "arweave",
+  "links": {
+    "twitter": "https://twitter.com/arweaveteam",
+    "facebook": "https://www.facebook.com/ArweaveTeam",
+    "telegram": "https://t.me/arweave",
+    "github": "https://github.com/ArweaveTeam/arweave"
+  }
+}

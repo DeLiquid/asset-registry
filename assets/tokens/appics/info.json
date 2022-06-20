@@ -1,0 +1,16 @@
+{
+  "key": "appics",
+  "name": "Appics",
+  "symbol": "apx",
+  "logoURI": "https://assets.coingecko.com/coins/images/3674/large/appics_logo.jpg?1547038663",
+  "website": "https://appics.com/",
+  "description": "The APX token is the currency of the APPICS platform, a social media dApp and NFT marketplace based on the EOS.IO blockchain. APX tokens can be earned through content creation and participation in the reward-system, by voting on content within the app. APX tokens can be spent inside the app or the NFT marketplace, where you can also mint NFTs using the APX token. \r\n\r\nFurthermore, APX tokens can be staked in order to increase voting weight, which enables users to earn even more rewards. The APX token is under Swiss law an approved utility token.",
+  "coingeckoId": "appics",
+  "links": {
+    "twitter": "https://twitter.com/appics_official",
+    "facebook": "https://www.facebook.com/appics.official",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2876667",
+    "telegram": "https://t.me/appics_official",
+    "reddit": "https://www.reddit.com"
+  }
+}

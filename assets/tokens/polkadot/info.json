@@ -1,0 +1,15 @@
+{
+  "key": "polkadot",
+  "name": "Polkadot",
+  "symbol": "dot",
+  "logoURI": "https://assets.coingecko.com/coins/images/12171/large/polkadot.png?1639712644",
+  "website": "https://polkadot.network/",
+  "description": "Polkadot is a platform that allows diverse blockchains to transfer messages, including value, in a trust-free fashion; sharing their unique features while pooling their security. In brief, Polkadot is a scalable heterogeneous multi-chain technology.\r\n\r\nPolkadot is heterogeneous because it is entirely flexible and makes no assumption about the nature or structure of the chains in the network. Even non-blockchain systems or data structures can become parachains if they fulfill a set of criteria.\r\n\r\nPolkadot may be considered equivalent to a set of independent chains (e.g. a set containing Ethereum, Ethereum Classic, Namecoin and Bitcoin) except with important additions: pooled security and trust-free interchain transactability.\r\n\r\nMany of the native parachains of Polkadot will be written using a Polkadot Runtime Environment SDK (e.g. Parity Technologies' Substrate).",
+  "coingeckoId": "polkadot",
+  "links": {
+    "twitter": "https://twitter.com/Polkadot",
+    "telegram": "https://t.me/PolkadotOfficial",
+    "reddit": "https://www.reddit.com",
+    "github": "https://github.com/paritytech/polkadot"
+  }
+}

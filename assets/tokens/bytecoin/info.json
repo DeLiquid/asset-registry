@@ -1,0 +1,16 @@
+{
+  "key": "bytecoin",
+  "name": "Bytecoin",
+  "symbol": "bcn",
+  "logoURI": "https://assets.coingecko.com/coins/images/92/large/bytecoin-logo.png?1547033763",
+  "website": "https://bytecoin.org",
+  "description": "Bytecoin is the first cryptocurrency created with CryptoNote technology. Bytecoin allows users to make absolutely anonymous money transfers through the CryptoNote algorithm. CryptoNote uses CryptoNote ring signatures to provide anonymous transactions and allows you to sign a message on behalf of a group. The signature only proves the message was created by someone from the group, but all the possible signers are indistinguishable from each other.\r\n\r\nEven if outgoing transactions are untraceable, everyone may still be able to see the payments received and thus determine one's income. By using a variation of the Diffie-Hellman exchange protocol, a receiver has multiple unique one-time addresses derived from his single public key. After funds are sent to these addresses they can only be redeemed by the receiver; and it would be impossible to cross-link these payments.\r\n\r\nAs a primarily peer-to-peer (p2p) payment system, Bytecoin has many of the same use-cases as <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. Created in 2012, Bytecoin is one of the earliest developed cryptocurrencies. Until recently, the team behind the coin has kept themselves anonymous. Now, though, they\u2019ve opened up multiple communication channels, removed some layers of anonymity, and even built several local communities.\r\n\r\nBitcoin\u2019s PoW consensus algorithm heavily favors miners that use powerful GPU and ASIC machines over those trying to mine with CPUs. This causes the network to centralize around the more powerful miners. Bytecoin attempts to close the gap between these two classes of miners with a new algorithm, Egalitarian Proof-of-Work (PoW). Egalitarian PoW uses a version of skrypt, a proof of work function similar to the hashcash function used by Bitcoin. The difference between the two is that scrypt isn\u2019t memory bound. Because of this, you can produce highly efficient CPU mining rigs. GPUs will always be about 10 times more effective, though.\r\n\r\nThe Bytecoin project has been fairly fractured since its inception in July 2012. Previously, several isolated teams worked on the project without seemingly communicating with each other. This led to numerous forks and versions of the coin. In July 2017, the team decided to change their image and provide more transparency to the community. The team still remains pseudo-anonymous by only providing names and headshots on their webpage \u2013 no bios or social media links. But, it\u2019s tough to expect more from a project that\u2019s focused on privacy. The team has been busy at work refactoring their code and are planning to release a new public API on February 6, 2018. They\u2019ll also be entering the Asian, Middle East, and African markets throughout 2018.",
+  "coingeckoId": "bytecoin",
+  "links": {
+    "twitter": "https://twitter.com/Bytecoin_BCN",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=512747",
+    "telegram": "https://t.me/bytecoin_chat",
+    "reddit": "https://www.reddit.com/r/BytecoinBCN/",
+    "github": "https://github.com/bcndev"
+  }
+}

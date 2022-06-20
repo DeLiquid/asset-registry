@@ -1,0 +1,14 @@
+{
+  "key": "certik",
+  "name": "Shentu",
+  "symbol": "ctk",
+  "logoURI": "https://assets.coingecko.com/coins/images/12944/large/shentu_2.jpg?1653886628",
+  "website": "https://www.shentu.technology/",
+  "description": "A Cross-Chain Protocol with Security Scoring and Decentralized Reimbursements for Building Secure dApps.",
+  "coingeckoId": "certik",
+  "links": {
+    "twitter": "https://twitter.com/shentuchain",
+    "telegram": "https://t.me/certikfoundation",
+    "github": "https://github.com/ShentuChain"
+  }
+}

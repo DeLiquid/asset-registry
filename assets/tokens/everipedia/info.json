@@ -1,0 +1,16 @@
+{
+  "key": "everipedia",
+  "name": "Everipedia",
+  "symbol": "iq",
+  "logoURI": "https://assets.coingecko.com/coins/images/5010/large/YAIS3fUh.png?1626267646",
+  "website": "https://everipedia.org/",
+  "description": "Everipedia is the next generation encyclopedia rebuilt for the modern age. With over 6 million articles and counting, it's already the world's largest English encyclopedia by content. Everipedia is free from ads and free to use for everyone under creative commons.",
+  "coingeckoId": "everipedia",
+  "links": {
+    "twitter": "https://twitter.com/everipedia",
+    "facebook": "https://www.facebook.com/everipedia",
+    "telegram": "https://t.me/everipedia",
+    "reddit": "https://www.reddit.com/r/Everipedia/",
+    "github": "https://github.com/EveripediaNetwork/Everipedia"
+  }
+}

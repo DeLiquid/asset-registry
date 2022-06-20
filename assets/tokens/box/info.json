@@ -1,0 +1,14 @@
+{
+  "key": "box",
+  "name": "BOX",
+  "symbol": "box",
+  "logoURI": "https://assets.coingecko.com/coins/images/25565/large/box.png?1652521774",
+  "website": "https://icbox.io/en/index.html",
+  "description": "The \"BOX\" token allows users to write and reward their discomfort experiences in the \"inconvenience\" app. Users can switch to coffee or other products in stores in the \"inconvenience\" app with \"BOX\" coins.",
+  "coingeckoId": "box",
+  "links": {
+    "twitter": "https://twitter.com/BOXOfficial3",
+    "facebook": "https://www.facebook.com/inconveniencebox",
+    "telegram": "https://t.me/boxofficial2"
+  }
+}

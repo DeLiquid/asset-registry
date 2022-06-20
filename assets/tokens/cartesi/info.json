@@ -1,0 +1,17 @@
+{
+  "key": "cartesi",
+  "name": "Cartesi",
+  "symbol": "ctsi",
+  "logoURI": "https://assets.coingecko.com/coins/images/11038/large/cartesi.png?1592288021",
+  "website": "https://cartesi.io/",
+  "description": "What is Cartesi?\r\nEase of Adoption: Developers can work in a familiar environment with no artificial limitations and with access to all their favorite tools;\r\n\r\nPortability: Cartesi aims to make DApps portable across the most important public blockchains that support smart contracts;\r\n\r\nPrivacy: DApp states can be kept private among application participants.\r\n\r\nCTSI Overview and Use Cases\r\n\r\nCTSI is a utility token that works as a crypto-fuel for Noether. \r\nStakers receive CTSI rewards by staking their tokens and participating in the network. \r\nNode runners are selected randomly according to a PoS system and gain the right to create the next block. \r\nUsers of the network pay CTSI fees to insert data on the side-chain. \r\nCTSI will also be used for DApps to outsource the execution of verifiable and enforceable computation to entities running Descartes nodes. \r\n",
+  "coingeckoId": "cartesi",
+  "links": {
+    "twitter": "https://twitter.com/cartesiproject",
+    "facebook": "https://www.facebook.com/cartesiproject",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5211981",
+    "telegram": "https://t.me/cartesiproject",
+    "reddit": "https://www.reddit.com/r/cartesi/",
+    "github": "https://github.com/cartesi"
+  }
+}

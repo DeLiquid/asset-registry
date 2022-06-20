@@ -1,0 +1,10 @@
+{
+  "key": "beta-token",
+  "name": "Beta",
+  "symbol": "beta",
+  "logoURI": "https://assets.coingecko.com/coins/images/25539/large/Beta-47.png?1652265414",
+  "website": "https://betaprotocol.io",
+  "description": "BETA tokens correspond to the X-Axis value of LED pixels present on space art displays and livestreamed from a satellite to be placed in LEO in OCTOBER 2022 as part of the Geometric-1 Mission to Earth Orbit and also as part of the DOGE-1 Mission to the Moon. These pixels hue (KAPPA), luminosity (GAMMA), X-Axis (BETA) and Y-Axis (RHO) locations are acquired in exchange for the aforementioned tokens, as well as Time (XI).",
+  "coingeckoId": "beta-token",
+  "links": {}
+}

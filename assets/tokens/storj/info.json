@@ -1,0 +1,19 @@
+{
+  "key": "storj",
+  "name": "Storj",
+  "symbol": "storj",
+  "logoURI": "https://assets.coingecko.com/coins/images/949/large/storj.png?1547034811",
+  "website": "https://storj.io/",
+  "description": "Storj is an open-source platform that leverages the blockchain to provide end-to-end encrypted cloud storage services. Instead of maintaining its own data centres, Storj platform relies on a peer-to-peer network of individuals or entities sharing their storage spaces. The Storj project is owned and developed by Storj Labs Inc. Storj intends to facilitate a faster, cheaper, and secure file storage solution than traditional cloud storage platforms. To achieve its goal, Storj deploys several innovative technologies and methods to make sure that users are able to store and retrieve data in a fastest possible way while not compromising the security and integrity of data.\r\n\r\nStorj Labs Inc was founded in 2014 by Shawn Wilkinson with co-founders John Quinn. The company is headquartered at Atlanta, Georgia in the United States. Shawn was previously appointed as CEO, but in March 2018, he stepped down from the post to serve as CSO of the company.\r\n\r\nShawn was replaced by Ben Golub (Ex-CEO of Docker) who currently serves as the Executive Chairman & Interim CEO. Co-founder John Quinn has been appointed as the Chief Revenue Officer. The company launched its initial coin offering (ICO) of the new tokens on May 19, 2017. At the end of the token sale on May 25, 2017, the company had raised about $30 million. Storj Labs allowed SJCX holders to exchange their tokens with the new ones in a 1:1 ratio through a token conversion campaign which lasted till October 2017.\r\n\r\nStorj Labs pre-mined its entire supply of tokens at the inception; no new tokens can be created via STORJ mining. Nevertheless, users can obtain STORJ tokens by becoming a farmer in the network. Another obvious way to acquire STORJ is through trading on a cryptocurrency exchange. Up until now, cloud storage companies have dictated the terms of service to their users, and as a result, there has been little to no competition within this digital sector. However, with the introduction of Storj, all of that may change.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/storj/\">CoinBureau</a> for the full review on OmiseGo.",
+  "coingeckoId": "storj",
+  "links": {
+    "github": "https://github.com/storj/storj",
+    "twitter": "https://twitter.com/storj",
+    "facebook": "https://www.facebook.com/storjproject",
+    "linkedin": "https://www.linkedin.com/company-beta/3839986/",
+    "telegram": "https://t.me/storjproject",
+    "whitepaper": "https://storj.io/storj.pdf",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=555159",
+    "reddit": "https://www.reddit.com/r/storj/"
+  }
+}

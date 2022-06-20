@@ -1,0 +1,17 @@
+{
+  "key": "zencash",
+  "name": "Horizen",
+  "symbol": "zen",
+  "logoURI": "https://assets.coingecko.com/coins/images/691/large/horizen.png?1555052241",
+  "website": "https://horizen.global",
+  "description": "Horizen is a zero-knowledge-enabled network of blockchains powered by the largest node infrastructure in the industry. Blockchain interoperability is enabled by the Zendoo protocol, which uses SNARK-verification and allows for complete flexibility in sidechain type, consensus, speed, and privacy. Cryptographic verification of networked chains offers massive scale, and the network currently supports up to 10,000 sidechains with a throughput limit of 10,000,000 TPS.\r\n\r\nZendoo makes Horizen a permissionless network of blockchains. Developers can deploy their blockchains within the ecosystem using a variety of SDKs. The first set of SDKs, Blaze and Latus, deploy blockchains based on IOHK's provably secure Ouroboros proof-of-stake protocol. Blaze offers high-speed chains that declare their own certifiers and can run up to 1,000 TPS, while Latus uses a recursive SNARK composition for full decentralization. The next set of SDKs will include EVM integration for Ethereum smart contract compatibility.\r\n\r\nHorizen's native cryptocurrency, ZEN, is a mineable PoW coin currently trading on major exchanges, including Coinbase, Bittrex, and Binance. ZEN can be staked to participate in Horizen's nearly 50,000 full node network. ",
+  "coingeckoId": "zencash",
+  "links": {
+    "twitter": "https://twitter.com/horizenglobal",
+    "facebook": "https://www.facebook.com/zencash",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2047435",
+    "telegram": "https://t.me/horizencommunity",
+    "reddit": "https://www.reddit.com/r/Horizen",
+    "github": "https://github.com/HorizenOfficial"
+  }
+}

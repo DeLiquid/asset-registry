@@ -1,0 +1,16 @@
+{
+  "key": "fio-protocol",
+  "name": "FIO Protocol",
+  "symbol": "fio",
+  "logoURI": "https://assets.coingecko.com/coins/images/11821/large/fio200x200.png?1594681349",
+  "website": "https://fioprotocol.io/",
+  "description": "FIO Protocol is a decentralized usability layer for the entire blockchain ecosystem that is integrated into existing crypto products such as wallets, exchanges and crypto payment processors.",
+  "coingeckoId": "fio-protocol",
+  "links": {
+    "twitter": "https://twitter.com/joinFIO",
+    "facebook": "https://www.facebook.com/officialFIO",
+    "telegram": "https://t.me/joinFIO",
+    "reddit": "https://www.reddit.com/r/officialFIO",
+    "github": "https://github.com/fioprotocol"
+  }
+}

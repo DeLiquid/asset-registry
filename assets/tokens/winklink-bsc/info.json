@@ -1,0 +1,14 @@
+{
+  "key": "winklink-bsc",
+  "name": "WINkLink BSC",
+  "symbol": "win",
+  "logoURI": "https://assets.coingecko.com/coins/images/15472/large/hDLzwfqu_400x400.jpg?1620922090",
+  "website": "https://winklink.org/#/",
+  "description": "",
+  "coingeckoId": "winklink-bsc",
+  "links": {
+    "twitter": "https://twitter.com/WinkLink_Oracle",
+    "telegram": "https://t.me/WINkLink_Oracle_official",
+    "reddit": "https://www.reddit.com"
+  }
+}

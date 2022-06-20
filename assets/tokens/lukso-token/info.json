@@ -1,0 +1,16 @@
+{
+  "key": "lukso-token",
+  "name": "LUKSO",
+  "symbol": "lyxe",
+  "logoURI": "https://assets.coingecko.com/coins/images/11423/large/1_QAHTciwVhD7SqVmfRW70Pw.png?1590110612",
+  "website": "https://www.lukso.network/",
+  "description": "LUKSO is a blockchain platform specifically created for the lifestyle industry, providing a decentralised innovation and trust infrastructure for fashion brands, start-ups and customers. It offers the foundation for new forms automated economic interactions and sustainable ownership management.",
+  "coingeckoId": "lukso-token",
+  "links": {
+    "twitter": "https://twitter.com/lukso_io",
+    "facebook": "https://www.facebook.com/lukso.io",
+    "telegram": "https://t.me/LUKSO",
+    "reddit": "https://www.reddit.com/r/lukso/",
+    "github": "https://github.com/lukso-network"
+  }
+}

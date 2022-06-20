@@ -1,0 +1,13 @@
+{
+  "key": "shadow-token",
+  "name": "Shadow",
+  "symbol": "shdw",
+  "logoURI": "https://assets.coingecko.com/coins/images/2488/large/shadow-token.png?1547036607",
+  "website": "http://shadowtoken.io/",
+  "description": "Each token represents a share of ownership of the game Shadow Era, the digital assets and physical card inventory. There are 10,000,000 tokens in total. Besides being publicly tradable, players get many benefits and rewards from being token holders.\r\nHowever, digital tokens are not shares in a company nor are they financial securities. Shadow Era was the first full-scale trading card game on mobile. It features cross-platform multiplayer games between iOS, Android, PC, and Mac. With an active community, highly balanced and truly free to play, Shadow Era has been proclaimed a \"shining example of what freemium games should be.\"",
+  "coingeckoId": "shadow-token",
+  "links": {
+    "facebook": "https://www.facebook.com/ShadowToken",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2025929"
+  }
+}

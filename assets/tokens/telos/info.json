@@ -1,0 +1,16 @@
+{
+  "key": "telos",
+  "name": "Telos",
+  "symbol": "tlos",
+  "logoURI": "https://assets.coingecko.com/coins/images/7588/large/TLOS_200.png?1629277084",
+  "website": "https://telos.net",
+  "description": "Telos is a networked ecosystem powering the future economy having established itself as the second most used network by transaction volume for over 2 years according to Blocktivity, an independent blockchain analyst.\r\n\r\nTelos has been driving innovation since 2018 and is home to over 100 distinct applications (dApps) attracting well-known companies including Taikai, Qudo, Qubicles, Appics, Wordproof, Seeds, Zeptagram, and NewLife.  These applications enjoy the robust on-chain services that Telos provides for voting, sentiment, decentralized file storage, location and much more.\r\n\r\nTLOS is the name of the token that reflects ownership in the Telos network. A TLOS token is used on-chain for staking CPU, RAM, and REX lending resources that power the utility of this powerful network.  Visit us at Telos.net.",
+  "coingeckoId": "telos",
+  "links": {
+    "twitter": "https://twitter.com/HelloTelos",
+    "facebook": "https://www.facebook.com/TelosFoundation.io",
+    "telegram": "https://t.me/HelloTelos",
+    "reddit": "https://www.reddit.com/r/telos/",
+    "github": "https://github.com/telosnetwork"
+  }
+}

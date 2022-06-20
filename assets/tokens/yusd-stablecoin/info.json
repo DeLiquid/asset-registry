@@ -1,0 +1,13 @@
+{
+  "key": "yusd-stablecoin",
+  "name": "YUSD Stablecoin",
+  "symbol": "yusd",
+  "logoURI": "https://assets.coingecko.com/coins/images/25024/large/1_oJ0F2Zf6CuAhLP0zOboo6w.png?1649837252",
+  "website": "https://yeti.finance/",
+  "description": "",
+  "coingeckoId": "yusd-stablecoin",
+  "links": {
+    "twitter": "https://twitter.com/YetiFinance",
+    "telegram": "https://t.me/yetifinance"
+  }
+}

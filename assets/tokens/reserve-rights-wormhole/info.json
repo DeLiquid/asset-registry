@@ -1,0 +1,12 @@
+{
+  "key": "reserve-rights-wormhole",
+  "name": "Reserve Rights (Wormhole)",
+  "symbol": "rsr",
+  "logoURI": "https://assets.coingecko.com/coins/images/22985/large/RSR_wh_small.png?1644224793",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "reserve-rights-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

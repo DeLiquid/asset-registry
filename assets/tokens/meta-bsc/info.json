@@ -1,0 +1,14 @@
+{
+  "key": "meta-bsc",
+  "name": "Meta BSC",
+  "symbol": "meta",
+  "logoURI": "https://assets.coingecko.com/coins/images/22243/large/RXfj1lF_d.png?1641434287",
+  "website": "https://metabsc.app/",
+  "description": "META BSC is a meme & rewards token; aimed at positioning itself for a presence in the upcoming Metaverse as it continues to evolve toward mainstream adoption.  META prides itself in being a truly 100% community owned project (with no formal dev or marketing wallets); instead focused on distributing high-yield BNB-pegged SHIBA INU rewards to all holders of the token; 2% per transaction funding the LP of the project; the rest (10% on buys, 15% on sells) going back to holders automatically.\r\n\r\nOfficially Certik audited and demonstrably secure, META aims to stand out against a vast array of short-lived, fly-by-night projects, and continues to harness its community effect to create an enjoyable platform and grass-roots, meme fueled crypto token.\r\n\r\nThe community has continued to innovate; first by launching their Official Dapp; enabling users to view and claim their pending SHIB rewards at their leisure, as well as upcoming games presently in development.  META BSC is committed to iteratively releasing new and enjoyable features for its community members; with the broader vision of the development of a system that can integrate directly in to VR applications and the Metaverse.",
+  "coingeckoId": "meta-bsc",
+  "links": {
+    "twitter": "https://twitter.com/META_Shiba",
+    "telegram": "https://t.me/meta_token_bsc",
+    "reddit": "https://www.reddit.com/r/METAbsc/"
+  }
+}

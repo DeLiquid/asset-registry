@@ -1,0 +1,15 @@
+{
+  "key": "axion",
+  "name": "Axion",
+  "symbol": "axn",
+  "logoURI": "https://assets.coingecko.com/coins/images/13110/large/AXION.png?1634887383",
+  "website": "https://axion.network/",
+  "description": "Up to 47% APR. Daily liquid bitcoin dividends. Token launchpad. The future of staking is here.\r\n\r\n",
+  "coingeckoId": "axion",
+  "links": {
+    "twitter": "https://twitter.com/axion_network",
+    "telegram": "https://t.me/axionofficial",
+    "reddit": "https://www.reddit.com/r/AXION",
+    "github": "https://github.com/Axion-Network/axion-contracts"
+  }
+}

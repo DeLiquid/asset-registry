@@ -1,0 +1,14 @@
+{
+  "key": "venus",
+  "name": "Venus",
+  "symbol": "xvs",
+  "logoURI": "https://assets.coingecko.com/coins/images/12677/large/download.jpg?1648049688",
+  "website": "https://venus.io/",
+  "description": "",
+  "coingeckoId": "venus",
+  "links": {
+    "twitter": "https://twitter.com/VenusProtocol",
+    "telegram": "https://t.me/VenusProtocol",
+    "github": "https://github.com/VenusProtocol/Venus-Protocol"
+  }
+}

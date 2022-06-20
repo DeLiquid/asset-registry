@@ -1,0 +1,14 @@
+{
+  "key": "alpha-finance",
+  "name": "Alpha Venture DAO",
+  "symbol": "alpha",
+  "logoURI": "https://assets.coingecko.com/coins/images/12738/large/AlphaToken_256x256.png?1617160876",
+  "website": "https://alphaventuredao.io/",
+  "description": "Alpha Finance Lab is focused on researching and building in the Decentralized Finance (DeFi) space. Alpha Lending, the first product built by Alpha Finance Lab, is a decentralized lending protocol with algorithmically adjusted interest rates built on Binance Smart Chain.\r\n\r\n\r\n",
+  "coingeckoId": "alpha-finance",
+  "links": {
+    "twitter": "https://twitter.com/alphaventuredao",
+    "telegram": "https://t.me/AlphaFinanceLab",
+    "github": "https://github.com/AlphaFinanceLab"
+  }
+}

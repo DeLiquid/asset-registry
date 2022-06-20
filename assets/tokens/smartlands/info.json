@@ -1,0 +1,19 @@
+{
+  "key": "smartlands",
+  "name": "Definder Network",
+  "symbol": "dnt",
+  "logoURI": "https://assets.coingecko.com/coins/images/2073/large/2aSL-Tvl_400x400.jpeg?1654659741",
+  "website": "https://definder.global/",
+  "description": "",
+  "coingeckoId": "smartlands",
+  "links": {
+    "github": "https://github.com/Smartlands-Platform/SLT",
+    "medium": "https://medium.com/@smartlands",
+    "twitter": "https://twitter.com/Definder_global",
+    "facebook": "https://www.facebook.com/SmartlandsPlatform/",
+    "telegram": "https://t.me/smartlandschat",
+    "whitepaper": "https://smartlands.io/documents/White_paper_2208.pdf",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2157763",
+    "reddit": "https://www.reddit.com"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "vethor-token",
+  "name": "VeThor",
+  "symbol": "vtho",
+  "logoURI": "https://assets.coingecko.com/coins/images/5230/large/vethor-token.png?1548760043",
+  "website": "https://www.vechain.org/",
+  "description": "VeChain is also a dual token system consisting of <a href=\"https://www.coingecko.com/en/coins/vechain\">VeChain Token (VET)</a> and VeThor Token (THOR). Network users are rewarded with the latter when they hold the former, which is also the case with <a href=\"https://www.coingecko.com/en/coins/neo\">NEO</a> & <a href=\"https://www.coingecko.com/en/coins/gas\">GAS</a>. The VeChain Token can be used to deploy applications on the platform where as VeThor can be used to pay for applications and other transactions over the network. VeChain claims that this economic model is better suited for enterprises than the one in other blockchains, such as <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> and <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>, where higher usage drives the cost of the utility token and subsequently the cost of deploying and operations in the protocol.\r\n\r\nIn an official blog post earlier this year, the foundation announced it\u2019s \u201cgrand aspirations to make financial services sector one of the main focuses on our development plan\u201d. They also announced their partnership with a property mortgage loan provider Fanghuwang.com, a subsidiary of Beijing Baisheng Technology Co., Ltd. They also reported partnerships with BMW, Groupe Renault, and DNV GL.\r\nUntil now, VeChain has existed in the form of an ERC-20 token on the Ethereum blockchain. In an announcement detailing the roadmap moving forward, the foundation stated that they would engage in negotiations with exchanges to perform the token swap to become an independent network. The roadmap also detailed plans to launch a mobile wallet and ledger integration.",
+  "coingeckoId": "vethor-token",
+  "links": {
+    "twitter": "https://twitter.com/vechainofficial",
+    "telegram": "https://t.me/vechain_official_english",
+    "reddit": "https://www.reddit.com/r/Vechain/",
+    "github": "https://github.com/vechain/thor"
+  }
+}

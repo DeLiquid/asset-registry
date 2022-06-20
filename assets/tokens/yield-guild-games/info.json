@@ -1,0 +1,13 @@
+{
+  "key": "yield-guild-games",
+  "name": "Yield Guild Games",
+  "symbol": "ygg",
+  "logoURI": "https://assets.coingecko.com/coins/images/17358/large/le1nzlO6_400x400.jpg?1632465691",
+  "website": "https://yieldguild.io/",
+  "description": "Yield Guild Games (YGG) is a decentralized autonomous organization (DAO) for investing in non fungible tokens (NFTs) used in virtual worlds and blockchain-based games. The organisation\u2019s mission is to create the biggest virtual world economy, optimizing its community-owned assets for maximum utility and sharing its profits with its token holders.",
+  "coingeckoId": "yield-guild-games",
+  "links": {
+    "twitter": "https://twitter.com/YieldGuild",
+    "telegram": "https://t.me/yieldguildgames"
+  }
+}

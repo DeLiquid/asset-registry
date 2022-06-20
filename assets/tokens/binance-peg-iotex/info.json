@@ -1,0 +1,15 @@
+{
+  "key": "binance-peg-iotex",
+  "name": "Binance-Peg IoTeX",
+  "symbol": "iotx",
+  "logoURI": "https://assets.coingecko.com/coins/images/15978/large/iotex-logo.png?1622527411",
+  "website": "https://iotex.io/",
+  "description": "Tokens that are wrapped and pegged by Binance on a 1:1 ratio to the corresponding native token. Also supports BEP20 token deposits and withdrawals at Binance.com",
+  "coingeckoId": "binance-peg-iotex",
+  "links": {
+    "twitter": "https://twitter.com/iotex_io",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=3099670",
+    "telegram": "https://t.me/IoTeXGroup",
+    "reddit": "https://www.reddit.com"
+  }
+}

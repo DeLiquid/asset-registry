@@ -1,0 +1,16 @@
+{
+  "key": "nft-protocol",
+  "name": "NFT Protocol",
+  "symbol": "nft",
+  "logoURI": "https://assets.coingecko.com/coins/images/12174/large/nftprotocol_32.png?1597818115",
+  "website": "http://www.nft.org",
+  "description": "The NFT Protocol Token (ticker: $NFT) will be a utility token enabled on the Blockparty platform. $NFT is designed as a decentralized protocol that intends to establish liquidity for non-fungible digital assets (\u201cNFT\u2019s\u201d).  Staking contracts should enable NFT sellers to offer their assets for deferred exchange. During the deferral period, miners could establish NFT index contract prices based on the NFT\u2019s synthetic demand and supply, enabling price discovery prior to transaction with the final buyers. Thus, the protocol is designed to enable trustless, transparent, and frictionless pricing and exchange. NFT is an upgrade of the already existing Blockparty BOXX token.",
+  "coingeckoId": "nft-protocol",
+  "links": {
+    "twitter": "https://twitter.com/nft_protocol",
+    "facebook": "https://www.facebook.com/goblockparty",
+    "telegram": "https://t.me/NFTProtocol",
+    "reddit": "https://www.reddit.com/r/GoBlockParty/",
+    "github": "http://github.com/nftprotocol"
+  }
+}

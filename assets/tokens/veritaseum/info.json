@@ -1,0 +1,16 @@
+{
+  "key": "veritaseum",
+  "name": "Veritaseum",
+  "symbol": "veri",
+  "logoURI": "https://assets.coingecko.com/coins/images/695/large/veritaseum.png?1547034460",
+  "website": "http://veritas.veritaseum.com/",
+  "description": "Veritaseum builds blockchain-based, peer-to-peer capital markets as software on a global scale. We enable the  seamless connection of parties and assets without the need for a third or authoritarian interest.\r\n\r\nAny entity with internet access can participate in these capital markets on a peer-to-peer and one-on-one basis.",
+  "coingeckoId": "veritaseum",
+  "links": {
+    "twitter": "https://twitter.com/Veritaseuminc",
+    "facebook": "https://www.facebook.com/Veritaseum-Inc-UltraCoin-253497438186230",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1887061",
+    "reddit": "https://www.reddit.com/r/Veritasium/",
+    "github": "https://github.com/veritaseum/Veritaseum"
+  }
+}

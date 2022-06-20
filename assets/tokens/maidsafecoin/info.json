@@ -1,0 +1,17 @@
+{
+  "key": "maidsafecoin",
+  "name": "MaidSafeCoin",
+  "symbol": "emaid",
+  "logoURI": "https://assets.coingecko.com/coins/images/80/large/maidsafecoin.png?1547033750",
+  "website": "http://maidsafe.net/",
+  "description": "MaidSafeCoin serves as a token for Safecoin, a decentralized currency for a decentralized network. Safecoin will serve as the currency for the SAFE network, a network made up of the extra hard disk space, processing power, and data connectivity of its users. Think of it as the sharing economy but for your digital resources. MaidSafe is the company developing the SAFE network to save the world from the perils of centralized data storage. In the current paradigm, the best case is corporations use your data to better target you to their advertisers. The worst case is they leak your private data to the public, as Yahoo, Equifax, Target, and many other companies have already done.\r\n\r\nThe SAFE network ultimately wants to \u201ccreate a secure, autonomous, data-centric, peer-to-peer network as an alternative to the current server-centric model.\u201d There will be two main users of the network: clients and farmers. The client accesses the various features of the network, such as browsing, storing data, or transferring money. The farmers store and look after your data until it\u2019s needed, at which point they might receive a reward for their efforts. The SAFE network is an \u201cencrypted layer that sits on top of the current internet, allowing for autonomous data storage and networking by replacing three\u201d of the OSI networking layers.\r\n\r\nMaidSafe, a Scotland based company, started developing the SAFE network in 2006. The presale on April 22nd, 2014 sold 10% of all MaidSafeCoins. You could buy 17,000 MaidSafeCoins for 1 BTC at that time. The company allowed 30 days to try and reach their 8 million dollar fundraising goal, but they reached the target in just 5 hours.\r\n\r\nThe team is currently in stage Alpha 2 on their roadmap. the future of this crypto, quite like other presently available cryptos such as <a href=\"https://www.coingecko.com/en/coins/bitshares\">BitShares</a>, <a href=\"https://www.coingecko.com/en/coins/cardano\">Cardano</a>, <a href=\"https://www.coingecko.com/en/coins/dent\">Dent</a>, looks bright because the concept of having a decentralized internet is a fresh one. As more and more networks\u2014whether data networks or social media\u2014make the shift to decentralization, MaidSafeCoin coins\u2019 value will grow. Just keep an eye on MAID because it is all set to seriously disrupt the internet landscape for the better.\r\n\r\nThe future of this crypto, quite like other presently available cryptos such as BitShares, Cardano, Dent,  looks bright because the concept of having a decentralized internet is a fresh one. As more and more networks\u2014whether data networks or social media\u2014make the shift to decentralization, MaidSafeCoin coins\u2019 value will grow. Just keep an eye on MAID because it is all set to seriously disrupt the internet landscape for the better.\"",
+  "coingeckoId": "maidsafecoin",
+  "links": {
+    "twitter": "https://twitter.com/maidsafe",
+    "facebook": "https://www.facebook.com/GetMaidSafe",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=579797",
+    "telegram": "https://t.me/safenetwork",
+    "reddit": "https://www.reddit.com/r/safenetwork",
+    "github": "https://github.com/maidsafe"
+  }
+}

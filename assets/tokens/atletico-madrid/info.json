@@ -1,0 +1,13 @@
+{
+  "key": "atletico-madrid",
+  "name": "Atletico Madrid Fan Token",
+  "symbol": "atm",
+  "logoURI": "https://assets.coingecko.com/coins/images/11689/large/Atletico-10.png?1604941960",
+  "website": "https://www.atleticodemadrid.com/",
+  "description": "",
+  "coingeckoId": "atletico-madrid",
+  "links": {
+    "twitter": "https://twitter.com/Atleti",
+    "facebook": "https://www.facebook.com/AtleticodeMadrid"
+  }
+}

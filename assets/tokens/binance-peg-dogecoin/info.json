@@ -1,0 +1,15 @@
+{
+  "key": "binance-peg-dogecoin",
+  "name": "Binance-Peg Dogecoin",
+  "symbol": "doge",
+  "logoURI": "https://assets.coingecko.com/coins/images/15768/large/dogecoin.png?1621833687",
+  "website": "http://dogecoin.com/",
+  "description": "Tokens that are wrapped and pegged by Binance on a 1:1 ratio to the corresponding native token. Also supports BEP20 token deposits and withdrawals at Binance.com",
+  "coingeckoId": "binance-peg-dogecoin",
+  "links": {
+    "twitter": "https://twitter.com/dogecoin",
+    "facebook": "https://www.facebook.com/738700972824847",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=361813",
+    "reddit": "https://www.reddit.com"
+  }
+}

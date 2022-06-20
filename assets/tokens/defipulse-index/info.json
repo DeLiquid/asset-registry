@@ -1,0 +1,13 @@
+{
+  "key": "defipulse-index",
+  "name": "DeFi Pulse Index",
+  "symbol": "dpi",
+  "logoURI": "https://assets.coingecko.com/coins/images/12465/large/defi_pulse_index_set.png?1600051053",
+  "website": "https://indexcoop.com/defi-pulse-index-dpi",
+  "description": "",
+  "coingeckoId": "defipulse-index",
+  "links": {
+    "twitter": "https://twitter.com/indexcoop",
+    "github": "https://github.com/SetProtocol/set-v2"
+  }
+}

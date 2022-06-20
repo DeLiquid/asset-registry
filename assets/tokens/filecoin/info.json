@@ -1,0 +1,13 @@
+{
+  "key": "filecoin",
+  "name": "Filecoin",
+  "symbol": "fil",
+  "logoURI": "https://assets.coingecko.com/coins/images/12817/large/filecoin.png?1602753933",
+  "website": "https://filecoin.io/",
+  "description": "The Filecoin network achieves staggering economies of scale by allowing anyone worldwide to participate as storage providers. It also makes storage resemble a commodity or utility by decoupling hard-drive space from additional services. On this robust global market the price of storage will be driven by supply and demand, not corporate pricing departments, and miners will compete on factors like reputation for reliability as well as price.",
+  "coingeckoId": "filecoin",
+  "links": {
+    "twitter": "https://twitter.com/Filecoin",
+    "github": "https://github.com/filecoin-project/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "neutrino-system-base-token",
+  "name": "Neutrino System Base",
+  "symbol": "nsbt",
+  "logoURI": "https://assets.coingecko.com/coins/images/13268/large/83005f7ab1.png?1606877707",
+  "website": "https://neutrino.at/",
+  "description": "",
+  "coingeckoId": "neutrino-system-base-token",
+  "links": {
+    "twitter": "https://twitter.com/neutrino_proto",
+    "facebook": "https://www.facebook.com/NeutrinoProtocol",
+    "telegram": "https://t.me/neutrino_protocol_news"
+  }
+}

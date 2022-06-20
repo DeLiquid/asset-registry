@@ -1,0 +1,13 @@
+{
+  "key": "wrapped-ust",
+  "name": "Wrapped USTC",
+  "symbol": "ustc",
+  "logoURI": "https://assets.coingecko.com/coins/images/15462/large/ust.png?1620910058",
+  "website": "https://terra.money",
+  "description": "USD pegged Terra Stablecoin",
+  "coingeckoId": "wrapped-ust",
+  "links": {
+    "twitter": "https://twitter.com/terra_money",
+    "github": "https://github.com/terra-project"
+  }
+}

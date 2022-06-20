@@ -1,0 +1,14 @@
+{
+  "key": "btc-standard-hashrate-token",
+  "name": "BTC Standard Hashrate Token",
+  "symbol": "btcst",
+  "logoURI": "https://assets.coingecko.com/coins/images/14449/large/4a3IskOf_400x400.png?1616137396",
+  "website": "https://www.1-b.tc/",
+  "description": "Bitcoin Standard Hashrate Token (or BTCST token)\u00a0aims to widen\u00a0up the participation of Bitcoin mining to the open market. Each BTCST represents 0.1 TH/s of Bitcoin mining power and by staking it, holders of the token are entitled to receive daily distributions of Bitcoin mined.",
+  "coingeckoId": "btc-standard-hashrate-token",
+  "links": {
+    "twitter": "https://twitter.com/btcst2020",
+    "telegram": "https://t.me/BTCST_Community_EN",
+    "github": "https://github.com/Standard-Hashrate-Group/SmartContracts"
+  }
+}

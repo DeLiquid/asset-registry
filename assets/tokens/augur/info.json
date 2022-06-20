@@ -1,0 +1,16 @@
+{
+  "key": "augur",
+  "name": "Augur",
+  "symbol": "rep",
+  "logoURI": "https://assets.coingecko.com/coins/images/309/large/REP.png?1596339859",
+  "website": "http://www.augur.net/",
+  "description": "Augur is a trustless, decentralized platform for prediction markets. Augur is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-based decentralized prediction market that leverages the wisdom of the crowds to create a search engine for the future that runs on its own token, REP. Augur allows users to create their markets for specific questions they may have and to profit from the trading buys while allowing users to buy positive or negative shares regarding the outcome of a future event.\r\n\r\nPrediction markets are markets created to trade the probability of an event happening. The market prices indicate what the crowd thinks the probability of an event happening. Predictive markets have shown to have been effective in accurately forecasting many results however it is still not widely used due to the many regulatory hurdles involved in setting up such a market. Augur aims to set up such a market in a decentralized manner.\r\n\r\nAugur is an Ethereum-based decentralized prediction market that leverages the wisdom of the crowds to create a search engine for the future that runs on its own token, REP. Augur allows users to create their markets for specific questions they may have and to profit from the trading buys while allowing users to buy positive or negative shares regarding the outcome of a future event. Augur REP is the gambling cryptocurrency. It\u2019s the crypto token you can use to bet on sporting events, political  outcomes, economies and just about everything else in the prediction markets. Online gambling is a $52 billion a year industry.\r\n\r\nAt its founding the project included Intrade founder Ron Bernstein, Robin Hanson, and Ethereum founder Vitalik Buterin among its advisers. In April 2015, Augur's first contract was uploaded to the Ethereum network.The first beta version was released in March 2016. In October 2016, all the reputation tokens that were for sale during the 2015 crowdfunding campaign were distributed to their owners on the live Ethereum network and the two largest cryptocurrency exchanges, <a href=\"https://www.coingecko.com/en/exchanges/poloniex\">Poloniex</a> and <a href=\"https://www.coingecko.com/en/exchanges/kraken\">Kraken</a>, added support for these tokens on their trading platforms. The project was delayed until it was launched in July 2018.",
+  "coingeckoId": "augur",
+  "links": {
+    "twitter": "https://twitter.com/AugurProject",
+    "facebook": "https://www.facebook.com/augurproject",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=860629",
+    "reddit": "https://www.reddit.com/r/Augur",
+    "github": "https://github.com/AugurProject"
+  }
+}

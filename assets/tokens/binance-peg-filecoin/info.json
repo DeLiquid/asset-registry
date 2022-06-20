@@ -1,0 +1,12 @@
+{
+  "key": "binance-peg-filecoin",
+  "name": "Binance-Peg Filecoin",
+  "symbol": "fil",
+  "logoURI": "https://assets.coingecko.com/coins/images/15776/large/filecoin.png?1621835224",
+  "website": "https://filecoin.io/",
+  "description": "Tokens that are wrapped and pegged by Binance on a 1:1 ratio to the corresponding native token. Also supports BEP20 token deposits and withdrawals at Binance.com",
+  "coingeckoId": "binance-peg-filecoin",
+  "links": {
+    "twitter": "https://twitter.com/https://twitter.com/Filecoin"
+  }
+}

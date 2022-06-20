@@ -1,0 +1,12 @@
+{
+  "key": "dogelon-mars-wormhole",
+  "name": "Dogelon Mars (Wormhole)",
+  "symbol": "elon",
+  "logoURI": "https://assets.coingecko.com/coins/images/23041/large/ELON_wh_small.png?1644225332",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "dogelon-mars-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "key": "metadium",
+  "name": "Metadium",
+  "symbol": "meta",
+  "logoURI": "https://assets.coingecko.com/coins/images/5247/large/META_Logo_black.png?1548833790",
+  "website": "https://metadium.com",
+  "description": "Metadium is a next-generation blockchain protocol designed to create a decentralized identity ecosystem. Vitalizing the concept of self-sovereign identity enables individuals to exercise total control of their own identity - managing, securing, and utilizing personal data only under the owner\u2019s consent. Metadium aims to present a future in which one can freely and conveniently use one\u2019s own identity data.",
+  "coingeckoId": "metadium",
+  "links": {
+    "twitter": "https://twitter.com/metadiumg",
+    "facebook": "https://www.facebook.com/Metadium",
+    "telegram": "https://t.me/MetadiumOfficial",
+    "reddit": "https://www.reddit.com/r/metadiumprotocol/",
+    "github": "https://github.com/METADIUM/go-metadium"
+  }
+}

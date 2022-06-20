@@ -1,0 +1,14 @@
+{
+  "key": "pancakeswap-token",
+  "name": "PancakeSwap",
+  "symbol": "cake",
+  "logoURI": "https://assets.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1629359065",
+  "website": "https://pancakeswap.finance/",
+  "description": "PancakeSwap is an automated market maker (\u201cAMM\u201d) that allows two tokens to be exchanged on the Binance Smart Chain. It is fast, cheap, and allows anyone to participate.",
+  "coingeckoId": "pancakeswap-token",
+  "links": {
+    "twitter": "https://twitter.com/pancakeswap",
+    "telegram": "https://t.me/PancakeSwap",
+    "github": "https://github.com/pancakeswap"
+  }
+}

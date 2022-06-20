@@ -1,0 +1,17 @@
+{
+  "key": "xdce-crowd-sale",
+  "name": "XDC Network",
+  "symbol": "xdc",
+  "logoURI": "https://assets.coingecko.com/coins/images/2912/large/xdc-icon.png?1633700890",
+  "website": "http://www.xinfin.io/",
+  "description": "XDC Network is an enterprise-ready hybrid Blockchain technology company optimized for international trade and finance. The XDC Network is powered by the native coin called XDC. The XDC protocol is architected to support smart contracts, 2000TPS, 2seconds transaction time, KYC to Masternodes (Validator Nodes). The XDC Chain (XinFin Digital Contract) uses XinFin Delegated Proof of Stake (XDPoS), with the intending to create a \u2018highly-scalable, secure, permission, and commercial grade\u2019 blockchain network. XinFin mainnet token XDC and also creates an opportunity to utilize the XinFin\u2019s real-world use-cases such as TradeFinex.org, helps small and medium businesses or institutions originate their own financial requirements in a digital, fully structured manner so that they can distribute it to the bank or non-bank funders themselves using a common distribution standard. ",
+  "coingeckoId": "xdce-crowd-sale",
+  "links": {
+    "twitter": "https://twitter.com/XinFin_Official",
+    "facebook": "https://www.facebook.com/XinFinHybridBlockchain",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1989818",
+    "telegram": "https://t.me/xinfintalk",
+    "reddit": "https://www.reddit.com/r/xinfin/",
+    "github": "https://github.com/XinFinOrg"
+  }
+}

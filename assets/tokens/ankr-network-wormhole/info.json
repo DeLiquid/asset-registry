@@ -1,0 +1,12 @@
+{
+  "key": "ankr-network-wormhole",
+  "name": "Ankr Network (Wormhole)",
+  "symbol": "ankr",
+  "logoURI": "https://assets.coingecko.com/coins/images/22926/large/ANKR_wh_small.png?1644224180",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "ankr-network-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "shiba-inu",
+  "name": "Shiba Inu",
+  "symbol": "shib",
+  "logoURI": "https://assets.coingecko.com/coins/images/11939/large/shiba.png?1622619446",
+  "website": "https://shibatoken.com/",
+  "description": "Shiba Inu (SHIB) is a meme token which began as a fun currency and has now transformed into a decentralized ecosystem. During the initial\u00a0launch, 50% of the supply was allocated into Vitalik Buterin's ethereum wallet. \r\n\r\nAs a result of that, Vitalik proceeded to donate 10% of his SHIB holdings to a COVID-19 relief effort in India and the remaining 40% is burnt forever. That donation was worth about $1 billion at that time, which makes it one of the largest donation ever in the world.\r\n\r\nWhat is the Shiba Inu community working on right now? The Shiba Inu team launched a decentralized exchange called Shibaswap with 2 new tokens, LEASH and BONE. LEASH is a scarce supply token that is used to offer incentives on Shibaswap. BONE is the governance token for holders to vote on proposals on Doggy DAO.",
+  "coingeckoId": "shiba-inu",
+  "links": {
+    "twitter": "https://twitter.com/Shibtoken",
+    "telegram": "https://t.me/ShibaInu_Dogecoinkiller",
+    "reddit": "https://www.reddit.com/r/SHIBArmy/"
+  }
+}

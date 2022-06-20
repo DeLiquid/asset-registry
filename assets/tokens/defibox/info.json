@@ -1,0 +1,13 @@
+{
+  "key": "defibox",
+  "name": "DefiBox",
+  "symbol": "box",
+  "logoURI": "https://assets.coingecko.com/coins/images/12402/large/66k0hGqJ_200x200.png?1599559330",
+  "website": "https://defibox.io/",
+  "description": "",
+  "coingeckoId": "defibox",
+  "links": {
+    "twitter": "https://twitter.com/Defiboxofficial",
+    "telegram": "https://t.me/Defibox"
+  }
+}

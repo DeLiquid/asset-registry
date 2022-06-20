@@ -1,0 +1,15 @@
+{
+  "key": "mina-protocol",
+  "name": "Mina Protocol",
+  "symbol": "mina",
+  "logoURI": "https://assets.coingecko.com/coins/images/15628/large/JM4_vQ34_400x400.png?1621394004",
+  "website": "https://minaprotocol.com/",
+  "description": "The world's lightest blockchain, powered by participants. Mina is building a privacy-preserving gateway between the real world and crypto \u2014 and the infrastructure for the secure, democratic future we all deserve.",
+  "coingeckoId": "mina-protocol",
+  "links": {
+    "twitter": "https://twitter.com/minaprotocol",
+    "telegram": "https://t.me/minaprotocol",
+    "reddit": "https://www.reddit.com/r/MinaProtocol/",
+    "github": "https://github.com/MinaProtocol/mina"
+  }
+}

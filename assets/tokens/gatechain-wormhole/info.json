@@ -1,0 +1,12 @@
+{
+  "key": "gatechain-wormhole",
+  "name": "GateChain (Wormhole)",
+  "symbol": "gt",
+  "logoURI": "https://assets.coingecko.com/coins/images/23068/large/GT_wh_small.png?1644225810",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "gatechain-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

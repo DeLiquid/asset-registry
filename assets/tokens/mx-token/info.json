@@ -1,0 +1,14 @@
+{
+  "key": "mx-token",
+  "name": "MX",
+  "symbol": "mx",
+  "logoURI": "https://assets.coingecko.com/coins/images/8545/large/TII1YIdv_400x400.png?1559180170",
+  "website": "https://www.mexc.com/",
+  "description": "MX is the proof of rights and interests of MXC trading platform itself. Its total circulation is 3 billion constantly and never be added. MX holders can enjoy a series of rights and interests including asset appreciation, rebates on platform revenue, supervision, voting, etc. MX can be obtained in two ways: mining and buying.",
+  "coingeckoId": "mx-token",
+  "links": {
+    "twitter": "https://twitter.com/MEXC_Global",
+    "facebook": "https://www.facebook.com/mexcglobal",
+    "telegram": "https://t.me/MEXCEnglish"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "ankr",
+  "name": "Ankr",
+  "symbol": "ankr",
+  "logoURI": "https://assets.coingecko.com/coins/images/4324/large/U85xTl2.png?1608111978",
+  "website": "https://stakefi.ankr.com",
+  "description": "Ankr is building the future of decentralized infrastructure and multi-chain solutions, servicing over 50 proof-of-stake chains with an industry leading global node delivery system and developer toolkit. Web3 Infrastructure, simplified.",
+  "coingeckoId": "ankr",
+  "links": {
+    "twitter": "https://twitter.com/ankr",
+    "telegram": "https://t.me/ankrnetwork",
+    "github": "https://github.com/Ankr-network"
+  }
+}

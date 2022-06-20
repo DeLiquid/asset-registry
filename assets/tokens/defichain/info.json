@@ -1,0 +1,16 @@
+{
+  "key": "defichain",
+  "name": "DeFiChain",
+  "symbol": "dfi",
+  "logoURI": "https://assets.coingecko.com/coins/images/11757/large/symbol-defi-blockchain_200.png?1597306538",
+  "website": "https://defichain.com/",
+  "description": "DeFiChain is a decentralized blockchain platform dedicated to enable fast, intelligent, and transparent decentralized financial services. \r\nUnlike most of the other DeFi projects that are built on the Ethereum network, DeFiChain is built on bitcoin (as a software fork), and is anchored to the bitcoin blockchain (via merkle root) every few minutes for maximum security \r\n\r\nDeFiChain is designed to be non-Turing complete to reduce smart contract errors (extremely important for finance transactions) and its op codes only allow run decentralized finance dapps. \r\nThis ensures that only financial transactions are possible, instead of having games and casinos clogging the ecosystem and causing high transaction fees.\r\n\r\nUpcoming features of the DeFiChain include Decentralized:\r\nLending, Wrapping of Tokens, Pricing Oracles, Exchanges, Transferable Debts and Receivables, Non-Collateralized Debt, Asset Tokenization, Distribution of Dividends, and YIELD FARMING!",
+  "coingeckoId": "defichain",
+  "links": {
+    "twitter": "https://twitter.com/defichain",
+    "facebook": "https://www.facebook.com/cakedefi",
+    "telegram": "https://t.me/defiblockchain",
+    "reddit": "https://www.reddit.com/r/defiblockchain",
+    "github": "https://github.com/DeFiCh/ain"
+  }
+}

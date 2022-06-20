@@ -1,0 +1,16 @@
+{
+  "key": "theta-fuel",
+  "name": "Theta Fuel",
+  "symbol": "tfuel",
+  "logoURI": "https://assets.coingecko.com/coins/images/8029/large/1_0YusgngOrriVg4ZYx4wOFQ.png?1553483622",
+  "website": "https://www.thetatoken.org/",
+  "description": "The operational token of the Theta protocol. TFUEL powers on-chain operations like payments to relayers for sharing a video stream, or for deploying or interacting with smart contracts. Relayers earn TFUEL for every video stream they relay to other users on the network. You can think of Theta Fuel as the \"gas\" of the protocol. At Mainnet launch on March 15th, TFUEL will be created as a native token on the Theta blockchain.",
+  "coingeckoId": "theta-fuel",
+  "links": {
+    "twitter": "https://twitter.com/Theta_Network",
+    "facebook": "https://www.facebook.com/ThetaNetwork",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2451089",
+    "reddit": "https://www.reddit.com/r/theta_network/",
+    "github": "https://github.com/thetatoken/theta-protocol-ledger"
+  }
+}

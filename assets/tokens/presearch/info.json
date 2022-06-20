@@ -1,0 +1,19 @@
+{
+  "key": "presearch",
+  "name": "Presearch",
+  "symbol": "pre",
+  "logoURI": "https://assets.coingecko.com/coins/images/1299/large/presearch.png?1548331942",
+  "website": "https://www.presearch.io/",
+  "description": "Presearch is an open, decentralized search engine that rewards community members with Presearch Tokens for their usage, contribution to, and promotion of the platform. In a world where one company controls 77% of all searches, influencing trillions of dollars in spending, shaping perceptions and effectively acting as the primary gatekeeper to the Internet, a new, open and community-driven search engine is a necessity. Presearch has an innovative go-to-market strategy to target the most frequent searchers - web workers - and gain early adoption, on our way to releasing future versions of the open source platform that will utilize a blockchain-based index, curated by the community.\r\n\r\n",
+  "coingeckoId": "presearch",
+  "links": {
+    "slack": "https://presearch.herokuapp.com/",
+    "github": "https://github.com/PresearchOfficial/PRE-Token",
+    "twitter": "https://twitter.com/presearchnews",
+    "facebook": "https://www.facebook.com/presearch.io",
+    "telegram": "https://t.me/presearch",
+    "whitepaper": "https://www.presearch.io/uploads/WhitePaper.pdf",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1967343",
+    "reddit": "https://www.reddit.com/r/Presearch"
+  }
+}

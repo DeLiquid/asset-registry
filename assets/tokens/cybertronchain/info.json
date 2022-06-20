@@ -1,0 +1,14 @@
+{
+  "key": "cybertronchain",
+  "name": "CyberTronchain",
+  "symbol": "ctc",
+  "logoURI": "https://assets.coingecko.com/coins/images/13391/large/zNdoAnW.png?1608095358",
+  "website": "https://cybertronchain.com/",
+  "description": "Cybertronchain is an oracle of connecting payment system with the blockchain network for kiosk and payment terminals. Since not every payment methods are able to communicate with the blockchain network, Cybertronchain is a solution for bridging kiosks and payment terminals with cryptocurrencies such Ethereum, bitcoin, ripple, litecoin, and many more others. Cybertronchain developed the first Kiosk for a coffee shop in South Korea accepting cryptocurrency as a payment method. The aim of Cybertronchain is bringing blockchain technology to existing non-blockchain technologies and making communication between the centralized network and blockchain-based decentralized networks in a more reliable and secure way. Cybertronchain already became a solution for the p2p marketplace in South Korea. ",
+  "coingeckoId": "cybertronchain",
+  "links": {
+    "facebook": "https://www.facebook.com/cybertronchain",
+    "telegram": "https://t.me/cybertronchain",
+    "reddit": "https://www.reddit.com/r/CyberTronChain/"
+  }
+}

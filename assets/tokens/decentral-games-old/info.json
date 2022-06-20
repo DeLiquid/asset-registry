@@ -1,0 +1,14 @@
+{
+  "key": "decentral-games-old",
+  "name": "Decentral Games (Old)",
+  "symbol": "dg",
+  "logoURI": "https://assets.coingecko.com/coins/images/13267/large/%28Old%29_DG.png?1639209538",
+  "website": "https://decentral.games",
+  "description": "Decentral Games is a metaverse-native gaming DAO building play-to-earn poker (ICE Poker). DG Hodlers vote on treasury management, economic policy, and development to grow and strengthen the Decentral Games ecosystem.",
+  "coingeckoId": "decentral-games-old",
+  "links": {
+    "twitter": "https://twitter.com/decentralgames",
+    "telegram": "https://t.me/decentralgames",
+    "github": "https://github.com/decentralgames"
+  }
+}

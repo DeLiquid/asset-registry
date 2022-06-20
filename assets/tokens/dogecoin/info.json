@@ -1,0 +1,16 @@
+{
+  "key": "dogecoin",
+  "name": "Dogecoin",
+  "symbol": "doge",
+  "logoURI": "https://assets.coingecko.com/coins/images/5/large/dogecoin.png?1547792256",
+  "website": "http://dogecoin.com/",
+  "description": "Dogecoin is a cryptocurrency based on the popular \"Doge\" Internet meme and features a Shiba Inu on its logo. Dogecoin is a <a href=\"/coins/litecoin\">Litecoin</a> fork. Introduced as a \"joke currency\" on 6 December 2013, Dogecoin quickly developed its own online community and reached a capitalization of US$60 million in January 2014. Compared with other cryptocurrencies, Dogecoin had a fast initial coin production schedule: 100 billion coins were in circulation by mid-2015, with an additional 5.256 billion coins every year thereafter. As of 30 June 2015, the 100 billionth Dogecoin had been mined. \r\n\r\nDogecoin was created by Billy Markus from Portland, Oregon and  Jackson Palmer from Sydney, Australia. Both wanted to create a fun cryptocurrency that will appeal beyond the core Bitcoin audience. Dogecoin is primarily used as a tipping system on Reddit and Twitter where users tip each other for creating or sharing good content. The community is very active in organising fundraising activities for deserving causes.\r\n\r\nThe developers of Dogecoin haven\u2019t made any major changes to the coin since 2015. This means that Dogecoin could get left behind and is why Shibas are leaving Dogecoin to join more advanced platforms like Ethereum. One of Dogecoin strengths is its relaxed and fun-loving community. However, this is also a weakness because other currencies are way more professional.\r\n\r\nTo purchase Dogecoin, it involves downloading a crypto wallet, setting up a crypto exchange account and then trading away for your desired crypto currency. Once we have set up an account with a DOGE currency exchange and deposited some funds, you are ready to start trading. ",
+  "coingeckoId": "dogecoin",
+  "links": {
+    "twitter": "https://twitter.com/dogecoin",
+    "facebook": "https://www.facebook.com/OfficialDogecoin",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=361813",
+    "reddit": "https://www.reddit.com/r/dogecoin/",
+    "github": "https://github.com/dogecoin"
+  }
+}

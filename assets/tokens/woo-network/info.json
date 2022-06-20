@@ -1,0 +1,13 @@
+{
+  "key": "woo-network",
+  "name": "WOO Network",
+  "symbol": "woo",
+  "logoURI": "https://assets.coingecko.com/coins/images/12921/large/w2UiemF__400x400.jpg?1603670367",
+  "website": "https://woo.org",
+  "description": "WOO Network is a deep liquidity network connecting traders, exchanges, institutions, and DeFi platforms with democratized access to the best-in-class liquidity and trading execution at lower or zero cost. WOO Token is used in the network\u2019s CeFi and DeFi products for staking and fee discounts.",
+  "coingeckoId": "woo-network",
+  "links": {
+    "twitter": "https://twitter.com/WOOnetwork",
+    "telegram": "https://t.me/woonetwork"
+  }
+}

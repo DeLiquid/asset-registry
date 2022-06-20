@@ -1,0 +1,16 @@
+{
+  "key": "ufocoin",
+  "name": "Uniform Fiscal Object",
+  "symbol": "ufo",
+  "logoURI": "https://assets.coingecko.com/coins/images/178/large/UFO_coin_logo_large_4.png?1615181523",
+  "website": "https://ufobject.com",
+  "description": "The goals of UFO Coin is to help and promote innovative globally conscious research projects such as alternative energy research, technology research and UFO disclosure and awareness. The community will be able to directly take part in the choosing of what projects to help through voting and crowd funding in the future.",
+  "coingeckoId": "ufocoin",
+  "links": {
+    "twitter": "https://twitter.com/fiscalobject",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5325877",
+    "telegram": "https://t.me/UFOoriginal",
+    "reddit": "https://www.reddit.com/r/ufocoin",
+    "github": "https://github.com/fiscalobject/ufo"
+  }
+}

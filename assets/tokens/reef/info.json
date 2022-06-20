@@ -1,0 +1,15 @@
+{
+  "key": "reef",
+  "name": "Reef",
+  "symbol": "reef",
+  "logoURI": "https://assets.coingecko.com/coins/images/13504/large/Group_10572.png?1610534130",
+  "website": "https://reef.io",
+  "description": "Reef aims to be the future blockchain for DeFi, NFTs, and gaming. Our layer 1 blockchain is fast, scalable, has low transaction costs and does no wasteful mining. Reef features next-gen blockchain technology, utilizing Nominated Proof of Stake, extensible EVM, on-chain upgradability, libp2p networking and state of the art cryptography.\r\n",
+  "coingeckoId": "reef",
+  "links": {
+    "twitter": "https://twitter.com/Reef_Chain",
+    "telegram": "https://t.me/reefchain",
+    "reddit": "https://www.reddit.com/r/ReefDeFi/",
+    "github": "https://github.com/reef-defi"
+  }
+}

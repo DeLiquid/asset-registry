@@ -1,0 +1,14 @@
+{
+  "key": "tifi-token",
+  "name": "TiFi",
+  "symbol": "tifi",
+  "logoURI": "https://assets.coingecko.com/coins/images/24990/large/logo200_%281%29.png?1649686507",
+  "website": "https://tifi.net/",
+  "description": "The token is running on Binance Smart Chain (BSC) and provides several attractive features that encourage people to invest and trade with the token itself.\r\nToken-back reward is the most innovative feature of TiFi token. It stimulates token holders to use TiFi token purchase merchandise by providing \"\"token reward\"\" back to consumers, which functions similar to cash reward credit cards. TIFI also offers reflection reward redistributed to every holder. These reward distributions just requires TIFI holders to hold.\r\nTiFi token is an anti-inflation cryptocurrency. The decentralized smart contract of TiFi token burns tokens automatically by subtracting a tiny portion from total supply whenever a transaction happens.",
+  "coingeckoId": "tifi-token",
+  "links": {
+    "twitter": "https://twitter.com/TiFiToken",
+    "telegram": "https://t.me/tifi_token",
+    "reddit": "https://www.reddit.com/r/TiFiToken"
+  }
+}

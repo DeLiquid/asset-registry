@@ -1,0 +1,15 @@
+{
+  "key": "fetch-ai",
+  "name": "Fetch.ai",
+  "symbol": "fet",
+  "logoURI": "https://assets.coingecko.com/coins/images/5681/large/Fetch.jpg?1572098136",
+  "website": "https://fetch.ai/",
+  "description": "Fetch.ai is delivering AI to the crypto economy. Digital Twins, powered by artificial intelligence, can provide automation to decentralized finance that can serve the needs of a single user or aggregate millions of data points for on-chain oracles. These agent-based systems provide greater flexibility, speed and crypto-economic security than existing oracle networks and represent the future of decentralized finance. This technology enables creation of personalized oracles that maintain user\u2019s DeFi positions using decentralized and non-custodial protocols to increase the security and convenience of crypto asset management. The Fetch.ai network is an interchain protocol, based on the Cosmos-SDK, and uses a high-performance WASM-based smart contract language (Cosmwasm) to allow advanced cryptography and machine learning logic to be implemented on chain. This also allows the Fetch.ai network to serve as a layer-2 network for Ethereum and as an interchain bridge to the rest of the blockchain world.",
+  "coingeckoId": "fetch-ai",
+  "links": {
+    "twitter": "https://twitter.com/fetch_ai",
+    "telegram": "https://t.me/fetch_ai",
+    "reddit": "https://www.reddit.com/r/FetchAI_Community/",
+    "github": "https://github.com/fetchai"
+  }
+}

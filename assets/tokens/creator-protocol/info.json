@@ -1,0 +1,14 @@
+{
+  "key": "creator-protocol",
+  "name": "Creator Protocol",
+  "symbol": "cre",
+  "logoURI": "https://assets.coingecko.com/coins/images/21113/large/u_mbDB7U_400x400.jpg?1638333177",
+  "website": "https://creatorprotocol.net/",
+  "description": "It is the only platform in the world that gathers live broadcasts and publishers on platforms such as Twitch, YouTube, TikTok, Instagram and Bigo Live on a single platform. It allows support/donation with low commission, receive advertisements during live broadcasts and users to access details about live broadcasts without in-application. This ecosystem entirely takes place on blockchain thanks to Creator Protocol.",
+  "coingeckoId": "creator-protocol",
+  "links": {
+    "twitter": "https://twitter.com/CreatorProtocol",
+    "telegram": "https://t.me/creatorprotocoloffical",
+    "github": "https://github.com/CreatorProtocol/"
+  }
+}

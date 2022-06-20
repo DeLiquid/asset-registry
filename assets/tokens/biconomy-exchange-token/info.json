@@ -1,0 +1,14 @@
+{
+  "key": "biconomy-exchange-token",
+  "name": "Biconomy Exchange",
+  "symbol": "bit",
+  "logoURI": "https://assets.coingecko.com/coins/images/18198/large/mGky0OOh_400x400.jpg?1630965301",
+  "website": "https://www.biconomy.com/",
+  "description": "",
+  "coingeckoId": "biconomy-exchange-token",
+  "links": {
+    "twitter": "https://twitter.com/Biconomy_Global",
+    "telegram": "https://t.me/Biconomy_Global",
+    "reddit": "https://www.reddit.com/r/Biconomyexchange"
+  }
+}

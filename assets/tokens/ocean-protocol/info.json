@@ -1,0 +1,15 @@
+{
+  "key": "ocean-protocol",
+  "name": "Ocean Protocol",
+  "symbol": "ocean",
+  "logoURI": "https://assets.coingecko.com/coins/images/3687/large/ocean-protocol-logo.jpg?1547038686",
+  "website": "https://oceanprotocol.com/",
+  "description": "Ocean Protocol is an ecosystem for sharing data and associated services. It provides a tokenized service layer that exposes data, storage, compute and algorithms for consumption with a set of deterministic proofs on availability and integrity that serve as verifiable service agreements. There is staking on services to signal quality, reputation and ward against Sybil Attacks.\r\n\r\nOcean helps to unlock data, particularly for AI. It is designed for scale and uses blockchain technology that allows data to be shared and sold in a safe, secure and transparent manner.\r\n\r\nThe Ocean Protocol is an ecosystem composed of data assets and services, where assets are represented by data and algorithms, and services are represented by integration, processing and persistence mechanisms. Ocean Protocol facilitates discovery by storing and promoting metadata, linking assets and services, and provides a licensing framework that has toolsets for pricing.\r\n\r\nA multitude of data marketplaces can hook into Ocean Protocol to provide \u201clast mile\u201d services to connect data providers and consumers. Ocean Protocol is designed so that data owners cannot be locked-in to any single marketplace. The data owner controls each dataset.",
+  "coingeckoId": "ocean-protocol",
+  "links": {
+    "twitter": "https://twitter.com/oceanprotocol",
+    "telegram": "https://t.me/oceanprotocol",
+    "reddit": "https://www.reddit.com/r/oceanprotocol/",
+    "github": "https://github.com/oceanprotocol"
+  }
+}

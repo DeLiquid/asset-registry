@@ -1,0 +1,16 @@
+{
+  "key": "constellation-labs",
+  "name": "Constellation",
+  "symbol": "dag",
+  "logoURI": "https://assets.coingecko.com/coins/images/4645/large/DAG.png?1626339160",
+  "website": "https://constellationnetwork.io/",
+  "description": "What is DAG?\r\nIn more traditional blockchains, the host provides the food/drinks (i.e resources) for this party. And when the guests arrive, the amount of resources can only accommodate so many people, the portions are small and then everything eventually runs out and the party ends. Think Constellation DAG like a potluck (a party where everyone brings food/drinks). With every added guest (node to the network), the more resources the party has to keep going. This is the nature of Constellation, a distributed system that scales horizontally.\r\n\r\nIs Constellation a Blockchain?\r\nNot exactly. Although inspired by the principles of decentralization, many standard blockchains such as Bitcoin and Ethereum face scalability issues. This is why the next, generation of decentralized networks such as Hashgraph, IOTA, and Constellation have turned to DAG.\r\n\r\nWhat is a Microservice?\r\n\u201cMicroservices\u201d is an approach to application development in which a large application is built as a suite of modular services. Each module supports a specific business goal and uses a simple, well-defined interface to communicate with other sets of services. Uber, for example, is not a singular app purse. It is a unified app which means it is a single interface that brings together their driver app, their rider app, and their corporate team app.",
+  "coingeckoId": "constellation-labs",
+  "links": {
+    "twitter": "https://twitter.com/conste11ation",
+    "facebook": "https://www.facebook.com/Conste11ation",
+    "telegram": "https://t.me/constellationcommunity",
+    "reddit": "https://www.reddit.com/r/constellation/",
+    "github": "https://github.com/Constellation-Labs/constellation"
+  }
+}

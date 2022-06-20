@@ -1,0 +1,15 @@
+{
+  "key": "band-protocol",
+  "name": "Band Protocol",
+  "symbol": "band",
+  "logoURI": "https://assets.coingecko.com/coins/images/9545/large/Band_token_blue_violet_token.png?1625881431",
+  "website": "https://bandprotocol.com/",
+  "description": "",
+  "coingeckoId": "band-protocol",
+  "links": {
+    "twitter": "https://twitter.com/bandprotocol",
+    "telegram": "https://t.me/bandprotocol",
+    "reddit": "https://www.reddit.com/r/bandprotocol",
+    "github": "https://github.com/bandprotocol/bandchain"
+  }
+}

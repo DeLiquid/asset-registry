@@ -1,0 +1,14 @@
+{
+  "key": "klever",
+  "name": "Klever",
+  "symbol": "klv",
+  "logoURI": "https://assets.coingecko.com/coins/images/12240/large/hIonpevN_400x400.jpg?1626616001",
+  "website": "https://www.klever.io/",
+  "description": "Klever app is a simple, secure p2p crypto wallet for blockchain with support for Bitcoin (BTC), TRON (TRX), Ethereum(ETH), and other top tokens, coins, and cryptocurrency assets. \r\n\r\nKlever uses advanced security mechanisms that completely protect the user\u2019s private keys, and makes private keys and sensitive data available only on the user\u2019s specific device, \r\nutilizing the latest military-grade technology for encryption. This means you truly own and control your Bitcoin, TRX, and other crypto and TRX tokens. No third party, including Klever, can access your private keys or restrict any transaction the user decides to make. Transactions of coins and tokens are direct, safe, secure, and fast, and are instantly recorded on the blockchain.\r\n\r\nKlever support for p2p Bitcoin (BTC) uses SegWit technology, which means the transfer of coins is faster and more secure in the wallet.\r\n\r\nKlever Features:\r\n\r\n* Full Privacy: No personal information is required, there is no login or sign up\r\n* The all-in-one wallet mobile app for blockchain and cryptocurrency\r\n* Industry-leading in-app support and help center\r\n* No fees - Yes, that\u2019s right - send and receive is free\r\n* A simple and easy to use user interface allows for a fast and intuitive experience\r\n* Your keys are yours and PRIVATE to you alone - YOU truly own your crypto\r\n* Fully decentralized p2p wallet and gateway to the digital decentralized economy\r\n* Optimized push notifications allow for immediate notifications once transactions are processed\r\n* The most secure and trusted source to hold digital money in a mobile device\r\n* Integration with QR codes enabled quick scanner/reader\r\n* Transaction history for Bitcoin and other popular cryptos\r\n* Unlock the app and access all functionalities with safer security mechanism like Face ID and fingerprint",
+  "coingeckoId": "klever",
+  "links": {
+    "twitter": "https://twitter.com/klever_io",
+    "telegram": "https://t.me/Klever_io",
+    "github": "https://github.com/klever-app"
+  }
+}

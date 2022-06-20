@@ -1,0 +1,12 @@
+{
+  "key": "wrapped-bitcoin",
+  "name": "Wrapped Bitcoin",
+  "symbol": "wbtc",
+  "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png?1548822744",
+  "website": "https://www.wbtc.network/",
+  "description": "",
+  "coingeckoId": "wrapped-bitcoin",
+  "links": {
+    "github": "https://github.com/WrappedBTC"
+  }
+}

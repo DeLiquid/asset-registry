@@ -1,0 +1,12 @@
+{
+  "key": "enjin-wormhole",
+  "name": "Enjin (Wormhole)",
+  "symbol": "enj",
+  "logoURI": "https://assets.coingecko.com/coins/images/23044/large/ENJ_wh_small.png?1644225380",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "enjin-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

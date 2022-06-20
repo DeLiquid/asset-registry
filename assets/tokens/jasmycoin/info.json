@@ -1,0 +1,14 @@
+{
+  "key": "jasmycoin",
+  "name": "JasmyCoin",
+  "symbol": "jasmy",
+  "logoURI": "https://assets.coingecko.com/coins/images/13876/large/JASMY200x200.jpg?1612473259",
+  "website": "https://www.jasmy.co.jp/en.html",
+  "description": "JasmyCoin is based on the ERC 20 standard. The token can also be used by an unspecified number of individuals and businesses to transfer tokens using digital devices as proof of value exchange or payment for services. By not limiting its usability, the token can have a wide range of purposes.",
+  "coingeckoId": "jasmycoin",
+  "links": {
+    "twitter": "https://twitter.com/JasmyMGT",
+    "telegram": "https://t.me/OfficialJasmyUniverse",
+    "github": "https://github.com/TokyoToken/JasmyCoin"
+  }
+}

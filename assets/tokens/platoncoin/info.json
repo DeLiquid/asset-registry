@@ -1,0 +1,15 @@
+{
+  "key": "platoncoin",
+  "name": "PlatonCoin",
+  "symbol": "pltc",
+  "logoURI": "https://assets.coingecko.com/coins/images/7178/large/PLTC.png?1616126045",
+  "website": "https://platonlife.com",
+  "description": "Platon Life is the first insured crypto-financial ecosystem based on an Ethereum blockchain, connecting the classic fiat money market with modern digital currencies via its own ERC-20 standard token, PlatonCoin. Thanks to high-security standards by the latest Symantec technologies and the crypto insurance against cyber theft by a Lloyd's syndicate, Platon Life is bringing a unique blockchain-based solution to the increasing security issues around digital assets.",
+  "coingeckoId": "platoncoin",
+  "links": {
+    "twitter": "https://twitter.com/platonlife_com",
+    "facebook": "https://www.facebook.com/platonfinance",
+    "telegram": "https://t.me/platonlifecom",
+    "github": "https://github.com/platonfinance/SmartContracts"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "crescent-network",
+  "name": "Crescent Network",
+  "symbol": "cre",
+  "logoURI": "https://assets.coingecko.com/coins/images/25061/large/logo_200x200.png?1649943220",
+  "website": "https://crescent.network",
+  "description": "\"A DeFi Hub which provides innovated tools to empower user's digital assets from not only Crescent chain but also from other blockchains for achieving maximized potential financial returns and managing associated risk in the most efficient way.\r\n\r\nCrescent DEX\r\n\r\nOrder Book & AMM Hybrid\r\nNot only providing general AMM utility, but also more capital-efficient liquidity providing methodology via order book\r\nRanged Liquidity\r\nUsers can select their own price range for their liquidity to leverage their rewards from Liquidity providing\r\nLiquidity providers can form a ranged liquidity with very narrow price range with stable token pairs to have maximized capital efficiency\r\n\r\nDelivery Swap\r\n\r\nIBC Transfer & Swap\r\nUsers can broadcast a single transaction which allows users IBC transfer and swap action\r\n\r\nLiquid Staking\r\n\r\nLiquid Staking Validators\r\nGovernance decides group of validators who are allowed to provide liquid staking utility\r\nValidators in this group will have voting power weights decided by governance\r\nLiquid Staking\r\nHolders can \"\"liquid stake\"\" their native tokens to receive bonded tokens which accumulate staking rewards\r\n\r\nBoost\r\n\r\nLending\r\nLenders can lend various tokens to earn interest from borrowers\r\n\r\nBoost\r\nUsers can borrow multiple tokens to leverage their liquidity providing position\r\nUsers not only can leverage their pool positions, but also can hedge their pool position by borrowing related tokens\r\nLiquidation\r\nRisky positions are liquidated by reverse auction\r\n\r\nDerivatives\r\n\r\nFutures\r\nUsers can trade futures for multiple underlying tokens by collateralizing their digital assets, including complex DeFi positions from other blockchains\r\n\r\nRelayer Incentive\r\nThe Crescent chain will provide mechanical ways to incentivize relayer with enough uptime to have stable and steady interchain connections towards other blockchains\r\n\r\nPool pair IBC denom info:\r\nluna\r\nibc/4627AD2524E3E0523047E35BB76CC90E37D9D57ACF14F0FCBCEB2480705F3CB8\r\nust\r\nibc/6F4968A73F90CF7DE6394BF937D6DF7C7D162D74D839C13F53B41157D315E05F\r\natom\r\nibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9\"",
+  "coingeckoId": "crescent-network",
+  "links": {
+    "twitter": "https://twitter.com/CrescentHub",
+    "telegram": "https://t.me/crescentnetwork",
+    "reddit": "https://www.reddit.com/r/crescentnetwork",
+    "github": "https://github.com/crescent-network/crescent"
+  }
+}

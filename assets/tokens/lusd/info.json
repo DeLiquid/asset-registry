@@ -1,0 +1,14 @@
+{
+  "key": "lusd",
+  "name": "LUSD",
+  "symbol": "lusd",
+  "logoURI": "https://assets.coingecko.com/coins/images/25223/large/lusd_200x200.png?1650957327",
+  "website": "https://linear.finance/",
+  "description": "\"Linear Finance is a decentralized delta-one asset protocol capable of instantly creating synthetic assets with unlimited liquidity. The project opens traditional assets like commodities, forex, market indices and other thematic sectors to cryptocurrency users by supporting the creation of \u201cLiquids\u201d \u2014 Linear\u2019s synthetic asset tokens.\r\n\r\nThe protocol consists of various products like Linear.Buildr, a DApp used to manage Liquids using Linear (LINA) and other tokens as collateral. The exchange is specifically created to enable the trading of a variety of Liquids with rapid confirmation times and robust security.\r\n\r\n\u2113USD is an in-house protocol stable coin/ synthetic USD token powered by the Linear Finance protocol. It could be built on our platform with LINA token or purchased through decentralized exchanges. With the \u2113USD, users get synthetic exposure to various assets, including cryptocurrency, commodities, and market indices.\"",
+  "coingeckoId": "lusd",
+  "links": {
+    "twitter": "https://twitter.com/linearfinance",
+    "telegram": "https://t.me/LinearExchangeCommunity",
+    "github": "https://github.com/Linear-finance"
+  }
+}

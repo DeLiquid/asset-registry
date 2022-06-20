@@ -1,0 +1,15 @@
+{
+  "key": "aleph",
+  "name": "Aleph.im",
+  "symbol": "aleph",
+  "logoURI": "https://assets.coingecko.com/coins/images/11676/large/Monochram-aleph.png?1608483725",
+  "website": "https://aleph.im",
+  "description": "aleph.im is a decentralized cloud storage, database and computing platform, that is compatible with blockchains and speaks their languages. It aims to be the infrastructure layer of the DeFI (decentralized finance) ecosystem.",
+  "coingeckoId": "aleph",
+  "links": {
+    "twitter": "https://twitter.com/aleph_im",
+    "telegram": "https://t.me/alephim",
+    "reddit": "https://www.reddit.com/r/Aleph_im/",
+    "github": "https://github.com/aleph-im"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "key": "nano",
+  "name": "Nano",
+  "symbol": "xno",
+  "logoURI": "https://assets.coingecko.com/coins/images/756/large/nano.png?1637232468",
+  "website": "https://nano.org/en",
+  "description": "Nano, a low-latency cryptocurrency built on an innovative block-lattice data structure offering unlimited scalability and no transaction fees. Nano by design is a simple protocol with the sole purpose of being a high-performance cryptocurrency. The Nano protocol can run on low-power hardware, allowing it to be a practical, decentralized cryptocurrency for everyday use.\r\n\r\nThe original Nano (RailBlocks) paper and first beta implementation were published in December, 2014, making it one of the first <a href=\"https://www.coingecko.com/en?hashing_algorithm=Directed+Acyclic+Graph+%28DAG%29\">Directed Acyclic Graph (DAG)</a> based cryptocurrencies [6]. Soon after, other <a href=\"https://www.coingecko.com/en?hashing_algorithm=Directed+Acyclic+Graph+%28DAG%29\">DAG</a> cryptocurrencies began to develop, most notably DagCoin/<a href=\"https://www.coingecko.com/en/coins/byteball\">Byteball</a> and <a href=\"https://www.coingecko.com/en/coins/iota\">IOTA</a>. These <a href=\"https://www.coingecko.com/en?hashing_algorithm=Directed+Acyclic+Graph+%28DAG%29\">DAG</a>-based cryptocurrencies broke the blockchain mold, improving system performance and security. <a href=\"https://www.coingecko.com/en/coins/byteball\">Byteball</a> achieves consensus by relying on a \u201cmain-chain\u201d comprised of honest, reputable and user-trusted \u201cwitnesses\u201d, while <a href=\"https://www.coingecko.com/en/coins/iota\">IOTA</a> achieves consensus via the cumulative PoW of stacked transactions. Nano achieves consensus via a balance-weighted vote on conflicting transactions. This consensus system provides quicker, more deterministic transactions while still maintaining a strong, decentralized system. Nano continues this development and has positioned itself as one of the highest performing cryptocurrencies.\r\n\r\nNano is a trustless, feeless, low-latency cryptocurrency that utilizes a novel blocklattice structure and <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake\">delegated Proof of Stake</a> voting. The network requires minimal resources, no high-power mining hardware, and can process high transaction throughput. All of this is achieved by having individual blockchains for each account, eliminating access issues and inefficiencies of a global data-structure. We identified possible attack vectors on the system and presented arguments on how Nano is resistant to these forms of attacks.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/nano/\">CoinBureau</a> for the complete review of Nano.",
+  "coingeckoId": "nano",
+  "links": {
+    "twitter": "https://twitter.com/nano",
+    "facebook": "https://www.facebook.com/nanofoundation",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1381323",
+    "telegram": "https://t.me/nanocurrency",
+    "reddit": "https://www.reddit.com/r/nanocurrency",
+    "github": "https://github.com/nanocurrency/raiblocks"
+  }
+}

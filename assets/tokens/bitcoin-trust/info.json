@@ -1,0 +1,16 @@
+{
+  "key": "bitcoin-trust",
+  "name": "Bitcoin Trust",
+  "symbol": "bct",
+  "logoURI": "https://assets.coingecko.com/coins/images/12929/large/bitcointrust.512.x.512.png?1603691918",
+  "website": "https://bitcointrust.global/",
+  "description": "BitcoinTrust is created for a real life where its use can be part of the daily life of humanity, with a growing community and the changes that we constantly face, BitcoinTrust is ideal for this new reality, with values \u200b\u200bthat today awaken confidence:\r\n\r\nBitcoinTrust has a real and unified ecosystem that makes it possible for people to use their cryptocurrencies easily to improve their lifestyle, acquire products and services necessary for daily living, based on trust in the project that their own community already has.",
+  "coingeckoId": "bitcoin-trust",
+  "links": {
+    "twitter": "https://twitter.com/BitcoinTrustbct",
+    "facebook": "https://www.facebook.com/bitcointrust.bct1",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5274972",
+    "telegram": "https://t.me/bitcointrust_bct",
+    "github": "https://github.com/bitcointrustbct/bitcointrust"
+  }
+}

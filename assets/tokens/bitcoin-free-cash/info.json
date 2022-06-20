@@ -1,0 +1,16 @@
+{
+  "key": "bitcoin-free-cash",
+  "name": "Bitcoin Free Cash",
+  "symbol": "bfc",
+  "logoURI": "https://assets.coingecko.com/coins/images/10278/large/MvzxzkGi_400x400.png?1576971192",
+  "website": "https://www.bitfree.vip/en/",
+  "description": " BFC is a new cryptocurrency based on the improved Cuckaroo29 Search algorithm, which can effectively resist ASIC and avoid the concentration of computing power. BFC also adopts CPoW mining mechanism, which limits the mining participation entry. Through this mechanism, it could effectively avoid the power monopoly, reduce the amount of digital currency flowing into the market and increase the income of miners. There is no longer competition between minors, but cooperation, which makes BFC more secure and trustworthy to stimulate the sustained growth in quotations. Also, commercial mortgage application applies in commercial lending scenarios, such as banknotes, credit loans, leasing services, credit guarantees, risk control, and many other commercial areas. CPoWis based on the PoW mining mechanism with specific conditions requirements. As for BFC, to start mining, pre-store a certain amount of BFC in the wallet is necessary. Currently, per 1K calculation power, pre-storing 300 BFC is needed to obtain 100% revenue. Otherwise, only 30% of the mining revenue can be earned.",
+  "coingeckoId": "bitcoin-free-cash",
+  "links": {
+    "twitter": "https://twitter.com/BitfreeCash",
+    "facebook": "https://www.facebook.com/BitfreeCash",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5209540",
+    "telegram": "https://t.me/bitfree_Cash",
+    "github": "https://github.com/bitfreecash/bitfree"
+  }
+}

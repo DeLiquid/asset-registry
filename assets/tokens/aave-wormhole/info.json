@@ -1,0 +1,12 @@
+{
+  "key": "aave-wormhole",
+  "name": "Aave (Wormhole)",
+  "symbol": "aave",
+  "logoURI": "https://assets.coingecko.com/coins/images/22885/large/AAVE_wh_small.png?1644222707",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "aave-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

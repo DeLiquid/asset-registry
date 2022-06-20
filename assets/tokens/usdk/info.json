@@ -1,0 +1,13 @@
+{
+  "key": "usdk",
+  "name": "USDK",
+  "symbol": "usdk",
+  "logoURI": "https://assets.coingecko.com/coins/images/8824/large/usdk.png?1563418517",
+  "website": "https://www.oklink.com/",
+  "description": "",
+  "coingeckoId": "usdk",
+  "links": {
+    "twitter": "https://twitter.com/OKLink",
+    "github": "https://github.com/oklink/demo-net"
+  }
+}

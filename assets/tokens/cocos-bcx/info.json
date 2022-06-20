@@ -1,0 +1,15 @@
+{
+  "key": "cocos-bcx",
+  "name": "COCOS BCX",
+  "symbol": "cocos",
+  "logoURI": "https://assets.coingecko.com/coins/images/4932/large/_QPpjoUi_400x400.jpg?1566430520",
+  "website": "http://www.cocosbcx.io/en/",
+  "description": "Cocos Blockchain Expedition is a DAO to enable the future Metaverse with decentralization technology and MetaFi. We currently develop various infrastructures for NFT, GameFi, IGO and more. Our mission is to become the full-stack toolbox to help developers and users embrace the crypto economy.",
+  "coingeckoId": "cocos-bcx",
+  "links": {
+    "twitter": "https://twitter.com/cocosbcx",
+    "telegram": "https://t.me/cocosbcxen",
+    "reddit": "https://www.reddit.com/r/cocosbcx/",
+    "github": "https://github.com/Cocos-BCX/CocosPay"
+  }
+}

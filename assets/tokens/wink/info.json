@@ -1,0 +1,14 @@
+{
+  "key": "wink",
+  "name": "WINkLink",
+  "symbol": "win",
+  "logoURI": "https://assets.coingecko.com/coins/images/9129/large/WinK.png?1564624891",
+  "website": "https://winklink.org/#/",
+  "description": "The first TRON ecosystem comprehensive oracle WINkLink fully integrates the real world with the blockchain space, will be able to provide reliable, unpredictable and verifiable random numbers, and fully restore trust and improve user experience by tapping into data, events, and payment systems etc. from the real world. The WINk team completed the acquisition of justlink.io on April 26, 2021, and WINkLink becomes the first TRON ecosystem comprehensive oracle.  WIN, a TRON-based TRC20 token, will be the governance token of the WINkLink oracle network. Up to now, WIN has been listed on Binance, KuCoin, Poloniex, Bithumb, HitBTC, WazirX and many other well-known international exchanges.",
+  "coingeckoId": "wink",
+  "links": {
+    "twitter": "https://twitter.com/WinkLink_Oracle",
+    "telegram": "https://t.me/WINkLink_Oracle_official",
+    "reddit": "https://www.reddit.com/r/WINk_org/"
+  }
+}

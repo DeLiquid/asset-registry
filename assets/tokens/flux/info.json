@@ -1,0 +1,15 @@
+{
+  "key": "flux",
+  "name": "Datamine FLUX",
+  "symbol": "flux",
+  "logoURI": "https://assets.coingecko.com/coins/images/11756/large/fluxres.png?1593748917",
+  "website": "http://datamine.network/",
+  "description": "FLUX functions as the native currency of the Datamine Ecosystem and is powered by Datamine (DAM) token. Every 15 seconds you generate a bit of USDc in form of FLUX tokens.",
+  "coingeckoId": "flux",
+  "links": {
+    "twitter": "https://twitter.com/dataminenetwork",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5246889",
+    "reddit": "https://www.reddit.com/r/dataminecrypto/",
+    "github": "https://github.com/Datamine-Crypto/"
+  }
+}

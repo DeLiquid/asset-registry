@@ -1,0 +1,17 @@
+{
+  "key": "parkgene",
+  "name": "Parkgene",
+  "symbol": "gene",
+  "logoURI": "https://assets.coingecko.com/coins/images/2298/large/gene.png?1547036520",
+  "website": "https://parkgene.io",
+  "description": "Parkgene is a convenient and secure way to find parking, connect drivers, individuals and businesses.\r\n \r\nOur Vision is to disrupt the traditional \u2013 mainly off line \u2013 Parking industry, sized at $100 Billion annually, and to provide drivers with a better parking experience, while helping cities become smarter and enviromentally friendly.\r\n \r\nWe will establish the GENE token as the currency for the automotive industry, allowing drivers to pay for parking and integrating it with mobility services, vehicles and automotive infrastructure.",
+  "coingeckoId": "parkgene",
+  "links": {
+    "twitter": "https://twitter.com/PARKGENE1",
+    "facebook": "https://www.facebook.com/parkgene.token",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2705900",
+    "telegram": "https://t.me/parkgene",
+    "reddit": "https://www.reddit.com/r/PARKGENE/",
+    "github": "https://github.com/PARKGENE/ERC20-SmartContract"
+  }
+}

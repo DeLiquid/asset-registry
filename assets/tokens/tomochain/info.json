@@ -1,0 +1,17 @@
+{
+  "key": "tomochain",
+  "name": "TomoChain",
+  "symbol": "tomo",
+  "logoURI": "https://assets.coingecko.com/coins/images/3416/large/Asset_59_2x.png?1582948925",
+  "website": "https://tomochain.com/",
+  "description": "Tomochain is an innovative solution to the scalability problem with the Ethereum blockchain. Tomochain plans to support horizontal scaling via adding more second layer blockchains with good performance integrated with Ethereum for backup and atomic cross-chain transfer.\r\n\r\nTomochain is envisioned to be a network of chains that supports instant confirmation, and near zero transaction fee which will be an ideal solution for decentralized apps, token issuances and token integrations for small and big businesses.",
+  "coingeckoId": "tomochain",
+  "links": {
+    "twitter": "https://twitter.com/TomoChainANN",
+    "facebook": "https://www.facebook.com/tomochainofficial",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2021785",
+    "telegram": "https://t.me/tomochain",
+    "reddit": "https://www.reddit.com/r/Tomochain/",
+    "github": "https://github.com/tomochain"
+  }
+}

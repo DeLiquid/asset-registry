@@ -1,0 +1,13 @@
+{
+  "key": "apelab",
+  "name": "ApeLab",
+  "symbol": "ape",
+  "logoURI": "https://assets.coingecko.com/coins/images/19822/large/apelab.PNG?1635932357",
+  "website": "https://apelab.app/",
+  "description": "Apelab is a full DeFi multi tool platform with utility right from launch",
+  "coingeckoId": "apelab",
+  "links": {
+    "twitter": "https://twitter.com/apelabofficial",
+    "telegram": "https://t.me/ApeLabOfficial"
+  }
+}

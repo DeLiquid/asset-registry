@@ -1,0 +1,14 @@
+{
+  "key": "apoyield",
+  "name": "APOyield",
+  "symbol": "soul",
+  "logoURI": "https://assets.coingecko.com/coins/images/14193/large/coingecko_soul.png?1614847338",
+  "website": "https://apoyield.com/",
+  "description": "APOyield is a deflationary friction less yield project with it's own token called SOUL. Initially the number of SOUL tokens is equal to the number of citizens of earth. With every transaction 2% of the SOULS gets condemned forever and lost in hell. Yet another 8% gets another chance of survival in a shattered form in wallets of all remaining holders.\r\n\r\nAPOyield do also provide yield farming pools on their website.",
+  "coingeckoId": "apoyield",
+  "links": {
+    "twitter": "https://twitter.com/apoyield",
+    "telegram": "https://t.me/APOYield",
+    "github": "https://github.com/APOYield/APOyield.xyz"
+  }
+}

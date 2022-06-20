@@ -1,0 +1,13 @@
+{
+  "key": "hxro",
+  "name": "Hxro",
+  "symbol": "hxro",
+  "logoURI": "https://assets.coingecko.com/coins/images/7805/large/Hxro_Profile_Transparent.png?1622443308",
+  "website": "https://www.hxro.network/",
+  "description": "Hxro Network is a decentralized liquidity, risk, and margining primitive for derivatives built on the Solana blockchain. The network is designed to provide critical infrastructure and base layer tooling for liquidity to support a wide spectrum of derivatives markets on futures, swaps, and vanilla, exotic, and parimutuel options. HXRO is the utility and governance token that powers the Hxro Network.",
+  "coingeckoId": "hxro",
+  "links": {
+    "twitter": "https://twitter.com/HxroNetwork",
+    "telegram": "https://t.me/Hxro_Consortium"
+  }
+}

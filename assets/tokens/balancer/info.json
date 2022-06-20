@@ -1,0 +1,13 @@
+{
+  "key": "balancer",
+  "name": "Balancer",
+  "symbol": "bal",
+  "logoURI": "https://assets.coingecko.com/coins/images/11683/large/Balancer.png?1592792958",
+  "website": "https://balancer.finance/",
+  "description": "Balancer is a non-custodial portfolio manager, liquidity provider, and price sensor\r\n\r\nThe Balancer Protocol Governance Token (BAL) are distributed to Liquidity Providers of Balancer. BALs are a key way of decentralizing the governance of the protocol such that it can remain resilient over time, protected from the failure of any single stakeholder. \r\n\r\nThe proposed amount of distributed BALs to liquidity providers is 145,000 per week, or approximately 7.5M per year. This means in the first year of BAL\u2019s existence there would be 30% supply inflation off the initially allocated supply of 25M tokens. This high rate of supply inflation is meant to kickstart the distribution of governance rights of the protocol out to those who earn it.",
+  "coingeckoId": "balancer",
+  "links": {
+    "twitter": "https://twitter.com/BalancerLabs",
+    "github": "https://github.com/balancer-labs"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "key": "binance-peg-ontology",
+  "name": "Binance-Peg Ontology",
+  "symbol": "ont",
+  "logoURI": "https://assets.coingecko.com/coins/images/18559/large/ont.png?1632395038",
+  "website": "https://ont.io/",
+  "description": "ONT-33D is a crypto asset pegged to Ontology (ONT) tokens on the Binance Chain and listed on Binance DEX, the decentralized exchange feature developed on top of the Binance Chain. ONT-33D is the BEP2 token backed by ONT at a 1:1 ratio.\r\n\r\nOntology is a high-performance public blockchain and distributed collaboration platform. Architected in Asia with global teams, Ontology\u2019s unique infrastructure supports robust cross-chain collaboration, Layer 2 scalability and includes a suite of decentralized identity (DID) and data sharing protocols to enhance the speed, security, and trust that are fundamental to enhanced global cooperation among businesses. These characteristics are particularly important for future global collaboration with on-chain and off-chain scenarios.",
+  "coingeckoId": "binance-peg-ontology",
+  "links": {
+    "twitter": "https://twitter.com/OntologyNetwork",
+    "facebook": "https://www.facebook.com/ONTnetwork",
+    "telegram": "https://t.me/OntologyNetwork",
+    "reddit": "https://www.reddit.com/r/OntologyNetwork/",
+    "github": "https://github.com/ontio/ontology"
+  }
+}

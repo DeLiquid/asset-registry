@@ -1,0 +1,15 @@
+{
+  "key": "vechain",
+  "name": "VeChain",
+  "symbol": "vet",
+  "logoURI": "https://assets.coingecko.com/coins/images/1167/large/VeChain-Logo-768x725.png?1547035194",
+  "website": "https://www.vechain.org",
+  "description": "Launched in 2015 as a private consortium network, the VeChain Foundation went on to develop the VeChainThor public blockchain, a fully programmable EVM compatible L1 smart contract platform that is adaptable to wide-ranging real-world needs. Supply chain, sustainability, carbon emissions, SDGs, De-Fi, NFTs and more, VeChainThor seamlessly handles it all.\r\n\r\nA unique two-token model ensures low and stable transaction costs while an advanced Proof-Of-Authority consensus mechanism guarantees high throughput, scalability, and security with minimal energy consumption, culminating in zero downtime for the network after 3+ years of continuous operation.\r\n\r\nVeChain Technology continues to pioneer real-world blockchain applications across the globe with offices in China, Singapore, Luxembourg, Japan, France, San Marino and the United States.\r\n\r\nStrong independent development capabilities combined with the professional compliance guidance of strategic partners PwC and DNV GL has enabled VeChain to establish partnerships with leading enterprises including Walmart China, Bayer China, BMW Group, BYD Auto, PICC, H&M Group, Shanghai Gas, LVMH, D.I.G, ASI Group and more.\r\n",
+  "coingeckoId": "vechain",
+  "links": {
+    "twitter": "https://twitter.com/vechainofficial",
+    "telegram": "https://t.me/vechain_official_english",
+    "reddit": "https://www.reddit.com/r/Vechain",
+    "github": "https://github.com/vechain"
+  }
+}

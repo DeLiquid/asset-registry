@@ -1,0 +1,14 @@
+{
+  "key": "metis-token",
+  "name": "Metis",
+  "symbol": "metis",
+  "logoURI": "https://assets.coingecko.com/coins/images/15595/large/metis.PNG?1621298076",
+  "website": "https://www.metis.io/",
+  "description": "Based on the spirit of Optimistic Rollup, Metis is building an easy-to-use, highly scalable, low-cost, and fully functional Layer 2 framework (Metis Rollup) to fully support the application and business migration from Web 2.0 to Web 3.0. Its scalable protocol supports a wide range of use cases including yield farming, DEX trading, and powering the gig economy via DApps that offer cheap and fast micropayments.\r\nMetis integrates the Decentralized Autonomous Company (DAC) framework within its Layer 2 infrastructure, a differentiating factor that makes it easy for any developers, builders, or community leaders to build their applications and communities. It also makes it easy to use pre-set tools to facilitate their development, manage collaboration, and enjoy the network effects of the world's largest decentralized finance ecosystem, without the costs and bottlenecks normally associated with Ethereum.\r\nMetis\u2019 goal is to make building dApps and DACs on its platform so easy to do, even total blockchain novices can make it happen in a matter of minutes.",
+  "coingeckoId": "metis-token",
+  "links": {
+    "twitter": "https://twitter.com/MetisDAO",
+    "telegram": "https://t.me/MetisDAO",
+    "github": "https://github.com/MetisProtocol"
+  }
+}

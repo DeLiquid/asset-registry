@@ -1,0 +1,14 @@
+{
+  "key": "earnablefi",
+  "name": "EarnableFi",
+  "symbol": "efi",
+  "logoURI": "https://assets.coingecko.com/coins/images/23116/large/6-1AsYjJ_400x400.jpg?1643266281",
+  "website": "https://www.earnablefi.com/",
+  "description": "$EFI aims to be the flagship utility token of the GameFi & Defi 3.0 ecosystem and it's created for mass adoption on the Ethereum Network and further passive income generation for the ecosystem to reward its holders in different ways.",
+  "coingeckoId": "earnablefi",
+  "links": {
+    "twitter": "https://twitter.com/EarnableFi",
+    "telegram": "https://t.me/earnablefiportal",
+    "github": "https://github.com/Earnable-Finance"
+  }
+}

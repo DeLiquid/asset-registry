@@ -1,0 +1,10 @@
+{
+  "key": "usd-coin-avalanche-bridged-usdc-e",
+  "name": "USD Coin Avalanche Bridged (USDC.e)",
+  "symbol": "usdc",
+  "logoURI": "https://assets.coingecko.com/coins/images/23263/large/3408.png?1643362756",
+  "website": "https://www.circle.com/blog/understanding-avalanche-usdc-vs.-usdc.e",
+  "description": "",
+  "coingeckoId": "usd-coin-avalanche-bridged-usdc-e",
+  "links": {}
+}

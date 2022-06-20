@@ -1,0 +1,14 @@
+{
+  "key": "ankreth",
+  "name": "Ankr Reward-Bearing Staked ETH",
+  "symbol": "aethc",
+  "logoURI": "https://assets.coingecko.com/coins/images/13403/large/aETHc.png?1625756490",
+  "website": "https://stakefi.ankr.com/",
+  "description": "aETHc is a Reward-Bearing Staked ETH token from Ankr StakeFi. Ankr StakeFi is a platform providing an easy multi-chain staking experience through liquid staking and pooled staking solutions.",
+  "coingeckoId": "ankreth",
+  "links": {
+    "twitter": "https://twitter.com/ankr",
+    "telegram": "https://t.me/stkrsupport",
+    "github": "https://github.com/Ankr-network/stkr-smartcontract-public"
+  }
+}

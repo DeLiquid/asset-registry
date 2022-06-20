@@ -1,0 +1,20 @@
+{
+  "key": "utrust",
+  "name": "Utrust",
+  "symbol": "utk",
+  "logoURI": "https://assets.coingecko.com/coins/images/1824/large/300x300_logo.png?1570520533",
+  "website": "https://utrust.com",
+  "description": "The Utrust platform allows merchants to accept digital currencies as a means of payment. It brings digital currencies to mainstream consumers, while providing a reliable buyer protection, and credibility like more traditional payment platforms. An easy to integrate API for merchants and a best-in-class UX for buyers. Utrust stands at the intersection of three high-growth markets - e-commerce, mobile payments and cryptocurrency, tackling a combined multi-trillion dollar market with billions of users and rapid growth.\r\n\r\nMoney reimagined for the digital age\r\nWe believe digital currency is the future of money and the genesis of a more open financial system. Its transformative power will open financial services to all citizens in a connected world.\r\nUtrust long-term vision is to become the leading platform for digital consumer currency payments, delivering a trusted blockchain payment solution to the world\u2019s most successful companies.\r\n\r\nA mainstream means-of-payment\r\nThe Utrust platform supports multiple digital currencies, including our own native token - UTK. Users can purchase goods and services, with a zero-fee exchange rate. It is also used on refunds and as part of our affiliate referral program.",
+  "coingeckoId": "utrust",
+  "links": {
+    "slack": "https://utrust-official.slack.com/",
+    "medium": "https://medium.com/@UTRUST",
+    "reddit": "https://www.reddit.com/r/UTRUST_Official",
+    "twitter": "https://twitter.com/UTRUST",
+    "facebook": "https://www.facebook.com/utrust.io",
+    "telegram": "https://t.me/utrustofficial",
+    "whitepaper": "https://s3-eu-west-1.amazonaws.com/utrust/UTRUST-whitepaper-v1.0.1.pdf",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2078433",
+    "github": "https://github.com/utrustdev/speedtracker"
+  }
+}

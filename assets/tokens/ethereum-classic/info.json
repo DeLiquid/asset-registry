@@ -1,0 +1,17 @@
+{
+  "key": "ethereum-classic",
+  "name": "Ethereum Classic",
+  "symbol": "etc",
+  "logoURI": "https://assets.coingecko.com/coins/images/453/large/ethereum-classic-logo.png?1547034169",
+  "website": "http://ethereumclassic.org",
+  "description": "",
+  "coingeckoId": "ethereum-classic",
+  "links": {
+    "twitter": "https://twitter.com/eth_classic",
+    "facebook": "https://www.facebook.com/ethereumclassic",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5134923",
+    "telegram": "https://t.me/ethclassic",
+    "reddit": "https://www.reddit.com/r/EthereumClassic",
+    "github": "https://github.com/ethereumclassic"
+  }
+}

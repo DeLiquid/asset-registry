@@ -1,0 +1,15 @@
+{
+  "key": "thunder-token",
+  "name": "ThunderCore",
+  "symbol": "tt",
+  "logoURI": "https://assets.coingecko.com/coins/images/4375/large/ThunderCore_Logo_Mark_Gradient_%283%29.png?1650455349",
+  "website": "https://www.thundercore.com/",
+  "description": "ThunderCore is a secure, high-performance, EVM-compatible public blockchain with its own native currency, Thunder Token. The company was founded in 2017 in Silicon Valley by Chris Wang and top researchers and engineers in the field. \r\n\r\nWith a breakthrough consensus protocol that overcomes the scalability \u201ctrilemma\u201d called PaLa, the ThunderCore network offers 4,000+ TPS, sub-second confirmation times, and low gas fees that cost less than a fraction of a dollar ( < $0.00001), giving decentralized applications security and scalability. \r\n\r\nEvidently, ThunderCore DApps have been dominating the gaming and gambling category charts week after week, a true testament to how easy it is for DApps to scale on the platform.\r\n\r\nThunderCore also prioritizes interoperability, as native assets on other blockchains (eg. Ethereum, BSC, HECO) can be exchanged amongst each other through a cross-chain mechanism called ThunderCore Bridge. \r\n\r\nBy solving usability challenges and setting a new standard of reliability and security, ThunderCore leads the effort to bring wide adoption to blockchain technology.\r\n\r\nCurrently, with an international user base that spans across more than 18 countries, ThunderCore has amassed more than 4 million total addresses and 180 million transactions on its network.",
+  "coingeckoId": "thunder-token",
+  "links": {
+    "twitter": "https://twitter.com/ThunderProtocol",
+    "telegram": "https://t.me/thunder_official",
+    "reddit": "https://www.reddit.com/r/thunder_official/",
+    "github": "https://github.com/thundercore"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key": "automata",
+  "name": "Automata",
+  "symbol": "ata",
+  "logoURI": "https://assets.coingecko.com/coins/images/15985/large/ATA.jpg?1622535745",
+  "website": "https://www.ata.network/",
+  "description": "Automata Network is a decentralized service protocol that provides middleware-like traceless privacy services for dApps on Ethereum and Polkadot to achieve privacy, high assurance and frictionless computation. For more information about Automata, visit the <a href=\"https://www.ata.network/\">website</a> or read the <a href=\"https://www.ata.network/lightpaper.pdf\">lightpaper</a>.",
+  "coingeckoId": "automata",
+  "links": {
+    "twitter": "https://twitter.com/automatanetwork",
+    "telegram": "https://t.me/ata_network"
+  }
+}

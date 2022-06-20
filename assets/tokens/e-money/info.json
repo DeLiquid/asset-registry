@@ -1,0 +1,14 @@
+{
+  "key": "e-money",
+  "name": "e-Money",
+  "symbol": "ngm",
+  "logoURI": "https://assets.coingecko.com/coins/images/13722/large/logo-200x200.jpg?1626095888",
+  "website": "https://e-money.com/",
+  "description": "e-Money stablecoins are a further stage in the development of collateralized stablecoins, but with some great advantages of their own which truly set them apart.\r\nFirstly, e-Money stablecoins are not prone to the many drawbacks and inherent instability of algorithmic stablecoins. e-Money stablecoins are collateralized in the same currency as which they are issued so the eEUR stablecoin is collateralized in Euros and the eUSD stablecoin is collateralized by US dollars. The simplicity of this system also means that currency-backed stablecoins are highly efficient and liquid.",
+  "coingeckoId": "e-money",
+  "links": {
+    "twitter": "https://twitter.com/emoney_com",
+    "telegram": "https://t.me/emoney_com",
+    "github": "https://github.com/e-money"
+  }
+}

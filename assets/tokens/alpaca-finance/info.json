@@ -1,0 +1,14 @@
+{
+  "key": "alpaca-finance",
+  "name": "Alpaca Finance",
+  "symbol": "alpaca",
+  "logoURI": "https://assets.coingecko.com/coins/images/14165/large/Logo200.png?1614748442",
+  "website": "https://www.alpacafinance.org/",
+  "description": "Alpaca Finance is the first leveraged yield farming protocol on Binance Smart Chain. We are a fair launch project with no pre-sale, no investor, and no pre-mine. Our protocol will allow user to open a leveraged yield farming position by borrowing from our deposit vaults. ",
+  "coingeckoId": "alpaca-finance",
+  "links": {
+    "twitter": "https://twitter.com/AlpacaFinance",
+    "telegram": "https://t.me/alpacafinance",
+    "github": "https://github.com/alpaca-finance/alpaca-contract"
+  }
+}

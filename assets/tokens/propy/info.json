@@ -1,0 +1,17 @@
+{
+  "key": "propy",
+  "name": "Propy",
+  "symbol": "pro",
+  "logoURI": "https://assets.coingecko.com/coins/images/869/large/propy.png?1548332100",
+  "website": "https://propy.com",
+  "description": "Propy is a decentralized real-estate market place backed by superior blockchain infrastructure to facilitate real-time unified transaction in order to reduce fraud and redundancy. Propy is the world\u2019s first international real-estate marketplace.",
+  "coingeckoId": "propy",
+  "links": {
+    "slack": "http://slack.propy.com/",
+    "twitter": "https://twitter.com/PropyInc",
+    "facebook": "https://www.facebook.com/propyinc",
+    "telegram": "https://t.me/propy",
+    "whitepaper": "http://tokensale.propy.com/WhitepaperSummary.pdf",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1982115"
+  }
+}

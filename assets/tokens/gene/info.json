@@ -1,0 +1,13 @@
+{
+  "key": "gene",
+  "name": "Gene",
+  "symbol": "gene",
+  "logoURI": "https://assets.coingecko.com/coins/images/14145/large/logo.a60a0c80_%281%29.png?1614653629",
+  "website": "https://gene.finance/",
+  "description": "Gene Finance is a brand new AMM swap protocol that redesigned the token economy and operation plan to make up for the common defects of other AMM swap systems. Not only that, the redesigned distribution model of Gene Finance's token economy not only rewards early players, but also encourages them to continue participating in providing liquidity for a long time. There is no need for seed investment, developer fees, or mining in advance for the agreement to go online.",
+  "coingeckoId": "gene",
+  "links": {
+    "twitter": "https://twitter.com/genefinance",
+    "github": "https://github.com/genefinance"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "jet",
+  "name": "JET",
+  "symbol": "jet",
+  "logoURI": "https://assets.coingecko.com/coins/images/18437/large/jet_logomark_color.png?1631972990",
+  "website": "https://www.jetprotocol.io/",
+  "description": "Jet Protocol is highly capital efficient DeFi borrowing and lending built on Solana. ",
+  "coingeckoId": "jet",
+  "links": {
+    "twitter": "https://twitter.com/jetprotocol",
+    "telegram": "https://t.me/jetprotocol",
+    "reddit": "https://www.reddit.com/r/jetprotocol/",
+    "github": "https://github.com/jet-lab/jet-v1/"
+  }
+}

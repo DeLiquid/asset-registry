@@ -1,0 +1,14 @@
+{
+  "key": "flow",
+  "name": "Flow",
+  "symbol": "flow",
+  "logoURI": "https://assets.coingecko.com/coins/images/13446/large/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.png?1631696776",
+  "website": "https://flow.com",
+  "description": "Flow by Dapper Labs\u00a0(The company which\u00a0created CryptoKitties) is a blockchain network\u00a0that aims to be\u00a0fast, secure, and developer friendly.\r\n\r\nThe idea for a new blockchain targeting\u00a0games and social networks was conceived after Ethereum faced large scalability issues as seen with the high transaction fees during the\u00a0CryptoKitties hype. The Flow team deduced shards and sidechains were not long term solutions for apps that strive for performance.\r\n\r\nInvestors include large backers such as\u00a0Andreessen Horowitz, Warner Music Group, Union Square Ventures, Digital Currency Group, and more.",
+  "coingeckoId": "flow",
+  "links": {
+    "twitter": "https://twitter.com/flow_blockchain",
+    "telegram": "https://t.me/flow_blockchain",
+    "github": "https://github.com/onflow"
+  }
+}

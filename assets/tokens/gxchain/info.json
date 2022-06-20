@@ -1,0 +1,16 @@
+{
+  "key": "gxchain",
+  "name": "GXChain",
+  "symbol": "gxc",
+  "logoURI": "https://assets.coingecko.com/coins/images/1089/large/26296223.png?1571192241",
+  "website": "https://www.gxb.io/",
+  "description": "From the developers at Gongxinbao (GXB) comes GXChain, a public blockchain that offers decentralized data exchange solutions, being the first exchange of its kind in the world. The GXS data exchange does not cache personal data, offering its customers privacy. In addition, the exchange protects data copyright, preventing data fraud and counterfeiting and supports bilateral anonymous transactions. The GXS data exchange, which was commercialized on September 24, 2017, can be used for data exchanging in any industry. Currently, the platform offers solutions for enterprises that engage in network loan, automobile finance, personal loan in internet finance and banks.\r\n\r\nGXChain is a blockchain that supports the development of a great number of applications. Unlike other public chains, GXChain does not only support smart contract or blockchain as a service (BaaS) but also delivers many exclusive services, such as ID verification, multi-dimensional data, KYC, and swift login. GXChain currently has 100,000 TPS, which can support most business applications, and it also supports issuing new assets. The second application based on GXChain, GXB Decentralized App (Dapp), deals with personal credit management and face to face credit verification. GXChain employs delegate proof of stake (DPoS) for record tracking on the blockchain and proof of credit share (PoCS) for data exchange consensus.\r\n\r\nMinqiang Huang is the Founder and CEO, having more than 10 years of experience in data exchange, blockchain, and financial technology. He first became interested in cryptocurrency back in 2012, and since then he started several projects in this market. He was the former CTO at Hakim Unique Internet Co Ltd, and Director of financial services of HAKIM UNIQUE. He received his bachelor degree in computer science at Shandong University of Science and Technology, and his master in management at Hong Kong Finance and Economics College. Guojun Tu is the Co-founder and Vice President, and is a serial entrepreneur, having over 21 years of experience in the field of information security, financial transactions, and computer science. Guojun activated as a senior executive at 3 public traded IT company. He received his bachelor degree in computer science at Hunan University.",
+  "coingeckoId": "gxchain",
+  "links": {
+    "twitter": "https://twitter.com/GXChainGlobal",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1813679",
+    "telegram": "https://t.me/GXChain_international",
+    "reddit": "https://www.reddit.com/r/GXS/",
+    "github": "https://github.com/gxchain"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "lido-dao",
+  "name": "Lido DAO",
+  "symbol": "ldo",
+  "logoURI": "https://assets.coingecko.com/coins/images/13573/large/Lido_DAO.png?1609873644",
+  "website": "https://stake.lido.fi/",
+  "description": "",
+  "coingeckoId": "lido-dao",
+  "links": {
+    "twitter": "https://twitter.com/lidofinance",
+    "telegram": "https://t.me/lidofinance",
+    "reddit": "https://www.reddit.com/r/lidofinance",
+    "github": "https://github.com/lidofinance/lido-dao"
+  }
+}

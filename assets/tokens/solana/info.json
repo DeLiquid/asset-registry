@@ -1,0 +1,15 @@
+{
+  "key": "solana",
+  "name": "Solana",
+  "symbol": "sol",
+  "logoURI": "https://assets.coingecko.com/coins/images/4128/large/solana.png?1640133422",
+  "website": "https://solana.com/",
+  "description": "Solana crypto is a high throughput blockchain based on the Proof of History (PoH) and Proof of Stake (PoS) consensus. Built by a team of networking engineers, Solana aims to become the blockchain infrastucture for modern internet applications.",
+  "coingeckoId": "solana",
+  "links": {
+    "twitter": "https://twitter.com/solana",
+    "telegram": "https://t.me/solana",
+    "reddit": "https://www.reddit.com/r/solana",
+    "github": "https://github.com/solana-labs/solana"
+  }
+}

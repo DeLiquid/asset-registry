@@ -1,0 +1,12 @@
+{
+  "key": "gala-wormhole",
+  "name": "Gala (Wormhole)",
+  "symbol": "gala",
+  "logoURI": "https://assets.coingecko.com/coins/images/23067/large/GALA_wh_small.png?1644225727",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "gala-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

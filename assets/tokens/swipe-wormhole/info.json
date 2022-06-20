@@ -1,0 +1,12 @@
+{
+  "key": "swipe-wormhole",
+  "name": "Swipe (Wormhole)",
+  "symbol": "sxp",
+  "logoURI": "https://assets.coingecko.com/coins/images/22975/large/SXP_wh_small.png?1644223885",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "swipe-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

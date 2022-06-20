@@ -1,0 +1,15 @@
+{
+  "key": "harmony",
+  "name": "Harmony",
+  "symbol": "one",
+  "logoURI": "https://assets.coingecko.com/coins/images/4344/large/Y88JAze.png?1565065793",
+  "website": "https://harmony.one/",
+  "description": "Harmony\u2019s open, decentralized network is enabled through the use of the native protocol token - Harmony ONE. The token incentivizes and rewards a variety of participants including developers, validators/stakers, investors, and community members who develop, secure and govern the network. In order to use the network, users pay a small transaction fee denominated in the native Harmony token.\r\n\r\nHarmony\u2019s scalable, high-throughput protocol is powered by a native token which is used for various forms of payment and participation in the protocol (staking, transaction fees, voting & governance).\r\n\r\nHarmony uses blockchain to align incentives of different stakeholders, developers and businesses while allowing them to build open marketplaces of fungible and non-fungible tokens and assets. Furthermore, the upcoming application of zero-knowledge proofs will allow Harmony to become a data sharing platform that can overcome the conflicting problem plaguing many information and data markets: that individual market participants\u2019 have mutual distrust to share data but strong desire to acquire data themselves.\r\n\r\nThe Harmony token will function in the following aspects of the protocol:\r\n\r\nThe token is used for staking, which is necessary to participate in the POS consensus & earn block rewards and transaction fees.\r\nThe token is used to pay for transaction fees, gas and storage fees.\r\nThe token is used in voting for on-chain governance of the protocol.",
+  "coingeckoId": "harmony",
+  "links": {
+    "twitter": "https://twitter.com/harmonyprotocol",
+    "telegram": "https://t.me/harmony_one",
+    "reddit": "https://www.reddit.com/r/harmony_one/",
+    "github": "https://github.com/harmony-one"
+  }
+}

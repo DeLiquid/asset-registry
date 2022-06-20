@@ -1,0 +1,15 @@
+{
+  "key": "rei-network",
+  "name": "REI Network",
+  "symbol": "rei",
+  "logoURI": "https://assets.coingecko.com/coins/images/25240/large/c51_j0aB_400x400.jpg?1650959628",
+  "website": "https://rei.network/",
+  "description": "REI Network was developed to better adapt to the development trend of the blockchain, and to achieve a lightweight, Ethereum compatible, higher performance, and no fee blockchain framework.",
+  "coingeckoId": "rei-network",
+  "links": {
+    "twitter": "https://twitter.com/GXChainGlobal",
+    "telegram": "https://t.me/GXChain_international",
+    "reddit": "https://www.reddit.com/r/GXS/",
+    "github": "https://github.com/rei-network"
+  }
+}

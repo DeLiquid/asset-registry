@@ -1,0 +1,15 @@
+{
+  "key": "loopring",
+  "name": "Loopring",
+  "symbol": "lrc",
+  "logoURI": "https://assets.coingecko.com/coins/images/913/large/LRC.png?1572852344",
+  "website": "https://loopring.org/",
+  "description": "Loopring is a Decentralized Exchange (DEX) built on an Ethereum Layer-2 (L2) solution called zkRollup. It has both Automated Market Maker (AMM)-based and orderbook-based exchanges.\u00a0\r\n\r\nzkRollup is an Ethereum L2 scaling solution that migrates computations off the blockchain. Loopring protocol only uses the underlying Ethereum blockchain as a data layer and a verification layer. As a result, Loopring's throughput is as high as 2,025 trades per second compared to Ethereum\u2019s current throughput of 15 transactions per second. The result is that the cost per trade settlement is as small as $0.00015.\r\n\r\nLoopring's performance is sufficient for professional traders and market makers to deploy algorithmic strategies and other automated trading bots. This was not previously possible on any DEX as it was prohibitively slow and expensive. By building on top of Loopring 3.0, orderbook-based DEXs can be commercially viable for the first time. Loopring expects non-custodial exchanges can begin to outcompete and displace many centralized counterparts.",
+  "coingeckoId": "loopring",
+  "links": {
+    "twitter": "https://twitter.com/loopringorg",
+    "telegram": "https://t.me/loopring_en",
+    "reddit": "https://www.reddit.com/r/loopringorg/",
+    "github": "https://github.com/Loopring"
+  }
+}

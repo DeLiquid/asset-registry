@@ -1,0 +1,15 @@
+{
+  "key": "bitmart-token",
+  "name": "BitMart",
+  "symbol": "bmx",
+  "logoURI": "https://assets.coingecko.com/coins/images/5236/large/bitmart-token.png?1548835017",
+  "website": "https://www.bitmart.com/trade/en?symbol=AKT_USDT",
+  "description": "BMX is an ERC20 based token issued by BitMart Exchange with total volume of 1,000,000,000. First issued as BMC in December 2017, BitMart changed the name of the token in January 2018 as BMX. You may find that the symbol name displayed in the smart contract and block explorer as BMC, but the actual symbol name we use is BMX. The reason is: our toke was named BMC, but then we find that  \"BMC\" has been used by another project, so we have to change the symbol name of our token to \"BMX\". ",
+  "coingeckoId": "bitmart-token",
+  "links": {
+    "twitter": "https://twitter.com/BitMartExchange",
+    "facebook": "https://www.facebook.com/bitmartexchange",
+    "telegram": "https://t.me/BitMartExchange",
+    "reddit": "https://www.reddit.com/r/BitMartExchange/"
+  }
+}

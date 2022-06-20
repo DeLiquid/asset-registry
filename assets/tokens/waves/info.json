@@ -1,0 +1,16 @@
+{
+  "key": "waves",
+  "name": "Waves",
+  "symbol": "waves",
+  "logoURI": "https://assets.coingecko.com/coins/images/425/large/waves.png?1548386117",
+  "website": "https://waves.tech/",
+  "description": "Waves is an open blockchain protocol and development toolset for Web 3.0 applications and decentralized solutions, aiming to raise security, reliability and speed of IT systems. It enables anyone to build their apps, fostering mass adoption of blockchain.",
+  "coingeckoId": "waves",
+  "links": {
+    "twitter": "https://twitter.com/wavesprotocol",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=3223136",
+    "telegram": "https://t.me/wavesnews",
+    "reddit": "https://www.reddit.com/r/Wavesplatform/",
+    "github": "https://github.com/wavesplatform"
+  }
+}

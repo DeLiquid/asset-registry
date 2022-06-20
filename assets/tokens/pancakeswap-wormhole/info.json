@@ -1,0 +1,12 @@
+{
+  "key": "pancakeswap-wormhole",
+  "name": "PancakeSwap (Wormhole)",
+  "symbol": "cake",
+  "logoURI": "https://assets.coingecko.com/coins/images/22958/large/CAKE_wh_small.png?1644224762",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "pancakeswap-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

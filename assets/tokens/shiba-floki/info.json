@@ -1,0 +1,14 @@
+{
+  "key": "shiba-floki",
+  "name": "Shiba Floki Inu",
+  "symbol": "floki",
+  "logoURI": "https://assets.coingecko.com/coins/images/17115/large/shiba-logo-v2_2x.png?1642928563",
+  "website": "https://www.shibafloki.com/",
+  "description": "Shiba Floki which operates on Binance Smart Chain is the latest cryptocurrency that's a descendant of meme father Dogecoin. More specifically, it's a hyper-deflationary subcoin that has a smart sharing system built in ecosystem so every investor gets more shibafloki added to their wallet. This means every card owner gets %5 commission fee for every transaction that takes place. Imagine being able to track fresh new tokens immediately even before they launch while being sure if buying them is safe.",
+  "coingeckoId": "shiba-floki",
+  "links": {
+    "twitter": "https://twitter.com/shibaflokitoken",
+    "telegram": "https://t.me/shibaflokitoken",
+    "github": "https://github.com/ShibaFloki"
+  }
+}

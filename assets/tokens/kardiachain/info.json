@@ -1,0 +1,16 @@
+{
+  "key": "kardiachain",
+  "name": "KardiaChain",
+  "symbol": "kai",
+  "logoURI": "https://assets.coingecko.com/coins/images/7942/large/kai.png?1647079540",
+  "website": "https://www.kardiachain.io/",
+  "description": "We believe Blockchain can create equal opportunities for people, a world where people have access to opportunity to invest, to start a business, to work and to be socially mobile.\r\nOur technology empowers mass adoption, expand use-cases and lay foundation of the blockchain ecosystem.\r\nWe are building a blockchain platform for decentralised applications (Dapps) and helping to create a blockchain ecosystem that allow for scaling and connecting disparate blockchains.",
+  "coingeckoId": "kardiachain",
+  "links": {
+    "twitter": "https://twitter.com/KardiaChain",
+    "facebook": "https://www.facebook.com/KardiaChainFoundation",
+    "telegram": "https://t.me/kardiachainofficial",
+    "reddit": "https://www.reddit.com/r/KardiaChain/",
+    "github": "https://github.com/kardiachain/go-kardia"
+  }
+}

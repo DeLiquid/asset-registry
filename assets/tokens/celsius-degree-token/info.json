@@ -1,0 +1,15 @@
+{
+  "key": "celsius-degree-token",
+  "name": "Celsius Network",
+  "symbol": "cel",
+  "logoURI": "https://assets.coingecko.com/coins/images/3263/large/CEL_logo.png?1609598753",
+  "website": "https://celsius.network/",
+  "description": "For crypto to continue to spread and gain traction we\u2019ve got to bring the next 100m people into the crypto community. In order to do that, real products built by real teams have to provide real utility to the public. We\u2019re building Celsius to bring a new wave of financial products to the market designed, for the first time, to always do what\u2019s in the best interest of its members instead of trying to make as much profit as possible. Members will be able to borrow USD against their crypto holdings in their wallet which will be used as collateral. Our goal is to allow anyone who\u2019s in need of cash to easily borrow from the Celsius platform without having to sell their crypto holdings. In the future, through the Celsius Network, cryptocurrencies deposited by members into their Celsius Wallet will be available on the network for immediate borrowing and shorting.\r\n\r\n",
+  "coingeckoId": "celsius-degree-token",
+  "links": {
+    "twitter": "https://twitter.com/celsiusnetwork",
+    "facebook": "https://www.facebook.com/CelsiusNetwork",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2517756",
+    "reddit": "https://www.reddit.com/r/CelsiusNetwork"
+  }
+}

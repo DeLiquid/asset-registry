@@ -1,0 +1,12 @@
+{
+  "key": "yield-guild-games-wormhole",
+  "name": "Yield Guild Games (Wormhole)",
+  "symbol": "ygg",
+  "logoURI": "https://assets.coingecko.com/coins/images/22967/large/YGG_wh_small.png?1644222935",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "yield-guild-games-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

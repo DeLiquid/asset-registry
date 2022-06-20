@@ -1,0 +1,16 @@
+{
+  "key": "contentbox",
+  "name": "ContentBox",
+  "symbol": "box",
+  "logoURI": "https://assets.coingecko.com/coins/images/4929/large/contentbox.png?1547740046",
+  "website": "https://contentbox.one/",
+  "description": "",
+  "coingeckoId": "contentbox",
+  "links": {
+    "twitter": "https://twitter.com/Contentbox_one",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=3898690",
+    "telegram": "https://t.me/BoxCommunity",
+    "reddit": "https://www.reddit.com/r/ContentBoxOfficial/",
+    "github": "https://github.com/BOXFoundation/bch-wallet"
+  }
+}

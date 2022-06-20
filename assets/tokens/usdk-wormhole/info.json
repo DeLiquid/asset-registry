@@ -1,0 +1,12 @@
+{
+  "key": "usdk-wormhole",
+  "name": "USDK (Wormhole)",
+  "symbol": "usdk",
+  "logoURI": "https://assets.coingecko.com/coins/images/23023/large/USDK_wh_small.png?1644223310",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "usdk-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

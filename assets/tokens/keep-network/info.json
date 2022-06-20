@@ -1,0 +1,15 @@
+{
+  "key": "keep-network",
+  "name": "Keep Network",
+  "symbol": "keep",
+  "logoURI": "https://assets.coingecko.com/coins/images/3373/large/IuNzUb5b_400x400.jpg?1589526336",
+  "website": "https://keep.network/",
+  "description": "A keep is an off-chain container for private data. Keeps help contracts harness the full power of the public blockchain \u2014 enabling deep interactivity with private data.\r\n\r\nKeep Network aims to provide an off-chain \u201ccontainers\u201d\u200a\u2014\u200acalled keeps\u200a\u2014\u200athat should keep private data safe from the public blockchain, thereby enabling smart contracts to maximize the full potential of blockchain tech without compromising on transparency or privacy. Keeps will be used to encrypt and store private data, and the keeps are to be protected by secure multi-party computation (sMPC) that allows generating, storing, encrypting and transmitting of data among different users.",
+  "coingeckoId": "keep-network",
+  "links": {
+    "twitter": "https://twitter.com/keep_project",
+    "telegram": "https://t.me/KeepNetworkOfficial",
+    "reddit": "https://www.reddit.com/r/KeepNetwork",
+    "github": "https://github.com/keep-network"
+  }
+}

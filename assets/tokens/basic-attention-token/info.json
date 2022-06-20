@@ -1,0 +1,15 @@
+{
+  "key": "basic-attention-token",
+  "name": "Basic Attention",
+  "symbol": "bat",
+  "logoURI": "https://assets.coingecko.com/coins/images/677/large/basic-attention-token.png?1547034427",
+  "website": "https://basicattentiontoken.org/",
+  "description": "Basic Attention Token (BAT) is an open-source, decentralized ad exchange platform built on <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> platform. Basic Attention Token held an initial coin offering on May 31, 2017 for its eponymous ERC-20 utility token, raising approximately $35M USD at the time in less than 30 seconds. The Basic Attention Token aims to fix digital advertising, which is broken, fraudulent and opaque. \r\n\r\nBasic Attention Token work by having advertisers pay BAT to website publishers for the attention of users. The BAT token is designed to correctly value and price user attention within the platform. The Basic Attention Token comprises various components, including attention measurement systems, analytics dashboards and machine learning algorithms. Integration of BAT into a given host application involves implementing BAT Ads, a system that matches and displays ads to users based on locally stored data. Ad targeting is performed wholly on-device, removing the need for third-party tracking. BAT is focused on the Brave browser. Brave is an open-source, privacy-centered browser designed to block trackers and malware. It utilizes blockchain technology to anonymously and securely track user attention, which translates into rewards for publishers.\r\n\r\nA user's attention, meaning his or her focused mental engagement on digital content like advertisements, is logged through Brave. The makers of BAT indicate that the user's private data and tracking information is stored only on the user's device, ensuring that it is anonymous and private.\r\n\r\nCreated back in 2016, the Basic Attention Token has one of the biggest names behind it, that of Brendan Eich, the creator of JavaScript and the legendary co-founder of Mozilla. Other noteworthy team members include Brian Bondy, lead developer and co-founder of Brave and Scott Locklin, senior engineer, and co-founder of Kerf Software.\"\r\n\r\nBasic Attention Token is created by the team that built the <a href=\"https://brave.com/coi600\">Brave browser</a>, an open-source, privacy-focused browser that blocks ads and trackers. The browser measures user attention and rewards publishers for users attention. \r\n\r\nUse the Brave browser to protect your privacy and support CoinGecko at the same time: https://brave.com/coi600",
+  "coingeckoId": "basic-attention-token",
+  "links": {
+    "whitepaper": "https://basicattentiontoken.org/wp-content/uploads/2017/05/BasicAttentionTokenWhitePaper-4.pdf",
+    "twitter": "https://twitter.com/AttentionToken",
+    "reddit": "https://www.reddit.com/r/BATProject",
+    "github": "https://github.com/brave-intl"
+  }
+}

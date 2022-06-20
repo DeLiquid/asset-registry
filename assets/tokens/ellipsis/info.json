@@ -1,0 +1,14 @@
+{
+  "key": "ellipsis",
+  "name": "Ellipsis [OLD]",
+  "symbol": "eps",
+  "logoURI": "https://assets.coingecko.com/coins/images/14498/large/ellipsis-light.png?1651625258",
+  "website": "https://www.ellipsis.finance/",
+  "description": "Secure low-slippage stable swapping on BSC",
+  "coingeckoId": "ellipsis",
+  "links": {
+    "twitter": "https://twitter.com/ellipsisfi",
+    "telegram": "https://t.me/ellipsisfinance",
+    "github": "https://github.com/ellipsis-finance/"
+  }
+}

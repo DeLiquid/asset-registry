@@ -1,0 +1,14 @@
+{
+  "key": "immutable-x",
+  "name": "Immutable X",
+  "symbol": "imx",
+  "logoURI": "https://assets.coingecko.com/coins/images/17233/large/imx.png?1636691817",
+  "website": "https://www.immutable.com",
+  "description": "IMX is the native token for the Immutable X network, the first zk-rollup for NFT on Ethereum.",
+  "coingeckoId": "immutable-x",
+  "links": {
+    "twitter": "https://twitter.com/Immutable",
+    "telegram": "https://t.me/immutablex",
+    "reddit": "https://www.reddit.com"
+  }
+}

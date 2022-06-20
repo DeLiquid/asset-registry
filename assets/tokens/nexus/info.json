@@ -1,0 +1,17 @@
+{
+  "key": "nexus",
+  "name": "Nexus",
+  "symbol": "nxs",
+  "logoURI": "https://assets.coingecko.com/coins/images/576/large/nexus-logo.png?1547034256",
+  "website": "https://nexus.io/",
+  "description": "\"Nexus is a community-driven project with the common vision of a world inspired by innovative and responsible values, expansive technology, and the fundamental quality of connection being ubiquitous, free, and available to everyone. Nexus has been mined into existence since September 23rd , 2014 with no ICO or premine.The platform is designed and intended to simplify lives, empower communities, and streamline business.\r\n\r\n\r\nThe release of the Tritium Protocol in late 2019 ushered in the era of the TAO Framework being the first of the three major architectural upgrades (Tritium, Amine, & Obsidian). Nexus is a seven-layered software stack that powers a register-based process virtual machine, serving as a powerful DApp and contract platform creating value across many industries. Development is accessible via an array of industry-specific JSON-based APIs including but not limited to: encrypted communication, digital identifiers, supply chain, asset management, cryptography, & tokenization.\r\n\r\n\r\nNexus uses post-quantum signature schemes (FALCON), and automated key management functions through a technology called 'Signature Chains'. This technology eliminates key management issues (wallet.dat's) by allowing users to access their accounts with the familiarity of a username, password and PIN. Additional technology being developed by Nexus includes a Decentralized Autonomous Organization (DAO) for governance, Safenet, a hack resistant Operating System, a decentralized satellite & mesh network all connected through a multi-dimensional chaining structure that employs sharding, low latency transaction finality, and truly decentralized multi-layer consensus. \"",
+  "coingeckoId": "nexus",
+  "links": {
+    "twitter": "https://twitter.com/NexusOfficial",
+    "facebook": "https://www.facebook.com/nxsearth",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5139744",
+    "telegram": "https://t.me/NexusOfficial",
+    "reddit": "https://www.reddit.com/r/nexusearth/",
+    "github": "https://github.com/Nexusoft"
+  }
+}

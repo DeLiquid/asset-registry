@@ -1,0 +1,14 @@
+{
+  "key": "alita",
+  "name": "Alita",
+  "symbol": "ali",
+  "logoURI": "https://assets.coingecko.com/coins/images/17750/large/Logo-200x200_%286%29.png?1629173982",
+  "website": "https://app.alita.finance/",
+  "description": "The team at https://app.alita.finance/#/ has created their own utility token \u2013 ALITA (ALI) that serves multiple roles across the Alita Finance ecosystem, including rewarding investors with ALITA tokens when trading across their ecosystem or externally through their CEX partners\u2019 trading platforms.\r\n\r\nALITA has a relatively low fixed max supply of 100 million tokens and operates by means of a well-ordered mechanism for distribution. The ALITA token allocation reduces by 20% every 6 months and the amount allocated to the initial airdrop distribution is 5% while 95% of the total supply is tightly scheduled in distribution activities across both the Alita Finance ecosystem and their CEX partners\u2019 trading platforms within 5 years.",
+  "coingeckoId": "alita",
+  "links": {
+    "twitter": "https://twitter.com/AlitaFinance",
+    "telegram": "https://t.me/ALita_Finance",
+    "github": "https://github.com/alita-finance/alita-token"
+  }
+}

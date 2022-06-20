@@ -1,0 +1,13 @@
+{
+  "key": "pha",
+  "name": "Phala Network",
+  "symbol": "pha",
+  "logoURI": "https://assets.coingecko.com/coins/images/12451/large/phala.png?1600061318",
+  "website": "https://phala.network/",
+  "description": "",
+  "coingeckoId": "pha",
+  "links": {
+    "twitter": "https://twitter.com/PhalaNetwork",
+    "telegram": "https://t.me/phalanetwork"
+  }
+}

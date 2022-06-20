@@ -1,0 +1,12 @@
+{
+  "key": "paxos-gold-wormhole",
+  "name": "Paxos Gold (Wormhole)",
+  "symbol": "paxg",
+  "logoURI": "https://assets.coingecko.com/coins/images/23011/large/PAXG_wh_small.png?1644226788",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "paxos-gold-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

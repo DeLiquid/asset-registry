@@ -1,0 +1,15 @@
+{
+  "key": "origin-dollar",
+  "name": "Origin Dollar",
+  "symbol": "ousd",
+  "logoURI": "https://assets.coingecko.com/coins/images/12589/large/ousd-logo-200x200.png?1600943287",
+  "website": "https://www.ousd.com",
+  "description": "Origin Dollar (OUSD) is the first stablecoin that earns a yield while it's still in your wallet. Built by the team at Origin Protocol (OGN).",
+  "coingeckoId": "origin-dollar",
+  "links": {
+    "twitter": "https://twitter.com/originprotocol",
+    "telegram": "https://t.me/originprotocol",
+    "reddit": "https://www.reddit.com/r/originprotocol/",
+    "github": "https://www.github.com/originprotocol/origin-dollar"
+  }
+}

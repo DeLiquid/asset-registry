@@ -1,0 +1,14 @@
+{
+  "key": "xels",
+  "name": "XELS",
+  "symbol": "xels",
+  "logoURI": "https://assets.coingecko.com/coins/images/14729/large/Xels_logo_square_%281%29.png?1617957186",
+  "website": "https://xels.io/",
+  "description": "XELS is an eco-conscious blockchain platform enabling corporations and individuals alike the ability to easily and transparently offset their carbon footprint by purchasing tokenized carbon offset credits.\r\n\r\nSince the birth of carbon offset markets in the wake of the Kyoto and Paris agreements, fraud has been a serious problem. Bad actors have been known to sell fake or expired carbon credits, and credit \u201crecycling\u201d fraud can lead to double spending of unretired carbon credits (see here for an example of one of the biggest fraud cases to hit carbon credits, which even ensnared Deutsche Bank. Blockchain\u2019s distributed ledger technology is the perfect use case for carbon credits, as it cannot be changed, reversed, or double spent. Digital assets can also be \u201cburned,\u201d along with a transaction hash that proves the associated credit has been retired forever. We\u2019re initially launching the eponymous XELS token as a \u201cplatform token\u201d to access a future suite of stable tokens pegged 1:1 to various industry-standard voluntary carbon offset credits \u2013 think of those as being the \u201cUSDT\u201d of carbon credits.",
+  "coingeckoId": "xels",
+  "links": {
+    "twitter": "https://twitter.com/xels_pr",
+    "facebook": "https://www.facebook.com/xelscoin",
+    "telegram": "https://t.me/xelscoin"
+  }
+}

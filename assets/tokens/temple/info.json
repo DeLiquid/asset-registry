@@ -1,0 +1,14 @@
+{
+  "key": "temple",
+  "name": "TempleDAO",
+  "symbol": "temple",
+  "logoURI": "https://assets.coingecko.com/coins/images/20040/large/LPK15ZOW_400x400.jpg?1636425070",
+  "website": "https://www.templedao.link/rituals",
+  "description": "TempleDAO is designed on strong principles: building the Temple for the long-term, community first and fairly in all aspects, and prioritising stable wealth creation. Our innovative mechanics including safe minting, intrinsic value backed rewards, safe harvest, price defence incentives, and exit queue.",
+  "coingeckoId": "temple",
+  "links": {
+    "twitter": "https://twitter.com/templedao",
+    "telegram": "https://t.me/TempleDAOcommunity",
+    "github": "https://github.com/TempleDAO/TempleDAO"
+  }
+}

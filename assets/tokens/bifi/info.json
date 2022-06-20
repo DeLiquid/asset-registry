@@ -1,0 +1,15 @@
+{
+  "key": "bifi",
+  "name": "BiFi",
+  "symbol": "bifi",
+  "logoURI": "https://assets.coingecko.com/coins/images/13671/large/ysYIu7Q.png?1610679337",
+  "website": "https://bifi.finance/",
+  "description": "BiFi token serves multiple functions on BiFi\u2019s multichain DeFi platform. It can be used as a governance token, used to vote on proposals to enhance or submit proposals for BiFi. It can also be used as a currency to pay for multichain DeFi services on BiFi and used in services on BiFi. ",
+  "coingeckoId": "bifi",
+  "links": {
+    "twitter": "https://twitter.com/BiFi_lending",
+    "telegram": "https://t.me/Bifrost_Global",
+    "reddit": "https://www.reddit.com",
+    "github": "https://github.com/bifrost-platform/BIFI"
+  }
+}

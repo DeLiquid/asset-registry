@@ -1,0 +1,14 @@
+{
+  "key": "my-neighbor-alice",
+  "name": "My Neighbor Alice",
+  "symbol": "alice",
+  "logoURI": "https://assets.coingecko.com/coins/images/14375/large/alice_logo.jpg?1615782968",
+  "website": "https://www.myneighboralice.com/",
+  "description": "",
+  "coingeckoId": "my-neighbor-alice",
+  "links": {
+    "twitter": "https://twitter.com/MyNeighborAlice",
+    "telegram": "https://t.me/MyNeighborAlice",
+    "reddit": "https://www.reddit.com"
+  }
+}

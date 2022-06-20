@@ -1,0 +1,14 @@
+{
+  "key": "nym",
+  "name": "Nym",
+  "symbol": "nym",
+  "logoURI": "https://assets.coingecko.com/coins/images/24488/large/NYM_Token.png?1649926353",
+  "website": "https://nymtech.net/",
+  "description": "Existing internet protocols leak sensitive data that can be used without users knowledge \u2014 Nym is developing the infrastructure to prevent this data leakage by protecting every packet\u2019s metadata at the network and application layers.",
+  "coingeckoId": "nym",
+  "links": {
+    "twitter": "https://twitter.com/nymproject",
+    "telegram": "https://t.me/nymchan",
+    "github": "https://github.com/nymtech"
+  }
+}

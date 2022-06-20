@@ -1,0 +1,14 @@
+{
+  "key": "clover",
+  "name": "Clover",
+  "symbol": "clv",
+  "logoURI": "https://assets.coingecko.com/coins/images/12888/large/clover_logo.png?1603274615",
+  "website": "http://cloverprotocol.biz/",
+  "description": "A completely /biz/-run DeFi project. The network is governed by token owners, with a distribution as widely within the /biz/ community as possible via the fair launch. As chainlinkers understand that the financial system is slowly but surely becoming like LEGO bricks, there is opportunity at the edges to innovate as the bull run for Bitcoin, DeFi and daily /biz/ volume itself draw near.",
+  "coingeckoId": "clover",
+  "links": {
+    "twitter": "https://twitter.com/clvbiz",
+    "telegram": "https://t.me/clvfi",
+    "github": "http://github.com/clvfi"
+  }
+}

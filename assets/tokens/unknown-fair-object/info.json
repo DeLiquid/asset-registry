@@ -1,0 +1,14 @@
+{
+  "key": "unknown-fair-object",
+  "name": "Unknown Fair Object",
+  "symbol": "ufo",
+  "logoURI": "https://assets.coingecko.com/coins/images/10861/large/qzRawLG4_400x400.jpg?1585409160",
+  "website": "http://www.ufo.link/",
+  "description": "",
+  "coingeckoId": "unknown-fair-object",
+  "links": {
+    "twitter": "https://twitter.com/origin015",
+    "telegram": "https://t.me/ufoproject",
+    "github": "https://github.com/ufo-project"
+  }
+}

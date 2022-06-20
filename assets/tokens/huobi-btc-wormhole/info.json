@@ -1,0 +1,12 @@
+{
+  "key": "huobi-btc-wormhole",
+  "name": "Huobi BTC (Wormhole)",
+  "symbol": "hbtc",
+  "logoURI": "https://assets.coingecko.com/coins/images/23069/large/HBTC_wh_small.png?1644225856",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "huobi-btc-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key": "baby-doge-coin",
+  "name": "Baby Doge Coin",
+  "symbol": "babydoge",
+  "logoURI": "https://assets.coingecko.com/coins/images/16125/large/Baby_Doge.png?1623044048",
+  "website": "https://babydogecoin.com/",
+  "description": "Baby Doge Coin is a meme cryptocurrency designed to be deflationary and more scarce over time. All holders of Baby Doge will earn more baby doge that is automatically sent to your wallet by simply holding Baby Doge coins in your wallet. Watch the amount of baby doge grow in your wallet as baby doge coin holders automatically receive a 5% fee from every on chain transaction that happens on the Baby Doge ecosystem. The community receives more baby doge coins from the fees generated each transaction.",
+  "coingeckoId": "baby-doge-coin",
+  "links": {
+    "twitter": "https://twitter.com/babydogecoin",
+    "telegram": "https://t.me/babydogecoin"
+  }
+}

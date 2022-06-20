@@ -1,0 +1,15 @@
+{
+  "key": "silvercoin",
+  "name": "SilverCoin",
+  "symbol": "sc",
+  "logoURI": "https://assets.coingecko.com/coins/images/22514/large/coin-silver.png?1641966750",
+  "website": "https://fishervspirate.com",
+  "description": "Silver Coin is the reward token of Fisher Vs Pirate, a NFT play-to-earn game released on December 26, 2021. Fisher Vs Pirate is a web farm, 2D and 3D metaverse game that gives rewards to its player through the in-game currency Silver Coin - SC.",
+  "coingeckoId": "silvercoin",
+  "links": {
+    "twitter": "https://twitter.com/fishervspirate",
+    "telegram": "https://t.me/fishervspirateEN",
+    "reddit": "https://www.reddit.com/user/FISHERvsPIRATE",
+    "github": "https://github.com/delarosan1/sc/tree/main"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "key": "sushi-wormhole",
+  "name": "Sushi (Wormhole)",
+  "symbol": "sushi",
+  "logoURI": "https://assets.coingecko.com/coins/images/22977/large/SUSHI_wh_small.png?1644224030",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "sushi-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

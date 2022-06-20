@@ -1,0 +1,12 @@
+{
+  "key": "frax-wormhole",
+  "name": "Frax (Wormhole)",
+  "symbol": "frax",
+  "logoURI": "https://assets.coingecko.com/coins/images/23046/large/FRAX_wh_small.png?1644225516",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "frax-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

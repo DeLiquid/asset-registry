@@ -1,0 +1,14 @@
+{
+  "key": "convex-crv",
+  "name": "Convex CRV",
+  "symbol": "cvxcrv",
+  "logoURI": "https://assets.coingecko.com/coins/images/15586/large/convex-crv.png?1621255952",
+  "website": "https://www.convexfinance.com/",
+  "description": "Convex CRV is a tokenized form of veCRV, a vote escrowed CRV token. It is revenue earning token which receives rewards from the Convex protocol and admin fees from the Curve protocol.",
+  "coingeckoId": "convex-crv",
+  "links": {
+    "twitter": "https://twitter.com/ConvexFinance",
+    "telegram": "https://t.me/convexEthChat",
+    "github": "https://github.com/convex-eth/platform"
+  }
+}

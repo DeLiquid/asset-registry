@@ -1,0 +1,14 @@
+{
+  "key": "osmosis",
+  "name": "Osmosis",
+  "symbol": "osmo",
+  "logoURI": "https://assets.coingecko.com/coins/images/16724/large/osmo.png?1632763885",
+  "website": "https://osmosis.zone/",
+  "description": "Token of the Osmosis Hub, first DEX for IBC connected coins built on the Cosmos SDK",
+  "coingeckoId": "osmosis",
+  "links": {
+    "twitter": "https://twitter.com/osmosiszone",
+    "telegram": "https://t.me/osmosis_chat",
+    "github": "https://github.com/osmosis-labs/osmosis"
+  }
+}

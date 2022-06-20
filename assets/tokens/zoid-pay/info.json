@@ -1,0 +1,13 @@
+{
+  "key": "zoid-pay",
+  "name": "ZoidPay",
+  "symbol": "zpay",
+  "logoURI": "https://assets.coingecko.com/coins/images/16813/large/zpay.png?1647693485",
+  "website": "https://www.zoidpay.com/",
+  "description": "ZoidPay is a global fintech company that offers a range of end-to-end crypto payment solutions for online and in-store shopping. For retail customers, ZoidPay lets them purchase products and services with crypto from online retailers including Amazon, Walmart and eBay. For enterprise clients, ZoidPay enables interoperability between wallets and exchanges for providing instant liquidity to their users. With a single line of code, they can integrate with ZoidPay products.\r\n\r\nThe ZoidPay ecosystem has four core products:\r\n1. Chrome Extension, allowing one to shop directly from their browser from any retailer by connecting existing wallets to the Chrome Extension \r\n2. Marketplace App, a global merchants aggregator, offering one a custom-shopping experience with Crypto Cashback, DeFi, Staking and Loans  \r\n3. Wallet App, a non-custodial mobile wallet, to manage crypto finances seamlessly, while allowing merchants to use it as a crypto mPOS\r\n4. Crypto Cards, blockchain agnostic crypto cards, that allow P2P transactions and in store payments in a contactless manner",
+  "coingeckoId": "zoid-pay",
+  "links": {
+    "twitter": "https://twitter.com/ZoidPay",
+    "telegram": "https://t.me/zoidpay"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "bitcicoin",
+  "name": "Bitcicoin",
+  "symbol": "bitci",
+  "logoURI": "https://assets.coingecko.com/coins/images/13816/large/bitcichain.png?1612050786",
+  "website": "https://www.bitcichain.com/",
+  "description": "Bitci Chain is a programmable decentralized blockchain network. On Bitci Chain tokens can be created and smart contracts can be executed. It is optimized to provide companies with the best possible blockchain adaptation. Bitci Chain examines your business activities and your company, while offering you the most suitable blockchain solutions, speeds up your transactions, increases user and customer interaction, and provides a low cost, transparent and reliable infrastructure.",
+  "coingeckoId": "bitcicoin",
+  "links": {
+    "twitter": "https://twitter.com/bitcicom",
+    "telegram": "https://t.me/bitcicom",
+    "reddit": "https://www.reddit.com/r/bitcicom"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key": "meta-grow",
+  "name": "META GROW",
+  "symbol": "meta",
+  "logoURI": "https://assets.coingecko.com/coins/images/20645/large/RbRriQ5I_400x400.jpg?1637480536",
+  "website": "https://www.metagrowtoken.com/",
+  "description": "METAGrow works on an autonomous liquidity generation protocol. HODL META tokens to earn passive income every hour in XRP. The coin that pays you passive income every hour, grows your XRP bag by simply holding meta. \r\n\r\nMetaGrow is a reward token, the longer you hold the bigger the passive income you will gain. \r\n\r\nMETA holders will earn 6% rewards from every Buy or Sell Transaction in Binance pegged XRP, which is automatically sent to your wallets.\r\n\r\nFunded by strategic buyback, 2% tokens are collected from every transaction, converted to BNB, and stored in our marketing contract.",
+  "coingeckoId": "meta-grow",
+  "links": {
+    "twitter": "https://twitter.com/metagrowtoken",
+    "telegram": "https://t.me/metagrowtoken"
+  }
+}

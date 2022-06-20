@@ -1,0 +1,13 @@
+{
+  "key": "hero",
+  "name": "HERO",
+  "symbol": "hero",
+  "logoURI": "https://assets.coingecko.com/coins/images/16245/large/HERO-200.png?1628255352",
+  "website": "https://farmhero.io/",
+  "description": "FarmHero is a novel protocol that mixes NFT, gaming and DEFI concepts. Community can contribute and earn in various of ways, including but not limited to Yield Farming, NFT farming and/or NFT trading with our CUTE IP-owned NFT, bug bounty, join the incubators, playing the house games, or simply copy and paste referral link and send to friends.\r\n\r\nFarmHero has in-house games that strongly support HERO token price to ensure a long-term, continuous token model. Currently FarmHero has FOMO and Auction Games to help burn the token continuously.\r\n\r\nFarmHero has a roadmap to include more traits and varieties to our NFTs, such as blind box, customised market places, 3D VR showcase of the NFT etc",
+  "coingeckoId": "hero",
+  "links": {
+    "twitter": "https://twitter.com/FarmHeroIO",
+    "telegram": "https://t.me/farmheroIO"
+  }
+}

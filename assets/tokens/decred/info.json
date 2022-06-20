@@ -1,0 +1,17 @@
+{
+  "key": "decred",
+  "name": "Decred",
+  "symbol": "dcr",
+  "logoURI": "https://assets.coingecko.com/coins/images/329/large/decred.png?1547034093",
+  "website": "https://www.decred.org/",
+  "description": "Decred aims to build a community-directed digital currency whose security, adaptability, and sustainability make it a superior long-term store of value. It is achieving this aim by building the world's first truly decentralized autonomous organization.",
+  "coingeckoId": "decred",
+  "links": {
+    "twitter": "https://twitter.com/decredproject",
+    "facebook": "https://www.facebook.com/https://www.facebook.com/decredproject",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1290358",
+    "telegram": "https://t.me/Decred",
+    "reddit": "https://www.reddit.com/r/decred",
+    "github": "https://github.com/decred"
+  }
+}

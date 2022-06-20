@@ -1,0 +1,15 @@
+{
+  "key": "dawn-protocol",
+  "name": "Dawn Protocol",
+  "symbol": "dawn",
+  "logoURI": "https://assets.coingecko.com/coins/images/11555/large/dawn_protocol.png?1591060256",
+  "website": "https://dawn.org/",
+  "description": "Dawn is an open-source protocol for gaming and competitions.\r\n\r\nIts mission is to enable a fair, open and rewarding gaming ecosystem no matter what country or background users are from. Anyone whether you are a player, business or influencer can run competitions and earn cryptocurrencies on video games using Dawn. Game developers can integrate the open protocol in their games to allow gamers to compete.\r\n\r\nIf you participated in FirstBlood 2016 Crowdsale, you need to claim DAWN with your existing token.",
+  "coingeckoId": "dawn-protocol",
+  "links": {
+    "twitter": "https://twitter.com/DawnProtocol",
+    "facebook": "https://www.facebook.com/dawnprotocol",
+    "telegram": "https://t.me/dawnprotocol",
+    "github": "https://github.com/Dawn-Protocol/dawn-erc20-erc777"
+  }
+}

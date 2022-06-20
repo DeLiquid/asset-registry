@@ -1,0 +1,16 @@
+{
+  "key": "steem-dollars",
+  "name": "Steem Dollars",
+  "symbol": "sbd",
+  "logoURI": "https://assets.coingecko.com/coins/images/652/large/steem_dollars.png?1547034385",
+  "website": "https://steem.com/",
+  "description": "Steem Dollars are liquid stable-value currency tokens designed to be pegged to $1 USD. Steem Dollars can be traded with STEEM and transferred to other accounts for commerce or exchange.",
+  "coingeckoId": "steem-dollars",
+  "links": {
+    "twitter": "https://twitter.com/steemit",
+    "facebook": "https://www.facebook.com/steemit",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1410943",
+    "reddit": "https://www.reddit.com/r/steemit",
+    "github": "https://github.com/steemit/steem"
+  }
+}

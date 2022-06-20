@@ -1,0 +1,13 @@
+{
+  "key": "non-fungible-toke",
+  "name": "Non-Fungible TOKE",
+  "symbol": "toke",
+  "logoURI": "https://assets.coingecko.com/coins/images/17969/large/toke.PNG?1629947405",
+  "website": "https://holdyourtoke.com/",
+  "description": "Non-Fungible Toke is an Automated Market Maker (AMM) for NFTs. \r\nETH from minting NFT \"\"Clone NFTs\"\" is deposited into a Liquidity Vault--this provides liquidity for burning NFTs at any time. \r\n\r\nThe \"\"Master Seed NFT\"\" holders receive 8% of the Ether from every Clone grown, and Clone prices increase exponentially along a bonding curve.",
+  "coingeckoId": "non-fungible-toke",
+  "links": {
+    "twitter": "https://twitter.com/holdyourtoke",
+    "telegram": "https://t.me/holdyourtoke"
+  }
+}

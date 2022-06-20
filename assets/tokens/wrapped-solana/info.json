@@ -1,0 +1,13 @@
+{
+  "key": "wrapped-solana",
+  "name": "Wrapped Solana",
+  "symbol": "sol",
+  "logoURI": "https://assets.coingecko.com/coins/images/21629/large/solana.jpg?1639626543",
+  "website": "https://solana.com/",
+  "description": "Wrapped Solana ",
+  "coingeckoId": "wrapped-solana",
+  "links": {
+    "twitter": "https://twitter.com/solana",
+    "reddit": "https://www.reddit.com/r/solana"
+  }
+}

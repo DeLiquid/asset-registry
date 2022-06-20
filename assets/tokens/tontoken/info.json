@@ -1,0 +1,13 @@
+{
+  "key": "tontoken",
+  "name": "TON",
+  "symbol": "ton",
+  "logoURI": "https://assets.coingecko.com/coins/images/12334/large/ton.jpg?1599128436",
+  "website": "https://toncommunity.org/",
+  "description": "",
+  "coingeckoId": "tontoken",
+  "links": {
+    "telegram": "https://t.me/ton_en",
+    "github": "https://github.com/ton-blockchain/ton"
+  }
+}

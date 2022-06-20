@@ -1,0 +1,12 @@
+{
+  "key": "apecoin",
+  "name": "ApeCoin",
+  "symbol": "ape",
+  "logoURI": "https://assets.coingecko.com/coins/images/24383/large/apecoin.jpg?1647476455",
+  "website": "https://apecoin.com/",
+  "description": "ApeCoin is an ERC-20 governance and utility token used within the APE ecosystem to empower a decentralized community building at the forefront of web3.\r\n\r\nAs the open-source protocol layer of the ecosystem, ApeCoin serves several purposes:\r\n\r\nGovernance - ApeCoin is the ecosystem\u2019s governance token, allowing ApeCoin holders to participate in ApeCoin DAO.\r\nUnification of Spend - ApeCoin is the ecosystem\u2019s utility token, giving all its participants a shared and open currency that can be used without centralized intermediaries.\r\nAccess - ApeCoin provides access to certain parts of the ecosystem that are otherwise unavailable, such as exclusive games, merch, events, and services.\r\nIncentivization - ApeCoin is a tool for third-party developers to participate in the ecosystem by incorporating APE into services, games, and other projects.\r\n",
+  "coingeckoId": "apecoin",
+  "links": {
+    "twitter": "https://twitter.com/apecoin"
+  }
+}

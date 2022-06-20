@@ -1,0 +1,14 @@
+{
+  "key": "umee",
+  "name": "Umee",
+  "symbol": "umee",
+  "logoURI": "https://assets.coingecko.com/coins/images/20635/large/1Ab_Umee_Brand_Icon_Full_Color.png?1645018295",
+  "website": "https://umee.cc/",
+  "description": "Umee is a cross chain DeFi hub that interconnects between blockchains. As a base layer DeFi protocol, an ecosystem of applications can be built on top of Umee. The Umee Blockchain facilitates instant interoperability using the Tendermint Proof of Stake consensus protocol with the Cosmos ecosystem, Ethereum network, side chain architectures, layer 2 scaling solutions, and alternative base layer protocols.",
+  "coingeckoId": "umee",
+  "links": {
+    "twitter": "https://twitter.com/Umee_crosschain",
+    "telegram": "https://t.me/umeecrosschain",
+    "reddit": "https://www.reddit.com/r/UmeeCrossChain/"
+  }
+}

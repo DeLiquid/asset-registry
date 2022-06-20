@@ -1,0 +1,13 @@
+{
+  "key": "battle-world",
+  "name": "Battle World",
+  "symbol": "bwo",
+  "logoURI": "https://assets.coingecko.com/coins/images/25799/large/battleworld_logo_200x200.png?1653983575",
+  "website": "https://battleworld.game/",
+  "description": "Battle World is a Gamefi battle royale Metaverse project built on\r\nPolygon network. A globally appealing mid-core game for the masses. \r\n\r\nPlay - Loot - Kill - Earn\r\n\r\nThe players are dropped into maps modeled after famous global locations\r\nand towns, where they have to loot and fight against others to be the\r\nlast one standing. Battle World has a very dynamic core gameplay loop,\r\nwhere the player lands on the same map, searches for guns and fight\r\nothers, and moves to the safe zone but their experiences are different\r\nevery single time. The game provides endless replay value because each\r\nmatch is different from the last. The game also strengthens its core\r\ngameplay loop with easy-to-pick-up shooting mechanics, with a variety of\r\nweapons, the thrill of surviving till the last combined with lovable and\r\nrelatable characters.\r\n\r\nCertik Audit Report:\r\nhttps://battleworld.game/pdf/certikaudit.pdf\r\n\r\nYoutube link:\r\nhttps://youtu.be/R-f8aUqpkus",
+  "coingeckoId": "battle-world",
+  "links": {
+    "twitter": "https://twitter.com/BattleworldGame",
+    "telegram": "https://t.me/battleworldgame"
+  }
+}

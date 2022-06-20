@@ -1,0 +1,19 @@
+{
+  "key": "blox",
+  "name": "Blox",
+  "symbol": "cdt",
+  "logoURI": "https://assets.coingecko.com/coins/images/1231/large/Blox_Staking_Logo_2.png?1609117544",
+  "website": "https://www.bloxstaking.com/",
+  "description": "Blox is an open-source, fully non-custodial staking platform for Ethereum 2.0. The platform serves as an easy and accessible way to stake Ether and earn rewards on Eth2, while ensuring participants retain complete control over their private keys. Our goal at Blox is to simplify staking while ensuring Ethereum stays fair and decentralized. ",
+  "coingeckoId": "blox",
+  "links": {
+    "blog": "https://www.coindash.io/blog/",
+    "slack": "https://www.coindash.io/slack/",
+    "twitter": "https://twitter.com/Blox_Staking",
+    "facebook": "https://www.facebook.com/coindash.io/",
+    "telegram": "https://telegram.me/coindash",
+    "whitepaper": "https://www.coindash.io/wp-content/uploads/2017/05/CoinDashwhitepaper-v0.3-051317.pdf",
+    "reddit": "https://www.reddit.com/r/Blox_io/",
+    "github": "https://github.com/bloxapp"
+  }
+}

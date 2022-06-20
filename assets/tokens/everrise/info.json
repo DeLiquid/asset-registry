@@ -1,0 +1,14 @@
+{
+  "key": "everrise",
+  "name": "EverRise",
+  "symbol": "rise",
+  "logoURI": "https://assets.coingecko.com/coins/images/16367/large/Logo_EverRise_Icon_logo.png?1642576670",
+  "website": "https://www.everrise.com/",
+  "description": "EverRise is a blockchain technology company focused on increasing accessibility to decentralized finance by bringing security solutions to the space. Through an innovative ecosystem of decentralized applications, EverRise provides investors and developers the tools to access the widest possible market with the maximum level of security.\r\n\r\nThe EverRise token is a multi-chain, collateralized cryptocurrency that powers the EverRise dApp ecosystem.",
+  "coingeckoId": "everrise",
+  "links": {
+    "twitter": "https://twitter.com/everrise",
+    "telegram": "https://t.me/everriseofficial",
+    "reddit": "https://www.reddit.com/r/EverRise"
+  }
+}

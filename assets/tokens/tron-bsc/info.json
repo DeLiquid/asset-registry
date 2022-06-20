@@ -1,0 +1,15 @@
+{
+  "key": "tron-bsc",
+  "name": "TRON (BSC)",
+  "symbol": "trx",
+  "logoURI": "https://assets.coingecko.com/coins/images/15468/large/NxLfA-LK_400x400.png?1620915726",
+  "website": "https://tron.network",
+  "description": "",
+  "coingeckoId": "tron-bsc",
+  "links": {
+    "twitter": "https://twitter.com/tronfoundation",
+    "telegram": "https://t.me/tronnetworkEN03",
+    "reddit": "https://www.reddit.com",
+    "github": "https://github.com/tronprotocol/java-tron"
+  }
+}

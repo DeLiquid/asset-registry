@@ -1,0 +1,15 @@
+{
+  "key": "lido-staked-sol",
+  "name": "Lido Staked SOL",
+  "symbol": "stsol",
+  "logoURI": "https://assets.coingecko.com/coins/images/18369/large/logo_-_2021-09-15T100934.765.png?1631671781",
+  "website": "https://solana.lido.fi/",
+  "description": "\u2018Lido for Solana\u2019 is a Lido-DAO governed liquid staking protocol for the Solana blockchain. Anyone who stakes their SOL tokens with Lido will be issued an on-chain representation of SOL staking position with Lido validators, called stSOL. This will allow Solana token holders to get liquidity on their staked assets which can then be traded, or further utilized as collateral in DeFi products.\r\n\r\nstSOL is the liquid token that represents your share of the total SOL pool deposited with Lido. As soon as you delegate to the pool, you receive the newly minted stSOL. Over time, as your SOL delegation accrues rewards, the value of your stSOL appreciates. There is no waiting time for receiving stSOL tokens.",
+  "coingeckoId": "lido-staked-sol",
+  "links": {
+    "twitter": "https://twitter.com/lidofinance",
+    "telegram": "https://t.me/lidofinance",
+    "reddit": "https://www.reddit.com/r/lidofinance",
+    "github": "https://github.com/lidofinance"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key": "shirainu",
+  "name": "ShiraINU",
+  "symbol": "shr",
+  "logoURI": "https://assets.coingecko.com/coins/images/20244/large/3234bad559608.png?1638363295",
+  "website": "http://shirainu.io/",
+  "description": "ShiraINU $SHR is a new meme token with the following two usecases that are still under production:\r\n\r\n1) ShiraSwap - ShiraSwap is a decentralized exchange (DEX) that will allow users to quickly and easily obtain $SHR, Shira metaverse tokens, and any token we are partnered with.  Shiraswap will work with a multitude of wallets, and be a fully customizable DEX experience.  We will also be partnering with other tokens manga/meme related in the community to provide easy access for users. \r\n\r\n2) Bazaar of Shira - Bazaar of Shira is an NFT auction that will serve as the first opportunity to purchase characters and items.  Each NFT will hold metadata based on a variety of qualities and characteristics, and each will have their own aesthetic appeal",
+  "coingeckoId": "shirainu",
+  "links": {
+    "twitter": "https://twitter.com/shirainutoken",
+    "telegram": "https://t.me/shirainu"
+  }
+}

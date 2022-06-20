@@ -1,0 +1,17 @@
+{
+  "key": "super-zero",
+  "name": "SERO",
+  "symbol": "sero",
+  "logoURI": "https://assets.coingecko.com/coins/images/8245/large/43697637.png?1556982099",
+  "website": "https://sero.cash/",
+  "description": "Super Zero is the world's first privacy protection platform for decentralised applications based on Zero Knowledge Proof that also supports Turing smart contracts. ",
+  "coingeckoId": "super-zero",
+  "links": {
+    "twitter": "https://twitter.com/SEROdotCASH",
+    "facebook": "https://www.facebook.com/SEROProtocol",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5123382",
+    "telegram": "https://t.me/SeroOfficial",
+    "reddit": "https://www.reddit.com/r/SERO_Official/",
+    "github": "https://github.com/sero-cash/go-sero"
+  }
+}

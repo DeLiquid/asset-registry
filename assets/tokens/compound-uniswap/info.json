@@ -1,0 +1,13 @@
+{
+  "key": "compound-uniswap",
+  "name": "cUNI",
+  "symbol": "cuni",
+  "logoURI": "https://assets.coingecko.com/coins/images/12696/large/compound-uni.png?1601789718",
+  "website": "https://compound.finance/",
+  "description": "",
+  "coingeckoId": "compound-uniswap",
+  "links": {
+    "twitter": "https://twitter.com/compoundfinance",
+    "github": "https://github.com/compound-finance/compound-protocol"
+  }
+}

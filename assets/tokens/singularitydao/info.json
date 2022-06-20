@@ -1,0 +1,15 @@
+{
+  "key": "singularitydao",
+  "name": "SingularityDAO",
+  "symbol": "sdao",
+  "logoURI": "https://assets.coingecko.com/coins/images/15385/large/singularitydao_icon_logo.png?1628255890",
+  "website": "https://www.singularitydao.ai/",
+  "description": "SingularityDAO is a decentralised, blockchain-based organisation with the main goal of governing DynaSets, diversified baskets of cryptocurrency assets dynamically managed by AI. Voting power in SingularityDAO is granted by the SingularityDAO token (SDAO).\r\nSingularityDAO brings the sophisticated risk-management strategies of AI-managed funds to DeFi, using SingularityNET\u2019s superior AI technology.",
+  "coingeckoId": "singularitydao",
+  "links": {
+    "twitter": "https://twitter.com/SingularityDao",
+    "facebook": "https://www.facebook.com/SingularityDAO",
+    "telegram": "https://t.me/SingDAO",
+    "github": "https://github.com/singularitydao"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "cryptyk",
+  "name": "Cryptyk",
+  "symbol": "ctk",
+  "logoURI": "https://assets.coingecko.com/coins/images/2729/large/ctk.PNG?1631091279",
+  "website": "https://cryptyk.io/",
+  "description": "Cryptyk is building crypto powered cloud storage that offers users the first FAST, ultra-secure, private, decentralized file storage platform. Existing blockchain file storage technologies such as Filecoin and Storj are very secure ... but also very slow with access latencies of 10 seconds or more. This is not suitable for the vast majority of todays cloud storage applications that demand real-time performance (ie: access latency < 200 microseconds). The only application that blockchain storage is suitable for is for large file batch back-up which is a relatively small market < $300M / year. While decentralization dramatically improves security and privacy, storing files on the blockchain is simply to slow for most consumer and business markets.\r\n\r\nInstead of storing files on the blockchain Cryptyk stores files on a decentralized multi-cloud platform that offers 100x the security of centralized storage (eg: G Drive or iCloud) but without sacrificing access latency ((< 200 microseconds). Files are first encrypted, split into 5 separate file pieces and then each piece is encrypted a second time. Then each doubly encrypted file pieces is stores separately across the 5 major centralized storage providers in Google, Amazon, IBM, Oracle and Microsoft. Cryptyk then integrates this decentralized multi-cloud with a blockchain security auditing platform that permanently stores and tracks every user access event and file editing or sharing event on the blockchain. The blockchain security auditing platform is powered by Cryptyk Tokens (CTK) that are automatically  acquired by cloud storage users who pay in fiat (USD or Euro) with a portion converted into CTK Tokens to pay for security auditing functions. Hence CTK is a true utility token.\r\n\r\nThe result is a hybrid decentralized cloud design that offers the speed and scalability of the major centralized cloud vendors, the security and privacy of a 100% decentralized design, and the immutable permanence of blockchain for auditing and tracking capabilities. Cryptyk's crypto powered cloud storage platform represents the first decentralized technology that can truly compete head-on with centralized vendors like Google or Amazon.",
+  "coingeckoId": "cryptyk",
+  "links": {
+    "twitter": "https://twitter.com/TeamCryptyk",
+    "facebook": "https://www.facebook.com/cryptyk",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2837930",
+    "telegram": "https://t.me/cryptyk"
+  }
+}

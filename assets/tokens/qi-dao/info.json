@@ -1,0 +1,13 @@
+{
+  "key": "qi-dao",
+  "name": "Qi Dao",
+  "symbol": "qi",
+  "logoURI": "https://assets.coingecko.com/coins/images/15329/large/qi.png?1620540969",
+  "website": "https://mai.finance/",
+  "description": "The Qi token\u2014the governance token of the QiDao Protocol\u2014allows those who hold it to vote on changes to the QiDao Protocol. Anyone, not only Qi holders, can submit proposals for a Qi vote. Qi tokens have to be staked to form xQi in order to vote. \r\n\r\nQi holders will decide in a consensus how to distribute the Treasury funds to pay for various infrastructure needs and services. The funds in the Treasury are revenues from Closing Fees, and other income streams. The governance mechanism is designed to be flexible and upgradeable over time.",
+  "coingeckoId": "qi-dao",
+  "links": {
+    "twitter": "https://twitter.com/0xLaoZi",
+    "github": "https://github.com/0xlaozi/qidao"
+  }
+}

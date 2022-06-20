@@ -1,0 +1,2322 @@
+[
+  {
+    "key": "0x",
+    "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "decimals": 18
+  },
+  {
+    "key": "1inch",
+    "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+    "decimals": 18
+  },
+  {
+    "key": "aave",
+    "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "decimals": 18
+  },
+  {
+    "key": "aavegotchi",
+    "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+    "decimals": 18
+  },
+  {
+    "key": "acash-coin",
+    "address": "0x63d958d765f5bd88efdbd8afd32445393b24907f",
+    "decimals": 8
+  },
+  {
+    "key": "adex",
+    "address": "0xade00c28244d5ce17d72e40330b1c318cd12b7c3",
+    "decimals": 18
+  },
+  {
+    "key": "adshares",
+    "address": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
+    "decimals": 11
+  },
+  {
+    "key": "adventure-gold",
+    "address": "0x32353a6c91143bfd6c7d363b546e62a9a2489a20",
+    "decimals": 18
+  },
+  {
+    "key": "aelf",
+    "address": "0xbf2179859fc6d5bee9bf9158632dc51678a4100e",
+    "decimals": 18
+  },
+  {
+    "key": "aergo",
+    "address": "0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
+    "decimals": 18
+  },
+  {
+    "key": "aeternity",
+    "address": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
+    "decimals": 18
+  },
+  {
+    "key": "ageur",
+    "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+    "decimals": 18
+  },
+  {
+    "key": "ailink-token",
+    "address": "0x4289c043a12392f1027307fb58272d8ebd853912",
+    "decimals": 18
+  },
+  {
+    "key": "aioz-network",
+    "address": "0x626e8036deb333b408be468f951bdb42433cbf18",
+    "decimals": 18
+  },
+  {
+    "key": "alchemix-usd",
+    "address": "0xbc6da0fe9ad5f3b0d58160288917aa56653660e9",
+    "decimals": 18
+  },
+  {
+    "key": "alchemix",
+    "address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+    "decimals": 18
+  },
+  {
+    "key": "alchemy-pay",
+    "address": "0xed04915c23f00a313a544955524eb7dbd823143d",
+    "decimals": 8
+  },
+  {
+    "key": "aleph",
+    "address": "0x27702a26126e0b3702af63ee09ac4d1a084ef628",
+    "decimals": 18
+  },
+  {
+    "key": "alethea-artificial-liquid-intelligence-token",
+    "address": "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181",
+    "decimals": 18
+  },
+  {
+    "key": "alien-worlds",
+    "address": "0x888888848b652b3e3a0f34c96e00eec0f3a23f72",
+    "decimals": 4
+  },
+  {
+    "key": "allianceblock",
+    "address": "0x00a8b738e453ffd858a7edf03bccfe20412f0eb0",
+    "decimals": 18
+  },
+  {
+    "key": "alpha-finance",
+    "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+    "decimals": 18
+  },
+  {
+    "key": "alpha-quark-token",
+    "address": "0x2a9bdcff37ab68b95a53435adfd8892e86084f93",
+    "decimals": 18
+  },
+  {
+    "key": "alphacoin",
+    "address": "0x138c2f1123cf3f82e4596d097c118eac6684940b",
+    "decimals": 18
+  },
+  {
+    "key": "amaten",
+    "address": "0x2509ee05b8df07ec75046e24bbf1cfcdb8b2a183",
+    "decimals": 18
+  },
+  {
+    "key": "amp-token",
+    "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+    "decimals": 18
+  },
+  {
+    "key": "ampleforth-governance-token",
+    "address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
+    "decimals": 18
+  },
+  {
+    "key": "ampleforth",
+    "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+    "decimals": 9
+  },
+  {
+    "key": "amun-defi-index",
+    "address": "0xa9536b9c75a9e0fae3b56a96ac8edf76abc91978",
+    "decimals": 18
+  },
+  {
+    "key": "anchor-protocol",
+    "address": "0x0f3adc247e91c3c50bc08721355a41037e89bc20",
+    "decimals": 18
+  },
+  {
+    "key": "ankr",
+    "address": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+    "decimals": 18
+  },
+  {
+    "key": "ankreth",
+    "address": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
+    "decimals": 18
+  },
+  {
+    "key": "ape",
+    "address": "0x40e0a6ef9dbadfc83c5e0d15262feb4638588d77",
+    "decimals": 9
+  },
+  {
+    "key": "apecoin",
+    "address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+    "decimals": 18
+  },
+  {
+    "key": "apenft",
+    "address": "0x198d14f2ad9ce69e76ea330b374de4957c3f850a",
+    "decimals": 6
+  },
+  {
+    "key": "api3",
+    "address": "0x0b38210ea11411557c13457d4da7dc6ea731b88a",
+    "decimals": 18
+  },
+  {
+    "key": "aragon",
+    "address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+    "decimals": 18
+  },
+  {
+    "key": "arpa-chain",
+    "address": "0xba50933c268f567bdc86e1ac131be072c6b0b71a",
+    "decimals": 18
+  },
+  {
+    "key": "asd",
+    "address": "0xff742d05420b6aca4481f635ad8341f81a6300c2",
+    "decimals": 18
+  },
+  {
+    "key": "atlas-usv",
+    "address": "0x88536c9b2c4701b8db824e6a16829d5b5eb84440",
+    "decimals": 9
+  },
+  {
+    "key": "auction",
+    "address": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
+    "decimals": 18
+  },
+  {
+    "key": "audius",
+    "address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+    "decimals": 18
+  },
+  {
+    "key": "augur",
+    "address": "0x221657776846890989a759ba2973e427dff5c9bb",
+    "decimals": 18
+  },
+  {
+    "key": "aurora-dao",
+    "address": "0xb705268213d593b8fd88d3fdeff93aff5cbdcfae",
+    "decimals": 18
+  },
+  {
+    "key": "aurora-near",
+    "address": "0xaaaaaa20d9e0e2461697782ef11675f668207961",
+    "decimals": 18
+  },
+  {
+    "key": "automata",
+    "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+    "decimals": 18
+  },
+  {
+    "key": "avalanche-wormhole",
+    "address": "0x85f138bfee4ef8e540890cfb48f620571d67eda3",
+    "decimals": 18
+  },
+  {
+    "key": "avinoc",
+    "address": "0xf1ca9cb74685755965c7458528a36934df52a3ef",
+    "decimals": 18
+  },
+  {
+    "key": "axie-infinity",
+    "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+    "decimals": 18
+  },
+  {
+    "key": "b-watch-box",
+    "address": "0x045414e728067ab3da4bceafc0d992d59183463a",
+    "decimals": 18
+  },
+  {
+    "key": "baby-doge-coin",
+    "address": "0xac57de9c1a09fec648e93eb98875b212db0d460b",
+    "decimals": 9
+  },
+  {
+    "key": "babydoge-coin-eth",
+    "address": "0xac8e13ecc30da7ff04b842f21a62a1fb0f10ebd5",
+    "decimals": 9
+  },
+  {
+    "key": "badger-dao",
+    "address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+    "decimals": 18
+  },
+  {
+    "key": "balancer",
+    "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+    "decimals": 18
+  },
+  {
+    "key": "bancor",
+    "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+    "decimals": 18
+  },
+  {
+    "key": "band-protocol",
+    "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+    "decimals": 18
+  },
+  {
+    "key": "basic-attention-token",
+    "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+    "decimals": 18
+  },
+  {
+    "key": "bella-protocol",
+    "address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
+    "decimals": 18
+  },
+  {
+    "key": "beta-finance",
+    "address": "0xbe1a001fe942f96eea22ba08783140b9dcc09d28",
+    "decimals": 18
+  },
+  {
+    "key": "beta-token",
+    "address": "0x35f67c1d929e106fdff8d1a55226afe15c34dbe2",
+    "decimals": 18
+  },
+  {
+    "key": "bezoge-earth",
+    "address": "0xdc349913d53b446485e98b76800b6254f43df695",
+    "decimals": 9
+  },
+  {
+    "key": "biconomy",
+    "address": "0xf17e65822b568b3903685a7c9f496cf7656cc6c2",
+    "decimals": 18
+  },
+  {
+    "key": "bifi",
+    "address": "0x2791bfd60d232150bff86b39b7146c0eaaa2ba81",
+    "decimals": 18
+  },
+  {
+    "key": "bifrost",
+    "address": "0x0c7d5ae016f806603cb1782bea29ac69471cab9c",
+    "decimals": 18
+  },
+  {
+    "key": "binance-coin-wormhole",
+    "address": "0x418d75f65a02b3d53b2418fb8e1fe493759c7605",
+    "decimals": 18
+  },
+  {
+    "key": "binance-usd",
+    "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+    "decimals": 18
+  },
+  {
+    "key": "bitdao",
+    "address": "0x1a4b46696b2bb4794eb3d4c26f1c55f9170fa4c5",
+    "decimals": 18
+  },
+  {
+    "key": "bitmart-token",
+    "address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8",
+    "decimals": 18
+  },
+  {
+    "key": "bitriver",
+    "address": "0xcce63fd31e9053c110c74cebc37c8e358a6aa5bd",
+    "decimals": 4
+  },
+  {
+    "key": "bitrue-token",
+    "address": "0xd433138d12beb9929ff6fd583dc83663eea6aaa5",
+    "decimals": 18
+  },
+  {
+    "key": "bittorrent",
+    "address": "0xc669928185dbce49d2230cc9b0979be6dc797957",
+    "decimals": 18
+  },
+  {
+    "key": "bit_financial",
+    "address": "0x4d31200e6d7854c2f664af7fc38a21600960f74d",
+    "decimals": 18
+  },
+  {
+    "key": "blox",
+    "address": "0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af",
+    "decimals": 18
+  },
+  {
+    "key": "bluzelle",
+    "address": "0x5732046a883704404f284ce41ffadd5b007fd668",
+    "decimals": 18
+  },
+  {
+    "key": "boba-network",
+    "address": "0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
+    "decimals": 18
+  },
+  {
+    "key": "bobatama",
+    "address": "0x5f20f15d40f24dae50a72be3b5edddddfb5a5bd0",
+    "decimals": 18
+  },
+  {
+    "key": "bone-shibaswap",
+    "address": "0x9813037ee2218799597d83d4a5b6f3b6778218d9",
+    "decimals": 18
+  },
+  {
+    "key": "bone",
+    "address": "0x5c84bc60a796534bfec3439af0e6db616a966335",
+    "decimals": 18
+  },
+  {
+    "key": "boringdao-[old]",
+    "address": "0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9",
+    "decimals": 18
+  },
+  {
+    "key": "boson-protocol",
+    "address": "0xc477d038d5420c6a9e0b031712f61c5120090de9",
+    "decimals": 18
+  },
+  {
+    "key": "box-token",
+    "address": "0xe1a178b681bd05964d3e3ed33ae731577d9d96dd",
+    "decimals": 18
+  },
+  {
+    "key": "btrips",
+    "address": "0x5ea82c27efc7634f1c5ad20a3561c453433a2f3a",
+    "decimals": 18
+  },
+  {
+    "key": "btse-token",
+    "address": "0x666d875c600aa06ac1cf15641361dec3b00432ef",
+    "decimals": 8
+  },
+  {
+    "key": "carry",
+    "address": "0x115ec79f1de567ec68b7ae7eda501b406626478e",
+    "decimals": 18
+  },
+  {
+    "key": "cartesi",
+    "address": "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
+    "decimals": 18
+  },
+  {
+    "key": "cdai",
+    "address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+    "decimals": 8
+  },
+  {
+    "key": "ceek",
+    "address": "0xb056c38f6b7dc4064367403e26424cd2c60655e1",
+    "decimals": 18
+  },
+  {
+    "key": "celer-network",
+    "address": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
+    "decimals": 18
+  },
+  {
+    "key": "celsius-degree-token",
+    "address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
+    "decimals": 4
+  },
+  {
+    "key": "cere-network",
+    "address": "0x2da719db753dfa10a62e140f436e1d67f2ddb0d6",
+    "decimals": 10
+  },
+  {
+    "key": "chain-2",
+    "address": "0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18",
+    "decimals": 18
+  },
+  {
+    "key": "chainlink",
+    "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+    "decimals": 18
+  },
+  {
+    "key": "chiliz",
+    "address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+    "decimals": 18
+  },
+  {
+    "key": "chromaway",
+    "address": "0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2",
+    "decimals": 6
+  },
+  {
+    "key": "chronobank",
+    "address": "0x485d17a6f1b8780392d53d64751824253011a260",
+    "decimals": 8
+  },
+  {
+    "key": "circuits-of-value",
+    "address": "0x3d658390460295fb963f54dc0899cfb1c30776df",
+    "decimals": 8
+  },
+  {
+    "key": "civic",
+    "address": "0x41e5560054824ea6b0732e656e3ad64e20e94e45",
+    "decimals": 8
+  },
+  {
+    "key": "clover-finance",
+    "address": "0x80c62fe4487e1351b47ba49809ebd60ed085bf52",
+    "decimals": 18
+  },
+  {
+    "key": "clover",
+    "address": "0x22222c03318440305ac3e8a7820563d6a9fd777f",
+    "decimals": 6
+  },
+  {
+    "key": "cocktailbar",
+    "address": "0x22b6c31c2beb8f2d0d5373146eed41ab9ede3caf",
+    "decimals": 8
+  },
+  {
+    "key": "cocos-bcx",
+    "address": "0xc4c7ea4fab34bd9fb9a5e1b1a98df76e26e6407c",
+    "decimals": 18
+  },
+  {
+    "key": "coin-of-the-champions",
+    "address": "0xc4bb7277a74678f053259cb1f96140347efbfd46",
+    "decimals": 18
+  },
+  {
+    "key": "coin98",
+    "address": "0xae12c5930881c53715b369cec7606b70d8eb229f",
+    "decimals": 18
+  },
+  {
+    "key": "coinex-token",
+    "address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f",
+    "decimals": 18
+  },
+  {
+    "key": "coinmetro",
+    "address": "0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25",
+    "decimals": 18
+  },
+  {
+    "key": "coinviewcap",
+    "address": "0x22b59a7387f7d25fe2b1c692ee825e1802e6e3d5",
+    "decimals": 9
+  },
+  {
+    "key": "compound-0x",
+    "address": "0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407",
+    "decimals": 8
+  },
+  {
+    "key": "compound-basic-attention-token",
+    "address": "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e",
+    "decimals": 8
+  },
+  {
+    "key": "compound-ether",
+    "address": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+    "decimals": 8
+  },
+  {
+    "key": "compound-governance-token",
+    "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+    "decimals": 18
+  },
+  {
+    "key": "compound-uniswap",
+    "address": "0x35a18000230da775cac24873d00ff85bccded550",
+    "decimals": 8
+  },
+  {
+    "key": "compound-usd-coin",
+    "address": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+    "decimals": 8
+  },
+  {
+    "key": "constitutiondao",
+    "address": "0x7a58c0be72be218b41c608b7fe7c5bb630736c71",
+    "decimals": 18
+  },
+  {
+    "key": "contentbox",
+    "address": "0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f",
+    "decimals": 18
+  },
+  {
+    "key": "convex-crv",
+    "address": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
+    "decimals": 18
+  },
+  {
+    "key": "convex-finance",
+    "address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+    "decimals": 18
+  },
+  {
+    "key": "coti",
+    "address": "0xddb3422497e61e13543bea06989c0789117555c5",
+    "decimals": 18
+  },
+  {
+    "key": "covalent",
+    "address": "0xd417144312dbf50465b1c641d016962017ef6240",
+    "decimals": 18
+  },
+  {
+    "key": "cratos",
+    "address": "0x678e840c640f619e17848045d23072844224dd37",
+    "decimals": 18
+  },
+  {
+    "key": "creditcoin-2",
+    "address": "0xa3ee21c306a700e682abcdfe9baa6a08f3820419",
+    "decimals": 18
+  },
+  {
+    "key": "crypto-com-chain",
+    "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+    "decimals": 8
+  },
+  {
+    "key": "cryptosoul",
+    "address": "0xbb1f24c0c1554b9990222f036b0aad6ee4caec29",
+    "decimals": 18
+  },
+  {
+    "key": "cryptyk",
+    "address": "0x42a501903afaa1086b5975773375c80e363f4063",
+    "decimals": 8
+  },
+  {
+    "key": "cudos",
+    "address": "0x817bbdbc3e8a1204f3691d14bb44992841e3db35",
+    "decimals": 18
+  },
+  {
+    "key": "cult-dao",
+    "address": "0xf0f9d895aca5c8678f706fb8216fa22957685a13",
+    "decimals": 18
+  },
+  {
+    "key": "curve-dao-token",
+    "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+    "decimals": 18
+  },
+  {
+    "key": "cvault-finance",
+    "address": "0x62359ed7505efc61ff1d56fef82158ccaffa23d7",
+    "decimals": 18
+  },
+  {
+    "key": "cybertronchain",
+    "address": "0x00b7db6b4431e345eee5cc23d21e8dbc1d5cada3",
+    "decimals": 18
+  },
+  {
+    "key": "dai",
+    "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "decimals": 18
+  },
+  {
+    "key": "dao-maker",
+    "address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+    "decimals": 18
+  },
+  {
+    "key": "dawn-protocol",
+    "address": "0x580c8520deda0a441522aeae0f9f7a5f29629afa",
+    "decimals": 18
+  },
+  {
+    "key": "deapcoin",
+    "address": "0x1a3496c18d558bd9c6c8f609e1b129f67ab08163",
+    "decimals": 18
+  },
+  {
+    "key": "decentral-games-old",
+    "address": "0xee06a81a695750e71a662b51066f2c74cf4478a0",
+    "decimals": 18
+  },
+  {
+    "key": "decentral-games",
+    "address": "0x4b520c812e8430659fc9f12f6d0c39026c83588d",
+    "decimals": 18
+  },
+  {
+    "key": "decentraland",
+    "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+    "decimals": 18
+  },
+  {
+    "key": "defichain",
+    "address": "0x8fc8f8269ebca376d046ce292dc7eac40c8d358a",
+    "decimals": 8
+  },
+  {
+    "key": "defipulse-index",
+    "address": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
+    "decimals": 18
+  },
+  {
+    "key": "degate",
+    "address": "0x53c8395465a84955c95159814461466053dedede",
+    "decimals": 18
+  },
+  {
+    "key": "dei-token",
+    "address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
+    "decimals": 18
+  },
+  {
+    "key": "dent",
+    "address": "0x3597bfd533a99c9aa083587b074434e61eb0a258",
+    "decimals": 8
+  },
+  {
+    "key": "dia-data",
+    "address": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419",
+    "decimals": 18
+  },
+  {
+    "key": "digitalbits",
+    "address": "0xb9eefc4b0d472a44be93970254df4f4016569d27",
+    "decimals": 7
+  },
+  {
+    "key": "district0x",
+    "address": "0x0abdace70d3790235af448c88547603b945604ea",
+    "decimals": 18
+  },
+  {
+    "key": "dodo",
+    "address": "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd",
+    "decimals": 18
+  },
+  {
+    "key": "dogelon-mars",
+    "address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+    "decimals": 18
+  },
+  {
+    "key": "dola-usd",
+    "address": "0x865377367054516e17014ccded1e7d814edc9ce4",
+    "decimals": 18
+  },
+  {
+    "key": "dollars",
+    "address": "0x2f6081e3552b1c86ce4479b80062a1dda8ef23e3",
+    "decimals": 9
+  },
+  {
+    "key": "dopex",
+    "address": "0xeec2be5c91ae7f8a338e1e5f3b5de49d07afdc81",
+    "decimals": 18
+  },
+  {
+    "key": "dusk-network",
+    "address": "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551",
+    "decimals": 18
+  },
+  {
+    "key": "dvision-network",
+    "address": "0x10633216e7e8281e33c86f02bf8e565a635d9770",
+    "decimals": 18
+  },
+  {
+    "key": "dydx",
+    "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+    "decimals": 18
+  },
+  {
+    "key": "e-money",
+    "address": "0xed0d5747a9ab03a75fbfec3228cd55848245b75d",
+    "decimals": 6
+  },
+  {
+    "key": "e-radix",
+    "address": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414",
+    "decimals": 18
+  },
+  {
+    "key": "earnablefi",
+    "address": "0x48666fe01d123d14b53eacf21f36786f2a786c86",
+    "decimals": 18
+  },
+  {
+    "key": "ecomi",
+    "address": "0xed35af169af46a02ee13b9d79eb57d6d68c1749e",
+    "decimals": 18
+  },
+  {
+    "key": "efinity",
+    "address": "0x656c00e1bcd96f256f224ad9112ff426ef053733",
+    "decimals": 18
+  },
+  {
+    "key": "elastos",
+    "address": "0xe6fd75ff38adca4b97fbcd938c86b98772431867",
+    "decimals": 18
+  },
+  {
+    "key": "enjincoin",
+    "address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+    "decimals": 18
+  },
+  {
+    "key": "epanus",
+    "address": "0x50ec35d1e18d439f02fa895746fc3e1bef311780",
+    "decimals": 18
+  },
+  {
+    "key": "escoin-token",
+    "address": "0xa2085073878152ac3090ea13d1e41bd69e60dc99",
+    "decimals": 18
+  },
+  {
+    "key": "ethereum-name-service",
+    "address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+    "decimals": 18
+  },
+  {
+    "key": "ethernity-chain",
+    "address": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
+    "decimals": 18
+  },
+  {
+    "key": "ethos",
+    "address": "0x3c4b6e6e1ea3d4863700d7f76b36b7f3d3f13e3d",
+    "decimals": 8
+  },
+  {
+    "key": "everipedia",
+    "address": "0x579cea1889991f68acc35ff5c3dd0621ff29b0c9",
+    "decimals": 18
+  },
+  {
+    "key": "everrise",
+    "address": "0xc17c30e98541188614df99239cabd40280810ca3",
+    "decimals": 18
+  },
+  {
+    "key": "everscale",
+    "address": "0x29d578cec46b50fa5c88a99c6a4b70184c062953",
+    "decimals": 9
+  },
+  {
+    "key": "evmos",
+    "address": "0x93581991f68dbae1ea105233b67f7fa0d6bdee7b",
+    "decimals": 18
+  },
+  {
+    "key": "fantom",
+    "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+    "decimals": 18
+  },
+  {
+    "key": "fei-usd",
+    "address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+    "decimals": 18
+  },
+  {
+    "key": "fetch-ai",
+    "address": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
+    "decimals": 18
+  },
+  {
+    "key": "fidu",
+    "address": "0x6a445e9f40e0b97c92d0b8a3366cef1d67f700bf",
+    "decimals": 18
+  },
+  {
+    "key": "firmachain",
+    "address": "0xe1bad922f84b198a08292fb600319300ae32471b",
+    "decimals": 18
+  },
+  {
+    "key": "flex-coin",
+    "address": "0xfcf8eda095e37a41e002e266daad7efc1579bc0a",
+    "decimals": 18
+  },
+  {
+    "key": "flex-usd",
+    "address": "0xa774ffb4af6b0a91331c084e1aebae6ad535e6f3",
+    "decimals": 18
+  },
+  {
+    "key": "floki-inu",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "decimals": 9
+  },
+  {
+    "key": "floki-musk",
+    "address": "0x67cc621ab2d086a101cff3340df0a065ac75827c",
+    "decimals": 18
+  },
+  {
+    "key": "flux-protocol",
+    "address": "0x7645ddfeeceda57e41f92679c4acd83c56a81d14",
+    "decimals": 18
+  },
+  {
+    "key": "flux",
+    "address": "0x469eda64aed3a3ad6f868c44564291aa415cb1d9",
+    "decimals": 18
+  },
+  {
+    "key": "frax-share",
+    "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+    "decimals": 18
+  },
+  {
+    "key": "frax",
+    "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+    "decimals": 18
+  },
+  {
+    "key": "freeway",
+    "address": "0x4a7397b0b86bb0f9482a3f4f16de942f04e88702",
+    "decimals": 18
+  },
+  {
+    "key": "ftx-token",
+    "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+    "decimals": 18
+  },
+  {
+    "key": "funfair",
+    "address": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
+    "decimals": 8
+  },
+  {
+    "key": "fx-coin",
+    "address": "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057",
+    "decimals": 18
+  },
+  {
+    "key": "gains-farm",
+    "address": "0x831091da075665168e01898c6dac004a867f1e1b",
+    "decimals": 18
+  },
+  {
+    "key": "gala",
+    "address": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da",
+    "decimals": 8
+  },
+  {
+    "key": "game",
+    "address": "0xb70835d7822ebb9426b56543e391846c107bd32c",
+    "decimals": 18
+  },
+  {
+    "key": "gas-dao",
+    "address": "0x6bba316c48b49bd1eac44573c5c871ff02958469",
+    "decimals": 18
+  },
+  {
+    "key": "gatechain-token",
+    "address": "0xe66747a101bff2dba3697199dcce5b743b454759",
+    "decimals": 18
+  },
+  {
+    "key": "gemini-dollar",
+    "address": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+    "decimals": 2
+  },
+  {
+    "key": "gene",
+    "address": "0xf6ec87dfe1ed3a7256cc0c38e3c8139103e9af3b",
+    "decimals": 18
+  },
+  {
+    "key": "genesis-mana",
+    "address": "0x2d77f5b3efa51821ad6483adaf38ea4cb1824cc5",
+    "decimals": 18
+  },
+  {
+    "key": "giresunspor-token",
+    "address": "0x47d49d010c03b40f88f422502d694ff49fe6c9c8",
+    "decimals": 2
+  },
+  {
+    "key": "gitcoin",
+    "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+    "decimals": 18
+  },
+  {
+    "key": "global-trust-coin",
+    "address": "0xe138fda441fc31b36171122397a8a11d6cd2c479",
+    "decimals": 0
+  },
+  {
+    "key": "gmt-token",
+    "address": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
+    "decimals": 18
+  },
+  {
+    "key": "gnosis",
+    "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+    "decimals": 18
+  },
+  {
+    "key": "golden-ratio-token",
+    "address": "0xb83cd8d39462b761bb0092437d38b37812dd80a2",
+    "decimals": 18
+  },
+  {
+    "key": "golem",
+    "address": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",
+    "decimals": 18
+  },
+  {
+    "key": "gyen",
+    "address": "0xc08512927d12348f6620a698105e1baac6ecd911",
+    "decimals": 6
+  },
+  {
+    "key": "handshake",
+    "address": "0xa771b49064da011df051052848477f18dba1d2ac",
+    "decimals": 6
+  },
+  {
+    "key": "harvest-finance",
+    "address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
+    "decimals": 18
+  },
+  {
+    "key": "havven",
+    "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+    "decimals": 18
+  },
+  {
+    "key": "hermez-network-token",
+    "address": "0xeef9f339514298c6a857efcfc1a762af84438dee",
+    "decimals": 18
+  },
+  {
+    "key": "hi-dollar",
+    "address": "0xc4f6e93aeddc11dc22268488465babcaf09399ac",
+    "decimals": 18
+  },
+  {
+    "key": "holotoken",
+    "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+    "decimals": 18
+  },
+  {
+    "key": "hoo-token",
+    "address": "0xd241d7b5cb0ef9fc79d9e4eb9e21f5e209f52f7d",
+    "decimals": 8
+  },
+  {
+    "key": "hopr",
+    "address": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
+    "decimals": 18
+  },
+  {
+    "key": "hunt-token",
+    "address": "0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5",
+    "decimals": 18
+  },
+  {
+    "key": "huobi-btc",
+    "address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
+    "decimals": 18
+  },
+  {
+    "key": "huobi-token",
+    "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+    "decimals": 18
+  },
+  {
+    "key": "husd",
+    "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+    "decimals": 8
+  },
+  {
+    "key": "hxro",
+    "address": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3",
+    "decimals": 18
+  },
+  {
+    "key": "hydro-protocol",
+    "address": "0x9af839687f6c94542ac5ece2e317daae355493a1",
+    "decimals": 18
+  },
+  {
+    "key": "iethereum",
+    "address": "0xc71d8baaa436aa7e42da1f40bec48f11ab3c9e4a",
+    "decimals": 8
+  },
+  {
+    "key": "iexec-rlc",
+    "address": "0x607f4c5bb672230e8672085532f7e901544a7375",
+    "decimals": 9
+  },
+  {
+    "key": "illuvium",
+    "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+    "decimals": 18
+  },
+  {
+    "key": "immutable-x",
+    "address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+    "decimals": 18
+  },
+  {
+    "key": "impermax",
+    "address": "0x7b35ce522cb72e4077baeb96cb923a5529764a00",
+    "decimals": 18
+  },
+  {
+    "key": "injective-protocol",
+    "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+    "decimals": 18
+  },
+  {
+    "key": "instadapp-eth",
+    "address": "0xc383a3833a87009fd9597f8184979af5edfad019",
+    "decimals": 18
+  },
+  {
+    "key": "insure",
+    "address": "0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e",
+    "decimals": 18
+  },
+  {
+    "key": "iron-bank-euro",
+    "address": "0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27",
+    "decimals": 18
+  },
+  {
+    "key": "jasmycoin",
+    "address": "0x7420b4b9a0110cdc71fb720908340c03f9bc03ec",
+    "decimals": 18
+  },
+  {
+    "key": "jetcoin",
+    "address": "0x8727c112c712c4a03371ac87a74dd6ab104af768",
+    "decimals": 18
+  },
+  {
+    "key": "keep-network",
+    "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+    "decimals": 18
+  },
+  {
+    "key": "keep3rv1",
+    "address": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
+    "decimals": 18
+  },
+  {
+    "key": "kirobo",
+    "address": "0xb1191f691a355b43542bea9b8847bc73e7abb137",
+    "decimals": 18
+  },
+  {
+    "key": "kishu-inu",
+    "address": "0xa2b4c0af19cc16a6cfacce81f192b024d625817d",
+    "decimals": 9
+  },
+  {
+    "key": "kyber-network-crystal",
+    "address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+    "decimals": 18
+  },
+  {
+    "key": "kyber-network",
+    "address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+    "decimals": 18
+  },
+  {
+    "key": "laro",
+    "address": "0xbbcd3e4eb43aa7f3f57286da31333d53b24d0d6a",
+    "decimals": 2
+  },
+  {
+    "key": "lcx",
+    "address": "0x037a54aab062628c9bbae1fdb1583c195585fe41",
+    "decimals": 18
+  },
+  {
+    "key": "league-of-kingdoms",
+    "address": "0x61e90a50137e1f645c9ef4a0d3a4f01477738406",
+    "decimals": 18
+  },
+  {
+    "key": "leo-token",
+    "address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+    "decimals": 18
+  },
+  {
+    "key": "lido-dao",
+    "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+    "decimals": 18
+  },
+  {
+    "key": "lina",
+    "address": "0xc05d14442a510de4d3d71a3d316585aa0ce32b50",
+    "decimals": 18
+  },
+  {
+    "key": "linear",
+    "address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+    "decimals": 18
+  },
+  {
+    "key": "liquity-usd",
+    "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+    "decimals": 18
+  },
+  {
+    "key": "liquity",
+    "address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+    "decimals": 18
+  },
+  {
+    "key": "lit",
+    "address": "0xc5b3d3231001a776123194cf1290068e8b0c783b",
+    "decimals": 18
+  },
+  {
+    "key": "litentry",
+    "address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
+    "decimals": 18
+  },
+  {
+    "key": "lition",
+    "address": "0x763fa6806e1acf68130d2d0f0df754c93cc546b2",
+    "decimals": 18
+  },
+  {
+    "key": "livepeer",
+    "address": "0x58b6a8a3302369daec383334672404ee733ab239",
+    "decimals": 18
+  },
+  {
+    "key": "looksrare",
+    "address": "0xf4d2888d29d722226fafa5d9b24f9164c092421e",
+    "decimals": 18
+  },
+  {
+    "key": "loom-network",
+    "address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
+    "decimals": 18
+  },
+  {
+    "key": "loopring",
+    "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+    "decimals": 18
+  },
+  {
+    "key": "lto-network",
+    "address": "0xd01409314acb3b245cea9500ece3f6fd4d70ea30",
+    "decimals": 8
+  },
+  {
+    "key": "luffy-inu",
+    "address": "0x7121d00b4fa18f13da6c2e30d19c04844e6afdc8",
+    "decimals": 9
+  },
+  {
+    "key": "lukso-token",
+    "address": "0xa8b919680258d369114910511cc87595aec0be6d",
+    "decimals": 18
+  },
+  {
+    "key": "magic-internet-money",
+    "address": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+    "decimals": 18
+  },
+  {
+    "key": "maidsafecoin",
+    "address": "0x329c6e459ffa7475718838145e5e85802db2a303",
+    "decimals": 18
+  },
+  {
+    "key": "mainframe",
+    "address": "0xdf2c7238198ad8b389666574f2d8bc411a4b7428",
+    "decimals": 18
+  },
+  {
+    "key": "maker",
+    "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "decimals": 18
+  },
+  {
+    "key": "mandala-exchange-token",
+    "address": "0x947aeb02304391f8fbe5b25d7d98d649b57b1788",
+    "decimals": 18
+  },
+  {
+    "key": "maple",
+    "address": "0x33349b282065b0284d756f0577fb39c158f935e6",
+    "decimals": 18
+  },
+  {
+    "key": "marinade-staked-sol-wormhole",
+    "address": "0x756bfb452cfe36a5bc82e4f5f4261a89a18c242b",
+    "decimals": 9
+  },
+  {
+    "key": "marlin",
+    "address": "0x57b946008913b82e4df85f501cbaed910e58d26c",
+    "decimals": 18
+  },
+  {
+    "key": "marsx",
+    "address": "0xe0df31d06d72b2f5231489af0edc422b372f49f1",
+    "decimals": 18
+  },
+  {
+    "key": "mask-network",
+    "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+    "decimals": 18
+  },
+  {
+    "key": "mask-vault-nftx",
+    "address": "0xc7a8b45e184138114e6085c82936a8db93dd156a",
+    "decimals": 18
+  },
+  {
+    "key": "matic-network",
+    "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+    "decimals": 18
+  },
+  {
+    "key": "melon",
+    "address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
+    "decimals": 18
+  },
+  {
+    "key": "menlo-one",
+    "address": "0x4d807509aece24c0fa5a102b6a3b059ec6e14392",
+    "decimals": 18
+  },
+  {
+    "key": "merit-circle",
+    "address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
+    "decimals": 18
+  },
+  {
+    "key": "meta-inu-token",
+    "address": "0x93ecdfe316de6dc44c2104183b7f6736d83521c2",
+    "decimals": 18
+  },
+  {
+    "key": "metadium",
+    "address": "0xde2f7766c8bf14ca67193128535e5c7454f8387c",
+    "decimals": 18
+  },
+  {
+    "key": "metal",
+    "address": "0xf433089366899d83a9f26a773d59ec7ecf30355e",
+    "decimals": 8
+  },
+  {
+    "key": "metalk",
+    "address": "0x364fcd7325c035cc4f2cde8b6c8d7df5e7db6589",
+    "decimals": 18
+  },
+  {
+    "key": "metis-token",
+    "address": "0x9e32b13ce7f2e80a01932b42553652e053d6ed8e",
+    "decimals": 18
+  },
+  {
+    "key": "mex",
+    "address": "0x2ba6b1e4424e19816382d15937739959f7da5fd8",
+    "decimals": 18
+  },
+  {
+    "key": "mirror-protocol",
+    "address": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
+    "decimals": 18
+  },
+  {
+    "key": "mixmarvel",
+    "address": "0x5d285f735998f36631f678ff41fb56a10a4d0429",
+    "decimals": 18
+  },
+  {
+    "key": "mossland",
+    "address": "0x865ec58b06bf6305b886793aa20a2da31d034e68",
+    "decimals": 18
+  },
+  {
+    "key": "multichain",
+    "address": "0x65ef703f5594d2573eb71aaf55bc0cb548492df4",
+    "decimals": 18
+  },
+  {
+    "key": "musd",
+    "address": "0xe2f2a5c287993345a840db3b0845fbc70f5935a5",
+    "decimals": 18
+  },
+  {
+    "key": "mx-token",
+    "address": "0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
+    "decimals": 18
+  },
+  {
+    "key": "mxc",
+    "address": "0x5ca381bbfb58f0092df149bd3d243b08b9a8386e",
+    "decimals": 18
+  },
+  {
+    "key": "my-neighbor-alice",
+    "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
+    "decimals": 6
+  },
+  {
+    "key": "name-changing-token",
+    "address": "0x8a9c4dfe8b9d8962b31e4e16f8321c44d48e246e",
+    "decimals": 18
+  },
+  {
+    "key": "nest",
+    "address": "0x04abeda201850ac0124161f037efd70c74ddc74c",
+    "decimals": 18
+  },
+  {
+    "key": "neutrino-system-base-token",
+    "address": "0x9d79d5b61de59d882ce90125b18f74af650acb93",
+    "decimals": 6
+  },
+  {
+    "key": "neutrino",
+    "address": "0x674c6ad92fd080e4004b2312b45f796a192d27a0",
+    "decimals": 18
+  },
+  {
+    "key": "nexo",
+    "address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+    "decimals": 18
+  },
+  {
+    "key": "nft-protocol",
+    "address": "0xcb8d1260f9c92a3a545d409466280ffdd7af7042",
+    "decimals": 18
+  },
+  {
+    "key": "nkn",
+    "address": "0x5cf04716ba20127f1e2297addcf4b5035000c9eb",
+    "decimals": 18
+  },
+  {
+    "key": "noia-network",
+    "address": "0xa8c8cfb141a3bb59fea1e2ea6b79b5ecbcd7b6ca",
+    "decimals": 18
+  },
+  {
+    "key": "non-fungible-toke",
+    "address": "0x98ddc72bd02d448f68c4226f26122c66c5bd711e",
+    "decimals": 18
+  },
+  {
+    "key": "nucypher",
+    "address": "0x4fe83213d56308330ec302a8bd641f1d0113a4cc",
+    "decimals": 18
+  },
+  {
+    "key": "numeraire",
+    "address": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671",
+    "decimals": 18
+  },
+  {
+    "key": "nusd",
+    "address": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
+    "decimals": 18
+  },
+  {
+    "key": "nxm",
+    "address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+    "decimals": 18
+  },
+  {
+    "key": "nym",
+    "address": "0x525a8f6f3ba4752868cde25164382bfbae3990e1",
+    "decimals": 6
+  },
+  {
+    "key": "ocean-protocol",
+    "address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+    "decimals": 18
+  },
+  {
+    "key": "okb",
+    "address": "0x75231f58b43240c9718dd58b4967c5114342a86c",
+    "decimals": 18
+  },
+  {
+    "key": "olympus-v1",
+    "address": "0x383518188c0c6d7730d91b2c03a03c837814a899",
+    "decimals": 9
+  },
+  {
+    "key": "olympus",
+    "address": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+    "decimals": 9
+  },
+  {
+    "key": "omisego",
+    "address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
+    "decimals": 18
+  },
+  {
+    "key": "one",
+    "address": "0x946551dd05c5abd7cc808927480225ce36d8c475",
+    "decimals": 18
+  },
+  {
+    "key": "orbs",
+    "address": "0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa",
+    "decimals": 18
+  },
+  {
+    "key": "orchid-protocol",
+    "address": "0x4575f41308ec1483f3d399aa9a2826d74da13deb",
+    "decimals": 18
+  },
+  {
+    "key": "origin-dollar",
+    "address": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86",
+    "decimals": 18
+  },
+  {
+    "key": "origin-protocol",
+    "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+    "decimals": 18
+  },
+  {
+    "key": "origintrail",
+    "address": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+    "decimals": 18
+  },
+  {
+    "key": "orion-protocol",
+    "address": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",
+    "decimals": 8
+  },
+  {
+    "key": "ovr",
+    "address": "0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697",
+    "decimals": 18
+  },
+  {
+    "key": "palette",
+    "address": "0x0944d5848bd9f60a34ba92aea300d4286696eb76",
+    "decimals": 18
+  },
+  {
+    "key": "pancakeswap-wormhole",
+    "address": "0x7c8161545717a334f3196e765d9713f8042ef338",
+    "decimals": 18
+  },
+  {
+    "key": "parkgene",
+    "address": "0x6dd4e4aad29a40edd6a409b9c1625186c9855b4d",
+    "decimals": 8
+  },
+  {
+    "key": "pax-gold",
+    "address": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+    "decimals": 18
+  },
+  {
+    "key": "paxos-standard",
+    "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+    "decimals": 18
+  },
+  {
+    "key": "perpetual-protocol",
+    "address": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+    "decimals": 18
+  },
+  {
+    "key": "pha",
+    "address": "0x6c5ba91642f10282b576d91922ae6448c9d52f4e",
+    "decimals": 18
+  },
+  {
+    "key": "phantasma",
+    "address": "0x75858677e27c930fb622759feaffee2b754af07f",
+    "decimals": 8
+  },
+  {
+    "key": "planet",
+    "address": "0x307d45afbb7e84f82ef3d251a6bb0f00edf632e4",
+    "decimals": 18
+  },
+  {
+    "key": "platoncoin",
+    "address": "0x429d83bb0dcb8cdd5311e34680adc8b12070a07f",
+    "decimals": 18
+  },
+  {
+    "key": "playchip",
+    "address": "0x0198f46f520f33cd4329bd4be380a25a90536cd5",
+    "decimals": 18
+  },
+  {
+    "key": "playdapp",
+    "address": "0x3a4f40631a4f906c2bad353ed06de7a5d3fcb430",
+    "decimals": 18
+  },
+  {
+    "key": "polkastarter",
+    "address": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa",
+    "decimals": 18
+  },
+  {
+    "key": "polymath",
+    "address": "0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec",
+    "decimals": 18
+  },
+  {
+    "key": "polyswarm",
+    "address": "0x9e46a38f5daabe8683e10793b06749eef7d733d1",
+    "decimals": 18
+  },
+  {
+    "key": "pop-chest-token",
+    "address": "0x5d858bcd53e085920620549214a8b27ce2f04670",
+    "decimals": 18
+  },
+  {
+    "key": "popcorn",
+    "address": "0xd0cd466b34a24fcb2f87676278af2005ca8a78c4",
+    "decimals": 18
+  },
+  {
+    "key": "power-ledger",
+    "address": "0x595832f8fc6bf59c85c527fec3740a1b7a361269",
+    "decimals": 6
+  },
+  {
+    "key": "presearch",
+    "address": "0xec213f83defb583af3a000b1c0ada660b1902a0f",
+    "decimals": 18
+  },
+  {
+    "key": "project-galaxy",
+    "address": "0x5faa989af96af85384b8a938c2ede4a7378d9875",
+    "decimals": 18
+  },
+  {
+    "key": "prometeus",
+    "address": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
+    "decimals": 18
+  },
+  {
+    "key": "propy",
+    "address": "0x226bb599a12c826476e3a771454697ea52e9e220",
+    "decimals": 8
+  },
+  {
+    "key": "proton",
+    "address": "0xd7efb00d12c2c13131fd319336fdf952525da2af",
+    "decimals": 4
+  },
+  {
+    "key": "pundi-x-2",
+    "address": "0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38",
+    "decimals": 18
+  },
+  {
+    "key": "qash",
+    "address": "0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6",
+    "decimals": 6
+  },
+  {
+    "key": "qredo",
+    "address": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463",
+    "decimals": 8
+  },
+  {
+    "key": "quant-network",
+    "address": "0x4a220e6096b25eadb88358cb44068a3248254675",
+    "decimals": 18
+  },
+  {
+    "key": "quark-chain",
+    "address": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
+    "decimals": 18
+  },
+  {
+    "key": "radicle",
+    "address": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+    "decimals": 18
+  },
+  {
+    "key": "radio-caca",
+    "address": "0x12bb890508c125661e03b09ec06e404bc9289040",
+    "decimals": 18
+  },
+  {
+    "key": "radioshack",
+    "address": "0x7a5d3a9dcd33cb8d527f7b5f96eb4fef43d55636",
+    "decimals": 18
+  },
+  {
+    "key": "rai-finance",
+    "address": "0xb49fa25978abf9a248b8212ab4b87277682301c0",
+    "decimals": 18
+  },
+  {
+    "key": "railgun",
+    "address": "0xe76c6c83af64e4c60245d8c7de953df673a7a33d",
+    "decimals": 18
+  },
+  {
+    "key": "rally-2",
+    "address": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
+    "decimals": 18
+  },
+  {
+    "key": "rare",
+    "address": "0x81b1bfd6cb9ad42db395c2a27f73d4dcf5777e2d",
+    "decimals": 4
+  },
+  {
+    "key": "rari-governance-token",
+    "address": "0xd291e7a03283640fdc51b121ac401383a46cc623",
+    "decimals": 18
+  },
+  {
+    "key": "raydium-wormhole",
+    "address": "0xe617dd80c621a5072bd8cba65e9d76c07327004d",
+    "decimals": 6
+  },
+  {
+    "key": "reef",
+    "address": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+    "decimals": 18
+  },
+  {
+    "key": "refereum",
+    "address": "0xd0929d411954c47438dc1d871dd6081f5c5e149c",
+    "decimals": 4
+  },
+  {
+    "key": "renbtc",
+    "address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+    "decimals": 8
+  },
+  {
+    "key": "render-token",
+    "address": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24",
+    "decimals": 18
+  },
+  {
+    "key": "republic-protocol",
+    "address": "0x408e41876cccdc0f92210600ef50372656052a38",
+    "decimals": 18
+  },
+  {
+    "key": "request-network",
+    "address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+    "decimals": 18
+  },
+  {
+    "key": "reserve-rights-token",
+    "address": "0x320623b8e4ff03373931769a31fc52a4e78b5d70",
+    "decimals": 18
+  },
+  {
+    "key": "reserve",
+    "address": "0x196f4727526ea7fb1e17b2071b3d8eaa38486988",
+    "decimals": 18
+  },
+  {
+    "key": "revain",
+    "address": "0x2ef52ed7de8c5ce03a4ef0efbe9b7450f2d7edc9",
+    "decimals": 6
+  },
+  {
+    "key": "ribbon-finance",
+    "address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+    "decimals": 18
+  },
+  {
+    "key": "rmrk",
+    "address": "0x471ea49dd8e60e697f4cac262b5fafcc307506e4",
+    "decimals": 10
+  },
+  {
+    "key": "rocket-pool",
+    "address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
+    "decimals": 18
+  },
+  {
+    "key": "rootkit",
+    "address": "0xcb5f72d37685c3d5ad0bb5f982443bc8fcdf570e",
+    "decimals": 18
+  },
+  {
+    "key": "rose-wormhole",
+    "address": "0x26b80fbfc01b71495f477d5237071242e0d959d7",
+    "decimals": 18
+  },
+  {
+    "key": "rupiah-token",
+    "address": "0x998ffe1e43facffb941dc337dd0468d52ba5b48a",
+    "decimals": 2
+  },
+  {
+    "key": "sentinel-protocol",
+    "address": "0xc86d054809623432210c107af2e3f619dcfbf652",
+    "decimals": 18
+  },
+  {
+    "key": "serum",
+    "address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+    "decimals": 6
+  },
+  {
+    "key": "seth",
+    "address": "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
+    "decimals": 18
+  },
+  {
+    "key": "seth2",
+    "address": "0xfe2e637202056d30016725477c5da089ab0a043a",
+    "decimals": 18
+  },
+  {
+    "key": "sether",
+    "address": "0x78b039921e84e726eb72e7b1212bb35504c645ca",
+    "decimals": 18
+  },
+  {
+    "key": "shapeshift-fox-token",
+    "address": "0xc770eefad204b5180df6a14ee197d99d808ee52d",
+    "decimals": 18
+  },
+  {
+    "key": "sharering",
+    "address": "0xd98f75b1a3261dab9eed4956c93f33749027a964",
+    "decimals": 2
+  },
+  {
+    "key": "shiba-inu",
+    "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "decimals": 18
+  },
+  {
+    "key": "shiba-predator",
+    "address": "0xa71d0588eaf47f12b13cf8ec750430d21df04974",
+    "decimals": 18
+  },
+  {
+    "key": "shirainu",
+    "address": "0x04a5198063e45d84b1999516d3228167146417a6",
+    "decimals": 9
+  },
+  {
+    "key": "singularitydao",
+    "address": "0x993864e43caa7f7f12953ad6feb1d1ca635b875f",
+    "decimals": 18
+  },
+  {
+    "key": "singularitynet",
+    "address": "0x5b7533812759b45c2b44c19e320ba2cd2681b542",
+    "decimals": 8
+  },
+  {
+    "key": "skale",
+    "address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",
+    "decimals": 18
+  },
+  {
+    "key": "smooth-love-potion",
+    "address": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25",
+    "decimals": 0
+  },
+  {
+    "key": "sol-wormhole",
+    "address": "0xd31a59c85ae9d8edefec411d448f90841571b89c",
+    "decimals": 9
+  },
+  {
+    "key": "spell-token",
+    "address": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+    "decimals": 18
+  },
+  {
+    "key": "ssv-network",
+    "address": "0x9d65ff81a3c488d585bbfb0bfe3c7707c7917f54",
+    "decimals": 18
+  },
+  {
+    "key": "staked-ether",
+    "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "decimals": 18
+  },
+  {
+    "key": "stakehound-staked-ether",
+    "address": "0xdfe66b14d37c77f4e9b180ceb433d1b164f0281d",
+    "decimals": 18
+  },
+  {
+    "key": "stargate-finance",
+    "address": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+    "decimals": 18
+  },
+  {
+    "key": "starlink",
+    "address": "0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24",
+    "decimals": 18
+  },
+  {
+    "key": "stasis-eurs",
+    "address": "0xdb25f211ab05b1c97d595516f45794528a807ad8",
+    "decimals": 2
+  },
+  {
+    "key": "status",
+    "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+    "decimals": 18
+  },
+  {
+    "key": "storj",
+    "address": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac",
+    "decimals": 8
+  },
+  {
+    "key": "storm",
+    "address": "0xbe9375c6a420d2eeb258962efb95551a5b722803",
+    "decimals": 18
+  },
+  {
+    "key": "stox",
+    "address": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45",
+    "decimals": 18
+  },
+  {
+    "key": "stp-network",
+    "address": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
+    "decimals": 18
+  },
+  {
+    "key": "stratis",
+    "address": "0xa3c22370de5f9544f0c4de126b1e46ceadf0a51b",
+    "decimals": 18
+  },
+  {
+    "key": "strike",
+    "address": "0x74232704659ef37c08995e386a2e26cc27a8d7b1",
+    "decimals": 18
+  },
+  {
+    "key": "subgame",
+    "address": "0x4b4eb5c44d50bfd44124688c6754633f7e258b01",
+    "decimals": 8
+  },
+  {
+    "key": "sun",
+    "address": "0x7cc61e3ae6360e923e9296c802382ec7c9dd3652",
+    "decimals": 8
+  },
+  {
+    "key": "superfarm",
+    "address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+    "decimals": 18
+  },
+  {
+    "key": "superrare",
+    "address": "0xba5bde662c17e2adff1075610382b9b691296350",
+    "decimals": 18
+  },
+  {
+    "key": "sushi",
+    "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+    "decimals": 18
+  },
+  {
+    "key": "swarm-bzz",
+    "address": "0x19062190b1925b5b6689d7073fdfc8c2976ef8cb",
+    "decimals": 16
+  },
+  {
+    "key": "swipe",
+    "address": "0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9",
+    "decimals": 18
+  },
+  {
+    "key": "swissborg",
+    "address": "0xba9d4199fab4f26efe3551d490e3821486f135ba",
+    "decimals": 8
+  },
+  {
+    "key": "synapse-2",
+    "address": "0x0f2d719407fdbeff09d87557abb7232601fd9f29",
+    "decimals": 18
+  },
+  {
+    "key": "telcoin",
+    "address": "0x467bccd9d29f223bce8043b84e8c8b282827790f",
+    "decimals": 2
+  },
+  {
+    "key": "tellor",
+    "address": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
+    "decimals": 18
+  },
+  {
+    "key": "temple",
+    "address": "0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7",
+    "decimals": 18
+  },
+  {
+    "key": "tether-eurt",
+    "address": "0xc581b735a1688071a1746c968e0798d642ede491",
+    "decimals": 6
+  },
+  {
+    "key": "tether-gold",
+    "address": "0x68749665ff8d2d112fa859aa293f07a622782f38",
+    "decimals": 6
+  },
+  {
+    "key": "tether",
+    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "decimals": 6
+  },
+  {
+    "key": "the-graph",
+    "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+    "decimals": 18
+  },
+  {
+    "key": "the-open-network",
+    "address": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+    "decimals": 9
+  },
+  {
+    "key": "the-sandbox",
+    "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+    "decimals": 18
+  },
+  {
+    "key": "thorchain-erc20",
+    "address": "0x3155ba85d5f96b2d030a4966af206230e46849cb",
+    "decimals": 18
+  },
+  {
+    "key": "thunder-token",
+    "address": "0x1e053d89e08c24aa2ce5c5b4206744dc2d7bd8f5",
+    "decimals": 18
+  },
+  {
+    "key": "titanswap",
+    "address": "0x3a8cccb969a61532d1e6005e2ce12c200caece87",
+    "decimals": 18
+  },
+  {
+    "key": "tokamak-network",
+    "address": "0x2be5e8c109e2197d077d13a82daead6a9b3433c5",
+    "decimals": 18
+  },
+  {
+    "key": "tokemak",
+    "address": "0x2e9d63788249371f1dfc918a52f8d799f4a38c94",
+    "decimals": 18
+  },
+  {
+    "key": "token-pocket",
+    "address": "0x4161725d019690a3e0de50f6be67b07a86a9fae1",
+    "decimals": 4
+  },
+  {
+    "key": "tokenize-xchange",
+    "address": "0x667102bd3413bfeaa3dffb48fa8288819e480a88",
+    "decimals": 8
+  },
+  {
+    "key": "tontoken",
+    "address": "0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a",
+    "decimals": 18
+  },
+  {
+    "key": "tornado-cash",
+    "address": "0x77777feddddffc19ff86db637967013e6c6a116c",
+    "decimals": 18
+  },
+  {
+    "key": "tribe-2",
+    "address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+    "decimals": 18
+  },
+  {
+    "key": "trillion",
+    "address": "0xecacab6725ac1711d97e55df35d525b863b8b9f7",
+    "decimals": 18
+  },
+  {
+    "key": "true-usd",
+    "address": "0x0000000000085d4780b73119b644ae5ecd22b376",
+    "decimals": 18
+  },
+  {
+    "key": "truebit-protocol",
+    "address": "0xf65b5c5104c4fafd4b709d9d60a185eae063276c",
+    "decimals": 18
+  },
+  {
+    "key": "truefi",
+    "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
+    "decimals": 8
+  },
+  {
+    "key": "ufo-gaming",
+    "address": "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
+    "decimals": 18
+  },
+  {
+    "key": "ultra",
+    "address": "0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c",
+    "decimals": 4
+  },
+  {
+    "key": "uma",
+    "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+    "decimals": 18
+  },
+  {
+    "key": "umee",
+    "address": "0xc0a4df35568f116c370e6a6a6022ceb908eeddac",
+    "decimals": 6
+  },
+  {
+    "key": "unibright",
+    "address": "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
+    "decimals": 8
+  },
+  {
+    "key": "unicorn-token",
+    "address": "0x2730d6fdc86c95a74253beffaa8306b40fedecbb",
+    "decimals": 8
+  },
+  {
+    "key": "unifi-protocol-dao",
+    "address": "0x441761326490cacf7af299725b6292597ee822c2",
+    "decimals": 18
+  },
+  {
+    "key": "unifty",
+    "address": "0x7e291890b01e5181f7ecc98d79ffbe12ad23df9e",
+    "decimals": 18
+  },
+  {
+    "key": "unique-one",
+    "address": "0x93dfaf57d986b9ca77df9376c50878e013d9c7c8",
+    "decimals": 18
+  },
+  {
+    "key": "uniswap",
+    "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "decimals": 18
+  },
+  {
+    "key": "uquid-coin",
+    "address": "0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2",
+    "decimals": 18
+  },
+  {
+    "key": "usd-coin",
+    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "decimals": 6
+  },
+  {
+    "key": "usdd",
+    "address": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6",
+    "decimals": 18
+  },
+  {
+    "key": "usdk",
+    "address": "0x1c48f86ae57291f7686349f12601910bd8d470bb",
+    "decimals": 18
+  },
+  {
+    "key": "usdp",
+    "address": "0x1456688345527be1f37e9e627da0837d6f08c925",
+    "decimals": 18
+  },
+  {
+    "key": "usdx-stablecoin",
+    "address": "0xeb269732ab75a6fd61ea60b06fe994cd32a83549",
+    "decimals": 18
+  },
+  {
+    "key": "utrust",
+    "address": "0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c",
+    "decimals": 18
+  },
+  {
+    "key": "vaiot",
+    "address": "0xd13cfd3133239a3c73a9e535a5c4dadee36b395c",
+    "decimals": 18
+  },
+  {
+    "key": "vega-protocol",
+    "address": "0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e",
+    "decimals": 18
+  },
+  {
+    "key": "velas",
+    "address": "0x8c543aed163909142695f2d2acd0d55791a9edb9",
+    "decimals": 18
+  },
+  {
+    "key": "verasity",
+    "address": "0xf411903cbc70a74d22900a5de66a2dda66507255",
+    "decimals": 18
+  },
+  {
+    "key": "veritaseum",
+    "address": "0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374",
+    "decimals": 18
+  },
+  {
+    "key": "victoria-vr",
+    "address": "0x7d5121505149065b562c789a0145ed750e6e8cdd",
+    "decimals": 18
+  },
+  {
+    "key": "vulcan-forged",
+    "address": "0x430ef9263e76dae63c84292c3409d61c598e9682",
+    "decimals": 18
+  },
+  {
+    "key": "waves",
+    "address": "0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a",
+    "decimals": 18
+  },
+  {
+    "key": "weway",
+    "address": "0x9ab70e92319f0b9127df78868fd3655fb9f1e322",
+    "decimals": 18
+  },
+  {
+    "key": "wirex",
+    "address": "0xa02120696c7b8fe16c09c749e4598819b2b0e915",
+    "decimals": 18
+  },
+  {
+    "key": "woo-network",
+    "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+    "decimals": 18
+  },
+  {
+    "key": "wozx",
+    "address": "0x34950ff2b487d9e5282c5ab342d08a2f712eb79f",
+    "decimals": 18
+  },
+  {
+    "key": "wrapped-bitcoin",
+    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "decimals": 8
+  },
+  {
+    "key": "wrapped-centrifuge",
+    "address": "0xc221b7e65ffc80de234bbb6667abdd46593d34f0",
+    "decimals": 18
+  },
+  {
+    "key": "wrapped-nxm",
+    "address": "0x0d438f3b5175bebc262bf23753c1e53d03432bde",
+    "decimals": 18
+  },
+  {
+    "key": "wrapped-ust",
+    "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+    "decimals": 18
+  },
+  {
+    "key": "xcad-network",
+    "address": "0x7659ce147d0e714454073a5dd7003544234b6aa0",
+    "decimals": 18
+  },
+  {
+    "key": "xels",
+    "address": "0x397deb686c72384fad502a81f4d7fdb89e1f1280",
+    "decimals": 8
+  },
+  {
+    "key": "xeno-token",
+    "address": "0x05bbe7240de66f6480c9aeda77c1376b13393f83",
+    "decimals": 18
+  },
+  {
+    "key": "xido-finance",
+    "address": "0xf6650117017ffd48b725b4ec5a00b414097108a7",
+    "decimals": 18
+  },
+  {
+    "key": "xsgd",
+    "address": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
+    "decimals": 6
+  },
+  {
+    "key": "xsushi",
+    "address": "0x8798249c2e607446efb7ad49ec89dd1865ff4272",
+    "decimals": 18
+  },
+  {
+    "key": "xyo-network",
+    "address": "0x55296f69f40ea6d20e478533c15a6b08b654e758",
+    "decimals": 18
+  },
+  {
+    "key": "yearn-finance",
+    "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+    "decimals": 18
+  },
+  {
+    "key": "yield-guild-games",
+    "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+    "decimals": 18
+  },
+  {
+    "key": "zerogoki",
+    "address": "0x011864d37035439e078d64630777ec518138af05",
+    "decimals": 18
+  },
+  {
+    "key": "zignaly",
+    "address": "0xb2617246d0c6c0087f18703d576831899ca94f01",
+    "decimals": 18
+  },
+  {
+    "key": "zipmex-token",
+    "address": "0xaa602de53347579f86b996d2add74bb6f79462b2",
+    "decimals": 18
+  }
+]

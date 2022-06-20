@@ -1,0 +1,15 @@
+{
+  "key": "handshake",
+  "name": "Handshake",
+  "symbol": "hns",
+  "logoURI": "https://assets.coingecko.com/coins/images/10562/large/circle-handshakeLogo.png?1613668983",
+  "website": "https://handshake.org/",
+  "description": "Handshake is a decentralized, permissionless naming protocol where every peer is validating and in charge of managing the root DNS naming zone with the goal of creating an alternative to existing Certificate Authorities and naming systems. Names on the internet (top level domains, social networking handles, etc.) ultimately rely upon centralized actors with full control over a system which are relied upon to be honest, as they are vulnerable to hacking, censorship, and corruption. Handshake aims to experiment with new ways the internet can be more secure, resilient, and socially useful with a peer-to-peer system validated by the network's participants.\r\n\r\nHandshake is an experiment which seeks to explore those new ways in which the necessary tools to build a more decentralized internet. Services on the internet have become more centralized beginning in the 1990s, but do not fulfill the original decentralized vision of the internet. Email became Gmail, usenet became reddit, blog replies became facebook and Medium, pingbacks became twitter, squid became Cloudflare, even gnutella became The Pirate Bay. Centralization exists because there is a need to manage spam, griefing, and sockpuppet/sybil attacks. Previous decentralized systems largely stopped working due to spam. If it were more costly to grief on the internet using decentralized systems, the need for trusted centralized corporations to manage these risks decrease. Internet services and platforms may benefit from building on top of a decentralized system which is specifically designed for resilience against sybil attacks.\r\nAs we may redecentralize.",
+  "coingeckoId": "handshake",
+  "links": {
+    "twitter": "https://twitter.com/hns",
+    "telegram": "https://t.me/handshake_hns",
+    "reddit": "https://www.reddit.com/r/handshake",
+    "github": "https://github.com/handshake-org"
+  }
+}

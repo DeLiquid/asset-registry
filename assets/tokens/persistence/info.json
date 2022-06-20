@@ -1,0 +1,15 @@
+{
+  "key": "persistence",
+  "name": "Persistence",
+  "symbol": "xprt",
+  "logoURI": "https://assets.coingecko.com/coins/images/14582/large/512_Light.png?1617149658",
+  "website": "https://persistence.one/",
+  "description": "Persistence is an interoperable protocol that provides sovereign environments to facilitate the creation of next-gen financial products. \r\nPersistence is a Delegated Proof-of-Stake chain that runs on Tendermint PBFT consensus algorithm\r\n- Role of XPRT in the Persistence ecosystem\r\n1. Staking Token: XPRT holders can stake their tokens to earn staking rewards while helping secure the Persistence Main-chain\r\n2. Work Token: Stakers of XPRT benefit from the economic activity within the Persistence ecosystem. DApps within the Persistence ecosystem share a portion of their revenue/fee with XPRT stakers and validators\r\n3. Chain Governance: The XPRT token secures the network through staking, is used to pay for fees, and defines the weightage of vote for governance proposals to take critical decisions regarding the evolution of the Persistence chain",
+  "coingeckoId": "persistence",
+  "links": {
+    "twitter": "https://twitter.com/persistenceone",
+    "telegram": "https://t.me/PersistenceOneChat",
+    "reddit": "https://www.reddit.com/r/PersistenceOne/",
+    "github": "https://github.com/persistenceOne/persistenceCore"
+  }
+}

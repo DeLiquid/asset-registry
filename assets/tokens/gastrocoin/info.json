@@ -1,0 +1,14 @@
+{
+  "key": "gastrocoin",
+  "name": "GastroCoin",
+  "symbol": "gtc",
+  "logoURI": "https://assets.coingecko.com/coins/images/14568/large/9bBCZwW.png?1617066806",
+  "website": "https://gastrocoin.net/",
+  "description": "GastroCoin as a currency is the basis of international cooperation in the gastronomic world. By gastronomy is meant the entire chain from meat farmers, growers, wine and beer producers to restaurateurs and sommeliers further on to you as a restaurant guest and to you who buy wine, beer and food on the internet. In order to offer a stable and secure payment solution and a stable network, GastroCoin offers masternode solutions with generous rewards.",
+  "coingeckoId": "gastrocoin",
+  "links": {
+    "twitter": "https://twitter.com/CoinGastro",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5325925",
+    "github": "https://github.com/TeamGastroCoin/gastrocoin"
+  }
+}

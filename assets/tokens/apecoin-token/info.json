@@ -1,0 +1,13 @@
+{
+  "key": "apecoin-token",
+  "name": "APEcoin Token",
+  "symbol": "ape",
+  "logoURI": "https://assets.coingecko.com/coins/images/12665/large/ape.png?1638345530",
+  "website": "https://apecoin.dev/",
+  "description": "APEcoin is a BEP20 token that embraces the humor and viral nature of memes by developing an ecosystem of platforms that celebrate and explore crypto trends. GO APE!",
+  "coingeckoId": "apecoin-token",
+  "links": {
+    "twitter": "https://twitter.com/go_apecoin",
+    "telegram": "https://t.me/APE_Token"
+  }
+}

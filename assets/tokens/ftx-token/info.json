@@ -1,0 +1,13 @@
+{
+  "key": "ftx-token",
+  "name": "FTX",
+  "symbol": "ftt",
+  "logoURI": "https://assets.coingecko.com/coins/images/9026/large/F.png?1609051564",
+  "website": "https://ftx.com",
+  "description": "FTT is FTX's exchange token. Holders get a fraction of exchange fees, a fraction of the liquidation insurance fund, and can use the token as collateral and to get tighter OTC spreads on FTX.",
+  "coingeckoId": "ftx-token",
+  "links": {
+    "twitter": "https://twitter.com/FTX_official",
+    "telegram": "https://t.me/FTX_Official"
+  }
+}

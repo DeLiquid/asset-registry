@@ -1,0 +1,13 @@
+{
+  "key": "token-tkx",
+  "name": "Xixo TKX",
+  "symbol": "tkx",
+  "logoURI": "https://assets.coingecko.com/coins/images/18924/large/TKX_200x200.png?1634019616",
+  "website": "https://www.xixochain.com/",
+  "description": "The story of XIXO originates from the desire to create a digital economic ecosystem for the Real Estate, Construction, and Industrial sectors. Our ecosystem makes it simple and easy for communities, businesses, organizations, and individuals to conduct transactions and implement real estate, construction, and industrial development and save time, improving efficiency, labor productivity and investment efficiency.",
+  "coingeckoId": "token-tkx",
+  "links": {
+    "twitter": "https://twitter.com/xixo_ecosystem",
+    "telegram": "https://t.me/xixoecosystem_official"
+  }
+}

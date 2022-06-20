@@ -1,0 +1,16 @@
+{
+  "key": "chainx",
+  "name": "ChainX",
+  "symbol": "pcx",
+  "logoURI": "https://assets.coingecko.com/coins/images/9133/large/chainx.png?1572094352",
+  "website": "https://chainx.org/",
+  "description": "ChainX aims to facilitate asset interoperability with other blockchains It measures users' mining power based on the market value of BTC, DOT, ETH, ERC20, EOS and other assets that are deposited in an inter-chain bridge.",
+  "coingeckoId": "chainx",
+  "links": {
+    "twitter": "https://twitter.com/chainx_org",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5153766",
+    "telegram": "https://t.me/chainx_org",
+    "reddit": "https://www.reddit.com/r/ChainX/",
+    "github": "https://github.com/chainx-org/ChainX"
+  }
+}

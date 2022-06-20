@@ -1,0 +1,17 @@
+{
+  "key": "elastos",
+  "name": "Elastos",
+  "symbol": "ela",
+  "logoURI": "https://assets.coingecko.com/coins/images/2780/large/Elastos.png?1597048112",
+  "website": "https://elastos.info/",
+  "description": "\"Founded by OS expert Rong Chen, Elastos is building the blockchain industry\u2019s most comprehensive and interoperable open source platform. Using a hybrid consensus that combines the secure hashpower of Bitcoin and the democratic ideals of Delegated-Proof-of-Stake, the SmartWeb of Elastos is a suite of software for an entirely decentralized internet. Elastos employs not only blockchain technology, but a peer-to-peer network for communication, decentralized data storage services, and a decentralized ID (DID) system for all digital assets. With sidechains like Ethereum, Elastos is not merely the foundation for securing truly decentralized applications that can scale, it is the foundation for true data ownership. \r\n\r\nelastOS, the flagship product of the Elastos Smartweb, brings the entire decentralized ecosystem into a single App, currently available for Android and in development for both iOS and desktop.\r\n\r\nElastos is also actively searching for both new and existing dApp projects through its Cyber Republic initiative. Cyber Republic possesses a community-governed grant fund designed to help startups and existing businesses explore blockchain. You can read more about Cyber Republic at https://www.cyberrepublic.org.",
+  "coingeckoId": "elastos",
+  "links": {
+    "twitter": "https://twitter.com/ElastosInfo",
+    "facebook": "https://www.facebook.com/elastosorg",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2654716",
+    "telegram": "https://t.me/elastosgroup",
+    "reddit": "https://www.reddit.com/r/Elastos/",
+    "github": "https://github.com/elastos"
+  }
+}

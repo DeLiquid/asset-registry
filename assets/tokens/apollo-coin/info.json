@@ -1,0 +1,14 @@
+{
+  "key": "apollo-coin",
+  "name": "Apollo Coin",
+  "symbol": "apx",
+  "logoURI": "https://assets.coingecko.com/coins/images/21783/large/logo_%282%29.png?1640007631",
+  "website": "https://apollocoin.io/",
+  "description": "Our mission to the moon begins with you. Apollo Coin is a hyper deflationary token paying 9% BUSD rewards! Holders of APX will earn 9% rewards from every buy and sell transaction while 2% is bought back and burned, forever decreasing the supply. Our core team is self doxxed. The Apollo Coin Ecosystem is comprised of the Apollo Coin Wallet, Apollo Coin exchange, Blockchain Gaming and much more to come!",
+  "coingeckoId": "apollo-coin",
+  "links": {
+    "twitter": "https://twitter.com/apollocoinAPX",
+    "facebook": "https://www.facebook.com/apollocoinAPX",
+    "telegram": "https://t.me/apollocointg"
+  }
+}

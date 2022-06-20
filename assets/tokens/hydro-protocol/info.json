@@ -1,0 +1,14 @@
+{
+  "key": "hydro-protocol",
+  "name": "Hydro Protocol",
+  "symbol": "hot",
+  "logoURI": "https://assets.coingecko.com/coins/images/2570/large/Hydro-Protocol.png?1558069424",
+  "website": "https://hydroprotocol.io/",
+  "description": "Hydro Protocol defines the rules for executing decentralized orders and provides the mechanism for order matching. Hydro utilizes \u201cFederated Liquidity Pools\u201d (FLP) to address the issue of liquidity sharing among various decentralized exchanges. ",
+  "coingeckoId": "hydro-protocol",
+  "links": {
+    "twitter": "https://twitter.com/protocol_hydro",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2738723",
+    "telegram": "https://t.me/hydroprotocol"
+  }
+}

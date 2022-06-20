@@ -1,0 +1,12 @@
+{
+  "key": "aleph-im-wormhole",
+  "name": "Aleph.im (Wormhole)",
+  "symbol": "aleph",
+  "logoURI": "https://assets.coingecko.com/coins/images/22886/large/ALEPH_wh_small.png?1644222969",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "aleph-im-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

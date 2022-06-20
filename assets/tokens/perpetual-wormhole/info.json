@@ -1,0 +1,12 @@
+{
+  "key": "perpetual-wormhole",
+  "name": "Perpetual (Wormhole)",
+  "symbol": "perp",
+  "logoURI": "https://assets.coingecko.com/coins/images/22988/large/PERP_wh_small.png?1644226875",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "perpetual-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

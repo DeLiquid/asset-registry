@@ -1,0 +1,15 @@
+{
+  "key": "phoenix-global",
+  "name": "Phoenix Global",
+  "symbol": "phb",
+  "logoURI": "https://assets.coingecko.com/coins/images/20052/large/tTcJ-ORs_400x400.jpg?1636429516",
+  "website": "https://www.phoenix.global/",
+  "description": "PHOENIX is the next evolution in Red Pulse, bringing forth a revolutionary new infrastructure and upgraded token (PHX).\r\n\r\nPHOENIX is both a new platform and token (PHX). We\u2019re building on top of the original roadmap that was initially outlined in our whitepaper, adding a new cloud-based knowledge network that connects research consumers with content-producers. PHOENIX will utilize machine learning, natural language processing, and blockchain technology to power a more efficient ecosystem for matching industry experts to clients looking for insights. \r\n\r\nThe PHOENIX platform is powered by a new token, PHX, which will replace our existing RPX token. PHX includes features such as Proof of Creation, Proof of Ownership, regulatory compliance, IP protection and accountability built right into the new smart contract. We will be conducting a token swap in August, so please sign up for our email list in order to get the latest updates as we release information on the upcoming token swap.",
+  "coingeckoId": "phoenix-global",
+  "links": {
+    "twitter": "https://twitter.com/Phoenix_Chain",
+    "telegram": "https://t.me/APEXcommunity",
+    "reddit": "https://www.reddit.com/r/RedPulseToken/",
+    "github": "https://github.com/phoenixglobal"
+  }
+}

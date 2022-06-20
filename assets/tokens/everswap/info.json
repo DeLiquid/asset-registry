@@ -1,0 +1,13 @@
+{
+  "key": "everswap",
+  "name": "EverSwap",
+  "symbol": "ever",
+  "logoURI": "https://assets.coingecko.com/coins/images/16943/large/8GcpNCM.png?1625719645",
+  "website": "https://everswap.org/",
+  "description": "First multi-chain DEX for BSC and KCC with buyback tokenomics for native pairs",
+  "coingeckoId": "everswap",
+  "links": {
+    "twitter": "https://twitter.com/EverSwapToken",
+    "telegram": "https://t.me/EverSwapToken"
+  }
+}

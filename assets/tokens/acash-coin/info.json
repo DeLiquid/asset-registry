@@ -1,0 +1,14 @@
+{
+  "key": "acash-coin",
+  "name": "Acash Coin",
+  "symbol": "aca",
+  "logoURI": "https://assets.coingecko.com/coins/images/9471/large/JxCQN9vthyjwGMcjPHzlYJwcu84LG-l3rFR3zgAOGd6BJTtxFVkmZt5PbUJytMa_RrZvYI5EeVm_vP89viF_hyFxwLGw6LlIkgSk32kGMnIy7o8zDkMBrO0wd-4zC--0Ulz9OUESJUOzy6cwH6xx7s5QbF0U3A3fVL9w4Q_jgcKJeM75iuaRMT8k6IhUq6GPiNe-vAyIjpQJI_407eFSeNyB5FVz7w4h5Lu10fLp5ti0mZZs.jpg?1575586540",
+  "website": "https://www.acashcorp.com/",
+  "description": "Crypto payment solution project",
+  "coingeckoId": "acash-coin",
+  "links": {
+    "twitter": "https://twitter.com/acashcoin",
+    "facebook": "https://www.facebook.com/aca.cash",
+    "telegram": "https://t.me/AcashCoin"
+  }
+}

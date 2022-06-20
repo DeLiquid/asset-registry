@@ -1,0 +1,12 @@
+{
+  "key": "nexus-mutual-wormhole",
+  "name": "Nexus Mutual (Wormhole)",
+  "symbol": "nxm",
+  "logoURI": "https://assets.coingecko.com/coins/images/23016/large/NXM_wh_small.png?1644226697",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "nexus-mutual-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

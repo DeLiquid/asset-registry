@@ -1,0 +1,14 @@
+{
+  "key": "bnb48-club-token",
+  "name": "BNB48 Club",
+  "symbol": "koge",
+  "logoURI": "https://assets.coingecko.com/coins/images/13827/large/bnb48.png?1612154326",
+  "website": "https://www.bnb48.club/",
+  "description": "Koge is a token minted and issued by BNB48 Club\u00ae. It represents the voting power to participate in BNB48 Club\u00ae\u2019s open governance. The club\u2019s dividends are also paid out to members in Koge tokens.",
+  "coingeckoId": "bnb48-club-token",
+  "links": {
+    "twitter": "https://twitter.com/bnb48club",
+    "telegram": "https://t.me/bnb48club_en",
+    "github": "https://github.com/BNB48Club"
+  }
+}

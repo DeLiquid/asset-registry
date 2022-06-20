@@ -1,0 +1,12 @@
+{
+  "key": "amp-wormhole",
+  "name": "Amp (Wormhole)",
+  "symbol": "amp",
+  "logoURI": "https://assets.coingecko.com/coins/images/22887/large/AMP_wh_small.png?1644224132",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "amp-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

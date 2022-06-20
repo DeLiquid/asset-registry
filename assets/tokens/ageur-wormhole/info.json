@@ -1,0 +1,12 @@
+{
+  "key": "ageur-wormhole",
+  "name": "agEUR (Wormhole)",
+  "symbol": "ageur",
+  "logoURI": "https://assets.coingecko.com/coins/images/22965/large/agEUR_wh_small.png?1644222746",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "ageur-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

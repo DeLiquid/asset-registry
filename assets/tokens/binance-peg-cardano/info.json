@@ -1,0 +1,12 @@
+{
+  "key": "binance-peg-cardano",
+  "name": "Binance-Peg Cardano",
+  "symbol": "ada",
+  "logoURI": "https://assets.coingecko.com/coins/images/15455/large/ZE8LxNBf_400x400.jpg?1620894681",
+  "website": "https://cardano.org/",
+  "description": "Tokens that are wrapped and pegged by Binance on a 1:1 ratio to the corresponding native token. Also supports BEP20 token deposits and withdrawals at Binance.com",
+  "coingeckoId": "binance-peg-cardano",
+  "links": {
+    "twitter": "https://twitter.com/CardanoStiftung"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "verasity",
+  "name": "Verasity",
+  "symbol": "vra",
+  "logoURI": "https://assets.coingecko.com/coins/images/14025/large/VRA.jpg?1613797653",
+  "website": "https://verasity.io/",
+  "description": "",
+  "coingeckoId": "verasity",
+  "links": {
+    "twitter": "https://twitter.com/verasitytech",
+    "telegram": "https://t.me/Verasity_Official",
+    "reddit": "https://www.reddit.com",
+    "github": "https://github.com/verasitytech/"
+  }
+}

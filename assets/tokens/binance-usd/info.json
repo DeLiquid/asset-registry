@@ -1,0 +1,14 @@
+{
+  "key": "binance-usd",
+  "name": "Binance USD",
+  "symbol": "busd",
+  "logoURI": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png?1568947766",
+  "website": "https://www.paxos.com/busd/",
+  "description": "Binance USD (BUSD) is a stable coin pegged to USD that has received approval from the New York State Department of Financial Services (NYDFS). BUSD will be available for direct purchase and redemption at a rate of 1 BUSD = 1 USD. ",
+  "coingeckoId": "binance-usd",
+  "links": {
+    "twitter": "https://twitter.com/PaxosGlobal",
+    "facebook": "https://www.facebook.com/paxosglobal",
+    "github": "https://github.com/paxosglobal/busd-contract"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key": "fwar-finance",
+  "name": "Fwar Finance",
+  "symbol": "fwt",
+  "logoURI": "https://assets.coingecko.com/coins/images/22006/large/logo_200x200.jpg?1640589461",
+  "website": "https://www.fwar.finance",
+  "description": "Fwar Finance is a decentralized game platform powered by the Binance Smart Chain blockchain. Within Fwar Finance, users can create, experience, and play to earn from combat and farming, exploring, crafting, breeding, battling, and more. Especially, Fwar Finance where the players can obtain assets with real value.",
+  "coingeckoId": "fwar-finance",
+  "links": {
+    "twitter": "https://twitter.com/fwarfinance",
+    "telegram": "https://t.me/fwarchannel"
+  }
+}

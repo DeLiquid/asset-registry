@@ -1,0 +1,14 @@
+{
+  "key": "qiswap",
+  "name": "QiSwap",
+  "symbol": "qi",
+  "logoURI": "https://assets.coingecko.com/coins/images/14007/large/logocoingecko.png?1613613587",
+  "website": "https://qiswap.com/",
+  "description": "Qi token is the governance token for the QiSwap platform. QiSwap is a DEX running on the QTUM blockchain and QI will play a major part in the project, ranging from LP fees to several other benefits for platform users and token holders",
+  "coingeckoId": "qiswap",
+  "links": {
+    "twitter": "https://twitter.com/QiSwap",
+    "telegram": "https://t.me/qiswapofficial",
+    "github": "https://github.com/qiswap/QiToken"
+  }
+}

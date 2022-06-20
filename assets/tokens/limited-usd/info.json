@@ -1,0 +1,13 @@
+{
+  "key": "limited-usd",
+  "name": "Limited USD",
+  "symbol": "lusd",
+  "logoURI": "https://assets.coingecko.com/coins/images/22541/large/5EGOQZSG_400x400.jpg?1642041163",
+  "website": "https://limitedcurrency.com/",
+  "description": "Introducing Limited USD (LUSD) - a cryptocurrency with a limited maximum supply of one billion coins, in which 93% of its supply will be gifted to the general public and for its public goods. LUSD was created on the XRP Ledger, which is one of the most advanced and secured blockchain networks in the world with the fastest transaction time and cheapest fee.   \r\n\r\nFurthermore, LUSD is just one of the many cryptocurrencies that was created by the Limited Currency, a community of cryptocurrency enthusiasts with a mission to Make the USD Great Again.",
+  "coingeckoId": "limited-usd",
+  "links": {
+    "twitter": "https://twitter.com/limitedcurrency",
+    "telegram": "https://t.me/limitedusd"
+  }
+}

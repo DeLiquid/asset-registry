@@ -1,0 +1,14 @@
+{
+  "key": "biswap",
+  "name": "Biswap",
+  "symbol": "bsw",
+  "logoURI": "https://assets.coingecko.com/coins/images/16845/large/biswap.png?1625388985",
+  "website": "https://biswap.org/",
+  "description": "Biswap is the first decentralized exchange platform on the market with a three-type referral system and the lowest platform transaction fees (0.1%). We are a decentralized exchange platform for swapping BEP-20 tokens on the Binance Smart Chain network. This network guarantees superior speed and much lower network transaction cost.",
+  "coingeckoId": "biswap",
+  "links": {
+    "twitter": "https://twitter.com/Biswap_Dex",
+    "telegram": "https://t.me/biswap",
+    "github": "https://github.com/biswap-org"
+  }
+}

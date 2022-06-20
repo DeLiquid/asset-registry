@@ -1,0 +1,15 @@
+{
+  "key": "fitmin",
+  "name": "Fitmin",
+  "symbol": "ftm",
+  "logoURI": "https://assets.coingecko.com/coins/images/16111/large/gold.png?1623026639",
+  "website": "https://www.fitmin.finance/",
+  "description": "Fitmin (Feed Me) is created through a frictionless yield generation token hard-coded on its smart contract to use as future currency to feed your favorite pets",
+  "coingeckoId": "fitmin",
+  "links": {
+    "twitter": "https://twitter.com/Fitmin_TOKEN",
+    "telegram": "https://t.me/fitmintoken",
+    "reddit": "https://www.reddit.com/r/Fitmin/",
+    "github": "https://github.com/fitmin-finance/fitmin-contract"
+  }
+}

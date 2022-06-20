@@ -1,0 +1,13 @@
+{
+  "key": "polkastarter",
+  "name": "Polkastarter",
+  "symbol": "pols",
+  "logoURI": "https://assets.coingecko.com/coins/images/12648/large/polkastarter.png?1609813702",
+  "website": "https://www.polkastarter.com/token",
+  "description": "POLS token holders will be able to vote on product features, token utility, types of auctions and even decide which projects get to be featured by Polkastarter. ",
+  "coingeckoId": "polkastarter",
+  "links": {
+    "twitter": "https://twitter.com/polkastarter",
+    "telegram": "https://t.me/polkastarter"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "fox-financev2",
+  "name": "Fox Finance V2",
+  "symbol": "fox",
+  "logoURI": "https://assets.coingecko.com/coins/images/25627/large/ouIXdRFJ_400x400.png?1652861555",
+  "website": "https://foxfinance.io/",
+  "description": "",
+  "coingeckoId": "fox-financev2",
+  "links": {
+    "twitter": "https://twitter.com/foxfinancebsc",
+    "telegram": "https://t.me/FoxFinanceBSC2022",
+    "reddit": "https://www.reddit.com/r/foxfinance",
+    "github": "https://github.com/FoxFinance12"
+  }
+}

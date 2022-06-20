@@ -1,0 +1,15 @@
+{
+  "key": "terra-luna-2",
+  "name": "Terra",
+  "symbol": "luna",
+  "logoURI": "https://assets.coingecko.com/coins/images/25767/large/01_Luna_color.png?1653556122",
+  "website": "https://www.terra.money/",
+  "description": "Terra 2.0 which will assume the Terra name is a new blockchain launched by Terraform Labs as part of the passing of governance proposal 1623.\r\n\r\nThe Terra protocol is a decentralized and open-source public blockchain protocol. Luna is the Terra protocol\u2019s native staking token used for governance and mining. \r\nUsers stake Luna to validators who record and verify transactions on the blockchain in exchange for rewards from transaction fees.\r\n\r\nThe Terra 2.0 chain will not have a stablecoin and holders of the old Terra Classic chain will be airdropped new Luna native coins.\r\nIn the plan, developers of the Terra ecosystem are to migrate and deploy their dapps on the new blockchain.",
+  "coingeckoId": "terra-luna-2",
+  "links": {
+    "twitter": "https://twitter.com/terra_money",
+    "telegram": "https://t.me/terralunachat",
+    "reddit": "https://www.reddit.com",
+    "github": "https://github.com/terra-money/core"
+  }
+}

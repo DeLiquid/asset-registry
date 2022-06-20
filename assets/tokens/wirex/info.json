@@ -1,0 +1,12 @@
+{
+  "key": "wirex",
+  "name": "Wirex",
+  "symbol": "wxt",
+  "logoURI": "https://assets.coingecko.com/coins/images/8835/large/Wirex.jpg?1561970529",
+  "website": "https://wirexapp.com/",
+  "description": "The Wirex Token (WXT) is a unique multi-blockchain cryptocurrency that powers the X-tras rewards programme. WXT is built on both the Stellar Network and Ethereum blockchain for maximum speed, efficiency and flexibility. WXT is designed to both help reward Wirex customers for their loyalty and integrate the platform with the new generation of decentralised finance (DeFi) ecosystems. Wirex customers can earn up to 4% back in WXT every time they use their Wirex cards in-store or online, or up to 12% annually on the balance of their WXT accounts with the Savings Bonus feature.   ",
+  "coingeckoId": "wirex",
+  "links": {
+    "twitter": "https://twitter.com/wirexapp"
+  }
+}

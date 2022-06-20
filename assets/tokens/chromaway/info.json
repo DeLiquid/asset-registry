@@ -1,0 +1,15 @@
+{
+  "key": "chromaway",
+  "name": "Chromia",
+  "symbol": "chr",
+  "logoURI": "https://assets.coingecko.com/coins/images/5000/large/Chromia.png?1559038018",
+  "website": "https://chromia.com/",
+  "description": "",
+  "coingeckoId": "chromaway",
+  "links": {
+    "twitter": "https://twitter.com/chromia",
+    "facebook": "https://www.facebook.com/teamchromia",
+    "telegram": "https://t.me/hellochromia",
+    "reddit": "https://www.reddit.com"
+  }
+}

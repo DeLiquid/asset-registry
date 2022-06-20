@@ -1,0 +1,16 @@
+{
+  "key": "hedera-hashgraph",
+  "name": "Hedera",
+  "symbol": "hbar",
+  "logoURI": "https://assets.coingecko.com/coins/images/3688/large/hbar.png?1637045634",
+  "website": "https://www.hedera.com/",
+  "description": "Hedera is a decentralized public network where developers can build secure, fair applications with near real-time consensus. The platform is owned and governed by a council of global innovators including Avery Dennison, Boeing, Deutsche Telekom, DLA Piper, FIS (WorldPay), Google, IBM, LG Electronics, Magalu, Nomura, Swirlds, Tata Communications, University College London (UCL), Wipro, and Zain Group. \r\n\r\nThe Hedera Consensus Service (HCS) acts as a trust layer for any application or permissioned network and allows for the creation of an immutable and verifiable log of messages. Application messages are submitted to the Hedera network for consensus, given a trusted timestamp, and fairly ordered. Use HCS to track assets across a supply chain, create auditable logs of events in an advertising platform, or even use it as a decentralized ordering service.",
+  "coingeckoId": "hedera-hashgraph",
+  "links": {
+    "twitter": "https://twitter.com/hedera",
+    "facebook": "https://www.facebook.com/hashgraph",
+    "telegram": "https://t.me/hederahashgraph",
+    "reddit": "https://www.reddit.com/r/Hedera/",
+    "github": "https://github.com/hashgraph"
+  }
+}

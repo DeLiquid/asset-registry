@@ -1,0 +1,17 @@
+{
+  "key": "kin",
+  "name": "Kin",
+  "symbol": "kin",
+  "logoURI": "https://assets.coingecko.com/coins/images/959/large/kin.png?1586917032",
+  "website": "https://kin.org",
+  "description": "Kin is money for the digital world. It is an open micro-transaction platform used by millions of users across more than 50 consumer applications and services, making Kin the most used cryptocurrency by mainstream consumers. Kin can be sent anywhere in the world, instantly, and for free.\r\n \r\nKin enters circulation via the Kin Rewards Engine, or \"\"KRE\"\", which rewards developers for getting their consumers to use Kin. Today people are using Kin to purchase a variety of digital goods and services and to support content creators.\r\n \r\nThis offers developers a new business model that rewards the adoption of engaging experiences and free exchange of value between users, not harvesting their data and attention. That means users and developers are finally re-aligned, around a new economy in which those who generate value online are the focus, not big-data monopolies.",
+  "coingeckoId": "kin",
+  "links": {
+    "slack": "http://slack.kinfoundation.com/",
+    "twitter": "https://twitter.com/kin_ecosystem",
+    "whitepaper": "https://kin.kik.com/Kin%20Whitepaper%20v1.pdf",
+    "telegram": "https://t.me/TheKinChannel",
+    "reddit": "https://www.reddit.com/r/KinFoundation",
+    "github": "https://github.com/kinecosystem"
+  }
+}

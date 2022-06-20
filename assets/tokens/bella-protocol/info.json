@@ -1,0 +1,13 @@
+{
+  "key": "bella-protocol",
+  "name": "Bella Protocol",
+  "symbol": "bel",
+  "logoURI": "https://assets.coingecko.com/coins/images/12478/large/Bella.png?1602230054",
+  "website": "https://bella.fi/",
+  "description": "The Bella Protocol offers a suite of DeFi products for streamlined crypto-banking experience. The core concept of Bella\u2019s product design is 1-Click. Bella provides automated services, subsidizes gas fees, and caters to both new and experienced users either on-chain or via Bella\u2019s custodian service.\r\n\r\nWith Bella, users can save gas fees and time and enjoy high yields from sophisticated strategies. The current product lineups include Bella Liquidity Mining, Flex Savings, One-Click Portal, and Lending.",
+  "coingeckoId": "bella-protocol",
+  "links": {
+    "twitter": "https://twitter.com/BellaProtocol",
+    "telegram": "https://t.me/bellaprotocol"
+  }
+}

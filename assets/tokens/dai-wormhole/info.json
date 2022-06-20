@@ -1,0 +1,12 @@
+{
+  "key": "dai-wormhole",
+  "name": "DAI (Wormhole)",
+  "symbol": "dai",
+  "logoURI": "https://assets.coingecko.com/coins/images/22997/large/DAI_wh_small.png?1644225186",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "dai-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

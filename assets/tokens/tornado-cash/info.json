@@ -1,0 +1,14 @@
+{
+  "key": "tornado-cash",
+  "name": "Tornado Cash",
+  "symbol": "torn",
+  "logoURI": "https://assets.coingecko.com/coins/images/13496/large/ZINt8NSB_400x400.jpg?1609193407",
+  "website": "https://tornado.cash/",
+  "description": "",
+  "coingeckoId": "tornado-cash",
+  "links": {
+    "twitter": "https://twitter.com/TornadoCash",
+    "telegram": "https://t.me/TornadoCashOfficial",
+    "github": "https://github.com/tornadocash/tornado-core"
+  }
+}

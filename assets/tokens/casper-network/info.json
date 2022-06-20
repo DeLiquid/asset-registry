@@ -1,0 +1,15 @@
+{
+  "key": "casper-network",
+  "name": "Casper Network",
+  "symbol": "cspr",
+  "logoURI": "https://assets.coingecko.com/coins/images/15279/large/casper.PNG?1620341020",
+  "website": "https://casper.network/",
+  "description": "The Casper Network is the first live proof-of-stake blockchain built off the Casper CBC specification. Casper is designed to accelerate enterprise and developer adoption of blockchain technology today and evolve to meet user needs in the future.",
+  "coingeckoId": "casper-network",
+  "links": {
+    "twitter": "https://twitter.com/Casper_Network",
+    "telegram": "https://t.me/casperblockchain",
+    "reddit": "https://www.reddit.com/r/CasperProtocol/",
+    "github": "https://github.com/casper-ecosystem"
+  }
+}

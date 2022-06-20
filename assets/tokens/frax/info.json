@@ -1,0 +1,14 @@
+{
+  "key": "frax",
+  "name": "Frax",
+  "symbol": "frax",
+  "logoURI": "https://assets.coingecko.com/coins/images/13422/large/frax_logo.png?1608476506",
+  "website": "https://frax.finance",
+  "description": "The first fractional-algorithmic stablecoin",
+  "coingeckoId": "frax",
+  "links": {
+    "twitter": "https://twitter.com/fraxfinance",
+    "telegram": "https://t.me/fraxfinance",
+    "github": "https://github.com/fraxfinance/frax-solidity"
+  }
+}

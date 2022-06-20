@@ -1,0 +1,14 @@
+{
+  "key": "illuvium",
+  "name": "Illuvium",
+  "symbol": "ilv",
+  "logoURI": "https://assets.coingecko.com/coins/images/14468/large/ILV.JPG?1617182121",
+  "website": "https://illuvium.io/",
+  "description": "Welcome to the world of Illuvium. A shattered land of beauty and wonder. Travel the vast and varied landscape hunting dangerous beasts, then capture them to battle in the Arenas or trade via the exchange. Illuvium utilizes mechanics whereby users can stake collateral and receive access to governance, yield farming, and weekly distributions as a reward. A fully decentralized protocol, Illuvium represents a new age in gaming. It has been engineered from the ground-up to increase the value of the underlying $ILV token while providing players with a AAA experience. What makes Illuvium unique is that stakers receive regular distributions and can vote on everything from tokenomics related issues to the features in the game itself. With Illuvium, the power to define the project into the future is purposefully left to those who stake in the protocol.",
+  "coingeckoId": "illuvium",
+  "links": {
+    "twitter": "https://twitter.com/illuviumio",
+    "telegram": "https://t.me/illuvium",
+    "github": "https://github.com/IlluviumGame"
+  }
+}

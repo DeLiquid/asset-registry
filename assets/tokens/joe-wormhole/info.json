@@ -1,0 +1,12 @@
+{
+  "key": "joe-wormhole",
+  "name": "JOE (Wormhole)",
+  "symbol": "joe",
+  "logoURI": "https://assets.coingecko.com/coins/images/22942/large/JOE_wh_small.png?1644226108",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "joe-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "subgame",
+  "name": "SubGame",
+  "symbol": "sgb",
+  "logoURI": "https://assets.coingecko.com/coins/images/15422/large/logo_200_200.png?1620785105",
+  "website": "https://www.subgame.org/",
+  "description": "SubGame is a public chain development team based on the Polkadot Para chain. It hopes to build a public chain with cross-chain interoperability. In addition to creating game applications, it can also build various types of application scenarios to create a common cross-chain industry. The blockchain infrastructure provides unlimited possibilities for distributed mobile applications.",
+  "coingeckoId": "subgame",
+  "links": {
+    "twitter": "https://twitter.com/SubGame_Network",
+    "facebook": "https://www.facebook.com/SubGame.netwrok",
+    "telegram": "https://t.me/subgame_network",
+    "github": "https://github.com/SubGame-Network/subgame-network"
+  }
+}

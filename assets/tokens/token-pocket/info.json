@@ -1,0 +1,15 @@
+{
+  "key": "token-pocket",
+  "name": "Pocket TPT",
+  "symbol": "tpt",
+  "logoURI": "https://assets.coingecko.com/coins/images/7603/large/_E6sbg1g_400x400.jpg?1548828066",
+  "website": "https://www.tokenpocket.pro/",
+  "description": "TPT stands for TokenPocket Token. It is a utility token representing TP users and developers' right to enjoy functionalities provided by the TokenPocket ecosystem. It is also a vital link connecting the wallet, users and project developers.",
+  "coingeckoId": "token-pocket",
+  "links": {
+    "twitter": "https://twitter.com/TokenPocket_TP",
+    "facebook": "https://www.facebook.com/TokenPocket",
+    "telegram": "https://t.me/tokenPocket_en",
+    "github": "https://github.com/TP-Lab"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "orion-protocol",
+  "name": "Orion Protocol",
+  "symbol": "orn",
+  "logoURI": "https://assets.coingecko.com/coins/images/11841/large/orion_logo.png?1594943318",
+  "website": "https://www.orionprotocol.io/",
+  "description": "Orion is a DeFi platform providing B2B + B2C solutions for liquidity. It aims to solve the the largest problems in DeFi by aggregating the liquidity of the entire crypto market into one decentralized platform \u2013 pulling from every major centralized exchange, decentralized exchange, and swapping pool. ",
+  "coingeckoId": "orion-protocol",
+  "links": {
+    "twitter": "https://twitter.com/orion_protocol",
+    "telegram": "https://t.me/orionprotocol",
+    "github": "https://github.com/orionprotocol"
+  }
+}

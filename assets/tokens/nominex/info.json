@@ -1,0 +1,14 @@
+{
+  "key": "nominex",
+  "name": "Nominex",
+  "symbol": "nmx",
+  "logoURI": "https://assets.coingecko.com/coins/images/14424/large/NMX_c_200px.png?1616385215",
+  "website": "https://nominex.io/defi-nmx?r=68422",
+  "description": "",
+  "coingeckoId": "nominex",
+  "links": {
+    "twitter": "https://twitter.com/NominexExchange",
+    "telegram": "https://t.me/nominex_announcements",
+    "github": "https://github.com/nominex/eth-smart-contracts"
+  }
+}

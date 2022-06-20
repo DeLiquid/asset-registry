@@ -1,0 +1,13 @@
+{
+  "key": "meta-inu-token",
+  "name": "Meta Inu Token",
+  "symbol": "meta",
+  "logoURI": "https://assets.coingecko.com/coins/images/20466/large/META-INU.png?1637064437",
+  "website": "https://www.metainu.net",
+  "description": "$META is a fully community-owned token on the Ethereum blockchain. Metaverse in VR, Marketplace, and Games. The project was fairly launched on Uniswap. Meta Inu will include a Metaverse in VR where players can meet new friends, socialize and explore alongside NFTs and exciting play-to-earn games. \r\n\r\n100% of tokens were added to Uniswap, no team or VC tokens, 100% of liquidity is locked for one year. Meta Inu will be the currency of our metaverse to purchase virtual land, trade on the NFT marketplace, and unlock new games to play with friends on the metaverse. ",
+  "coingeckoId": "meta-inu-token",
+  "links": {
+    "twitter": "https://twitter.com/Metaverseinu",
+    "telegram": "https://t.me/Meta_Inu"
+  }
+}

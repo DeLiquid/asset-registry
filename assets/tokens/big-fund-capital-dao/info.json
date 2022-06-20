@@ -1,0 +1,14 @@
+{
+  "key": "big-fund-capital-dao",
+  "name": "Big Fund Capital DAO",
+  "symbol": "bfc",
+  "logoURI": "https://assets.coingecko.com/coins/images/21157/large/logo_200x200_%2810%29.png?1638413900",
+  "website": "https://www.bigfund.capital",
+  "description": "Big Fund Capital DAO is a decentralized autonomous organization that works like an investment fund. In this organization, profits are shared among holders of its tokens. Funds from the treasury are allocated in a basket of investments (defi protocols, tokens, NFTs).\r\n\r\nThese investments generate revenues, which are swapped to AVAX and DIRECTLY DISTRIBUTED to holders according to their share. This means that token holders have a direct impact on the profits of the organization",
+  "coingeckoId": "big-fund-capital-dao",
+  "links": {
+    "twitter": "https://twitter.com/BigFundDao",
+    "telegram": "https://t.me/bigfundcapital",
+    "github": "https://github.com/bigfundcapital"
+  }
+}

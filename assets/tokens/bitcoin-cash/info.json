@@ -1,0 +1,14 @@
+{
+  "key": "bitcoin-cash",
+  "name": "Bitcoin Cash",
+  "symbol": "bch",
+  "logoURI": "https://assets.coingecko.com/coins/images/780/large/bitcoin-cash-circle.png?1594689492",
+  "website": "https://bch.info/",
+  "description": "Bitcoin Cash is a hard fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> with a protocol upgrade to fix on-chain capacity. Bitcoin Cash intends to be a Bitcoin without Segregated Witness (SegWit) as soft fork, where upgrades of the protocol are done mainly through hard forks and without changing the original economic rules of the Bitcoin.\r\n\r\nBitcoin Cash (BCH) is released on 1st August 2017 as an upgraded version of the original <a href=\"https://www.coingecko.com/en/coins/bitcoin/developer#panel\">Bitcoin Core software</a>. The main upgrade is the increase in the block size limit from 1MB to 8MB. This effectively allows miners on the BCH chain to process up to 8 times more payments per second in comparison to Bitcoin. This makes for faster, cheaper transactions and a much smoother user experience.\r\n\r\nWhy was Bitcoin Cash Created?\r\n\r\nThe main objective of Bitcoin Cash is to to bring back the essential qualities of money inherent in the original Bitcoin software. Over the years, these qualities were filtered out of Bitcoin Core and progress was stifled by various people, organizations, and companies involved in Bitcoin protocol development. The result is that Bitcoin Core is currently unusable as money due to increasingly high fees per transactions and transfer times taking hours to complete. This is all because of the 1MB limitation of Bitcoin Core\u2019s block size, causing it unable to accommodate to large number of transactions.\r\n\r\nEssentially Bitcoin Cash is a community-activated upgrade (otherwise known as a hard fork) of Bitcoin that increased the block size to 8MB, solving the scaling issues that plague Bitcoin Core today.\r\n\r\nNov 16th 2018: A hashwar resulted in a split between <a href=\"https://www.coingecko.com/en/coins/bitcoin-cash-sv\">Bitcoin SV</a> and <a href=\"https://www.coingecko.com/en/coins/bitcoin-cash-abc\">Bitcoin ABC</a>",
+  "coingeckoId": "bitcoin-cash",
+  "links": {
+    "telegram": "https://t.me/bchchannel",
+    "reddit": "https://www.reddit.com/r/btc",
+    "github": "https://github.com/gcash"
+  }
+}

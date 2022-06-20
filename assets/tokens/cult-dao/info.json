@@ -1,0 +1,15 @@
+{
+  "key": "cult-dao",
+  "name": "Cult DAO",
+  "symbol": "cult",
+  "logoURI": "https://assets.coingecko.com/coins/images/23331/large/quxZPrbC_400x400.jpg?1643880172",
+  "website": "https://cultdao.io/",
+  "description": "What is CULT?\r\n\r\nCULT is the tradable and liquid token of CULT DAO, transacting CULT will contribute to the protocol by filling the DAO treasury slowly, to fund investments into decentralised technologies. This is achieved due to a 0.4% tax on all CULT transactions.\r\n\r\nWhat is dCULT? \r\n\r\ndCULT is just the \u201cproof of stake token\u201d for CULT. When you stake your CULT into the DAO, you are given dCULT, this can be swapped back at any time into the amount of CULT you staked originally, plus any rewards that were given to the DAO in the time period you owned dCULT.\r\n\r\nWhat makes CULT different from other decentralised investment platforms?\r\n\r\nThere is no control, no human interference whatsoever, we cannot change Cult, we cannot access the liquidity, we cannot upgrade or edit the smart contracts or the token. Cult is different because it cannot be stopped, not by the Guardians, the developers, the government, regulation or anybody. They can destroy the servers but the code lives on, the investments into Decentralised technologies remain.",
+  "coingeckoId": "cult-dao",
+  "links": {
+    "twitter": "https://twitter.com/wearecultdao",
+    "telegram": "https://t.me/cultdao",
+    "reddit": "https://www.reddit.com/r/cultdao/",
+    "github": "https://github.com/cultdao-developer/cultdao"
+  }
+}

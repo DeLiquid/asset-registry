@@ -1,0 +1,15 @@
+{
+  "key": "coinex-token",
+  "name": "CoinEx",
+  "symbol": "cet",
+  "logoURI": "https://assets.coingecko.com/coins/images/4817/large/coinex-token.png?1547040183",
+  "website": "https://www.coinex.org/",
+  "description": "Issued in January 2018\uff0cCoinEx Token\uff08CET\uff09is the native token of CoinEx Chain. CoinEx Chain presents a public chain dedicated for the decentralized exchange (DEX) with the mainnet launched in November 2019 officially.",
+  "coingeckoId": "coinex-token",
+  "links": {
+    "twitter": "https://twitter.com/coinexcom",
+    "facebook": "https://www.facebook.com/TheCoinEx",
+    "telegram": "https://t.me/TheCoinEx",
+    "github": "https://github.com/coinexchain/dex-manual"
+  }
+}

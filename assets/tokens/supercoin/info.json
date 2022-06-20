@@ -1,0 +1,16 @@
+{
+  "key": "supercoin",
+  "name": "SuperCoin",
+  "symbol": "super",
+  "logoURI": "https://assets.coingecko.com/coins/images/200/large/supercoin.png?1547033955",
+  "website": "https://supercoin.nl/",
+  "description": "",
+  "coingeckoId": "supercoin",
+  "links": {
+    "twitter": "https://twitter.com/supercoinv2",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2592758",
+    "telegram": "https://t.me/Supercoingroup",
+    "reddit": "https://www.reddit.com/r/supercoin",
+    "github": "https://github.com/thirstygerry/SuperCoinv2"
+  }
+}

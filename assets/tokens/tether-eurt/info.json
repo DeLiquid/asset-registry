@@ -1,0 +1,13 @@
+{
+  "key": "tether-eurt",
+  "name": "Euro Tether",
+  "symbol": "eurt",
+  "logoURI": "https://assets.coingecko.com/coins/images/17385/large/Tether_full_logo_dm.png?1627537298",
+  "website": "https://tether.to/",
+  "description": "",
+  "coingeckoId": "tether-eurt",
+  "links": {
+    "twitter": "https://twitter.com/Tether_to",
+    "telegram": "https://t.me/OfficialTether"
+  }
+}

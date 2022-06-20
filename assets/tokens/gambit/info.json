@@ -1,0 +1,14 @@
+{
+  "key": "gambit",
+  "name": "Gambit",
+  "symbol": "gmt",
+  "logoURI": "https://assets.coingecko.com/coins/images/14270/large/gambit_logo.png?1615202219",
+  "website": "https://gambit.financial/",
+  "description": "Gambit is a protocol for creating interest-generating stablecoins backed by leverage.\r\nGMT token is the governance token that manages the distribution of the protocol\u2019s fees. \r\nFees are generated on minting gUSD, burning gUSD, opening positions, closing positions and funding rates.",
+  "coingeckoId": "gambit",
+  "links": {
+    "twitter": "https://twitter.com/GambitProtocol",
+    "telegram": "https://t.me/GambitProtocol",
+    "github": "https://github.com/xvi10/gambit-contracts"
+  }
+}

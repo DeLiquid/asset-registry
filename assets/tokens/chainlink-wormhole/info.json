@@ -1,0 +1,12 @@
+{
+  "key": "chainlink-wormhole",
+  "name": "Chainlink (Wormhole)",
+  "symbol": "link",
+  "logoURI": "https://assets.coingecko.com/coins/images/22993/large/LINK_wh_small.png?1644226275",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "chainlink-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

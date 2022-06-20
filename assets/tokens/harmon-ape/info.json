@@ -1,0 +1,13 @@
+{
+  "key": "harmon-ape",
+  "name": "Harmon Ape",
+  "symbol": "ape",
+  "logoURI": "https://assets.coingecko.com/coins/images/22152/large/6183fb2d3f24f48afa4be19e_harmonapelogo.png?1640939670",
+  "website": "https://www.harmonape.com/",
+  "description": "",
+  "coingeckoId": "harmon-ape",
+  "links": {
+    "twitter": "https://twitter.com/harmonape",
+    "telegram": "https://t.me/harmonape"
+  }
+}

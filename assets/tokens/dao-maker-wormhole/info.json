@@ -1,0 +1,12 @@
+{
+  "key": "dao-maker-wormhole",
+  "name": "DAO Maker (Wormhole)",
+  "symbol": "dao",
+  "logoURI": "https://assets.coingecko.com/coins/images/25506/large/daomaker_128.png?1652159631",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "dao-maker-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

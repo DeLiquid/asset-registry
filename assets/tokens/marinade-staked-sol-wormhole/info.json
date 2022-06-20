@@ -1,0 +1,12 @@
+{
+  "key": "marinade-staked-sol-wormhole",
+  "name": "Marinade staked SOL (Wormhole)",
+  "symbol": "msol",
+  "logoURI": "https://assets.coingecko.com/coins/images/22883/large/mSOL_wh_small.png?1644222507",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "marinade-staked-sol-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key": "stp-network",
+  "name": "STP Network",
+  "symbol": "stpt",
+  "logoURI": "https://assets.coingecko.com/coins/images/8713/large/STP.png?1560262664",
+  "website": "https://stp.network/",
+  "description": "STP is the core contributor of Verse Network, a censorship resistant, front running resistant, high performance, and interconnected cloud for next gen DAO and DeFi. It enables networks, developers and organizations to decentralize decision making effectively and scale their communities and decentralized applications\r\n\r\n",
+  "coingeckoId": "stp-network",
+  "links": {
+    "twitter": "https://twitter.com/STP_Networks",
+    "telegram": "https://t.me/STPofficial"
+  }
+}

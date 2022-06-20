@@ -1,0 +1,20 @@
+{
+  "key": "swissborg",
+  "name": "SwissBorg",
+  "symbol": "chsb",
+  "logoURI": "https://assets.coingecko.com/coins/images/2117/large/YJUrRy7r_400x400.png?1589794215",
+  "website": "https://swissborg.com/en/",
+  "description": "SwissBorg is decentralising wealth management by making it fun, fair, and community-centric. Headquartered in Lausanne, Switzerland, SwissBorg has an international team of over 75 people and holds two licenses to provide Virtual Currency Exchange and Virtual Currency Wallets internationally. We believe that blockchain technology can empower everyone to control their wealth, and that decentralised wealth management is the next step towards a world of decentralised nations, where every individual is welcome and is fairly rewarded for their contributions.\r\n\r\nThe Product: SwissBorg Wealth App\r\n\r\nOur flagship product, the Wealth App, allows users to securely exchange digital assets and invest with 17 fiat currencies, with the protection of MPC keyless technology. In the app, our revolutionary Smart Engine takes the guesswork out of investing. By connecting to Binance, HitBTC, LMAX, and Kraken exchanges, we get you the best liquidity and rates in a matter of seconds.\r\n\r\nThe Multi-Utility SwissBorg Token (CHSB)\r\n\r\nThe CHSB token is at the heart of our ecosystem, and offers the 5 following utilities:\r\n\r\nA) The Protect & Burn Mechanism: 20% of the revenues made on fees in the Wealth App are dedicated to protecting the price of our token. When the price arrives in a bearish zone, we automatically place buy orders. All purchased CHSBs are then burned in a transparent manner.\r\n\r\nB) Staking: Lock CHSB within the Wealth App allows users to exchange at the best price with zero fees.\r\n\r\nC) Exclusive Access: Get access to future exclusive wealth management products in the app\r\n\r\nD) Voting Rights: Participate in shaping the future of SwissBorg during our referendums\r\n\r\nE) Community Rewards: Earn rewards through the SwissBorg DAO\r\n\r\n",
+  "coingeckoId": "swissborg",
+  "links": {
+    "slack": "https://swissborg.com/slackin/",
+    "github": "https://github.com/SwissBorg/sbci-token",
+    "medium": "https://medium.com/@swissborg",
+    "twitter": "https://twitter.com/swissborg",
+    "facebook": "https://www.facebook.com/swissborg",
+    "telegram": "https://t.me/swissborg",
+    "whitepaper": "https://drive.google.com/file/d/0BwQ5Ud-ApHvJbkQ0aXVJLVVlUk0/view",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2161736.0",
+    "reddit": "https://www.reddit.com/r/swissborg/"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "kirobo",
+  "name": "Kirobo",
+  "symbol": "kiro",
+  "logoURI": "https://assets.coingecko.com/coins/images/12688/large/QmScxyKBwqbGJZmp38EwaoRpXbzPkq3tvuMjeuJE1YLZeG.png?1601672684",
+  "website": "https://kirobo.io/",
+  "description": "Kirobo adds a logic layer into the Blockchain that protects users from human error. Their products include Retrievable Transfer and Backup & Inheritance.",
+  "coingeckoId": "kirobo",
+  "links": {
+    "twitter": "https://twitter.com/kirobo5",
+    "facebook": "https://www.facebook.com/kirobo.io",
+    "telegram": "https://t.me/kirobo",
+    "github": "https://github.com/kiroboio/"
+  }
+}

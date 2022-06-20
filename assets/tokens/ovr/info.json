@@ -1,0 +1,15 @@
+{
+  "key": "ovr",
+  "name": "Ovr",
+  "symbol": "ovr",
+  "logoURI": "https://assets.coingecko.com/coins/images/13429/large/ovr_logo.png?1608518911",
+  "website": "https://www.ovr.ai/",
+  "description": "OVR is the decentralized infrastructure for the spatial web, merging physical and virtual world through Augmented Reality, creating a new dimension where everything is possible.",
+  "coingeckoId": "ovr",
+  "links": {
+    "twitter": "https://twitter.com/OVRtheReality",
+    "telegram": "https://t.me/OVRtheReality",
+    "reddit": "https://www.reddit.comhttps://www.reddit.com/r/OVR_AR_Platform/",
+    "github": "https://github.com/OVR-Platform"
+  }
+}

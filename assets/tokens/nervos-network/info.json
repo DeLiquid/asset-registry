@@ -1,0 +1,16 @@
+{
+  "key": "nervos-network",
+  "name": "Nervos Network",
+  "symbol": "ckb",
+  "logoURI": "https://assets.coingecko.com/coins/images/9566/large/Nervos_White.png?1608280856",
+  "website": "http://nervos.org",
+  "description": "Nervos is a layered crypto-economy network. Nervos separates the infrastructure of a crypto-economy into two layers: a verification layer (layer 1) that serves as a trust root and smart custodian, and a generation layer (layer 2) for high-performance transactions and privacy protection.\r\n\r\nThis document provides an overview of the Nervos Common Knowledge Base (CKB), a public permissionless blockchain and layer 1 of Nervos. CKB generates trust and extends this trust to upper layers, making Nervos a trust network. It's also the value store of the Nervos network, providing public, secure and censorship-resistant custody services for assets, identities and other common knowledge created in the network.\r\n\r\nThe Nervos Common Knowledge Base (Nervos CKB for short) is a preservation focused, \"Store of Assets\" blockchain. Architecturally, it's designed to best support on-chain state and off-chain computation; economically, it's designed to provide sustainable security and decentralization. Nervos CKB is the base layer of the overall Nervos Network.",
+  "coingeckoId": "nervos-network",
+  "links": {
+    "twitter": "https://twitter.com/nervosnetwork",
+    "facebook": "https://www.facebook.com/theNervosNetwork",
+    "telegram": "https://t.me/nervosnetwork",
+    "reddit": "https://www.reddit.com/r/NervosNetwork/",
+    "github": "https://github.com/nervosnetwork"
+  }
+}

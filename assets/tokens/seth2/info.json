@@ -1,0 +1,14 @@
+{
+  "key": "seth2",
+  "name": "sETH2",
+  "symbol": "seth2",
+  "logoURI": "https://assets.coingecko.com/coins/images/16569/large/emerald256.png?1624494960",
+  "website": "https://stakewise.io",
+  "description": "StakeWise is a liquid Ethereum staking protocol that tokenizes staking yield separately from deposits to enable compounding and increase the capital efficiency of staked ETH in DeFi. All deposits into the protocol are non-custodial and all tokens are mapped 1:1 to the ETH staked in the StakeWise Pool. ",
+  "coingeckoId": "seth2",
+  "links": {
+    "twitter": "https://twitter.com/stakewise_io",
+    "telegram": "https://t.me/stakewise_io",
+    "github": "https://github.com/stakewise"
+  }
+}

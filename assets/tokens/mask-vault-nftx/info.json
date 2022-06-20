@@ -1,0 +1,12 @@
+{
+  "key": "mask-vault-nftx",
+  "name": "MASK Vault (NFTX)",
+  "symbol": "mask",
+  "logoURI": "https://assets.coingecko.com/coins/images/17046/large/Hashie.png?1626147674",
+  "website": "https://nftx.org/",
+  "description": "MASK Vault is an erc-20 vault token representing NFT assets within a NFTX Vault. Vault tokens allow NFTX to be a platform for creating liquid markets for illiquid Non-Fungible Tokens (NFTs).",
+  "coingeckoId": "mask-vault-nftx",
+  "links": {
+    "twitter": "https://twitter.com/nftx_"
+  }
+}

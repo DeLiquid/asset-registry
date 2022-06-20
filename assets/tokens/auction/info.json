@@ -1,0 +1,13 @@
+{
+  "key": "auction",
+  "name": "Bounce",
+  "symbol": "auction",
+  "logoURI": "https://assets.coingecko.com/coins/images/13860/large/1_KtgpRIJzuwfHe0Rl0avP_g.jpeg?1612412025",
+  "website": "https://bounce.finance/",
+  "description": "",
+  "coingeckoId": "auction",
+  "links": {
+    "twitter": "https://twitter.com/bounce_finance",
+    "telegram": "https://t.me/bounce_finance"
+  }
+}

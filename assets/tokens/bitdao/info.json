@@ -1,0 +1,14 @@
+{
+  "key": "bitdao",
+  "name": "BitDAO",
+  "symbol": "bit",
+  "logoURI": "https://assets.coingecko.com/coins/images/17627/large/rI_YptK8.png?1653983088",
+  "website": "https://www.bitdao.io/",
+  "description": "BitDAO is one of the world's largest DAOs (Decentralized Autonomous Organization). Our vision is open finance and a decentralized tokenized economy. \u200cBitDAO is a protocol governed by BIT token holders. We welcome all individuals and communities to join us and contribute.",
+  "coingeckoId": "bitdao",
+  "links": {
+    "twitter": "https://twitter.com/BitDAO_Official",
+    "telegram": "https://t.me/BitDAO_Official",
+    "reddit": "https://www.reddit.com/r/BitDAO/"
+  }
+}

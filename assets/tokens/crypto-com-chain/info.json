@@ -1,0 +1,16 @@
+{
+  "key": "crypto-com-chain",
+  "name": "Cronos",
+  "symbol": "cro",
+  "logoURI": "https://assets.coingecko.com/coins/images/7310/large/oCw2s3GI_400x400.jpeg?1645172042",
+  "website": "https://www.crypto.com/en/chain",
+  "description": "We propose Crypto.com Chain, the next generation decentralized mobile payment protocol, the most efficient and secure way to pay and be paid in crypto, anywhere, any crypto\r\nwithout fees. Crypto.com Chain will deliver on its vision by developing innovative technology components and processes (inc. scalable encryption algorithm to protect users\u2019 privacy, utilizing trusted execution environments, sustainable price stability mechanisms, user protection via PoGSD) catered specifically to cryptocurrency payment, while leveraging proven blockchain technology structural design elements. ",
+  "coingeckoId": "crypto-com-chain",
+  "links": {
+    "twitter": "https://twitter.com/cryptocom",
+    "facebook": "https://www.facebook.com/CryptoComOfficial",
+    "telegram": "https://t.me/CryptoComOfficial",
+    "reddit": "https://www.reddit.com/r/Crypto_com/",
+    "github": "https://github.com/crypto-org-chain/chain-main"
+  }
+}

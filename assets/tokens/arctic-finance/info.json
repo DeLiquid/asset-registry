@@ -1,0 +1,13 @@
+{
+  "key": "arctic-finance",
+  "name": "Arctic Finance",
+  "symbol": "aurora",
+  "logoURI": "https://assets.coingecko.com/coins/images/18368/large/arctic.PNG?1631666317",
+  "website": "https://www.arcticfinance.io/",
+  "description": "Arctic Finance - A hybrid Yield Optimizer on Avalanche, offering yield farming and compounding! Earn $AURORA by staking your LP tokens or single-asset staking $AURORA and stables, automatic compounder coming soon.",
+  "coingeckoId": "arctic-finance",
+  "links": {
+    "twitter": "https://twitter.com/arcticfi",
+    "telegram": "https://t.me/ArcticFi"
+  }
+}

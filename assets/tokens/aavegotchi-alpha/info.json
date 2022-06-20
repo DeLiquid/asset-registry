@@ -1,0 +1,13 @@
+{
+  "key": "aavegotchi-alpha",
+  "name": "Aavegotchi ALPHA",
+  "symbol": "alpha",
+  "logoURI": "https://assets.coingecko.com/coins/images/24738/large/alpha.png?1648769768",
+  "website": "https://www.aavegotchi.com/",
+  "description": "ALPHA is the second rarest alchemica raw element of the Gotchiverse with 25 billion total supply. ALPHA can be harvested by players who own or borrow an Aavegotchi in the Gotchiverse game.",
+  "coingeckoId": "aavegotchi-alpha",
+  "links": {
+    "twitter": "https://twitter.com/aavegotchi",
+    "telegram": "https://t.me/aavegotchi"
+  }
+}

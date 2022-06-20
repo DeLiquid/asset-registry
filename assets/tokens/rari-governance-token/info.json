@@ -1,0 +1,14 @@
+{
+  "key": "rari-governance-token",
+  "name": "Rari Governance",
+  "symbol": "rgt",
+  "logoURI": "https://assets.coingecko.com/coins/images/12900/large/Rari_Logo_Transparent.png?1613978014",
+  "website": "https://rari.capital/",
+  "description": "The Rari Governance Token is the native token behind Rari Capital. Rari Capital is a non-custodial DeFi robo-advisor that autonomously earns users yield.",
+  "coingeckoId": "rari-governance-token",
+  "links": {
+    "twitter": "https://twitter.com/RariCapital",
+    "telegram": "https://t.me/RariCapitalChat",
+    "github": "https://github.com/Rari-Capital"
+  }
+}

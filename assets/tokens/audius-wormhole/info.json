@@ -1,0 +1,12 @@
+{
+  "key": "audius-wormhole",
+  "name": "Audius (Wormhole)",
+  "symbol": "audio",
+  "logoURI": "https://assets.coingecko.com/coins/images/22936/large/AUDIO_wh_small.png?1644224294",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "audius-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

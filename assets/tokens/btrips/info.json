@@ -1,0 +1,14 @@
+{
+  "key": "btrips",
+  "name": "BTRIPS",
+  "symbol": "btr",
+  "logoURI": "https://assets.coingecko.com/coins/images/19273/large/btr.png?1638182009",
+  "website": "https://www.btrips.io/",
+  "description": "The BTRIPS project started in February 2021 based in Korea, and the core members consist of Korean O2O startup \"\"Global Order.LTD.\"\"\r\n\r\nBTRIPS developed the NFT Marketplace platform that can assist luxury products with NFT and enable auctions, sales and prize draws. \r\n\r\nIn the future, with the use of NFT technology, it is hoped that BTRIPS and also the use of BPR tokens can help provide opportunities for luxury product transactions to be safer with the NFT contract as a guarantee of the authenticity of the goods being traded and also to make it easier to reach this luxury product within the community and outside the community.",
+  "coingeckoId": "btrips",
+  "links": {
+    "twitter": "https://twitter.com/Btrips_Project",
+    "telegram": "https://t.me/btripsglobalchat",
+    "github": "https://github.com/hyunter7/BTRToken/"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key": "bolt-true-share",
+  "name": "Bolt Share",
+  "symbol": "bts",
+  "logoURI": "https://assets.coingecko.com/coins/images/13623/large/akd2ynA9.png?1615541286",
+  "website": "https://boltdollar.finance/",
+  "description": "The superior algorithmic stablecoin on Binance Smart Chain",
+  "coingeckoId": "bolt-true-share",
+  "links": {
+    "twitter": "https://twitter.com/bolt_dollar",
+    "telegram": "https://t.me/boltdollar"
+  }
+}

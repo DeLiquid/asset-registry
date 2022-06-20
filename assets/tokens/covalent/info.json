@@ -1,0 +1,15 @@
+{
+  "key": "covalent",
+  "name": "Covalent",
+  "symbol": "cqt",
+  "logoURI": "https://assets.coingecko.com/coins/images/14168/large/covalent-cqt.png?1624545218",
+  "website": "https://www.covalenthq.com/",
+  "description": "\r\nCovalent\u00a0leverages big-data technologies to create meaning from hundreds of billions of data points, delivering actionable insights to investors and allowing developers to allocate resources to higher-utility goals within their organization.\r\n\r\nInstead of painstakingly sourcing data from a small handful of chains, Covalent aggregates information from across dozens of sources including nodes, chains and data feeds. The Covalent API then sources end-users with individualized data by wallet, including current and historical investment performance across all types of digital assets. Most importantly, Covalent returns this data in a rapid and consistent manner, incorporating all relevant data within one API interface.\r\n\r\nCovalent has a global community. To fund the development of Covalent, there have been two private sales. The first was co-led by investors Woodstock Fund, 1kx Capital and Mechanism Capital while the second was led by Hashed with participation from Binance Labs, Coinbase Ventures, Delphi Ventures, Hypersphere Ventures, and other ecosystem partners. Most recently, Covalent successfully closed $10 million in funding from a CoinList Public Sale. This new funding brought the Covalent Query Token, CQT, to the public for the first time.\r\n",
+  "coingeckoId": "covalent",
+  "links": {
+    "twitter": "https://twitter.com/covalent_hq",
+    "telegram": "https://t.me/CovalentHQ",
+    "reddit": "https://www.reddit.com/CovalentHQ/",
+    "github": "https://github.com/covalenthq"
+  }
+}

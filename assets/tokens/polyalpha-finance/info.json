@@ -1,0 +1,14 @@
+{
+  "key": "polyalpha-finance",
+  "name": "PolyAlpha Finance",
+  "symbol": "alpha",
+  "logoURI": "https://assets.coingecko.com/coins/images/18402/large/Poly-Alpha-200x200.png?1631782835",
+  "website": "https://polyalpha.finance/",
+  "description": "PolyAlpha Finance is the second layer (L2) of PolygonFarm's community-led stable-yield farming protocol established exclusively on the Polygon ecosystem. \r\n\r\nPolyAlpha Finance Audited by CertiK and Paladin. Also, PolyAlpha Finance is KYC'd with RugDoc. PolyAlpha has very limited token supply of only 9300 $ALPHA tokens",
+  "coingeckoId": "polyalpha-finance",
+  "links": {
+    "twitter": "https://twitter.com/PolyAlphaFi",
+    "telegram": "https://t.me/PolyAlphaFi",
+    "github": "https://github.com/PolyAlphaFinance"
+  }
+}

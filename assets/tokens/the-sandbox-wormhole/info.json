@@ -1,0 +1,12 @@
+{
+  "key": "the-sandbox-wormhole",
+  "name": "The Sandbox (Wormhole)",
+  "symbol": "sand",
+  "logoURI": "https://assets.coingecko.com/coins/images/22984/large/SAND_wh_small.png?1644224523",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "the-sandbox-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

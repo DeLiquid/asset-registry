@@ -1,0 +1,14 @@
+{
+  "key": "audius",
+  "name": "Audius",
+  "symbol": "audio",
+  "logoURI": "https://assets.coingecko.com/coins/images/12913/large/AudiusCoinLogo_2x.png?1603425727",
+  "website": "https://audius.co/",
+  "description": "AUDIO is the native platform token of the Audius streaming protocol. AUDIO is staked for security, feature access and governance and earned by artists, fans and node operators who drive Audius.",
+  "coingeckoId": "audius",
+  "links": {
+    "twitter": "https://twitter.com/AudiusProject",
+    "reddit": "https://www.reddit.com/r/audius/",
+    "github": "https://github.com/AudiusProject"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "world-mobile-token",
+  "name": "World Mobile Token",
+  "symbol": "wmt",
+  "logoURI": "https://assets.coingecko.com/coins/images/17333/large/Colored_Token.png?1627346708",
+  "website": "https://worldmobiletoken.com/",
+  "description": "World Mobile is going the extra mile to open a new world. With nearly 4 billion people left offline, digital exclusion is a significant problem.\r\nUnlike traditional mobile networks, World Mobile is based on the sharing economy, selling affordable network nodes to local business owners, and\r\nso they have the power to connect themselves and others while sharing the rewards.\r\n\r\nThe World Mobile Token (WMT) is a digital token that is issued with the purpose of allowing the participants to provide a service on the network and be rewarded accordingly for it. The primary role of WMT is to incentivise both token holders that want to support the operation of the network by way of delegating their WMT stake to a node operator (stakers) as well as node operators that operate their own node. WMT is the utility token at the heart of World Mobile Chain, a solution developed in partnership between Input Output Global and World Mobile to democratize access to digital, financial and social services in Africa, the first of its kind to go the extra mile and connect the unconnected.\r\n\r\nThe sharing economy enabled by WMT provides the foundation for affordable network nodes, based on the Cardano blockchain infrastructure.\r\nThese network nodes act as local relays for internet connectivity. Subscribers to these networks will be able to access Input Output\u2019s digital identity solution, Atala PRISM, which will allow them to use services such as digital banking, healthcare and education.",
+  "coingeckoId": "world-mobile-token",
+  "links": {
+    "twitter": "https://twitter.com/wmtoken",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5343042",
+    "telegram": "https://t.me/WorldMobileTeam",
+    "reddit": "https://www.reddit.com"
+  }
+}

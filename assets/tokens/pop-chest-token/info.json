@@ -1,0 +1,17 @@
+{
+  "key": "pop-chest-token",
+  "name": "POP Network",
+  "symbol": "pop",
+  "logoURI": "https://assets.coingecko.com/coins/images/7281/large/Logo_%28Light_Mode%29_%281%29.png?1644482888",
+  "website": "https://thepopnetwork.org/",
+  "description": "POP Network is a user-friendly ecosystem of blockchain and AI applications built to power the streaming economy. Our vision is a universal system for turning attention into real-world goods and services.",
+  "coingeckoId": "pop-chest-token",
+  "links": {
+    "twitter": "https://twitter.com/_popnetwork",
+    "facebook": "https://www.facebook.com/thepopnetwork.org",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5200973",
+    "telegram": "https://t.me/popnetwork",
+    "reddit": "https://www.reddit.com/r/popnetwork/",
+    "github": "https://github.com/popnetwork"
+  }
+}

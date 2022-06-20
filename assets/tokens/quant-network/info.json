@@ -1,0 +1,17 @@
+{
+  "key": "quant-network",
+  "name": "Quant",
+  "symbol": "qnt",
+  "logoURI": "https://assets.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1612437252",
+  "website": "https://www.quant.network",
+  "description": "London-based Quant Network is set to revolutionise blockchain technology with the development of their blockchain operating system Overledger. The experienced team are determined to fulfil the original vision of the internet by creating an open trusted network for people, machines, and data to operate securely and safely.\r\n\r\nOverledger -the first interoperable blockchain operating system that facilitates internet-scale development of decentralised, multi-chain applications. Overledger has the ability to unlock and distribute value and applications across current and future blockchains. It is an agnostic platform that connects the world's networks to blockchains and ensures you're not limited to any single a vendor or technology. Overledger is the only platform that facilitates the development of internet-scales development of decentralised, multi-chain applications.",
+  "coingeckoId": "quant-network",
+  "links": {
+    "twitter": "https://twitter.com/quant_network",
+    "facebook": "https://www.facebook.com/quantnetwork",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=3200795",
+    "telegram": "https://t.me/quantnetworkannouncements",
+    "reddit": "https://www.reddit.com/r/QuantNetwork/",
+    "github": "https://github.com/quantnetwork"
+  }
+}

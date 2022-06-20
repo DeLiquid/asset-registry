@@ -1,0 +1,14 @@
+{
+  "key": "metahero",
+  "name": "Metahero",
+  "symbol": "hero",
+  "logoURI": "https://assets.coingecko.com/coins/images/16911/large/icon200x200.png?1625618542",
+  "website": "https://metahero.io/",
+  "description": "Have you ever wanted to ready-player one yourself? Soon you\u2019ll be able to make an ultra-HD scan of yourself and your real-world assets and move everything into the metaverse.\r\n\r\nMetahero brings to the market 3D scanning and modeling technology that generates ultra-realistic 3D avatars and virtual items to be used across games, VR, social media, and online fashion. The tech also allows for the creation of NFTs from real-world works of art and collectibles.\r\n\r\nWe have partnered with the world leader in 3D scanning: Wolf Studio. Their cutting-edge technology was extensively tested and used by big industry names; Most recently, CD Projekt created characters for their hot new release, CyberPunk 2077. \r\n\r\nWe\u2019re merging this powerful tech with a marketplace and a novel deflationary token-based ecosystem to offer users, gamers, artists, and entrepreneurs direct access to virtual opportunities of the future. Wolf Studios\u2019 genius and next-generation technology coupled with our expertise in building tech startups from the bottom up will make Metahero one of the hottest projects of 2021/2022.",
+  "coingeckoId": "metahero",
+  "links": {
+    "twitter": "https://twitter.com/Metahero_io",
+    "telegram": "https://t.me/metahero_io",
+    "github": "https://github.com/metahero-io"
+  }
+}

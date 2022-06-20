@@ -1,0 +1,12 @@
+{
+  "key": "yoshi-exchange",
+  "name": "Yoshi.exchange",
+  "symbol": "yoshi",
+  "logoURI": "https://assets.coingecko.com/coins/images/19355/large/YOSHI_200.png?1641569394",
+  "website": "https://yoshi.exchange",
+  "description": "Yoshi.exchange is a DEX aggregator launching at Fantom Opera blockchain. We created the first closed-cycle united Fantom payment system. The main goal is to facilitate entry threshold to Fantom ecosystem for newcomers and to simplify the user experience for the current consumers. \r\n\r\nYoshi.exchange aggregates popular DEX platforms including AnySwap, SpookySwap, SushiSwap, PankakeSwap with even more DEXs coming soon. Yoshi.exchange offers the most favorable price for tokens exchange so a swap occurs instantly providing the best rate chosen between the connected DEXs.",
+  "coingeckoId": "yoshi-exchange",
+  "links": {
+    "twitter": "https://twitter.com/YoshiExchange"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "ecomi",
+  "name": "ECOMI",
+  "symbol": "omi",
+  "logoURI": "https://assets.coingecko.com/coins/images/4428/large/ECOMI.png?1557928886",
+  "website": "https://www.ecomi.com/",
+  "description": "ECOMI\u2019s mission is to create the world\u2019s best platform to purchase, protect and collect premium licensed digital collectibles using Distributed Ledger Technology.",
+  "coingeckoId": "ecomi",
+  "links": {
+    "twitter": "https://twitter.com/ecomi_",
+    "telegram": "https://t.me/ecomi",
+    "github": "https://github.com/Ecomi-Ecosystem/tge-contract"
+  }
+}

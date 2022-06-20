@@ -1,0 +1,14 @@
+{
+  "key": "covicoin",
+  "name": "CoviCoin",
+  "symbol": "cvc",
+  "logoURI": "https://assets.coingecko.com/coins/images/18875/large/cvc.PNG?1633686116",
+  "website": "https://www.covicoin.org/",
+  "description": "CoviCoin is the brainchild of a diverse team that comprises individuals from different parts of the globe. Each member comes equipped with his or her own unique expertise in the areas of blockchain, finance, healthcare and marketing.",
+  "coingeckoId": "covicoin",
+  "links": {
+    "twitter": "https://twitter.com/covicoin",
+    "telegram": "https://t.me/covicoinofficial",
+    "reddit": "https://www.reddit.com/r/covicoin/"
+  }
+}

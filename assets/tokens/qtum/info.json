@@ -1,0 +1,17 @@
+{
+  "key": "qtum",
+  "name": "Qtum",
+  "symbol": "qtum",
+  "logoURI": "https://assets.coingecko.com/coins/images/684/large/Qtum_Logo_blue_CG.png?1637155875",
+  "website": "https://qtum.org/en/",
+  "description": "Qtum is a decentralized and open-source smart contracts platform and value transfer protocol. Qtum uses proof-of-stake consensus, meaning node operators are rewarded for validating transactions. It is a DGP governed blockchain where community participants can vote to change certain network parameters. Qtum is built on a bitcoin core fork, but the foundation has created its own hybrid blockchain with the help of several key tools. The coin uses bitcoin\u2019s chain because of its simple and stable nature, allowing the foundation to build upon it more easily.\r\n\r\nAs the QTUM project is a hybrid of Bitcoin and <a href=\"https://www.coingecko.com/en/price_charts/ethereum/usd\">Ethereum</a>, its team comprises of members from both Bitcoin and Ethereum community. They also have team members who formerly worked with Tencent, Alibaba, Nasdaq etc. Apart from that, they are backed by some notable VCs and prominent people from the Blockchain community such as Patrick Dai (Project Co-Founder), Neil Mahi (Chief Blockchain Architect/Co-Founder) and Jordan Earls (Lead Developer/Co-Founder).\r\n\r\nQtum provides a Turing-complete blockchain stack and is able to <a href=\"https://www.coingecko.com/en/coins/all?category_id=29\">execute smart contracts</a> and decentralised applications like the Ethereum blockchain.\r\n\r\nQtum builds on Bitcoin's UTXO transaction model and uses the <a href=\"https://www.coingecko.com/en/coins/all?hashing_algorithm=Proof+of+Stake\">Proof-of-Stake algorithm</a>. It is backed by some highly prominent members of the blockchain community such as Anthony Di Iorio, Xu Star, Bo Shen, David Lee, Jehan Chu and Roger Ver.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nQtum sold over 10 million dollars\u2019 worth of its tokens after only 90 minutes, eventually raising a total value of $15.7 million before stopping the campaign early after only 5 days. They raised a total amount of 11,156.766 bitcoins (BTC) and 77,081.031 ether (ETH) in exchange for the 51 million Qtum tokens being distributed to the public. In Qtum\u2019s whitepaper, 51% of the coins were distributed to the public via the crowdfunding campaign. Of the remaining 49%, 29% of the coins would be allocated as community incentives, and the remaining 20% would be distributed to the early backers and development team. ",
+  "coingeckoId": "qtum",
+  "links": {
+    "slack": "https://qtumslack.herokuapp.com/",
+    "github": "https://github.com/qtumproject",
+    "twitter": "https://twitter.com/qtum",
+    "facebook": "https://www.facebook.com/QtumOfficial",
+    "whitepaper": "https://qtum.org/wp-content/uploads/2017/02/Qtum_blockchain_economy_whitepaper_20170209_EN.pdf",
+    "reddit": "https://www.reddit.com/r/Qtum"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "astar",
+  "name": "Astar",
+  "symbol": "astr",
+  "logoURI": "https://assets.coingecko.com/coins/images/22617/large/astr.png?1642314057",
+  "website": "https://astar.network/",
+  "description": "Astar is a dApp hub on Polkadot that supports Ethereum Virtual Machine, WebAssembly Smart Contracts, and layer 2 solutions like ZK Rollups. Astar aims to be a multi-chain smart contract platform that will support multiple blockchains and virtual machines. Shiden Network is a sister network of Astar Network and a dApp hub on Kusama.",
+  "coingeckoId": "astar",
+  "links": {
+    "twitter": "https://twitter.com/AstarNetwork",
+    "telegram": "https://t.me/PlasmOfficial",
+    "github": "https://github.com/AstarNetwork/Astar"
+  }
+}

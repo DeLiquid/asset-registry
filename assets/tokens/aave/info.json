@@ -1,0 +1,17 @@
+{
+  "key": "aave",
+  "name": "Aave",
+  "symbol": "aave",
+  "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png?1601374110",
+  "website": "https://app.aave.com/?referral=93",
+  "description": "Aave is a decentralized money market protocol where users can lend and borrow cryptocurrency across 20 different assets as collateral. The protocol has a native token called AAVE, which is also a governance token that lets the community decide the direction of the protocol in a collective manner. Lenders can\u00a0earn interest by providing liquidity to the market, while borrowers can borrow by collateralizing their cryptoassets to take out loans from the liquidity pools.\r\n\r\n",
+  "coingeckoId": "aave",
+  "links": {
+    "twitter": "https://twitter.com/AaveAave",
+    "facebook": "https://www.facebook.com/AaveCom",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2090735",
+    "telegram": "https://t.me/Aavesome",
+    "reddit": "https://www.reddit.com/r/Aave_Official",
+    "github": "https://github.com/aave/aave-protocol"
+  }
+}

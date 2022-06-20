@@ -1,0 +1,15 @@
+{
+  "key": "oasis-network",
+  "name": "Oasis Network",
+  "symbol": "rose",
+  "logoURI": "https://assets.coingecko.com/coins/images/13162/large/rose.png?1605772906",
+  "website": "https://oasisprotocol.org/",
+  "description": "Designed for the next generation of blockchain, the Oasis Network is the first privacy-enabled blockchain platform for open finance and a responsible data economy. Combined with its high throughput and secure architecture, the Oasis Network is able to power private, scalable DeFi, revolutionizing Open Finance and expanding it beyond traders and early adopters to a mass market. Its unique privacy features can not only redefine DeFi, but also create a new type of digital asset called Tokenized Data that can enable users to take control of the data they generate and earn rewards for staking it with applications \u2014 creating the first ever responsible data economy.",
+  "coingeckoId": "oasis-network",
+  "links": {
+    "twitter": "https://twitter.com/oasisprotocol",
+    "telegram": "https://t.me/oasisprotocolcommunity",
+    "reddit": "https://www.reddit.com/r/oasislabs/",
+    "github": "https://github.com/oasisprotocol"
+  }
+}

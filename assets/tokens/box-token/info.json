@@ -1,0 +1,17 @@
+{
+  "key": "box-token",
+  "name": "BOX Token",
+  "symbol": "box",
+  "logoURI": "https://assets.coingecko.com/coins/images/6511/large/box-token.png?1547563043",
+  "website": "https://box.la",
+  "description": "Enterprise Token Safe Box Enterprise-grade management system for crypto assets BOX offers a secure, convenient and streamlined crypto asset management system for institutional investment, audit risk control, exchange platforms and custody services.",
+  "coingeckoId": "box-token",
+  "links": {
+    "twitter": "https://twitter.com/boxla888",
+    "facebook": "https://www.facebook.com/www.box.la",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=4581340",
+    "telegram": "https://t.me/safeboxla",
+    "reddit": "https://www.reddit.com/r/boxla888/",
+    "github": "https://github.com/boxproject/box-Authorizer"
+  }
+}

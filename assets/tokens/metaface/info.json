@@ -1,0 +1,13 @@
+{
+  "key": "metaface",
+  "name": "MetaFace",
+  "symbol": "mft",
+  "logoURI": "https://assets.coingecko.com/coins/images/20644/large/1ITuUMdK_400x400.jpg?1637479865",
+  "website": "https://metafacetoken.org/home.html",
+  "description": "METAFACE is a \"FREE TO EARN\"Token NFT, NFT game with many games and other use cases. Percentage distribution goes back to holders on every transaction as well as some percentage auto liquidate as it goes to the liquidity pool hence regulates price of the token.",
+  "coingeckoId": "metaface",
+  "links": {
+    "twitter": "https://twitter.com/MetafaceToken",
+    "telegram": "https://t.me/metafacetoken"
+  }
+}

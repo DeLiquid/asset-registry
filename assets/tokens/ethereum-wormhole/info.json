@@ -1,0 +1,12 @@
+{
+  "key": "ethereum-wormhole",
+  "name": "Ethereum (Wormhole)",
+  "symbol": "eth",
+  "logoURI": "https://assets.coingecko.com/coins/images/22990/large/ETH_wh_small.png?1644225466",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "ethereum-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

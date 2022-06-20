@@ -1,0 +1,17 @@
+{
+  "key": "polyswarm",
+  "name": "PolySwarm",
+  "symbol": "nct",
+  "logoURI": "https://assets.coingecko.com/coins/images/2843/large/ImcYCVfX_400x400.jpg?1628519767",
+  "website": "https://polyswarm.io/",
+  "description": "",
+  "coingeckoId": "polyswarm",
+  "links": {
+    "twitter": "https://twitter.com/polyswarm",
+    "facebook": "https://www.facebook.com/PolySwarm",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2680309",
+    "telegram": "https://t.me/polyswarm",
+    "reddit": "https://www.reddit.com/r/PolySwarm",
+    "github": "https://github.com/polyswarm"
+  }
+}

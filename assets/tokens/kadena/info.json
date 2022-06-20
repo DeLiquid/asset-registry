@@ -1,0 +1,16 @@
+{
+  "key": "kadena",
+  "name": "Kadena",
+  "symbol": "kda",
+  "logoURI": "https://assets.coingecko.com/coins/images/3693/large/djLWD6mR_400x400.jpg?1591080616",
+  "website": "http://kadena.io",
+  "description": "Kadena is launching one of the world\u2019s first true scalable blockchains ready for applications.\r\n \r\nKadena\u2019s public blockchain is a braided, high-throughput Proof of Work system that runs Chainweb, a protocol that delivers security and throughput. The Kadena network will unite public applications, private blockchains, and other interoperable chains in one place, driving traffic to the high-bandwidth computer at the heart of the Kadena public chain.\r\n\r\nKadena enterprise software is in use today by major companies in finance, healthcare, and insurance while allowing builders with a vision to skip straight from idea to product. With the launch of Kadena\u2019s public chain, this system will support blockchain application development, from private to public and everywhere in between.\r\n  \r\nKadena is solving the problems of Ethereum and is delivering features today that other blockchains have only begun to include on their roadmaps, including Formal Verification, interoperability, scalability, and more.\r\n\r\nKadena is live and ready for immediate deployment of production blockchain applications.\r\n\r\nThe Kadena token (KDA) is a digital currency that is used to pay for computation on the Kadena public chain. Similar to ETH on Ethereum, KDA on Kadena is the token in which miners are compensated for mining blocks on the network and is the transaction fee that users pay in order to have their transactions included in a block.\r\n\r\nApplications processing volumes of transactions on the high-throughput, scalable Kadena network will execute their smart contract code using the native Kadena token. As more applications join or interoperate with the Kadena network, the number of smart contracts executed grows, as does the utility of the Kadena token.",
+  "coingeckoId": "kadena",
+  "links": {
+    "twitter": "https://twitter.com/kadena_io",
+    "facebook": "https://www.facebook.com/KadenaBlockchain",
+    "telegram": "https://t.me/kadena_io",
+    "reddit": "https://www.reddit.com/r/kadena/",
+    "github": "https://github.com/kadena-io"
+  }
+}

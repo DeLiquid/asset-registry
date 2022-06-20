@@ -1,0 +1,14 @@
+{
+  "key": "degate",
+  "name": "DeGate",
+  "symbol": "dg",
+  "logoURI": "https://assets.coingecko.com/coins/images/14415/large/80035388.png?1615951031",
+  "website": "https://www.degate.com/",
+  "description": "DeGate is an Ethereum L2 DEX protocol that is formed, governed, and owned by the community as a DAO.",
+  "coingeckoId": "degate",
+  "links": {
+    "twitter": "https://twitter.com/DeGateDex",
+    "telegram": "https://t.me/degate_public",
+    "github": "https://github.com/degatedev"
+  }
+}

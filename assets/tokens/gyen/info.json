@@ -1,0 +1,13 @@
+{
+  "key": "gyen",
+  "name": "GYEN",
+  "symbol": "gyen",
+  "logoURI": "https://assets.coingecko.com/coins/images/14191/large/icon_gyen_200_200.png?1614843343",
+  "website": "https://stablecoin.z.com/gyen/",
+  "description": "The first regulated Japanese YEN stablecoin issued by GMO-Z.com Trust Company, Inc.",
+  "coingeckoId": "gyen",
+  "links": {
+    "twitter": "https://twitter.com/GMOTrust",
+    "github": "https://github.com/trust-zcom/gmotrust-stablecoin-contract"
+  }
+}

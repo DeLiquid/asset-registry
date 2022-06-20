@@ -1,0 +1,14 @@
+{
+  "key": "dao-maker",
+  "name": "DAO Maker",
+  "symbol": "dao",
+  "logoURI": "https://assets.coingecko.com/coins/images/13915/large/4.png?1612838831",
+  "website": "https://daomaker.com",
+  "description": "DAO Maker Token is the governance token of the DAO Maker Ecosystem built on Ethereum, allowing holders to govern the ecosystem. DAO Maker held a series of Dynamic Coin Offerings since late 2020, raising over 8 million USD. The DAO Maker Token aims to create a decentralized ecosystem, enabling a go-to platform for retail venture investing in equity and tokens.",
+  "coingeckoId": "dao-maker",
+  "links": {
+    "twitter": "https://twitter.com/thedaomaker",
+    "telegram": "https://t.me/daomaker",
+    "github": "https://github.com/daomaker"
+  }
+}

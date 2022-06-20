@@ -1,0 +1,15 @@
+{
+  "key": "btse-token",
+  "name": "BTSE Token",
+  "symbol": "btse",
+  "logoURI": "https://assets.coingecko.com/coins/images/10807/large/BTSE_logo_Square.jpeg?1583965964",
+  "website": "https://www.btse.com/en/token",
+  "description": "The BTSE token powers the BTSE ecosystem and enhances your trading experience.\r\n",
+  "coingeckoId": "btse-token",
+  "links": {
+    "twitter": "https://twitter.com/btsecom",
+    "facebook": "https://www.facebook.com/btsecom",
+    "telegram": "https://t.me/btsecom",
+    "reddit": "https://www.reddit.com/r/btsecom/"
+  }
+}

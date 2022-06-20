@@ -1,0 +1,13 @@
+{
+  "key": "gitcoin",
+  "name": "Gitcoin",
+  "symbol": "gtc",
+  "logoURI": "https://assets.coingecko.com/coins/images/15810/large/gitcoin.png?1621992929",
+  "website": "https://gitcoin.co/",
+  "description": "Gitcoin is a platform to fund builders looking for meaningful, open source work.",
+  "coingeckoId": "gitcoin",
+  "links": {
+    "twitter": "https://twitter.com/gitcoin",
+    "reddit": "https://www.reddit.com/r/gitcoincommunity"
+  }
+}

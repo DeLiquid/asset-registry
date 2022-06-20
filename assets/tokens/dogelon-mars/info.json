@@ -1,0 +1,14 @@
+{
+  "key": "dogelon-mars",
+  "name": "Dogelon Mars",
+  "symbol": "elon",
+  "logoURI": "https://assets.coingecko.com/coins/images/14962/large/6GxcPRo3_400x400.jpg?1619157413",
+  "website": "https://dogelonmars.com/",
+  "description": "",
+  "coingeckoId": "dogelon-mars",
+  "links": {
+    "twitter": "https://twitter.com/dogelonmars",
+    "telegram": "https://t.me/DogelonMars",
+    "reddit": "https://www.reddit.com/r/dogelon/"
+  }
+}

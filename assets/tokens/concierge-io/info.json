@@ -1,0 +1,16 @@
+{
+  "key": "concierge-io",
+  "name": "Travala.com",
+  "symbol": "ava",
+  "logoURI": "https://assets.coingecko.com/coins/images/3014/large/Travala.png?1558020611",
+  "website": "https://www.travala.com",
+  "description": "Travala.com is the leading cryptocurrency-friendly travel booking service with 3,000,000 travel products worldwide, including hotels, homes, flights, tours, and activities. Backed by industry-giant Binance, Travala.com is a champion of cryptocurrency adoption, accepting over 30 leading cryptocurrencies in addition to traditional payment methods.",
+  "coingeckoId": "concierge-io",
+  "links": {
+    "twitter": "https://twitter.com/travalacom",
+    "facebook": "https://www.facebook.com/travala",
+    "telegram": "https://t.me/travala",
+    "reddit": "https://www.reddit.com/r/Travala",
+    "github": "https://github.com/travala/AVA-token"
+  }
+}

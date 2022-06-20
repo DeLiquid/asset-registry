@@ -1,0 +1,14 @@
+{
+  "key": "anchor-protocol",
+  "name": "Anchor Protocol",
+  "symbol": "anc",
+  "logoURI": "https://assets.coingecko.com/coins/images/14420/large/anchor_protocol_logo.jpg?1615965420",
+  "website": "https://anchorprotocol.com/",
+  "description": "",
+  "coingeckoId": "anchor-protocol",
+  "links": {
+    "twitter": "https://twitter.com/anchor_protocol",
+    "telegram": "https://t.me/anchor_official",
+    "github": "https://github.com/Anchor-Protocol"
+  }
+}

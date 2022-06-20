@@ -1,0 +1,15 @@
+{
+  "key": "hoo-token",
+  "name": "Hoo",
+  "symbol": "hoo",
+  "logoURI": "https://assets.coingecko.com/coins/images/12968/large/LOGO1.jpeg?1654140098",
+  "website": "https://hoosmartchain.com/",
+  "description": "Hoo Token is a decentralized blockchain digital pass based on Hoo Smart Chain (HSC) and Ethereum, and is also the platform pass of Hoo, abbreviated as HOO, with a total supply of 100 million pieces.\r\n\r\nHoo has come out with a development path of DEX+CEX with Hoo characteristics. HOO is not only the only common asset of the whole platform ecology, but also the link to realize the capital flow and governance mechanism in the whole Hoo ecosystem. Holding HOO can enjoy many rights and interests such as participation in platform business, value-added services, exclusive activities and priority experiences. As a native pass of HSC chain, HOO is also a GAS tool for operation on HSC chain with wide application scenarios.",
+  "coingeckoId": "hoo-token",
+  "links": {
+    "twitter": "https://twitter.com/Hoo_exchange",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5191937",
+    "telegram": "https://t.me/chaince_foreign_group",
+    "github": "https://github.com/hoosmartchain"
+  }
+}

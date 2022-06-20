@@ -1,0 +1,12 @@
+{
+  "key": "shiba-inu-wormhole",
+  "name": "Shiba Inu (Wormhole)",
+  "symbol": "shib",
+  "logoURI": "https://assets.coingecko.com/coins/images/22983/large/SHIB_wh_small.png?1644224437",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "shiba-inu-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

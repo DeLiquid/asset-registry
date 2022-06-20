@@ -1,0 +1,12 @@
+{
+  "key": "curve-dao-token-wormhole",
+  "name": "Curve DAO Token (Wormhole)",
+  "symbol": "crv",
+  "logoURI": "https://assets.coingecko.com/coins/images/23036/large/CRV_wh_small.png?1644225103",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "curve-dao-token-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

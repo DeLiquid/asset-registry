@@ -1,0 +1,15 @@
+{
+  "key": "moonbeam",
+  "name": "Moonbeam",
+  "symbol": "glmr",
+  "logoURI": "https://assets.coingecko.com/coins/images/22459/large/glmr.png?1641880985",
+  "website": "https://moonbeam.network/",
+  "description": "Moonbeam is much more than just an EVM implementation: it\u2019s a highly specialized Layer 1 chain that mirrors Ethereum\u2019s Web3 RPC, accounts, keys, subscriptions, logs, and more. The Moonbeam platform extends the base Ethereum feature set with additional features such as on-chain governance, staking, and cross-chain integrations.\r\n\r\nMoonbeam combines the best of both worlds: the familiar and easy-to-use tooling of Ethereum and the scalable, interoperable architecture of Polkadot.\r\n\r\nDive into the tools, integrations, and comprehensive tutorials to start using and building on Moonbeam.",
+  "coingeckoId": "moonbeam",
+  "links": {
+    "twitter": "https://twitter.com/moonbeamnetwork",
+    "telegram": "https://t.me/Moonbeam_Official",
+    "reddit": "https://www.reddit.com/r/moonbeam/",
+    "github": "https://github.com/PureStake/moonbeam"
+  }
+}

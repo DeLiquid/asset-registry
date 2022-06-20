@@ -1,0 +1,14 @@
+{
+  "key": "solhero",
+  "name": "SolHero",
+  "symbol": "hero",
+  "logoURI": "https://assets.coingecko.com/coins/images/23720/large/logo200.png?1645161008",
+  "website": "https://solhero.finance/",
+  "description": "SolHero is a decentralized NFT hero simulation RPG game powered by Solana smart contracts.",
+  "coingeckoId": "solhero",
+  "links": {
+    "twitter": "https://twitter.com/SolheroFi",
+    "telegram": "https://t.me/SolheroFinance",
+    "github": "https://github.com/solanahero"
+  }
+}

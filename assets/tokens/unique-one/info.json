@@ -1,0 +1,15 @@
+{
+  "key": "unique-one",
+  "name": "Unique One",
+  "symbol": "rare",
+  "logoURI": "https://assets.coingecko.com/coins/images/13458/large/Logo_Unique.png?1612757355",
+  "website": "https://www.unique.one/",
+  "description": "Unique One is a community owned Digital Art NFT Marketplace with Net-zero fees and rewards for creation, transaction and artist contests.",
+  "coingeckoId": "unique-one",
+  "links": {
+    "twitter": "https://twitter.com/UniqueOne_UO",
+    "facebook": "https://www.facebook.com/Unique-One-104043604825334",
+    "telegram": "https://t.me/unique_one_rare",
+    "github": "https://github.com/Unique-One-Official"
+  }
+}

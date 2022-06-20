@@ -1,0 +1,13 @@
+{
+  "key": "ageur",
+  "name": "agEUR",
+  "symbol": "ageur",
+  "logoURI": "https://assets.coingecko.com/coins/images/19479/large/agEUR.png?1635283566",
+  "website": "https://www.angle.money",
+  "description": "agEUR is a stablecoin of the Angle Protocol which value is pegged to the Euro. This stablecoin is backed by derivatives and by the insurance fund of the Angle Protocol. It is fully convertible against collateral held in the protocol.\r\nTo know the value of 1 Euro, the protocol looks at oracle feeds from Uniswap V3 and Chainlink.",
+  "coingeckoId": "ageur",
+  "links": {
+    "twitter": "https://twitter.com/AngleProtocol",
+    "github": "https://github.com/AngleProtocol"
+  }
+}

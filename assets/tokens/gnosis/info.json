@@ -1,0 +1,17 @@
+{
+  "key": "gnosis",
+  "name": "Gnosis",
+  "symbol": "gno",
+  "logoURI": "https://assets.coingecko.com/coins/images/662/large/logo_square_simple_300px.png?1609402668",
+  "website": "https://gnosis.io/",
+  "description": "",
+  "coingeckoId": "gnosis",
+  "links": {
+    "slack": "http://slack.gnosis.pm/",
+    "github": "https://github.com/gnosis",
+    "twitter": "https://twitter.com/gnosisdao",
+    "facebook": "https://www.facebook.com/Gnosis.pm",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1529098",
+    "reddit": "https://www.reddit.com/r/gnosisPM"
+  }
+}

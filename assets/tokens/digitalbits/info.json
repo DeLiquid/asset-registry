@@ -1,0 +1,17 @@
+{
+  "key": "digitalbits",
+  "name": "DigitalBits",
+  "symbol": "xdb",
+  "logoURI": "https://assets.coingecko.com/coins/images/8089/large/digitalbits-logo.jpg?1554454902",
+  "website": "https://www.digitalbits.io",
+  "description": "DigitalBits closes the gap of blockchain adoption by integrating with consumer apps - unlocking value in the pockets of millions.\r\n\r\nDigitalBits is a third generation protocol over the former Stellar network, that\u2019s tackling the challenges of usability and mainstream adoption. By bringing together technology, team and enterprise-grade execution, DigitalBits is bringing crypto to the masses.\r\n\r\nBacked by some of the top-tier crypto funds and advisors, DigitalBits targets an enterprise go-to-market strategy with a focus on the points economy - further accelerating the adoption of blockchain technology into society.",
+  "coingeckoId": "digitalbits",
+  "links": {
+    "twitter": "https://twitter.com/DigitalBitsOrg",
+    "facebook": "https://www.facebook.com/DigitalBitsOrg",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5026550",
+    "telegram": "https://t.me/digitalbits",
+    "reddit": "https://www.reddit.com/r/DigitalBitsOrg/",
+    "github": "https://github.com/DigitalBitsOrg/datadog-digitalbits-core"
+  }
+}

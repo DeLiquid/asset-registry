@@ -1,0 +1,16 @@
+{
+  "key": "lisk",
+  "name": "Lisk",
+  "symbol": "lsk",
+  "logoURI": "https://assets.coingecko.com/coins/images/385/large/Lisk_Symbol_-_Blue.png?1573444104",
+  "website": "https://lisk.com",
+  "description": "",
+  "coingeckoId": "lisk",
+  "links": {
+    "twitter": "https://twitter.com/LiskHQ",
+    "facebook": "https://www.facebook.com/LiskHQ",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1346646",
+    "reddit": "https://www.reddit.com/r/Lisk",
+    "github": "https://github.com/LiskHQ"
+  }
+}

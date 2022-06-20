@@ -1,0 +1,14 @@
+{
+  "key": "dei-token",
+  "name": "DEI",
+  "symbol": "dei",
+  "logoURI": "https://assets.coingecko.com/coins/images/18779/large/DEI-logo-round-white-3.png?1646300101",
+  "website": "https://deus.finance/",
+  "description": "DEI is an advanced algorithmic cross-chain fractional-reserve stablecoin, with one native bridge that will connect to all chains within the DEUS ecosystem.\r\n\r\nDEI\u2019s composition is free-flowing, comprising roughly 10% DEUS tokens and 90% of another trusted stable, depending on the chain in question. The collateral ratio of DEI is constantly monitored and adjusted via arbitrage bots.\r\n\r\nDEI\u2019s mission is to bridge liquidity across all blockchains in a scalable and decentralized way. DEI will enable users to send a stablecoin to any chain and claim it on the other side with no slippage.",
+  "coingeckoId": "dei-token",
+  "links": {
+    "twitter": "https://twitter.com/DeusDao",
+    "telegram": "https://t.me/deusfinance",
+    "github": "https://github.com/deusfinance"
+  }
+}

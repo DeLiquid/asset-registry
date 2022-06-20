@@ -1,0 +1,13 @@
+{
+  "key": "verlux",
+  "name": "Verlux",
+  "symbol": "vlx",
+  "logoURI": "https://assets.coingecko.com/coins/images/25758/large/ZRdT1DBo_400x400.jpg?1653535398",
+  "website": "https://verlux.io/",
+  "description": "Verlux is a community driven decentralized Cross-Chain NFT Marketplace where users will be able to seamlessly mint, buy, sell and swap their NFTs utilizing the low gas fees and security of the Cardano Blockchain. We aim to be the global marketplace where users can trade NFTs on various blockchains fully decentralised and with the strongest security.",
+  "coingeckoId": "verlux",
+  "links": {
+    "twitter": "https://twitter.com/VerluxNFT",
+    "telegram": "https://t.me/verluxcommunity"
+  }
+}

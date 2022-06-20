@@ -1,0 +1,13 @@
+{
+  "key": "bobatama",
+  "name": "Bobamask",
+  "symbol": "boba",
+  "logoURI": "https://assets.coingecko.com/coins/images/24072/large/200_x_200_logo.png?1651220892",
+  "website": "https://www.bobamask.io/",
+  "description": "BOBA is an ethereum based smart contract protocol with a native token reflection distribution. The utility behind BOBA is BOBAMASK, which will be the first ever Ethereum Virtual Machine (EVM) compatible multi-chain wallet ghost wallet. Our Force Ghost technology allows for anonymous transactions on the blockchain.",
+  "coingeckoId": "bobatama",
+  "links": {
+    "twitter": "https://twitter.com/boba_mask",
+    "telegram": "https://t.me/bobamask"
+  }
+}

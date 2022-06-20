@@ -1,0 +1,17 @@
+{
+  "key": "rchain",
+  "name": "RChain",
+  "symbol": "rev",
+  "logoURI": "https://assets.coingecko.com/coins/images/985/large/RChain_Icon_Red.png?1616469134",
+  "website": "https://www.rchain.coop/",
+  "description": "RChain\u00ae Cooperative is building a blockchain platform and key social coordination technologies. It uses CBC-Casper proof of stake + our concurrent programming language, rholang and aims to become the most powerful and widely used smart contract platform. The only leaderless blockchain to allow safe and atomic concurrent execution of smart contracts, both inside and across shards.",
+  "coingeckoId": "rchain",
+  "links": {
+    "twitter": "https://twitter.com/rchain_coop",
+    "facebook": "https://www.facebook.com/rchaincooperative ",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1747033",
+    "telegram": "https://t.me/rchaincoop",
+    "reddit": "https://www.reddit.com/r/RChain",
+    "github": "https://github.com/rchain/rchain"
+  }
+}

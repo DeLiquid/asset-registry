@@ -1,0 +1,12 @@
+{
+  "key": "xsushi",
+  "name": "xSUSHI",
+  "symbol": "xsushi",
+  "logoURI": "https://assets.coingecko.com/coins/images/13725/large/xsushi.png?1612538526",
+  "website": "https://sushi.com/",
+  "description": "xSUSHI is a token similar to our SushiSwap's Liquidity Provider tokens, that you receive in exchange for staking SUSHI tokens in the Sushibar. While holding the token, it will appreciate it value, as fees from our exchange platform are \"served to the Sushibar\". The xSUSHI token is always worth more than a regular SUSHI token.",
+  "coingeckoId": "xsushi",
+  "links": {
+    "twitter": "https://twitter.com/sushiswap"
+  }
+}

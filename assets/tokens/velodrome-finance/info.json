@@ -1,0 +1,12 @@
+{
+  "key": "velodrome-finance",
+  "name": "Velodrome Finance",
+  "symbol": "velo",
+  "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png?1653817876",
+  "website": "https://www.velodrome.finance/",
+  "description": "Velodrome Finance is the trading and liquidity marketplace on Optimism.\r\n\r\n",
+  "coingeckoId": "velodrome-finance",
+  "links": {
+    "twitter": "https://twitter.com/VelodromeFi"
+  }
+}

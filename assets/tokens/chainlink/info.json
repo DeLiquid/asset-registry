@@ -1,0 +1,15 @@
+{
+  "key": "chainlink",
+  "name": "Chainlink",
+  "symbol": "link",
+  "logoURI": "https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png?1547034700",
+  "website": "https://chain.link/",
+  "description": "Chainlink is a framework for building Decentralized Oracle Networks (DONs) that bring real-world data onto blockchain networks, enabling the creation of hybrid smart contracts. These DONs provide decentralized services such as Price Feeds, Proof of Reserve, Verifiable Randomness, Keepers, and the ability to connect to any web API.\u00a0\r\n\r\nIt aims to ensure that the external information (pricing, weather data, event outcomes, etc.) and off-chain computations (randomness, transaction automation, fair ordering, etc.) fed to on-chain smart contracts are reliable and tamper-proof.",
+  "coingeckoId": "chainlink",
+  "links": {
+    "twitter": "https://twitter.com/chainlink",
+    "telegram": "https://t.me/chainlinkofficial",
+    "reddit": "https://www.reddit.com/r/Chainlink/",
+    "github": "https://github.com/smartcontractkit"
+  }
+}

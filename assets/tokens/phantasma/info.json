@@ -1,0 +1,15 @@
+{
+  "key": "phantasma",
+  "name": "Phantasma",
+  "symbol": "soul",
+  "logoURI": "https://assets.coingecko.com/coins/images/4130/large/phantasma.png?1548331035",
+  "website": "https://phantasma.io/",
+  "description": "Phantasma is a fully interoperable, decentralized feature rich blockchain.\r\n\r\nWith its innovative staking mechanism, dual token system, sustainable tokenomics model and advanced eco-friendly smartNFTs. The chain is designed to be used for digital goods & services for communications, entertainment, marketplaces and on-chain storage solutions for dApp creators and enterprise clients.\r\n\r\nWith mainnet live since October 2019, it has proven to be the platform of choice for Gaming and NFTs. Not only because of its low minting and transaction fees but also because of its smartNFT technology that has been built on chain level and its pledge to become the first certified carbon negative blockchain.\r\n\r\nSmartNFTs are NFTs with dynamic properties that can change based on certain conditions. They provide game developers the opportunity to make dynamic in-game items decentralized, which is not possible with traditional NFTs. They also allow for time-based NFTs, multi-layered NFTs, infused NFTs and locked content within an NFT that can only be accessed by the owner of the NFT. The NFTs can be minted on-demand at a fraction of the costs compared to other blockchains.\r\n\r\nMore information about Phantasma\u2019s ground-breaking smartNFT technology can be found <a href=\"https://phantasma.io/phantasma-smart-nfts\">here</a>.\r\n.\r\nPhantasma has an easy-to-use connector between dApps, wallets and blockchain via Phantasma Link.\r\n\r\nIt provides cross-chain interoperability with the Ethereum, BSC and NEO blockchains and is capable of a high throughput due to infinite sidechains.\r\n\r\nIt has Oracles built into the core of the chain.",
+  "coingeckoId": "phantasma",
+  "links": {
+    "twitter": "https://twitter.com/phantasmachain",
+    "telegram": "https://t.me/phantasma_io",
+    "reddit": "https://www.reddit.comhttps://www.reddit.com/r/phantasma/",
+    "github": "https://github.com/phantasma-io"
+  }
+}

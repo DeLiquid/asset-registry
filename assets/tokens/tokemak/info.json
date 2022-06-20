@@ -1,0 +1,12 @@
+{
+  "key": "tokemak",
+  "name": "Tokemak",
+  "symbol": "toke",
+  "logoURI": "https://assets.coingecko.com/coins/images/17495/large/tokemak-avatar-200px-black.png?1628131614",
+  "website": "https://www.tokemak.xyz/",
+  "description": "Tokemak is a decentralized liquidity providing/market making protocol designed to create efficient, sustainable liquidity across DeFi. Tokemak's native token, TOKE, serves as tokenized liquidity, enabling stakers to direct the protocol's TVL as liquidity across DeFi markets, beginning with SushiSwap, Uniswap, Balancer, and 0x.",
+  "coingeckoId": "tokemak",
+  "links": {
+    "twitter": "https://twitter.com/TokenReactor"
+  }
+}

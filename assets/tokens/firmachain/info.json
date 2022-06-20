@@ -1,0 +1,14 @@
+{
+  "key": "firmachain",
+  "name": "Firmachain",
+  "symbol": "fct",
+  "logoURI": "https://assets.coingecko.com/coins/images/9892/large/6mHcLurm_400x400.jpg?1573160342",
+  "website": "https://firmachain.org/",
+  "description": "Unlocking new limits of electronic contracts with blockchain technology, FirmaChain seeks to resolve all the social and legal issues (contracts, notarial, etc.) with written contracts through the use of electronic contracts based on FirmaChain\u2019s data blockchain.",
+  "coingeckoId": "firmachain",
+  "links": {
+    "twitter": "https://twitter.com/firmachain",
+    "telegram": "https://t.me/firmachain_announcement",
+    "github": "https://github.com/FirmaChain/"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "key": "metal",
+  "name": "Metal",
+  "symbol": "mtl",
+  "logoURI": "https://assets.coingecko.com/coins/images/763/large/Metal.png?1592195010",
+  "website": "https://www.metalpay.com/",
+  "description": "Metal (MTL) is a blockchain project that wants to simplify cryptocurrencies and make them more accessible to the general public. Metal aims to allow users to transfer money instantly around the globe with nothing more than a phone number. Earn rewards every time you spend or make a purchase. Ditch the bank and go digital.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/metal-mtl/\">CoinBureau</a> for the full review of Metal.",
+  "coingeckoId": "metal",
+  "links": {
+    "slack": "https://metalpay.chat/",
+    "twitter": "https://twitter.com/metalpaysme",
+    "facebook": "https://www.facebook.com/Metal-1833794536903801/",
+    "telegram": "https://t.me/MetalPayCommunity",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2007466",
+    "reddit": "https://www.reddit.com/r/MetalPay/"
+  }
+}

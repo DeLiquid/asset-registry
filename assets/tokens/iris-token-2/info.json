@@ -1,0 +1,14 @@
+{
+  "key": "iris-token-2",
+  "name": "Iris",
+  "symbol": "iris",
+  "logoURI": "https://assets.coingecko.com/coins/images/18361/large/hermes.PNG?1631609306",
+  "website": "https://www.hermesdefi.io/",
+  "description": "Hermes Finance is the Olympus of Defi. Our friendly community is building a decentralized and proactive platform at the forefront of modern day finance.",
+  "coingeckoId": "iris-token-2",
+  "links": {
+    "twitter": "https://twitter.com/hermesdefi",
+    "reddit": "https://www.reddit.com/r/HermesDefi/",
+    "github": "https://github.com/Hermes-defi"
+  }
+}

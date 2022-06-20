@@ -1,0 +1,15 @@
+{
+  "key": "bitrue-token",
+  "name": "Bitrue Coin",
+  "symbol": "btr",
+  "logoURI": "https://assets.coingecko.com/coins/images/8873/large/Bittrue_logo.png?1637142758",
+  "website": "https://www.bitrue.com/",
+  "description": "Bitrue is a forward-thinking cryptocurrency exchange platform dedicated to providing the most trustworthy digital asset management services in a simple, efficient and secure manner. Registered in Singapore in 2018, Bitrue offers worldwide services to cryptocurrency investors with offices across the globe. The company was built by a good mix of digital finance experts, cyber security specialists and blockchain developers, who share the same passion of redefining crypto trading experiences. Bitrue features no listing fee along with a very selective and serious vetting process. Although relatively new, Bitrue is backed by strong communities and is quickly becoming the one-stop platform for crypto traders around the world with its latest addition of fiat purchase.",
+  "coingeckoId": "bitrue-token",
+  "links": {
+    "twitter": "https://twitter.com/BitrueOfficial",
+    "facebook": "https://www.facebook.com/BitrueOfficial",
+    "telegram": "https://t.me/BitrueOfficial",
+    "reddit": "https://www.reddit.com/r/BitrueOfficial/"
+  }
+}

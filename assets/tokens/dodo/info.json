@@ -1,0 +1,14 @@
+{
+  "key": "dodo",
+  "name": "DODO",
+  "symbol": "dodo",
+  "logoURI": "https://assets.coingecko.com/coins/images/12651/large/dodo_logo.png?1601433025",
+  "website": "https://dodoex.io/",
+  "description": "DODO is a Decentralized Exchange (DEX) running on Ethereum and Binance Smart Chain.\u00a0\r\n\r\nDeveloped by the DODO team, Proactive Market Maker (PMM) is an oracle-aided algorithm with an advanced pricing formula that provides contract-fillable liquidity. Traders get lower slippage with PMM than Automated Market Maker (AMM).\r\n\r\nPMM leverages price oracles to retrieve accurate market prices of assets as input. It then aims to provide sufficient liquidity near the market price for every asset. The result is that liquidity decreases rapidly when far away from the market price. The following graphs compare the price curves of DODO (PMM) and Uniswap (AMM).",
+  "coingeckoId": "dodo",
+  "links": {
+    "twitter": "https://twitter.com/BreederDodo",
+    "telegram": "https://t.me/dodoex_official",
+    "reddit": "https://www.reddit.com/r/DodoEx/"
+  }
+}

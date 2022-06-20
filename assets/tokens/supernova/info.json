@@ -1,0 +1,13 @@
+{
+  "key": "supernova",
+  "name": "Supernova",
+  "symbol": "snt",
+  "logoURI": "https://assets.coingecko.com/coins/images/21083/large/256SNT.png?1638310636",
+  "website": "https://novanetwork.io/",
+  "description": "Nova Network is a decentralized and enterprise-level smart contract platform built on open-source DAG programming. It is a global hub for digital currency, decentralized infrastructure, and applications. For Ethereum developers, it is easy to build, deploy or fork existing open-source infrastructure built on other networks. Solidity is natively compatible with Ethereum and other EVM networks.\r\n\r\nThe hybrid consensus protocol is structured differently from other decentralized networks. It ensures decentralization, rapid finality, and high throughput without compromising scalability or energy efficiency.",
+  "coingeckoId": "supernova",
+  "links": {
+    "twitter": "https://twitter.com/NovaFinOfficial",
+    "telegram": "https://t.me/NovaFinOfficial"
+  }
+}

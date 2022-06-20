@@ -1,0 +1,12 @@
+{
+  "key": "ampleforth-wormhole",
+  "name": "Ampleforth (Wormhole)",
+  "symbol": "ampl",
+  "logoURI": "https://assets.coingecko.com/coins/images/22921/large/AMPL_wh_small.png?1644224058",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "ampleforth-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

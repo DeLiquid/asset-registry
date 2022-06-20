@@ -1,0 +1,13 @@
+{
+  "key": "synapse-2",
+  "name": "Synapse",
+  "symbol": "syn",
+  "logoURI": "https://assets.coingecko.com/coins/images/18024/large/syn.png?1635002049",
+  "website": "https://synapseprotocol.com",
+  "description": "Synapse is a cross-chain layer \u221e protocol powering frictionless interoperability between blockchains. \r\nBy providing decentralized, permissionless transactions between any L1, sidechain, or L2 ecosystem, Synapse powers integral blockchain activities such as asset transfers, swaps, and generalized messaging with cross-chain functionality - and in so doing enables new primitives based off of its cross-chain architecture.\r\nAt Synapse you can bridge and swap stable assets between chains and provide liquidity to fuel cross-chain swapping in pools with minimal impermanent loss.",
+  "coingeckoId": "synapse-2",
+  "links": {
+    "twitter": "https://twitter.com/SynapseProtocol",
+    "telegram": "https://t.me/synapseprotocol"
+  }
+}

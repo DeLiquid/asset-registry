@@ -1,0 +1,12 @@
+{
+  "key": "genesysgo-shadow",
+  "name": "GenesysGo Shadow",
+  "symbol": "shdw",
+  "logoURI": "https://assets.coingecko.com/coins/images/22271/large/logo_-_2022-01-05T083602.373.png?1641342974",
+  "website": "https://genesysgo.com/",
+  "description": "GenesysGo builds, configures, and maintains RPC Servers and Validator Nodes so you don't have to.",
+  "coingeckoId": "genesysgo-shadow",
+  "links": {
+    "twitter": "https://twitter.com/genesysgo"
+  }
+}

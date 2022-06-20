@@ -1,0 +1,14 @@
+{
+  "key": "nusd",
+  "name": "sUSD",
+  "symbol": "susd",
+  "logoURI": "https://assets.coingecko.com/coins/images/5013/large/sUSD.png?1616150765",
+  "website": "https://synthetix.io",
+  "description": "sUSD, or synthetic USD, is a synthetic asset launched by Synthetix Exchange. sUSD mirrors and tracks the price of USD provided by an oracle - Chainlink.",
+  "coingeckoId": "nusd",
+  "links": {
+    "twitter": "https://twitter.com/synthetix_io",
+    "reddit": "https://www.reddit.com/r/synthetix_io",
+    "github": "https://github.com/Synthetixio/synthetix"
+  }
+}

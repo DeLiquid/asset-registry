@@ -1,0 +1,17 @@
+{
+  "key": "energi",
+  "name": "Energi",
+  "symbol": "nrg",
+  "logoURI": "https://assets.coingecko.com/coins/images/5795/large/3218.png?1604798557",
+  "website": "https://www.energi.world/",
+  "description": "Energi (NRG) is a next-generation proof-of-stake (PoS) cryptocurrency that combines smart contracts, decentralized governance, and a self-funding treasury. Energi was founded by Tommy World Power, who imagined a better, sustainable cryptocurrency that had the potential for mass adoption. The project has since grown to more than 60 team members and 225,000 community members, all working together to create a cryptocurrency for the future. ",
+  "coingeckoId": "energi",
+  "links": {
+    "twitter": "https://twitter.com/energi",
+    "facebook": "https://www.facebook.com/energicrypto",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=4912743",
+    "telegram": "https://t.me/energiannouncements",
+    "reddit": "https://www.reddit.com/r/energicryptocurrency/",
+    "github": "https://github.com/energicryptocurrency"
+  }
+}

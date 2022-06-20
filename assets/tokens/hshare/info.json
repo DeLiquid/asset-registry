@@ -1,0 +1,16 @@
+{
+  "key": "hshare",
+  "name": "HyperCash",
+  "symbol": "hc",
+  "logoURI": "https://assets.coingecko.com/coins/images/1085/large/hshare-hcash-logo.png?1547035052",
+  "website": "https://h.cash/",
+  "description": "Hcash is a new cryptocurrency designed to allow value transfer among blockchains and between blockchains and blockless cryptocurrencies. In addition, Hcash will support private transactions, DAO governance, and quantum resistance.\r\n\r\nSince Hcash hopes to be a side chain for many different cryptocurrencies, including <a href=\"https://www.coingecko.com/en?category_id=37&view=market\">privacy coins</a>, it will need to implement privacy features to mask how users are moving their funds. To address this issue, Hcash will come with two types of wallets: white and black. While the white addresses will be publicly viewable, the black addresses will remain private. In order to achieve this privacy, Hcash will implement zero-knowledge proofs. This system, as proven on Zcash\u2019s blockchain, involves masking the identity of the sender and receiver through the use of advanced cryptography to verify transactions without sharing information about the transaction with miners. As a result, blockchains that implement zero-knowledge proofs do not include any identifiable user information.\r\n\r\nHshare offers enormous technical potential in the industrial, private network sector. Multi-compatible and multifunctional software, which is already designed for quantum processors, makes it possible to combine a wide variety of crypto technologies. This offers advantages in the FinTech area, in finance, in dealing with Big Data and also for the application area of the Internet of Things. Hshare seems to be not subject to any limitations.",
+  "coingeckoId": "hshare",
+  "links": {
+    "twitter": "https://twitter.com/HcashOfficial",
+    "facebook": "https://www.facebook.com/HcashOfficial",
+    "telegram": "https://t.me/HcashOfficialEnglish",
+    "reddit": "https://www.reddit.com/r/hcash/",
+    "github": "https://github.com/HcashOrg"
+  }
+}

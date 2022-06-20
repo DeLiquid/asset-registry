@@ -1,0 +1,15 @@
+{
+  "key": "near",
+  "name": "NEAR Protocol",
+  "symbol": "near",
+  "logoURI": "https://assets.coingecko.com/coins/images/10365/large/near_icon.png?1601359077",
+  "website": "https://nearprotocol.com/",
+  "description": "",
+  "coingeckoId": "near",
+  "links": {
+    "twitter": "https://twitter.com/nearprotocol",
+    "facebook": "https://www.facebook.com/NearProtocol/",
+    "telegram": "https://t.me/cryptonear",
+    "github": "https://github.com/near"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "soul-swap",
+  "name": "Soul Swap",
+  "symbol": "soul",
+  "logoURI": "https://assets.coingecko.com/coins/images/18581/large/soul.jpg?1632491969",
+  "website": "https://soul.sh/swap",
+  "description": "Soul is an algorithmic, cross-chain AMM and P2P lending protocol (on Fantom) built for traders, investors, developers, and visionaries seeking to unlock a universe of open financial applications.",
+  "coingeckoId": "soul-swap",
+  "links": {
+    "twitter": "https://twitter.com/SoulSwapFinance",
+    "telegram": "https://t.me/SoulSwapDeFi",
+    "github": "https://github.com/SoulSwapFinance"
+  }
+}

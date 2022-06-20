@@ -1,0 +1,12 @@
+{
+  "key": "ftx-wormhole",
+  "name": "FTX (Wormhole)",
+  "symbol": "ftt",
+  "logoURI": "https://assets.coingecko.com/coins/images/22996/large/FTT_wh_small.png?1644225637",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "ftx-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

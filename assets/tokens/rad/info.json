@@ -1,0 +1,14 @@
+{
+  "key": "rad",
+  "name": "RAD",
+  "symbol": "rad",
+  "logoURI": "https://assets.coingecko.com/coins/images/22854/large/unknown.png?1642750640",
+  "website": "https://zillaz.net/",
+  "description": "RAD is utility token of the Zillaz NFT ecosystem ",
+  "coingeckoId": "rad",
+  "links": {
+    "twitter": "https://twitter.com/ZillazNFT",
+    "telegram": "https://t.me/zillaznft",
+    "github": "https://github.com/zillaznft"
+  }
+}

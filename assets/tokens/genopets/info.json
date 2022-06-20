@@ -1,0 +1,14 @@
+{
+  "key": "genopets",
+  "name": "Genopets",
+  "symbol": "gene",
+  "logoURI": "https://assets.coingecko.com/coins/images/20360/large/gene-token.png?1636945172",
+  "website": "https://www.genopets.me/",
+  "description": "Genopets is a Free-to-Play, Move-to-Earn NFT game on Solana that makes it fun and profitable to live an active lifestyle. Genopets combines user's step data from their mobile device and wearables with blockchain Play-to-Earn economics so players can earn crypto for taking action in real life as they explore the Genoverse evolving and battling their Genopet.",
+  "coingeckoId": "genopets",
+  "links": {
+    "twitter": "https://twitter.com/genopets",
+    "telegram": "https://t.me/Genopets",
+    "reddit": "https://www.reddit.com/r/genopets/"
+  }
+}

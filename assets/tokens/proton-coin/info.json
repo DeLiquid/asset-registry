@@ -1,0 +1,13 @@
+{
+  "key": "proton-coin",
+  "name": "Proton Coin",
+  "symbol": "pro",
+  "logoURI": "https://assets.coingecko.com/coins/images/25599/large/105035839.png?1652774270",
+  "website": "https://www.protoncoin.org/",
+  "description": "Proton is designed to change the way the world uses and manages virtual servers. Our users will be able to deploy and manage their servers on the Proton platform, with the peace of mind that their information is completely secured and only in their possession. The native currency that will be used on the Proton Platform will be Pro coin. The coin was specifically designed to be process transactions instantly with zero fees, and multiple layers of security via a proof of stake algorithm.",
+  "coingeckoId": "proton-coin",
+  "links": {
+    "twitter": "https://twitter.com/protontweets",
+    "github": "https://github.com/ProtonBlockchain"
+  }
+}

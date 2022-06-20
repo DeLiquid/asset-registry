@@ -1,0 +1,14 @@
+{
+  "key": "boson-protocol",
+  "name": "Boson Protocol",
+  "symbol": "boson",
+  "logoURI": "https://assets.coingecko.com/coins/images/14710/large/boson_logo.png?1617882472",
+  "website": "http://bosonprotocol.io",
+  "description": "Boson Protocol is a trust minimised and cost minimised protocol that automates digital to physical redemptions using NFTs encoded with game theory.\r\n\r\nBoson Protocol\u2019s vision is to enable a decentralized commerce ecosystem by funding and accelerating the development of a stack of specialist applications to disrupt, unbundle and democratize commerce.\r\n\r\nWhat is needed is a way to execute commerce transactions trustlessly with minimized human intermediaries or arbitrators. Our core technology disrupts e-commerce platforms by tokenizing real-world products and services and commerce data within a liquid digital market, built on DeFi. We call this decentralized autonomous commerce.",
+  "coingeckoId": "boson-protocol",
+  "links": {
+    "twitter": "https://twitter.com/BosonProtocol",
+    "telegram": "https://t.me/bosonprotocol",
+    "github": "https://github.com/bosonprotocol"
+  }
+}

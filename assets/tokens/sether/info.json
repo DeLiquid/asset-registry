@@ -1,0 +1,19 @@
+{
+  "key": "sether",
+  "name": "Sether",
+  "symbol": "seth",
+  "logoURI": "https://assets.coingecko.com/coins/images/2101/large/sether.png?1548609212",
+  "website": "https://www.sether.io/",
+  "description": "Sether is the first smart social media data oracle. Existing data oracles move data between any external source and the blockchain. Sether moves, monitors and analyses social media data for the blockchain, automating integration with social networks.",
+  "coingeckoId": "sether",
+  "links": {
+    "github": "https://github.com/mware-solutions/sether",
+    "medium": "https://medium.com/@contact_47998",
+    "twitter": "https://twitter.com/setherplatform",
+    "facebook": "https://www.facebook.com/setherplatform",
+    "linkedin": "https://www.linkedin.com/company/18340689/",
+    "telegram": "https://web.telegram.org/#/im?p=@setherplatform",
+    "whitepaper": "https://github.com/mware-solutions/icosite/blob/master/SETHER%20Whitepaper.pdf",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2407336.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "golden-ratio-token",
+  "name": "Golden Ratio Token",
+  "symbol": "grt",
+  "logoURI": "https://assets.coingecko.com/coins/images/11022/large/golden_ratio_token.png?1592811112",
+  "website": "https://goldenratiotoken.site/",
+  "description": "GoldenRatio Token (GRT) project is an experiment which has no funding, to prove the importance of a quality community in a crypto related project.\r\n\r\nOur goal is to create value into the project which will flow back into the crypto community benefiting other projects. Therefore our supply will be distributed among active people contributing to the global crypto community.\r\n\r\nThe experiment is also aimed to be established as a viable project within 90 days. We aim to achieve this by creating several mechanisms and use cases.\r\n\r\nEverything will be given away to the people who are already building the crypto economy.\r\n\r\nAll the GoldenRatio Tokens (GRT) will be given away to active contributors of any other high quality crypto related projects.",
+  "coingeckoId": "golden-ratio-token",
+  "links": {
+    "twitter": "https://twitter.com/goldenratioteam",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5242922",
+    "telegram": "https://t.me/the_goldenratio",
+    "reddit": "https://www.reddit.com"
+  }
+}

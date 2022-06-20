@@ -1,0 +1,12 @@
+{
+  "key": "toucan-protocol-base-carbon-tonne",
+  "name": "Toucan Protocol: Base Carbon Tonne",
+  "symbol": "bct",
+  "logoURI": "https://assets.coingecko.com/coins/images/19240/large/bct_exchange_enhanced.png?1641441498",
+  "website": "https://toucan.earth/",
+  "description": "Base Carbon Tonnes (BCT) is a reference token representing one tonne of carbon from the Verra Verified Carbon Unit (VCU) registry from 2008 or later, bridged by the Toucan Protocol. Verra is the dominant voluntary carbon credit issuer and each VCU minted in their registry represents a real emissions saving from a project, that has been measured and audited by independent third parties. The Toucan Bridge is the first to allow any user to bridge their VCUs into crypto, and because it is a fungible ERC 20 token it can directly be integrated into any DeFi application. BCT is a foundational building block to enable an open regenerative finance ecosystem. ",
+  "coingeckoId": "toucan-protocol-base-carbon-tonne",
+  "links": {
+    "twitter": "https://twitter.com/ToucanProtocol"
+  }
+}

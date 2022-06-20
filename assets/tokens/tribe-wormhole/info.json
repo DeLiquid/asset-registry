@@ -1,0 +1,12 @@
+{
+  "key": "tribe-wormhole",
+  "name": "Tribe (Wormhole)",
+  "symbol": "tribe",
+  "logoURI": "https://assets.coingecko.com/coins/images/22973/large/TRIBE_wh_small.png?1644223797",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "tribe-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

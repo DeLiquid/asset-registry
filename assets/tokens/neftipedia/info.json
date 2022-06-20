@@ -1,0 +1,14 @@
+{
+  "key": "neftipedia",
+  "name": "NEFTiPEDiA",
+  "symbol": "nft",
+  "logoURI": "https://assets.coingecko.com/coins/images/16986/large/nft.PNG?1625956786",
+  "website": "https://neftipedia.com/",
+  "description": "NEFTiPEDiA aims to become the world\u2019s premier community-run non-fungible token (NFT) marketplace. Join our all-inclusive environment of artists, investors, collectors, and tech enthusiasts. Buy NFT-- our native token-- and take part in our governance process.",
+  "coingeckoId": "neftipedia",
+  "links": {
+    "twitter": "https://twitter.com/neftipedia",
+    "telegram": "https://t.me/iamneftipedia",
+    "github": "https://github.com/NEFTiPEDiA"
+  }
+}

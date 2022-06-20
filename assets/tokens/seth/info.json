@@ -1,0 +1,13 @@
+{
+  "key": "seth",
+  "name": "sETH",
+  "symbol": "seth",
+  "logoURI": "https://assets.coingecko.com/coins/images/8843/large/sETH.png?1616150207",
+  "website": "https://www.synthetix.io/",
+  "description": "Synth sETH by Synthetix\r\nTracks the price of Ether through price feeds supplied by an oracle.",
+  "coingeckoId": "seth",
+  "links": {
+    "twitter": "https://twitter.com/synthetix_io",
+    "reddit": "https://www.reddit.com/r/synthetix_io"
+  }
+}

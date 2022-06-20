@@ -1,0 +1,12 @@
+{
+  "key": "league-of-kingdoms",
+  "name": "League of Kingdoms",
+  "symbol": "loka",
+  "logoURI": "https://assets.coingecko.com/coins/images/22572/large/loka_64pix.png?1642643271",
+  "website": "https://www.leagueofkingdoms.com/",
+  "description": "League of Kingdoms is one of the world's first blockchain MMO strategy games. Gamers build kingdoms, farm resources, fight monsters (PvE), and compete with enemy kingdoms (PvP) or alliances (MMO) where all the land plots are non-fungible tokens (NFT) along with tokenizable resources, skins, and many other game assets. Currently, the free-to-play strategy game is available on mobile (Android, iOS), as well as on the PC.\r\n\r\nThe project team aims to build a game universe where gamers can have fun together while capitalizing on their digital assets, skills, and play-time.\r\nThe project offers entertaining game content that appeals to not just crypto enthusiasts but also mainstream gamers.",
+  "coingeckoId": "league-of-kingdoms",
+  "links": {
+    "twitter": "https://twitter.com/LeagueKingdoms"
+  }
+}

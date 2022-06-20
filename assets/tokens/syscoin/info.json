@@ -1,0 +1,17 @@
+{
+  "key": "syscoin",
+  "name": "Syscoin",
+  "symbol": "sys",
+  "logoURI": "https://assets.coingecko.com/coins/images/119/large/Syscoin.png?1560401261",
+  "website": "http://syscoin.org/",
+  "description": "Syscoin offers fast, low-cost tokens, assets, and (fractional) NFT\u2019s secured by Bitcoin\u2019s own hash power, decentralized consensus model, and censorship resistance. Backed by 2700 independent full nodes which participate in Syscoin\u2019s decentralized network at present, all of which archive and validate. Together they form the high-throughput relay network used by Syscoin\u2019s Z-DAG Protocol (patent pending). The platform offers the option of a permissioned L2 smart contract feature, Syscoin Notary, which is useful for regulatory compliance at scale, and much more. Its ambitious roadmap aims to define the next generation of decentralized ledger tech, leveraging Zero-Knowledge Proofs to provide the best characteristics of Bitcoin and Ethereum in a coordinated and scalable Web 3.0 platform. Syscoin has official partnerships with Binance, Blockchain Foundry, Klever, TrustToken, Komodo, Decentralized Identity Foundation (DIF), Microsoft Azure, International Token Standardization Association (ITSA), and more.",
+  "coingeckoId": "syscoin",
+  "links": {
+    "twitter": "https://twitter.com/syscoin",
+    "facebook": "https://www.facebook.com/Syscoin",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=587080",
+    "telegram": "https://t.me/Syscoin_Official",
+    "reddit": "https://www.reddit.com/r/SysCoin",
+    "github": "https://github.com/syscoin/syscoin2"
+  }
+}

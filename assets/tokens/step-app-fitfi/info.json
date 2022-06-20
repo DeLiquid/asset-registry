@@ -1,0 +1,13 @@
+{
+  "key": "step-app-fitfi",
+  "name": "Step App",
+  "symbol": "fitfi",
+  "logoURI": "https://assets.coingecko.com/coins/images/25015/large/801485424e1f49bc8d0facff9287eb9b_photo.png?1649827972",
+  "website": "https://step.app/",
+  "description": "Step App is creating a gamified metaverse for the fitness economy. Walk, jog, and run to socialize, play, and earn.\r\n\r\n- Stake to earn portion of ecosystem fees.\r\n\r\n- Stake includes a cooldown, breaking which causes a penalty.\r\n\r\n- Tiered stakers acquire discounts on NFT market.",
+  "coingeckoId": "step-app-fitfi",
+  "links": {
+    "twitter": "https://twitter.com/stepapp_",
+    "telegram": "https://t.me/stepappchat"
+  }
+}

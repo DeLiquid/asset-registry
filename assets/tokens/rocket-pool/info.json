@@ -1,0 +1,18 @@
+{
+  "key": "rocket-pool",
+  "name": "Rocket Pool",
+  "symbol": "rpl",
+  "logoURI": "https://assets.coingecko.com/coins/images/2090/large/rocket_pool_%28RPL%29.png?1637662441",
+  "website": "https://www.rocketpool.net",
+  "description": "Rocket Pool is a next generation decentralised staking network and pool for Ethereum 2.0\r\n\r\nRocket Pool is a self-regulating network of node operators; it automatically adjusts its capacity to match demand. The Rocket Pool protocol token is used to maintain an optimal capacity by:\r\nIncreasing capacity when needed, by incentivising node operators to join.\r\nDecreasing capacity when not needed, by disincentivising node operators from joining.\r\n\r\nIn addition to depositing ETH, a node operator is required to deposit a set amount of RPL per ether they are depositing. This RPL:ether ratio is dynamic and is dependent on the network utilisation. E.g:\r\nIf the network has plenty of capacity, then node operators need more RPL to make deposits. It gets progressively more expensive in terms of RPL to make node deposits when the network does not have enough ETH from regular stakers to be matched up with node operators. This helps prevent several attack vectors outlined in the whitepaper and keeps assignment of ether \u2018chunks\u2019 to nodes quick.\r\nIf the network is reaching capacity, then node operators need less RPL to join as the network needs more node deposits to be matched up with regular users deposits. If the network is maxed out and needs node operators to join quickly, it even drops to 0 for the first one to make a deposit.",
+  "coingeckoId": "rocket-pool",
+  "links": {
+    "slack": "http://slack.rocketpool.net",
+    "github": "https://github.com/rocket-pool",
+    "medium": "https://medium.com/rocket-pool",
+    "twitter": "https://twitter.com/Rocket_Pool",
+    "linkedin": "https://www.linkedin.com/in/david-rugendyke-260a2a60/",
+    "whitepaper": "https://www.rocketpool.net/files/RocketPoolWhitePaper.pdf",
+    "reddit": "https://www.reddit.com/r/rocketpool"
+  }
+}

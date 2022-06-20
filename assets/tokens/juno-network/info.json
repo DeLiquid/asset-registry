@@ -1,0 +1,15 @@
+{
+  "key": "juno-network",
+  "name": "JUNO",
+  "symbol": "juno",
+  "logoURI": "https://assets.coingecko.com/coins/images/19249/large/juno.png?1642838082",
+  "website": "https://www.junonetwork.io/",
+  "description": "\"Juno is a global, open source, permission-less network for decentralized interoperable applications.\r\nAnyone can create & use inter-chain applications on Juno. \r\nThe ecosystem is pioneering CosmWasm development and adoption, allowing developers to deploy secure & robust inter-chain smart contracts in Rust.\r\nThe Juno proof of stake blockchain is built using the Cosmos SDK and reaches network agreement via Tendermint Consensus. \r\nThe network is governed by delegators, who vote in changes via on-chain governance.\r\nAll network processes are fueled by $JUNO the native asset of the network.\r\nJuno had its decentralized network launch on the 1st of October 2021. CosmWasm Smart Contracts we live on December 15th 2021.\"",
+  "coingeckoId": "juno-network",
+  "links": {
+    "twitter": "https://twitter.com/JunoNetwork",
+    "telegram": "https://t.me/JunoNetwork",
+    "reddit": "https://www.reddit.com",
+    "github": "https://github.com/CosmosContracts"
+  }
+}

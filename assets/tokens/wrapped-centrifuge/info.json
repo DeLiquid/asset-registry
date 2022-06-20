@@ -1,0 +1,14 @@
+{
+  "key": "wrapped-centrifuge",
+  "name": "Wrapped Centrifuge",
+  "symbol": "wcfg",
+  "logoURI": "https://assets.coingecko.com/coins/images/17106/large/WCFG.jpg?1626266462",
+  "website": "https://centrifuge.io/",
+  "description": "",
+  "coingeckoId": "wrapped-centrifuge",
+  "links": {
+    "twitter": "https://twitter.com/centrifuge",
+    "telegram": "https://t.me/centrifuge_chat",
+    "github": "https://github.com/centrifuge/"
+  }
+}

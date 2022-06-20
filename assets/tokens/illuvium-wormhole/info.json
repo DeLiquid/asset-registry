@@ -1,0 +1,12 @@
+{
+  "key": "illuvium-wormhole",
+  "name": "Illuvium (Wormhole)",
+  "symbol": "ilv",
+  "logoURI": "https://assets.coingecko.com/coins/images/23074/large/ILV_wh_small.png?1644226067",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "illuvium-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

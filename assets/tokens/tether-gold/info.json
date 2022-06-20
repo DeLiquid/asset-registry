@@ -1,0 +1,13 @@
+{
+  "key": "tether-gold",
+  "name": "Tether Gold",
+  "symbol": "xaut",
+  "logoURI": "https://assets.coingecko.com/coins/images/10481/large/tether-gold.png?1579946148",
+  "website": "https://tether.to/",
+  "description": "Each XAU\u20ae token represents ownership of one troy fine ounce of physical gold on a specific gold bar. XAU\u20ae, which is available as an ERC-20 token on the Ethereum blockchain and as a TRC20 token on the TRON blockchain, can be transferred to any on-chain address from the purchasers\u2019 Tether wallet. Furthermore, Tether Gold (XAU\u20ae) is the only product among the competition that offers zero custody fees and has direct control over the physical gold storage, safely held in a Switzerland vault, adopting best in class security and anti-threat measures. Today, Tether Gold (XAU\u20ae) is the best way to hold Gold. ",
+  "coingeckoId": "tether-gold",
+  "links": {
+    "twitter": "https://twitter.com/tethergold",
+    "facebook": "https://www.facebook.com/tether.to"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "key": "celo-euro",
+  "name": "Celo Euro",
+  "symbol": "ceur",
+  "logoURI": "https://assets.coingecko.com/coins/images/16756/large/CEUR.png?1624947266",
+  "website": "https://celo.org/",
+  "description": "",
+  "coingeckoId": "celo-euro",
+  "links": {
+    "twitter": "https://twitter.com/CeloOrg",
+    "facebook": "https://www.facebook.com/celohq",
+    "telegram": "https://t.me/celoplatform",
+    "reddit": "https://www.reddit.com/r/celo/",
+    "github": "https://github.com/celo-org/"
+  }
+}

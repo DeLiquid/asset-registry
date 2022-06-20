@@ -1,0 +1,14 @@
+{
+  "key": "rise-of-nebula",
+  "name": "Rise Of Nebula",
+  "symbol": "ron",
+  "logoURI": "https://assets.coingecko.com/coins/images/17128/large/ron.PNG?1626409615",
+  "website": "https://www.riseofnebula.com/",
+  "description": "In the depths of deep space a nebula has been gently forming. An interstellar cloud of dust, hydrogen and helium slowly prepping for its ascent upward into a higher realm. Rising and growing with every passing second accumulating and dispersing its presence throughout the realm. RON \r\nRise Of Nebula is its name. We proudly present the newest offering to BSC.",
+  "coingeckoId": "rise-of-nebula",
+  "links": {
+    "twitter": "https://twitter.com/riseofnebula",
+    "telegram": "https://t.me/riseofnebula",
+    "github": "https://github.com/RiseofNebula"
+  }
+}

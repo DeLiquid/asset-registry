@@ -1,0 +1,14 @@
+{
+  "key": "bitmon",
+  "name": "Bitmon",
+  "symbol": "bit",
+  "logoURI": "https://assets.coingecko.com/coins/images/25282/large/BT-logo.png?1651127844",
+  "website": "https://bitmon.io/",
+  "description": "Bitmon is a P2E game, where you can play, breed, trade and fight with NFT monsters.\r\n\r\nBitmon was conceived from the vision that anyone can create a video game based on it since CC0 rights of the Bitmons will be given so that any person, creator, artist, or developer can make a product from the art and mechanics of the video game. People will be able to request funding from the DAO, which will be controlled by the bitmon trainers, to make art derivations from it, examples can be an anime, web series, manga, videogame, trading card game, or anything bitmon related.",
+  "coingeckoId": "bitmon",
+  "links": {
+    "twitter": "https://twitter.com/BitmonWorld",
+    "reddit": "https://www.reddit.com/r/Bitmon/",
+    "github": "https://github.com/bitmon-world"
+  }
+}

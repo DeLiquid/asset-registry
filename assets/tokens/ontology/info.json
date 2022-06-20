@@ -1,0 +1,16 @@
+{
+  "key": "ontology",
+  "name": "Ontology",
+  "symbol": "ont",
+  "logoURI": "https://assets.coingecko.com/coins/images/3447/large/ONT.png?1583481820",
+  "website": "https://ont.io/",
+  "description": "Ontology is a new high-performance public blockchain project & a distributed trust collaboration platform.It provides new high-performance public blockchains that include a series of complete distributed ledgers and smart contract systems. Ontology is a blockchain framework supports public blockchain systems and is able to customize different public blockchains for different applications. It also supports collaboration amongst chain networks with its various protocol groups.They will constantly provide common modules on the underlying infrastructure for different kinds of distributed scenarios, such as those for the distributed digital identity framework, distributed data exchange protocol, and so on. \r\n\r\nOntology was created in 2017 by a Chinese company called OnChain, which is led by founders Erik Zhang and Da HongFei. OnChain has had huge success in the cryptocurrency industry, as they were also the founders behind the <a href=\"https://www.coingecko.com/en/coins/neo\">NEO</a> blockchain, which is now a multi-billion dollar project. Essentially, Ontology was created as a way for businesses of all sizes to install blockchain technology within their company, without having to completely change all of their current systems.\r\n\r\nThe purpose of the Ontology framework is that it is not intended to operate as a single blockchain. Instead, the technology will allow businesses to make full use of both a private and public blockchain. Each and every data transaction is confirmed in a decentralized environment, meaning that no single person or authority can take control of the network.",
+  "coingeckoId": "ontology",
+  "links": {
+    "twitter": "https://twitter.com/OntologyNetwork",
+    "facebook": "https://www.facebook.com/ONTnetwork",
+    "telegram": "https://t.me/OntologyNetwork",
+    "reddit": "https://www.reddit.com/r/OntologyNetwork/",
+    "github": "https://github.com/ontio"
+  }
+}

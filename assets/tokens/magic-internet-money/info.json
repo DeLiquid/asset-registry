@@ -1,0 +1,14 @@
+{
+  "key": "magic-internet-money",
+  "name": "Magic Internet Money",
+  "symbol": "mim",
+  "logoURI": "https://assets.coingecko.com/coins/images/16786/large/mimlogopng.png?1624979612",
+  "website": "https://abracadabra.money/ ",
+  "description": "Abracadabra.money is a lending platform that allows users to mint the Stablecoin MIM using interest bearing tokens as collaterals!",
+  "coingeckoId": "magic-internet-money",
+  "links": {
+    "twitter": "https://twitter.com/MIM_Spell",
+    "telegram": "https://t.me/abracadabramoney",
+    "github": "https://github.com/Abracadabra-money/magic-internet-money"
+  }
+}

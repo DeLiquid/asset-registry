@@ -1,0 +1,13 @@
+{
+  "key": "alpine-f1-team-fan-token",
+  "name": "Alpine F1 Team Fan Token",
+  "symbol": "alpine",
+  "logoURI": "https://assets.coingecko.com/coins/images/23717/large/18112.png?1645154685",
+  "website": "https://www.binance.com/en/support/announcement/14f033f78d174d5e8ab0cabfd56dffb8",
+  "description": "Binance is excited to announce a pioneering partnership with BWT Alpine F1\u00ae Team, the first Formula 1 team to join the Binance Fan Token Platform. This partnership sees Binance become the official Fan Token partner of BWT Alpine F1\u00ae Team and the Alpine Esports partner from 2022 onwards.\r\n\r\nThe Alpine F1\u00ae Team Fan Token (ALPINE) is a BEP-20 utility token to be launched first via the Binance Launchpad. ALPINE will then be available to all Binance users and the Binance Fan Token community via spot, bank card purchases, and P2P.",
+  "coingeckoId": "alpine-f1-team-fan-token",
+  "links": {
+    "twitter": "https://twitter.com/AlpineF1Team",
+    "telegram": "https://t.me/binance_announcements"
+  }
+}

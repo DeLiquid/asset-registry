@@ -1,0 +1,13 @@
+{
+  "key": "cdai",
+  "name": "cDAI",
+  "symbol": "cdai",
+  "logoURI": "https://assets.coingecko.com/coins/images/9281/large/cDAI.png?1576467585",
+  "website": "https://compound.finance/",
+  "description": "Compound protocol balance token",
+  "coingeckoId": "cdai",
+  "links": {
+    "twitter": "https://twitter.com/compoundfinance",
+    "reddit": "https://www.reddit.com/r/compound"
+  }
+}

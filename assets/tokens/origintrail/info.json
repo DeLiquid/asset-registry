@@ -1,0 +1,20 @@
+{
+  "key": "origintrail",
+  "name": "OriginTrail",
+  "symbol": "trac",
+  "logoURI": "https://assets.coingecko.com/coins/images/1877/large/TRAC.jpg?1635134367",
+  "website": "https://origintrail.io/",
+  "description": "",
+  "coingeckoId": "origintrail",
+  "links": {
+    "github": "https://github.com/OriginTrail/ot-node",
+    "medium": "https://medium.com/origintrail",
+    "twitter": "https://twitter.com/origin_trail",
+    "facebook": "https://www.facebook.com/origintrail",
+    "linkedin": "https://www.linkedin.com/company/origintrail",
+    "telegram": "https://t.me/origintrail",
+    "whitepaper": "https://origintrail.io/wp-content/uploads/2017/10/OriginTrail-White-Paper.pdf",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2436140",
+    "reddit": "https://www.reddit.com/r/origintrail"
+  }
+}

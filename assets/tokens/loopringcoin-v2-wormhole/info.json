@@ -1,0 +1,12 @@
+{
+  "key": "loopringcoin-v2-wormhole",
+  "name": "LoopringCoin V2 (Wormhole)",
+  "symbol": "lrc",
+  "logoURI": "https://assets.coingecko.com/coins/images/23052/large/LRC_wh_small.png?1644226316",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "loopringcoin-v2-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

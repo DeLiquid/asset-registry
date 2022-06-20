@@ -1,0 +1,14 @@
+{
+  "key": "kava-swap",
+  "name": "Kava Swap",
+  "symbol": "swp",
+  "logoURI": "https://assets.coingecko.com/coins/images/18031/large/6123a3093aeaba00d21e7685_Kava_Swap-Logo-White-p-500.png?1630296688",
+  "website": "https://www.kava.io/swap",
+  "description": "",
+  "coingeckoId": "kava-swap",
+  "links": {
+    "twitter": "https://twitter.com/kava_swap",
+    "telegram": "https://t.me/kavalabs",
+    "github": "https://github.com/Kava-Labs/kava"
+  }
+}

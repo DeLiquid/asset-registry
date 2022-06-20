@@ -1,0 +1,14 @@
+{
+  "key": "eos",
+  "name": "EOS",
+  "symbol": "eos",
+  "logoURI": "https://assets.coingecko.com/coins/images/738/large/eos-eos-logo.png?1547034481",
+  "website": "https://eosn.foundation/",
+  "description": "Blockchain built and run by the EOS Community.\r\n \r\nThe EOSIO core development is now in the hands of the community:\r\nhttps://medium.com/eos-network-foundation/eosio-coalition-report-april-28th-71d5b77d63cc\r\n \r\nAbout EOS Support:\r\n \r\nhttps://EOSsupport.io is an organisation started by community members that serves as a concierge for providing user and technical support for customers who use the EOS Network.\r\nEOS Support team offers new services such as coordination efforts for the Mandel consensus upgrade, knowledge base, technical support, and many more for the EOS network.\r\nSource: EOS Network Foundation Quarterly Report Q1 2022:\r\nhttps://medium.com/eos-network-foundation/enf-q1-2022-report-5320984367e9\r\nPage 13: https://drive.google.com/file/d/1sL42m5PO-N4BeZUvTa-5w3wU3TQnsp93/view",
+  "coingeckoId": "eos",
+  "links": {
+    "twitter": "https://twitter.com/EosNFoundation",
+    "reddit": "https://www.reddit.com/r/eos",
+    "github": "https://github.com/eosnetworkfoundation/"
+  }
+}

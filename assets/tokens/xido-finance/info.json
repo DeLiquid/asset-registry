@@ -1,0 +1,14 @@
+{
+  "key": "xido-finance",
+  "name": "Xido Finance",
+  "symbol": "xido",
+  "logoURI": "https://assets.coingecko.com/coins/images/16161/large/KJw4clj.png?1623141959",
+  "website": "https://www.xido.finance/",
+  "description": "XIDO Finance is a decentralized AMM with yield farming incentives, no mints, and a unique token distribution design. XIDO Finance is powered by XIDO token which adds a governance layer and powers the self-sustaining pools and farms without ever minting a new token.",
+  "coingeckoId": "xido-finance",
+  "links": {
+    "twitter": "https://twitter.com/XidoFinance",
+    "telegram": "https://t.me/xidofinance",
+    "github": "https://github.com/xidofinance"
+  }
+}

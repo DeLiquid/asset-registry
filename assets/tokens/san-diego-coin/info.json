@@ -1,0 +1,15 @@
+{
+  "key": "san-diego-coin",
+  "name": "San Diego Coin",
+  "symbol": "sand",
+  "logoURI": "https://assets.coingecko.com/coins/images/12316/large/j2FpS99.png?1599087149",
+  "website": "https://sandiegocoin.org/",
+  "description": "SAND is the DAPP for San Diego Coin found at Dapp.SanDiegoCoin.org. It is based on Hive-Engine Nitrous Blockchain Condenser, with SCOTBOT payouts pegged to EOS and Telos Main net Tokens maintained by a PRIVEX.io Gateway. Any San Diegans can signup free and begin earning SAND via Social Media, or can make proposals, USe Tipit to share SAND over twitter discord twitch and telegram to billions of users, and earn telos SAND using SQRL and Hive Engine tools and our HIVE dapp with MORE functionality than the $150 Million Dollar EOS Voice.com . Learn more about these developments in our Telegram t.me/sandiegocoin Local Social Media Influencers in San Diego who visit our Hive Dapp, telegram or discord will be airdropped free SAND tokens. Locals who take an interest in the project can be delegated SAND power to curate the best San Diego based content on the site. Tipit.io allows tipping of EOS SAND to discord telegram and twitter accounts and will soon be available to send SAND tokens over Facebook, Twitch reddit Email and SMS. Future plans include sending 1 SMS to every 619 760 and 858 San Diego Area Code, and to email every known San Diego Email address to saturate the local population with 1 SAND token per resident. Once sizable portion of the City Residents have been given access to 1 SAND token via email, sms, or twitter tips, we can claim that this token increasing in value benefits residents more so than Bitcoin or any other cryptocurrency for San Diego residents. To allow SAND to become the \"Stock\" for our city is one of the many goals of this project.",
+  "coingeckoId": "san-diego-coin",
+  "links": {
+    "facebook": "https://www.facebook.com/sandiegotoken",
+    "telegram": "https://t.me/sandiegocoin",
+    "reddit": "https://www.reddit.com/r/SanDiegoCoin/",
+    "github": "https://github.com/ackza/SAND"
+  }
+}

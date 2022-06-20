@@ -1,0 +1,13 @@
+{
+  "key": "cocktailbar",
+  "name": "cocktailbar.finance",
+  "symbol": "coc",
+  "logoURI": "https://assets.coingecko.com/coins/images/13121/large/coc.png?1647079316",
+  "website": "https://www.cocktailbar.io/",
+  "description": "",
+  "coingeckoId": "cocktailbar",
+  "links": {
+    "twitter": "https://twitter.com/cocktailbarcoc",
+    "telegram": "https://t.me/CocktailBar_Discussion"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key": "elf-token",
+  "name": "Elf",
+  "symbol": "elf",
+  "logoURI": "https://assets.coingecko.com/coins/images/20678/large/IMG_1960.png?1637550991",
+  "website": "https://elftoken.io/",
+  "description": "Elf Token is a community driven token targeting both our passive and active investors, in addition to those less fortunate. Investors will receive 5% BUSD rewards for holding, and be part of daily giveaways hosted by the team of 15 members. The token, a spinoff of the pop culture hit \u201cElf\u201d, will also partner with Toys for Tots in an effort to bring the Christmas spirit to kids around the world.",
+  "coingeckoId": "elf-token",
+  "links": {
+    "twitter": "https://twitter.com/elf_token",
+    "telegram": "https://t.me/Elf_Token"
+  }
+}

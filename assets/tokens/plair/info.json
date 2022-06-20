@@ -1,0 +1,15 @@
+{
+  "key": "plair",
+  "name": "Plair",
+  "symbol": "pla",
+  "logoURI": "https://assets.coingecko.com/coins/images/4906/large/plair-logo.png?1547040327",
+  "website": "https://plair.life/",
+  "description": "Plair aims to unify the gaming and streaming worlds onto one platform, propel the amateur eSports scene into the global spotlight, bringing opportunities to gamers of all skill, and give the GAMERS ownership and control of their own data. Additionally, they plan to launch a distributed cloud computing network in which users can rent, play, and stream video games using the combined power of the network's contributors. The PLA token is the blood of this entire ecosystem, itself built upon the ecosystem that is the VeChainThor blockchain, which gives Plair the scalability advantages it needs to succeed over competitors.",
+  "coingeckoId": "plair",
+  "links": {
+    "twitter": "https://twitter.com/plair_life",
+    "facebook": "https://www.facebook.com/plairlife",
+    "telegram": "https://t.me/plair_life",
+    "reddit": "https://www.reddit.com/r/Plair/"
+  }
+}

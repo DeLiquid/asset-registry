@@ -1,0 +1,15 @@
+{
+  "key": "linear",
+  "name": "Linear",
+  "symbol": "lina",
+  "logoURI": "https://assets.coingecko.com/coins/images/12509/large/1649227343-linalogo200px.png?1649229117",
+  "website": "https://linear.finance",
+  "description": "A Cross-chain Decentralized Delta-One Asset Protocol with Unlimited Liquidity.",
+  "coingeckoId": "linear",
+  "links": {
+    "twitter": "https://twitter.com/LinearFinance",
+    "telegram": "https://t.me/LinearExchangeCommunity",
+    "reddit": "https://www.reddit.com/r/LinearFinance/",
+    "github": "https://github.com/Linear-finance/linear"
+  }
+}

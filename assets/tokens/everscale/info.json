@@ -1,0 +1,15 @@
+{
+  "key": "everscale",
+  "name": "Everscale",
+  "symbol": "ever",
+  "logoURI": "https://assets.coingecko.com/coins/images/12783/large/everscale_badge_main_round_1x.png?1640050196",
+  "website": "https://everscale.network/",
+  "description": "Everscale is a fast, secure and scalable network with near-zero fees, which can process up to a million transactions per second thanks to its unique dynamic sharding technology. The network was originally built off of the Durov brothers' TON concept before launching as a separate entity. The change to Everscale was predicated by the network\u2019s robust development which saw it move way beyond the original technological offerings of TON and build an entire ecosystem around its platforms and products, replete with its own nodes and technology. The ecosystem features a number of products, including a DEX and bridges with other blockchains. ",
+  "coingeckoId": "everscale",
+  "links": {
+    "twitter": "https://twitter.com/Everscale_net",
+    "telegram": "https://t.me/everscale",
+    "reddit": "https://www.reddit.com/r/Everscale/",
+    "github": "https://github.com/tonlabs"
+  }
+}

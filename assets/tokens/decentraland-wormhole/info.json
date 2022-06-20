@@ -1,0 +1,12 @@
+{
+  "key": "decentraland-wormhole",
+  "name": "Decentraland (Wormhole)",
+  "symbol": "mana",
+  "logoURI": "https://assets.coingecko.com/coins/images/23050/large/MANA_wh_small.png?1644226497",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "decentraland-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

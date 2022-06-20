@@ -1,0 +1,17 @@
+{
+  "key": "playchip",
+  "name": "PlayChip",
+  "symbol": "pla",
+  "logoURI": "https://assets.coingecko.com/coins/images/4567/large/pla.png?1547039851",
+  "website": "https://www.playchip.global/",
+  "description": "The PlayChip is an ERC20 token designed to become the universal gaming token. \r\n\r\nThe PlayChip will serve at the core of an online gaming ecosystem that already consists of seven platforms, with many more to come. The ecosystem supports a user base of over 900,000 people in over 70 different nations, and is on track to turn over a combined US$430m in 2018 alone.",
+  "coingeckoId": "playchip",
+  "links": {
+    "twitter": "https://twitter.com/teamplaychip",
+    "facebook": "https://www.facebook.com/playupglobal",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2976942",
+    "telegram": "https://t.me/playchip_official",
+    "reddit": "https://www.reddit.com/r/PlayChip",
+    "github": "https://github.com/TeamPlayUp/PlayChip"
+  }
+}

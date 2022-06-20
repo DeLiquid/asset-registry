@@ -1,0 +1,21 @@
+{
+  "key": "medibloc",
+  "name": "Medibloc",
+  "symbol": "med",
+  "logoURI": "https://assets.coingecko.com/coins/images/1374/large/medibloc_basic.png?1570607623",
+  "website": "https://medibloc.org/",
+  "description": "MediBloc\u2019s healthcare information platform is a personal data ecosystem for patients, providers and researchers, built on blockchain technology. Our mission is to streamline medicine for patients, providers and researchers by redistributing value behind personal healthcare data ownership.Through MediBloc, you can effectively own your medical data, providers can remove redundancies to provide better care, and your valuable data can help researchers push the advancement of medicine faster than ever.",
+  "coingeckoId": "medibloc",
+  "links": {
+    "slack": "https://medibloc.slack.com",
+    "github": "https://github.com/Medibloc/crowdsale",
+    "medium": "https://medium.com/medibloc",
+    "twitter": "https://twitter.com/_MediBloc",
+    "facebook": "https://www.facebook.com/medibloc",
+    "linkedin": "https://www.linkedin.com/company/13294985/",
+    "telegram": "https://t.me/medibloc",
+    "whitepaper": "https://medibloc.org/whitepaper/medibloc_whitepaper_en.pdf",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2285103",
+    "reddit": "https://www.reddit.com/r/MediBloc"
+  }
+}

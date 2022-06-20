@@ -1,0 +1,15 @@
+{
+  "key": "bittorrent",
+  "name": "BitTorrent",
+  "symbol": "btt",
+  "logoURI": "https://assets.coingecko.com/coins/images/22457/large/btt_logo.png?1643857231",
+  "website": "https://www.bittorrent.com/btt/",
+  "description": "BitTorrent was initially conceived by Bram Cohen, a peer-to-peer protocol for users to transfer files around the world. The BitTorrent Token (BTT), a TRC-10 token is created on top of the TRON blockchain platform as a way to extend the capability of BitTorrent. The token is added to introduce some economics feature on BitTorrent for networking, bandwidth, and storage resources to be shared and tradeed.\r\n\r\nSome of the other feature that BitTorrent Token (BTT) offers would be BitTorrent Speed. This is whereby BTT tokens can be big in exchange for faster download speed.\r\n\r\nList of exchanges trading BTT token can be found at https://www.coingecko.com/en/coins/bittorrent/trading_exchanges",
+  "coingeckoId": "bittorrent",
+  "links": {
+    "twitter": "https://twitter.com/bittorrent",
+    "telegram": "https://t.me/BTTBitTorrent",
+    "reddit": "https://www.reddit.com/r/Bittorrent/",
+    "github": "https://github.com/bittorrent/bittorrent.org"
+  }
+}

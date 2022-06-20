@@ -1,0 +1,16 @@
+{
+  "key": "tron",
+  "name": "TRON",
+  "symbol": "trx",
+  "logoURI": "https://assets.coingecko.com/coins/images/1094/large/tron-logo.png?1547035066",
+  "website": "https://tron.network",
+  "description": "What is Tron?\r\nTron's mission is to build a truly decentralized internet and aims to be the largest blockchain-based operating system in the world, known as the TRON protocol. The TRON protocol will offer high scalability, high availability, and high throughput computing to serve decentralized applications via smart contracts. Ethereum EVM-based smart contracts will be compatible and deployable on the TRON network as such Solidity developers do not have to rewrite their applications.\r\n\r\nWhy Tron?\r\nSince TRON protocol does not rely on proof of work or mining, instead governed by nodes located around the world, it is decentralized while providing high throughput for transactions on the blockchain. This is suitable for dapps that require high speed transactions especially games. There are a number of tokens already issued on the TRON network and the <a href=\"https://www.coingecko.com/en/exchanges/trx_market\">decentralized exchanges TRX.market</a> has launched.\r\n\r\nOn July 24th 2018, TRON acquired BitTorrent, one of the largest P2P file sharing protocol. As a result of the acquisition, <a href=\"https://www.coingecko.com/en/coins/bittorrent\">BitTorrent Token (BTT)</a> was launched as the cryptocurrency to power the economics on the BitTorrent network. The Token will be used to inceltivize file sharing and storage within the network.\r\n",
+  "coingeckoId": "tron",
+  "links": {
+    "twitter": "https://twitter.com/trondao",
+    "facebook": "https://www.facebook.com/tronfoundation",
+    "telegram": "https://t.me/tronnetworkEN03",
+    "reddit": "https://www.reddit.com/r/Tronix",
+    "github": "https://github.com/tronprotocol"
+  }
+}

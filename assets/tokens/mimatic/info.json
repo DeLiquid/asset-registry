@@ -1,0 +1,13 @@
+{
+  "key": "mimatic",
+  "name": "MAI",
+  "symbol": "mimatic",
+  "logoURI": "https://assets.coingecko.com/coins/images/15264/large/mimatic-red.png?1620281018",
+  "website": "http://mai.finance/",
+  "description": "miMatic is an algorithmic stablecoin that is collateralized with Matic tokens",
+  "coingeckoId": "mimatic",
+  "links": {
+    "twitter": "https://twitter.com/0xLaoZi",
+    "github": "https://github.com/0xlaozi/qidao"
+  }
+}

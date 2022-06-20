@@ -1,0 +1,12 @@
+{
+  "key": "aztec-nodes-sun",
+  "name": "Aztec Nodes SUN",
+  "symbol": "sun",
+  "logoURI": "https://assets.coingecko.com/coins/images/24832/large/token_V2.png?1649059442",
+  "website": "https://aztecnodes.finance/",
+  "description": "Aztec nodes is a protocol that offers lifetime passive income between 1.5% and 2.2% daily APR\r\n\r\nWe have added to our protocol a smart tax system and other innovations like LP staking to make the project more sustainable \r\n\r\nThere are 3 levels of nodes and we invite you to read our whitepaper to know all the details",
+  "coingeckoId": "aztec-nodes-sun",
+  "links": {
+    "twitter": "https://twitter.com/AztecNodes"
+  }
+}

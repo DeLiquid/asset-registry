@@ -1,0 +1,13 @@
+{
+  "key": "axie-infinity",
+  "name": "Axie Infinity",
+  "symbol": "axs",
+  "logoURI": "https://assets.coingecko.com/coins/images/13029/large/axie_infinity_logo.png?1604471082",
+  "website": "https://axieinfinity.com/",
+  "description": "AXS is the governance token for the Axie Infinity game. Token holders will be able to shape and vote for the direction of the game universe. This is unlike traditional games where all decisions are made by the game developers. AXS holders will be able to stake their tokens to earn more AXS and even\u00a0vote for governance proposals.",
+  "coingeckoId": "axie-infinity",
+  "links": {
+    "twitter": "https://twitter.com/axieinfinity",
+    "telegram": "https://t.me/axieinfinity"
+  }
+}

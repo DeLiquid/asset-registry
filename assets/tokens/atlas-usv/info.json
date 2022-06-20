@@ -1,0 +1,14 @@
+{
+  "key": "atlas-usv",
+  "name": "Atlas USV",
+  "symbol": "usv",
+  "logoURI": "https://assets.coingecko.com/coins/images/22066/large/7iUyjg5t.png?1640744823",
+  "website": "https://www.atlasusv.com",
+  "description": "Atlas is building a DeFi base layer that turns the 2-dimensional (3, 3) game theory notation for a maximum positive outcome between participants into a 3-dimensional play, where in addition to users, the protocol itself also generates value for its users and the rest of the ecosystem.   \r\n\r\nUSV (Universal Store of Value) is the base layer token of Atlas. Unlike many other tokens in the DeFi ecosystem, USV is backed by the Atlas treasury, giving it an intrinsic, rising value also known as \"\"the book value\"\". Atlas USV's Treasury is made of 5 components: Stables, USV Liquidity, Passive Growth Tokens, Partner Tokens, and Other Atlas Layers.\r\n\r\n(1) Stables such as DAI and Frax are required to mint USV.\r\n(2) USV Liquidity Pool Tokens are offered through barter contracts and owned by the treasury.\r\n(3) The Passive Growth portfolio of tokens is managed by an engine that optimizes the portfolio's formula using a modified version of Markowitz's Optimal Portfolio Theory (Harry Markowitz, \"\"Portfolio Selection\"\" The Journal of Finance, 1952). This feature is coming soon.\r\n(4) Atlas USV is built to be the default backbone currency for DeFi. As such, Atlas expects major partnerships with other protocols that will benefit the treasury.\r\n(5) The Atlas Project will continue to release more layers with additional, distinct utilities and tokens that build on Atlas USV. The treasury will accumulate these tokens and capture value from these additional layers.",
+  "coingeckoId": "atlas-usv",
+  "links": {
+    "twitter": "https://twitter.com/atlasusv",
+    "telegram": "https://t.me/atlasusv",
+    "github": "https://github.com/AtlasUSV/atlas-contracts"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key": "revolution",
+  "name": "Revolution",
+  "symbol": "rev",
+  "logoURI": "https://assets.coingecko.com/coins/images/22504/large/0x276B440fdB4C54631C882caC9e4317929e751FF8.png?1641956358",
+  "website": "https://themanor.farm/",
+  "description": "TheManor.Farm is the first stage of a revolution in yield farming / lending protocol on Binance Smart Chain Network (BSC).\r\n\r\nThe Manor Farm was developed in response to the vacuum left by generic projects with no long term plan for sustainability. We have developed unique functions that create decentralized ownership and sustainable rewards through a multi-layer protocol.\r\n\r\nTransfer of ownership from Layer 1 to Layer 2 happens only 14 days after L1 starts.\r\nThose who contribute their (REV) tokens to the Layer 2 presale will get a 20% better exchange rate than those who get in with BUSD and significantly larger allocations on the L2 farm (DOGS) and governance (PIGS) tokens.\r\n\r\nStakers of the (PIGS) tokens on L2 become the owners of the farm earning their share of the deposit fees and other farm associated cashflows",
+  "coingeckoId": "revolution",
+  "links": {
+    "twitter": "https://twitter.com/DRIPcommunity",
+    "telegram": "https://t.me/The_Animal_Farm"
+  }
+}

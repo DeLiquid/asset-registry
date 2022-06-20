@@ -1,0 +1,14 @@
+{
+  "key": "the-open-network",
+  "name": "The Open Network",
+  "symbol": "ton",
+  "logoURI": "https://assets.coingecko.com/coins/images/17980/large/ton.PNG?1630023132",
+  "website": "https://ton.org/",
+  "description": "The next gen network to unite all blockchains and the existing Internet.",
+  "coingeckoId": "the-open-network",
+  "links": {
+    "twitter": "https://twitter.com/ton_blockchain",
+    "telegram": "https://t.me/tonblockchain",
+    "github": "https://github.com/ton-blockchain"
+  }
+}

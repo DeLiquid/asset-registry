@@ -1,0 +1,14 @@
+{
+  "key": "merit-circle",
+  "name": "Merit Circle",
+  "symbol": "mc",
+  "logoURI": "https://assets.coingecko.com/coins/images/19304/large/Db4XqML.png?1634972154",
+  "website": "https://www.meritcircle.io/",
+  "description": "Merit Circle is a decentralized autonomous organization that empowers individuals with the opportunity to earn through play and to develop their skills via a meritocratic education system. This is done using our platform, which hosts scholarship opportunities, educational opportunities and everything a person could need on their journey towards being an earning gamer in the metaverse. All while keeping a strong focus on our companies vision; Build the metaverse by empowering people to be a part of it.",
+  "coingeckoId": "merit-circle",
+  "links": {
+    "twitter": "https://twitter.com/MeritCircle_IO",
+    "telegram": "https://t.me/meritcircle",
+    "github": "https://github.com/Merit-Circle"
+  }
+}

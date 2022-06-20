@@ -1,0 +1,14 @@
+{
+  "key": "hydra",
+  "name": "Hydra",
+  "symbol": "hydra",
+  "logoURI": "https://assets.coingecko.com/coins/images/13631/large/photo_2020-11-27_18-25-06.jpg?1610473158",
+  "website": "https://hydrachain.org",
+  "description": "Hydra is a POS (proof of stake) blockchain and emerged out of the combination of Bitcoin, Ethereum and Qtum. Hydra runs in the UTXO accounting model while supporting EVM as an additional layer. ",
+  "coingeckoId": "hydra",
+  "links": {
+    "twitter": "https://twitter.com/hydra_chain",
+    "telegram": "https://t.me/hydrachain",
+    "github": "https://github.com/Hydra-Chain"
+  }
+}

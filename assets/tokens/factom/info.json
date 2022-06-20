@@ -1,0 +1,17 @@
+{
+  "key": "factom",
+  "name": "Factom",
+  "symbol": "fct",
+  "logoURI": "https://assets.coingecko.com/coins/images/310/large/factom.png?1592404286",
+  "website": "https://factomprotocol.org/",
+  "description": "Factom is the first usable blockchain technology to solve real-world business problems by providing an unalterable record-keeping system. By creating a data layer on top of the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> blockchain, Factom\u2019s distributed ledger technology secures millions of real-time records in the blockchain with a single hash using cryptographic isolation. Businesses and governments alike can use Factom to document their information so that it cannot be modified, deleted or backdated. Factom\u2019s technology decentralizes record keeping by ensuring that the integrity of stored data remains intact, providing complete transparency, while at the same time maintaining user privacy in an increasingly digital world.\r\n\r\nThe Factom project began in 2014 which puts it on the older end of the blockchain spectrum. The team has made steady progress since then. They released the first version of Factom in early 2015 and had their token sale in the middle of that year. In August of 2015, they were accepted into the Plug and Play FinTech accelerator and were chosen as one of Austin\u2019s A-List start-ups in May 2016. Based out of Austin, TX, the core team has multiple members with several years of experience in the blockchain space. Peter Kirby, Factom Co-founder and CEO, and Abhi Dobhal, VP Product Management, previously worked together at CoinTerra, Inc \u2013 a producer of ASIC miners for Bitcoin.\r\n\r\nThe price of a Factoid is directly tied to the amount of network usage. As more businesses join the network, it will become more costly to submit Entries which will, in turn, affect the Factoid price. Once the number of Factoids being burned outpaces the 73,000 that are created each month, the currency will become deflationary. This may drive the price up even further.",
+  "coingeckoId": "factom",
+  "links": {
+    "twitter": "https://twitter.com/factom",
+    "facebook": "https://www.facebook.com/FactomProject",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=850070",
+    "telegram": "https://t.me/FactomProtocol",
+    "reddit": "https://www.reddit.com/r/factom",
+    "github": "https://github.com/FactomProject/factomd"
+  }
+}

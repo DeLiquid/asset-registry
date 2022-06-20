@@ -1,0 +1,14 @@
+{
+  "key": "gmx",
+  "name": "GMX",
+  "symbol": "gmx",
+  "logoURI": "https://assets.coingecko.com/coins/images/18323/large/arbit.png?1631532468",
+  "website": "https://gmx.financial/",
+  "description": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and zero price impact trades.\r\n\r\nTrading is supported by a unique multi-asset pool that earns liquidity providers fees from market making, swap fees, leverage trading (spreads, funding fees & liquidations) and asset rebalancing.\r\n\r\nDynamic pricing is supported by Chainlink Oracles along with TWAP pricing from leading volume DEXs.",
+  "coingeckoId": "gmx",
+  "links": {
+    "twitter": "https://twitter.com/GMX_IO",
+    "telegram": "https://t.me/GMX_IO",
+    "github": "https://github.com/xvi10/gambit-contracts"
+  }
+}

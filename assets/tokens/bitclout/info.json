@@ -1,0 +1,14 @@
+{
+  "key": "bitclout",
+  "name": "Decentralized Social",
+  "symbol": "deso",
+  "logoURI": "https://assets.coingecko.com/coins/images/16310/large/Deso_Logo_Vector.png?1637218348",
+  "website": "https://deso.org",
+  "description": "DeSo is a new type of blockchain designed to power Web 3.0 decentralized social networks. Since its inception in 2019, DeSo aims to solve the problems created by present social media centralization.\r\n\r\nToday, a handful of private companies effectively control public discourse, earning monopoly profits; meanwhile, the creators who actually produce the content are often underpaid and under-engaged. In contrast, DeSo\u2019s social blockchain treats social media content as a public utility, making it permissionless and available to anyone. DeSo combines the paradigm of open P2P financial system offered by cryptocurrencies with an efficient and scalable database infrastructure, tailored to bring about the next-generation of Web 3.0 social networks.",
+  "coingeckoId": "bitclout",
+  "links": {
+    "twitter": "https://twitter.com/desoprotocol",
+    "reddit": "https://www.reddit.com/r/DESO/",
+    "github": "https://github.com/deso-protocol"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "the-sandbox",
+  "name": "The Sandbox",
+  "symbol": "sand",
+  "logoURI": "https://assets.coingecko.com/coins/images/12129/large/sandbox_logo.jpg?1597397942",
+  "website": "https://www.sandbox.game/en/",
+  "description": "The Sandbox is a community-driven platform where creators can monetize voxel ASSETS and gaming experiences on the blockchain.\r\n\r\nSAND is the utility token used throughout The Sandbox ecosystem as the basis of transactions and interactions. It is an ERC-20 utility token built on the Ethereum blockchain. There is a finite supply of 3,000,000,000 SAND.",
+  "coingeckoId": "the-sandbox",
+  "links": {
+    "twitter": "https://twitter.com/TheSandboxGame",
+    "facebook": "https://www.facebook.com/TheSandboxGame",
+    "telegram": "https://t.me/sandboxgame"
+  }
+}

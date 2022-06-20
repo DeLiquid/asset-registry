@@ -1,0 +1,14 @@
+{
+  "key": "alchemy-pay",
+  "name": "Alchemy Pay",
+  "symbol": "ach",
+  "logoURI": "https://assets.coingecko.com/coins/images/12390/large/ACH_%281%29.png?1599691266",
+  "website": "https://alchemypay.org/",
+  "description": "",
+  "coingeckoId": "alchemy-pay",
+  "links": {
+    "twitter": "https://twitter.com/AlchemyPay",
+    "facebook": "https://www.facebook.com/AlchemyGPS",
+    "telegram": "https://t.me/Alchemy_official"
+  }
+}

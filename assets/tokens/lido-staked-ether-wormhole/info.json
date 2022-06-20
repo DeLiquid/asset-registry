@@ -1,0 +1,12 @@
+{
+  "key": "lido-staked-ether-wormhole",
+  "name": "Lido Staked Ether (Wormhole)",
+  "symbol": "steth",
+  "logoURI": "https://assets.coingecko.com/coins/images/22962/large/stETH_wh_small.png?1644222454",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "lido-staked-ether-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

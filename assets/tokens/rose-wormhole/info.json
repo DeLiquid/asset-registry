@@ -1,0 +1,12 @@
+{
+  "key": "rose-wormhole",
+  "name": "ROSE (Wormhole)",
+  "symbol": "rose",
+  "logoURI": "https://assets.coingecko.com/coins/images/22939/large/ROSE_wh_small.png?1644227043",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "rose-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

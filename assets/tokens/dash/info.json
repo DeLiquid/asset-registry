@@ -1,0 +1,16 @@
+{
+  "key": "dash",
+  "name": "Dash",
+  "symbol": "dash",
+  "logoURI": "https://assets.coingecko.com/coins/images/19/large/dash-logo.png?1548385930",
+  "website": "https://www.dash.org",
+  "description": "Dash (DASH) is digital cash designed to offer financial freedom to everyone. Payments are instant, easy and secure, with near-zero fees.\r\nBuilt to support real life use cases, Dash is the leading decentralized payment solution. Users can purchase goods at thousands of merchants and trade it at major exchanges and brokers around the globe.\r\nSince its creation in 2014, Dash has demonstrated leadership in innovation and pioneered groundbreaking features such as:\r\n-Two-tier network with incentivized nodes and decentralized project governance (Masternodes)\r\n-Instantly settled payments (InstantSend)\r\n-Instantly immutable blockchain (ChainLocks)\r\n-Optional privacy (PrivateSend)",
+  "coingeckoId": "dash",
+  "links": {
+    "twitter": "https://twitter.com/dashpay",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=421615",
+    "telegram": "https://t.me/dash_chat",
+    "reddit": "https://www.reddit.com/r/dashpay",
+    "github": "https://github.com/dashevo"
+  }
+}

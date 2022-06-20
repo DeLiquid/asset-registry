@@ -1,0 +1,15 @@
+{
+  "key": "fidu",
+  "name": "Fidu",
+  "symbol": "fidu",
+  "logoURI": "https://assets.coingecko.com/coins/images/25944/large/GFI-asset-icon.png?1654827482",
+  "website": "https://goldfinch.finance/",
+  "description": "Goldfinch is a decentralized global credit protocol using crypto to empower financial inclusion around the world. Goldfinch allows crypto lenders to earn stable, sustainable crypto yields by facilitating real-world loans to established credit funds and fintechs in emerging markets. Loans on the Goldfinch credit protocol do not require crypto collateral and are instead backed by real-world asset collateral. \r\n\r\nLenders to the protocol can participate as a Backer or as a Liquidity Provider. Backers supply first-loss capital to specific Borrower pools after evaluating borrowers.  Liquidity Providers supply capital to the Senior Pool to earn passive yield, gaining exposure to all Borrower Pools. When Liquidity Providers supply to the Senior Pool, they receive an equivalent amount of FIDU (an ERC20 token) that functions like a \"\"digital receipt\"\". Liquidity Providers can also stake their FIDU positions to receive additional governance token rewards.",
+  "coingeckoId": "fidu",
+  "links": {
+    "twitter": "https://twitter.com/goldfinch_fi",
+    "telegram": "https://t.me/goldfinch_finance",
+    "reddit": "https://www.reddit.com/r/goldfinch_fi/",
+    "github": "https://github.com/goldfinch-eng"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key": "coinviewcap",
+  "name": "CoinViewCap",
+  "symbol": "cvc",
+  "logoURI": "https://assets.coingecko.com/coins/images/25044/large/cvc_trans.png?1651206377",
+  "website": "https://cvcofficial.com/",
+  "description": "CoinViewCap (CVC) use a static reward system, which means that any transactions involving these tokens will incur fees. A percentage will go into the liquidity pool for every transaction and another percentage will be allocated among the holders.",
+  "coingeckoId": "coinviewcap",
+  "links": {
+    "twitter": "https://twitter.com/CoinViewCap",
+    "telegram": "https://t.me/coinviewcap"
+  }
+}

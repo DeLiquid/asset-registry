@@ -1,0 +1,14 @@
+{
+  "key": "strike",
+  "name": "Strike",
+  "symbol": "strk",
+  "logoURI": "https://assets.coingecko.com/coins/images/14607/large/Jw-36llq_400x400.jpg?1617243607",
+  "website": "https://strike.org/",
+  "description": "Strike enables users and developers to supply digital assets onto the platform to earn from dyanmic rates provided by the protocol and use that supplied asset as collateral to borrow other supported digital assets all on-chain.",
+  "coingeckoId": "strike",
+  "links": {
+    "twitter": "https://twitter.com/StrikeFinance",
+    "telegram": "https://t.me/StrikeFinance",
+    "github": "https://github.com/StrikeFinance"
+  }
+}

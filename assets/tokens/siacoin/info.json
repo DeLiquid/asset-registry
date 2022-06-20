@@ -1,0 +1,15 @@
+{
+  "key": "siacoin",
+  "name": "Siacoin",
+  "symbol": "sc",
+  "logoURI": "https://assets.coingecko.com/coins/images/289/large/siacoin.png?1548386465",
+  "website": "https://sia.tech/",
+  "description": "Sia is a <a href=\"https://www.coingecko.com/en/coins/all?category_id=34\">decentralized cloud storage platform</a> similar in concept to Dropbox and other centralized storage provider where instead of renting storage space from a centralized entity, clients rent storage space from other peers. The only difference is Sia uses blockchain to facilitate transactions Nodes provide storage to clients using the Sia blockchain as contracts. Before storing the data, the data is encrypted into many pieces and uploaded to different hosts. \r\n\r\nSiacoin is created by David Vorick and Luke Champine of Nebulous Inc. As the traditional storage platforms are higher in cost, more expensive and data is not well protected. Siacoin promises to offer secured storage transactions with smart contracts which is more affordable and reliable. Moreover, it is completely open source which means many individuals have contributed to Siacoin\u2019s software hence there will be an active community building innovative applications on top if the Sia API. \r\n\r\nIn 2018, Siacoin aims to introduce file sharing and be the go-to cloud storage platform for companies. Their goal is divided into 3 time frames which are short-term, medium-term and long-term development. Short-term development focuses on file sharing between Sia users. This allows Sia users to share files in the platform without having to take it off the cloud while increasing network utilization. Medium-term development\u2019s goal is to enhance partnerships. This means reaching out to large companies like Netflix and Dropbox to hopefully be able to be their storage and distribution framework. Lastly, long-term development aims to expand its horizon to share files with non-Sia users and support mobile wallets. ",
+  "coingeckoId": "siacoin",
+  "links": {
+    "twitter": "https://twitter.com/SkynetLabs",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1060294",
+    "reddit": "https://www.reddit.com/r/siacoin",
+    "github": "https://github.com/NebulousLabs"
+  }
+}

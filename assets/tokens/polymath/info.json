@@ -1,0 +1,17 @@
+{
+  "key": "polymath",
+  "name": "Polymath",
+  "symbol": "poly",
+  "logoURI": "https://assets.coingecko.com/coins/images/2784/large/inKkF01.png?1605007034",
+  "website": "https://www.polymath.network/",
+  "description": "Polymath provides technology to create, issue, and manage security tokens on the blockchain. Over 200 security tokens have been deployed using their Ethereum-based solution and they are now in the midst of launching Polymesh, an institutional-grade blockchain built specifically for regulated assets. Polymath streamlines antiquated processes and opens the door to new financial instruments by solving the inherent challenges with public infrastructure around identity, compliance, confidentiality, and governance. \r\n\r\nRecognizing that the industry lacked security-specific standards, Polymath spearheaded the creation of a unified standard for security tokens on Ethereum, ERC 1400. ERC 1400 acts as an umbrella of standards and is designed to address some of the challenges in managing security tokens by enabling the ability to conserve UBO rights for custodied assets, and automate transfer control (including KYC verification) and corporate actions (including capital distribution or voting). \r\n\r\nPolymath has brought forward many advanced innovations that address regulatory and market needs head-on. They have built a series of tools on the chain that offer non-technical users an intuitive means to access the chain\u2019s functionality, and are also in the midst of launching Polymesh, an institutional-grade blockchain built for security tokens and the first specialized chain of this nature. Security tokens have the ability to alter the financial landscape, unlocking trillions of dollars in asset value and investment, programmably automating operations, and driving new paths to liquidity - but there are significant barriers standing in the way of institutional adoption. The foundations of Polymesh are focused on the most crucial regulatory elements addressed by four key design principles meant to meet the demands of regulators and institutions. Those four principles are Identity, Compliance, Confidentiality, and Governance. When put together, these four pillars can also support complex operations, such as settlement. \r\n\r\nWhen it comes to creating and managing digital securities, Polymesh\u2019s specificity gives it, and the applications built on it, a distinct advantage over those leveraging general-purpose blockchains. The purpose-built infrastructure addresses the gaps in standard blockchain architecture to align the functioning of the blockchain with the requirements of modern capital markets. By combining Polymesh\u2019s deep functionality with user-friendly tools, Polymath stands to transform capital markets.\r\n\r\nAll transactions on the Polymath platform take place using the native POLY token. POLY is the utility token that fuels Polymath Token Studio on Ethereum and is used by issuers creating and managing security tokens on the platform. ",
+  "coingeckoId": "polymath",
+  "links": {
+    "twitter": "https://twitter.com/PolymathNetwork",
+    "facebook": "https://www.facebook.com/polymathnetwork",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2645420",
+    "telegram": "https://t.me/PolymathNetwork",
+    "reddit": "https://www.reddit.com/r/PolymathNetwork/",
+    "github": "https://github.com/PolymathNetwork"
+  }
+}

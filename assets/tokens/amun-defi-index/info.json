@@ -1,0 +1,14 @@
+{
+  "key": "amun-defi-index",
+  "name": "Amun DeFi Index",
+  "symbol": "dfi",
+  "logoURI": "https://assets.coingecko.com/coins/images/16817/large/dfi.png?1644656347",
+  "website": "https://tokens.amun.com/home",
+  "description": "The index queries the CoinGecko API for the list of top DeFi protocols by market capitalization. Non-Ethereum based protocols, stablecoins, and synthetic assets are excluded from the list. The top eight protocols are selected and equally weighted in the index. The index is rebalanced monthly to include any new tokens and redistribute weights. When DFI tokens are burned, the owner receives the equivalent amount of constituent tokens.",
+  "coingeckoId": "amun-defi-index",
+  "links": {
+    "twitter": "https://twitter.com/Amun",
+    "telegram": "https://t.me/AmunTokens",
+    "github": "https://github.com/amun/contracts/"
+  }
+}

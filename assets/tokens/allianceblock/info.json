@@ -1,0 +1,13 @@
+{
+  "key": "allianceblock",
+  "name": "AllianceBlock",
+  "symbol": "albt",
+  "logoURI": "https://assets.coingecko.com/coins/images/12392/large/alliance_block_logo.jpg?1599546617",
+  "website": "https://allianceblock.io/",
+  "description": "",
+  "coingeckoId": "allianceblock",
+  "links": {
+    "twitter": "https://twitter.com/allianceblock",
+    "telegram": "https://t.me/allianceblock"
+  }
+}

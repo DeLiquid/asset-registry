@@ -1,0 +1,17 @@
+{
+  "key": "pirate-chain",
+  "name": "Pirate Chain",
+  "symbol": "arrr",
+  "logoURI": "https://assets.coingecko.com/coins/images/6905/large/Pirate_Chain.png?1560913844",
+  "website": "https://pirate.black/",
+  "description": "Pirate Chain (ARRR) is a 100% private send cryptocurrency. It uses a privacy protocol that cannot be compromised by other users activity on the network. Most privacy coins are riddled with holes created by optional privacy. Pirate Chain uses zk-SNARKs to shield 100% of the peer to peer transactions on the blockchain making for highly anonymous and private transactions.",
+  "coingeckoId": "pirate-chain",
+  "links": {
+    "twitter": "https://twitter.com/PirateChain",
+    "facebook": "https://www.facebook.com/PirateChain",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=4979549",
+    "telegram": "https://t.me/piratechain",
+    "reddit": "https://www.reddit.com/r/piratechain",
+    "github": "https://github.com/PirateNetwork"
+  }
+}

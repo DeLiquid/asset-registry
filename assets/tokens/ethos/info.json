@@ -1,0 +1,17 @@
+{
+  "key": "ethos",
+  "name": "Voyager VGX",
+  "symbol": "vgx",
+  "logoURI": "https://assets.coingecko.com/coins/images/794/large/Voyager-vgx.png?1575693595",
+  "website": "https://www.InvestVoyager.com",
+  "description": "The Voyager Token (VGX) rewards users within the Voyager crypto broker ecosystem. VGX generates 5% interest when held in the Voyager app and will soon offer cash back rewards, and other exclusive features. VGX, formerly Ethos (ETHOS), can also be stored in its native wallet, the Ethos Universal Wallet. The Ethos Universal Wallet gives users the power to self custody 150+ crypto assets securely.",
+  "coingeckoId": "ethos",
+  "links": {
+    "twitter": "https://twitter.com/investvoyager",
+    "whitepaper": "http://www.bitquence.com/wp-content/uploads/2017/05/BitquenceWhitePaper.pdf",
+    "facebook": "https://www.facebook.com/InvestVoyager",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5189492",
+    "telegram": "https://t.me/investvoyager",
+    "reddit": "https://www.reddit.com/r/Invest_Voyager/"
+  }
+}

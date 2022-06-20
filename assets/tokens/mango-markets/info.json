@@ -1,0 +1,13 @@
+{
+  "key": "mango-markets",
+  "name": "Mango",
+  "symbol": "mngo",
+  "logoURI": "https://assets.coingecko.com/coins/images/14773/large/token-mango.png?1628171237",
+  "website": "https://mango.markets",
+  "description": "",
+  "coingeckoId": "mango-markets",
+  "links": {
+    "twitter": "https://twitter.com/mangomarkets",
+    "github": "https://github.com/blockworks-foundation/mango"
+  }
+}

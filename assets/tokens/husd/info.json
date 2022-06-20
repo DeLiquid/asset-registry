@@ -1,0 +1,13 @@
+{
+  "key": "husd",
+  "name": "HUSD",
+  "symbol": "husd",
+  "logoURI": "https://assets.coingecko.com/coins/images/9567/large/HUSD.jpg?1568889385",
+  "website": "https://www.stcoins.com/",
+  "description": "HUSD Token is issued by Stable Universal, with a 1:1 USD peg. Paxos Trust Company will act as the USD asset custodian, and HUSD Token will be subject to a monthly attestations.",
+  "coingeckoId": "husd",
+  "links": {
+    "twitter": "https://twitter.com/Stablecoin_HUSD",
+    "github": "https://github.com/stcoins/HUSD"
+  }
+}

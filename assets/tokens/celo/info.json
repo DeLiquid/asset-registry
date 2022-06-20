@@ -1,0 +1,14 @@
+{
+  "key": "celo",
+  "name": "Celo",
+  "symbol": "celo",
+  "logoURI": "https://assets.coingecko.com/coins/images/11090/large/icon-celo-CELO-color-500.png?1592293590",
+  "website": "https://celo.org/",
+  "description": "Celo enables participation on the Platform, with the opportunity to earn rewards through network participation. Celo\u2019s stability mechanism and token economics are designed in such a way that demand for cGLD directly increases as demand for Celo Dollars (cUSD) and other stable value assets increases.\r\n\r\ncGLD is a native cryptographic digital asset created at the mainnet release of the Celo Platform. cGLD has no relationship to physical gold.\r\n\r\ncGLD is a utility and governance asset required to participate on the Celo Platform. Some uses include:\r\n\r\nRunning a validator to secure and operate aspects of the Celo Platform\r\nVoting for validators working to secure and operate the Celo Platform\r\nParticipating in governance decisions to influence the future of the Celo Platform\r\nSupporting applications on the platform\r\ncGLD forms part of the overcollateralized reserve that supports the Celo stable value assets (initially Celo Dollar or cUSD).\r\n\r\nThe Celo Protocol automatically adds cGLD to the reserve whenever the Celo stable value asset supply increases.",
+  "coingeckoId": "celo",
+  "links": {
+    "twitter": "https://twitter.com/CeloOrg",
+    "telegram": "https://t.me/celoplatform",
+    "github": "https://github.com/celo-org"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "compound-coin",
+  "name": "Compound Coin",
+  "symbol": "comp",
+  "logoURI": "https://assets.coingecko.com/coins/images/3570/large/cropped-compoundcoin.png?1547038419",
+  "website": "http://compoundcoin.org/",
+  "description": "Building Bridges\r\nCompound Coin was born out of the death of UKC coin. The original developers of Compound coin offered fair 1-1 swap of UKC coin to COMP coin. This enabled those with coins of now no value to swap them for a new and working coin.\r\n\r\nCoin Swap\r\nThe initial COMP premine was used for a swap from UKC to COMP and for development. Unused coins were burned \u2013 The total burned coins amount to over 550 million at the moment.\r\n\r\n",
+  "coingeckoId": "compound-coin",
+  "links": {
+    "twitter": "https://twitter.com/CompoundCoin",
+    "facebook": "https://www.facebook.com/Compound-Coin-344665469272160",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2220277",
+    "github": "https://github.com/compounddev/Compound-Coin"
+  }
+}

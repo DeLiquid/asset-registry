@@ -1,0 +1,14 @@
+{
+  "key": "ampleforth-governance-token",
+  "name": "Ampleforth Governance",
+  "symbol": "forth",
+  "logoURI": "https://assets.coingecko.com/coins/images/14917/large/photo_2021-04-22_00.00.03.jpeg?1619020835",
+  "website": "https://www.ampleforth.org/",
+  "description": "FORTH is the native governance token that powers Ampleforth, a protocol that automatically adjusts the supply of its native token, AMPL, in response to demand. FORTH holders can vote on proposed changes to the Ampleforth protocol or delegate their votes to representatives who vote on their behalf.",
+  "coingeckoId": "ampleforth-governance-token",
+  "links": {
+    "twitter": "https://twitter.com/AmpleforthOrg",
+    "telegram": "https://t.me/Ampleforth",
+    "github": "https://github.com/ampleforth/Forth/"
+  }
+}

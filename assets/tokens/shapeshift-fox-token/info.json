@@ -1,0 +1,13 @@
+{
+  "key": "shapeshift-fox-token",
+  "name": "ShapeShift FOX Token",
+  "symbol": "fox",
+  "logoURI": "https://assets.coingecko.com/coins/images/9988/large/FOX.png?1574330622",
+  "website": "https://shapeshift.com/",
+  "description": "FOX is an ERC-20 token created by ShapeShift which serves as the governance token for the ShapeShift DAO, token holders can vote on proposals relating to the operation and treasury of the DAO. The token supports and provides utility for a borderless, cross-chain crypto trading platform and portfolio manager for user self-sovereignty.\r\n\r\nAs the ShapeShift ecosystem expands, users will be able to earn FOX tokens for activity that generates revenue for the DAO via affiliate partnerships (i.e. earning yield, buying/selling/trading crypto and nft's, buying swag or a y.at, etc.). The ShapeShift DAO earns revenues, and the user earns FOX tokens which can represent entitlement to those revenues.\r\n\r\nThe total capped supply of FOX is 1,000,001,337 tokens.",
+  "coingeckoId": "shapeshift-fox-token",
+  "links": {
+    "twitter": "https://twitter.com/ShapeShift_io",
+    "telegram": "https://t.me/shapeshiftofficial"
+  }
+}

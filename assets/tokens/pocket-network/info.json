@@ -1,0 +1,14 @@
+{
+  "key": "pocket-network",
+  "name": "Pocket Network",
+  "symbol": "pokt",
+  "logoURI": "https://assets.coingecko.com/coins/images/22506/large/33689860.png?1641957673",
+  "website": "https://www.pokt.network/",
+  "description": "Pocket Network is a blockchain data platform built for applications that uses cost-efficient economics to coordinate and distribute data at scale, enabling seamless interactions between blockchains and applications. With Pocket, the use of blockchains can be simply integrated into websites, mobile apps, IoT and more, giving developers the freedom to put blockchain-enabled applications into the \u201cpocket\u201d of every mainstream consumer.",
+  "coingeckoId": "pocket-network",
+  "links": {
+    "twitter": "https://twitter.com/POKTnetwork",
+    "telegram": "https://t.me/POKTnetwork",
+    "github": "https://github.com/pokt-network"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "key": "yearn-finance-wormhole",
+  "name": "yearn.finance (Wormhole)",
+  "symbol": "yfi",
+  "logoURI": "https://assets.coingecko.com/coins/images/22968/large/YFI_wh_small.png?1644222976",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "yearn-finance-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "kava",
+  "name": "Kava",
+  "symbol": "kava",
+  "logoURI": "https://assets.coingecko.com/coins/images/9761/large/kava.jpg?1639703080",
+  "website": "https://www.kava.io/",
+  "description": "Kava is a cross-chain DeFi Hub for decentralized financial services and applications. The Kava DeFi Hub operates like a decentralized bank for digital assets connecting users with products like stablecoins, loans, and interest-bearing accounts so that they can do more and earn more with their digital assets.\r\n",
+  "coingeckoId": "kava",
+  "links": {
+    "twitter": "https://twitter.com/kava_platform",
+    "telegram": "https://t.me/kavalabs",
+    "reddit": "https://www.reddit.com/r/kava_platform/",
+    "github": "https://github.com/Kava-Labs"
+  }
+}

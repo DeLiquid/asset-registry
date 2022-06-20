@@ -1,0 +1,12 @@
+{
+  "key": "binance-peg-xrp",
+  "name": "Binance-Peg XRP",
+  "symbol": "xrp",
+  "logoURI": "https://assets.coingecko.com/coins/images/15458/large/ryyrCapt_400x400.jpg?1620895978",
+  "website": "https://ripple.com/xrp/",
+  "description": "Tokens that are wrapped and pegged by Binance on a 1:1 ratio to the corresponding native token. Also supports BEP20 token deposits and withdrawals at Binance.com",
+  "coingeckoId": "binance-peg-xrp",
+  "links": {
+    "twitter": "https://twitter.com/Ripple"
+  }
+}

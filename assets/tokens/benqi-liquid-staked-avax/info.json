@@ -1,0 +1,13 @@
+{
+  "key": "benqi-liquid-staked-avax",
+  "name": "BENQI Liquid Staked AVAX",
+  "symbol": "savax",
+  "logoURI": "https://assets.coingecko.com/coins/images/23657/large/savax_blue.png?1644989825",
+  "website": "https://staking.benqi.fi",
+  "description": "BENQI Liquid Staking is the first liquid staking protocol for Avalanche. Users stake AVAX with BENQI, and receive sAVAX, an interest bearing version of AVAX. This allows users to earn both the rewards for securing the Avalanche network and from the world of DeFi.",
+  "coingeckoId": "benqi-liquid-staked-avax",
+  "links": {
+    "twitter": "https://twitter.com/BenqiFinance",
+    "telegram": "https://t.me/BENQIFinance"
+  }
+}

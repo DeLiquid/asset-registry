@@ -1,0 +1,15 @@
+{
+  "key": "hopr",
+  "name": "HOPR",
+  "symbol": "hopr",
+  "logoURI": "https://assets.coingecko.com/coins/images/14061/large/Shared_HOPR_logo_512px.png?1614073468",
+  "website": "https://hoprnet.org/",
+  "description": "HOPR provides essential and compliant network-level metadata privacy for everyone. HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange.",
+  "coingeckoId": "hopr",
+  "links": {
+    "twitter": "https://twitter.com/hoprnet",
+    "telegram": "https://t.me/hoprnet",
+    "reddit": "https://www.reddit.com/r/HOPR/",
+    "github": "https://github.com/hoprnet/hoprnet"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "key": "sushi",
+  "name": "Sushi",
+  "symbol": "sushi",
+  "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png?1606986688",
+  "website": "https://sushi.com/",
+  "description": "Sushi is a DeFi protocol that is completely community-driven, serving up delicious interest for your held crypto assets.\r\n\r\nOn Sushi, you can take advantage of passive-income providing DeFi tools such as liquidity providing, yield farming and staking. Furthermore, due to the decentralized nature of being an AMM (Automated Market Maker), Sushi has fewer hurdles to execute your cryptocurrency trades and all fees are paid to the users who provided liquidity, just as it should be!",
+  "coingeckoId": "sushi",
+  "links": {
+    "twitter": "https://twitter.com/sushiswap"
+  }
+}

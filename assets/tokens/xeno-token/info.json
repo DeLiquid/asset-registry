@@ -1,0 +1,15 @@
+{
+  "key": "xeno-token",
+  "name": "Xeno",
+  "symbol": "xno",
+  "logoURI": "https://assets.coingecko.com/coins/images/13830/large/XNO_logo_200x200.png?1612168285",
+  "website": "https://xno.live/",
+  "description": "XENO is an easily accessible marketplace and ecosystem for creating and trading Non-Fungible Tokens (NFTs) in a secure and decentralized manner.",
+  "coingeckoId": "xeno-token",
+  "links": {
+    "twitter": "https://twitter.com/xenonfthub",
+    "facebook": "https://www.facebook.com/XENONFTHUB",
+    "telegram": "https://t.me/Xenonfthub",
+    "github": "https://github.com/XENO-NFT-Hub/eth-contracts"
+  }
+}

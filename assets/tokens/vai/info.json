@@ -1,0 +1,15 @@
+{
+  "key": "vai",
+  "name": "Vai",
+  "symbol": "vai",
+  "logoURI": "https://assets.coingecko.com/coins/images/13861/large/VAI_logo.png?1612413571",
+  "website": "https://venus.io/",
+  "description": "VAI is Venus Protocol\u2019s native decentralized stablecoin. It is minted and redeemed directly on the Venus platform.",
+  "coingeckoId": "vai",
+  "links": {
+    "twitter": "https://twitter.com/VenusProtocol",
+    "telegram": "https://t.me/VenusProtocol",
+    "reddit": "https://www.reddit.comr/venusprotocol/",
+    "github": "https://github.com/VenusProtocol/venus-protocol"
+  }
+}

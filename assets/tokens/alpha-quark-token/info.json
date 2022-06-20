@@ -1,0 +1,14 @@
+{
+  "key": "alpha-quark-token",
+  "name": "Alpha Quark",
+  "symbol": "aqt",
+  "logoURI": "https://assets.coingecko.com/coins/images/12872/large/alpha_quark_logo.png?1605169527",
+  "website": "https://alphaquark.io/",
+  "description": "Alpha Quark is a marketplace where users can buy or sell tokenized intellectual property assets. Even though intellectual property is one of the most valuable assets, only limited players could have had access to it. Alpha Quark will enable people to have access to intellectual property.",
+  "coingeckoId": "alpha-quark-token",
+  "links": {
+    "twitter": "https://twitter.com/Alphaquark_",
+    "telegram": "https://t.me/AlphaQuark",
+    "github": "https://github.com/alphaquark/Alpha-Quark"
+  }
+}

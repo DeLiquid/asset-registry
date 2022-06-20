@@ -1,0 +1,14 @@
+{
+  "key": "step-hero",
+  "name": "Step Hero",
+  "symbol": "hero",
+  "logoURI": "https://assets.coingecko.com/coins/images/17700/large/stephero.PNG?1629072670",
+  "website": "https://stephero.io/",
+  "description": "Step Hero ecosystem is the perfect combination of NFT gaming and DeFi that enables users to have fun and earn profit simultaneously. The comprehensive ecosystem comprises Step Hero RPG game, Heroes Farming, and NFT Marketplace. More than a game, Step Hero also has a strong community helping players on investing activites to earn money from game.",
+  "coingeckoId": "step-hero",
+  "links": {
+    "twitter": "https://twitter.com/StepHeroNFTs",
+    "telegram": "https://t.me/stephero_chat",
+    "reddit": "https://www.reddit.com/r/StepHero/"
+  }
+}

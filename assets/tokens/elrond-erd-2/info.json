@@ -1,0 +1,15 @@
+{
+  "key": "elrond-erd-2",
+  "name": "Elrond",
+  "symbol": "egld",
+  "logoURI": "https://assets.coingecko.com/coins/images/12335/large/elrond3_360.png?1626341589",
+  "website": "https://elrond.com",
+  "description": "Elrond is a technology ecosystem for the new internet. Its smart contracts execution platform is capable of 15,000 TPS, 5s latency and $0.001 tx cost, focused on fintech, DeFi and IoT.\r\n\r\nElrond\u2019s money & DeFi app Maiar offers an intuitive first-time experience with blockchain, offering progressive security and a gamified approach to unlocking more useful features.\r\n\r\nThe Elrond Proof of Stake economic model has a limited supply; its token is named eGold to convey the notion of digital store of value to the next billion users.",
+  "coingeckoId": "elrond-erd-2",
+  "links": {
+    "twitter": "https://twitter.com/elrondnetwork",
+    "telegram": "https://t.me/ElrondNetwork",
+    "reddit": "https://www.reddit.com/r/elrondnetwork/",
+    "github": "https://github.com/ElrondNetwork"
+  }
+}

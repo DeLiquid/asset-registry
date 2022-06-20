@@ -1,0 +1,15 @@
+{
+  "key": "auroratoken",
+  "name": "AuroraToken",
+  "symbol": "aurora",
+  "logoURI": "https://assets.coingecko.com/coins/images/15345/large/aurora_tokenlogo.png?1620622117",
+  "website": "https://www.blackswap.finance/",
+  "description": "Yield farming on the BSC | Polygon Network.",
+  "coingeckoId": "auroratoken",
+  "links": {
+    "twitter": "https://twitter.com/FinancePalette",
+    "telegram": "https://t.me/blueswapfinance",
+    "reddit": "https://www.reddit.com/r/blueswap/",
+    "github": "https://github.com/Palette-Finance/"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "key": "my-neighbor-alice-wormhole",
+  "name": "My Neighbor Alice (Wormhole)",
+  "symbol": "alice",
+  "logoURI": "https://assets.coingecko.com/coins/images/22908/large/ALICE_wh_small.png?1644223951",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "my-neighbor-alice-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

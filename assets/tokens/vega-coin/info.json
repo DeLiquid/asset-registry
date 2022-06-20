@@ -1,0 +1,16 @@
+{
+  "key": "vega-coin",
+  "name": "Vega Coin",
+  "symbol": "vega",
+  "logoURI": "https://assets.coingecko.com/coins/images/13662/large/UzFztwV.png?1610675235",
+  "website": "https://vegacoin.org/",
+  "description": "VEGA is garnering limelight amidst the crypto casino industry. Global players can use VEGA token to play in our platforms. Considering the website contains over 1000 games and slots. ",
+  "coingeckoId": "vega-coin",
+  "links": {
+    "twitter": "https://twitter.com/vegacoin",
+    "facebook": "https://www.facebook.com/vegacoin.org",
+    "telegram": "https://t.me/vegacoin_offical",
+    "reddit": "https://www.reddit.com/r/vegateam",
+    "github": "https://github.com/VegaCoinProject/"
+  }
+}

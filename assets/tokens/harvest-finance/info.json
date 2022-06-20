@@ -1,0 +1,14 @@
+{
+  "key": "harvest-finance",
+  "name": "Harvest Finance",
+  "symbol": "farm",
+  "logoURI": "https://assets.coingecko.com/coins/images/12304/large/Harvest.png?1613016180",
+  "website": "https://harvest.finance/",
+  "description": "Harvest automatically farms the highest yields in DeFi\r\n\r\n",
+  "coingeckoId": "harvest-finance",
+  "links": {
+    "twitter": "https://twitter.com/harvest_finance",
+    "telegram": "https://t.me/Breadforthepeople",
+    "github": "https://github.com/harvest-finance"
+  }
+}

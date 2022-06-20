@@ -1,0 +1,14 @@
+{
+  "key": "cvault-finance",
+  "name": "cVault.finance",
+  "symbol": "core",
+  "logoURI": "https://assets.coingecko.com/coins/images/12635/large/cvault.finance_logo.png?1601353499",
+  "website": "https://cvault.finance/",
+  "description": "CORE is a non-inflationary cryptocurrency that is designed to execute profit-generating strategies autonomously with a completely decentralized approach. In existing autonomous strategy-executing platforms a team or single developer is solely responsible for determining how locked funds are used to generate ROI. This is hazardous to the health of the fund as it grows, as it creates flawed incentives, and invites mistakes to be made. CORE does away with this dynamic and instead opts for one with decentralized governance.\r\n\r\nCORE tokens holders will be able to provide strategy contracts and vote on what goes live and when, in order to decentralize autonomous strategy execution. 5% of all profits generated from these strategies are used to auto market-buy the CORE token.",
+  "coingeckoId": "cvault-finance",
+  "links": {
+    "twitter": "https://twitter.com/CORE_Vault",
+    "telegram": "https://t.me/COREVault",
+    "github": "https://github.com/cVault-finance"
+  }
+}

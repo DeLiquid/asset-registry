@@ -1,0 +1,15 @@
+{
+  "key": "funfair",
+  "name": "FUN",
+  "symbol": "fun",
+  "logoURI": "https://assets.coingecko.com/coins/images/761/large/funfair.png?1592404368",
+  "website": "http://funtoken.io",
+  "description": "",
+  "coingeckoId": "funfair",
+  "links": {
+    "twitter": "https://twitter.com/FUNtoken_io",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1968383",
+    "telegram": "https://t.me/officialFUNToken",
+    "reddit": "https://www.reddit.com/r/FUN_Token/"
+  }
+}

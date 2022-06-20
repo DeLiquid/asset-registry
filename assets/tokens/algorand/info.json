@@ -1,0 +1,15 @@
+{
+  "key": "algorand",
+  "name": "Algorand",
+  "symbol": "algo",
+  "logoURI": "https://assets.coingecko.com/coins/images/4380/large/download.png?1547039725",
+  "website": "https://algorand.foundation/",
+  "description": "Algorand is a scalable, secure and decentralized digital currency and transactions platform.",
+  "coingeckoId": "algorand",
+  "links": {
+    "twitter": "https://twitter.com/algorand",
+    "telegram": "https://t.me/algorand",
+    "reddit": "https://www.reddit.com",
+    "github": "https://github.com/algorand"
+  }
+}

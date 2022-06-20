@@ -1,0 +1,15 @@
+{
+  "key": "fx-coin",
+  "name": "Function X",
+  "symbol": "fx",
+  "logoURI": "https://assets.coingecko.com/coins/images/8186/large/47271330_590071468072434_707260356350705664_n.jpg?1556096683",
+  "website": "https://functionx.io/#/",
+  "description": "The f(x) ecosystem is fully decentralized. It\u2019s designed and built to run autonomously in perpetuity without the reliance or supervision of any individual or organization. To support this autonomous structure, f(x) Coin which is the underlying \u2018currency\u2019 within the f(x) ecosystem has to be decentralized in terms of its distribution, allocation, control, circulation and the way it\u2019s being generated.\r\n\r\n",
+  "coingeckoId": "fx-coin",
+  "links": {
+    "twitter": "https://twitter.com/functionx_io",
+    "facebook": "https://www.facebook.com/functionx.io",
+    "telegram": "https://t.me/functionx",
+    "github": "https://github.com/functionx"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "key": "snowbank",
+  "name": "Snowbank",
+  "symbol": "sb",
+  "logoURI": "https://assets.coingecko.com/coins/images/19947/large/sb.png?1636337110",
+  "website": "https://www.snowbank.finance/",
+  "description": "Snowbank DAO is the decentralized reserve currency protocol available on the Avalanche Network based on the SB token. Each SB token is backed by a basket of assets (e.g., MIM, SB-AVAX LP Tokens etc etc) in the Snowbank DAO treasury, giving it an intrinsic value that it cannot fall below. Snowbank DAO also introduces economic and game-theoretic dynamics into the market through staking and minting. ",
+  "coingeckoId": "snowbank",
+  "links": {
+    "twitter": "https://twitter.com/SnowbankDAO"
+  }
+}

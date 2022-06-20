@@ -1,0 +1,13 @@
+{
+  "key": "nerve-finance",
+  "name": "Nerve Finance",
+  "symbol": "nrv",
+  "logoURI": "https://assets.coingecko.com/coins/images/14233/large/nerve_finance_logo.png?1615176392",
+  "website": "https://nerve.fi",
+  "description": "Nerve Finance is a stableswap AMM built on Binance Smart Chain designed to allow trading stablecoins and pegged synthetic assets quickly with minimal slippage and low fees. $NRV is the governance token of the Nerve Finance protocol.",
+  "coingeckoId": "nerve-finance",
+  "links": {
+    "twitter": "https://twitter.com/nervefinance",
+    "telegram": "https://t.me/nervefinance"
+  }
+}

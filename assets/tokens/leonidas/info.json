@@ -1,0 +1,12 @@
+{
+  "key": "leonidas",
+  "name": "Leonidas",
+  "symbol": "leo",
+  "logoURI": "https://assets.coingecko.com/coins/images/24976/large/leonidasfinancepic.jpg?1649653344",
+  "website": "https://leonidas.finance/",
+  "description": "We want to bring a brand-new offering to users that combines the features of many projects they already like, and are forking off $TITANO to do so. Our main features include a modified rebase auto-staking model, liquidity nodes, an income generation pool, and of course the versatility offered by a treasury pool. \r\n\r\nOur rebase model offers 383,025.80% APY and pays every 15 minutes, making it one of the fastest auto-staking protocols in crypto. Because we use a rebase model, we've incorporated a burning feature that burns 2.5% of all LEO traded in order to keep the token stable. There are also are transaction fees (14% buy and 16% sell) that go to the treasury which can be used for further buybacks if necessary. If not used for buybacks these fees will be used for investments and marketing as the community sees fit. Some of the $AVAX transaction fees are also automatically returned to $LEO holders to reward them for their loyalty.\r\n\r\nInstead of the lp staking model that traditionally goes along with these fork projects, Leonidas Finance is offering a liquidity node model for users. This lets users earn up to 100% APR while adding non-removable liquidity so that they can trade their auto-staked $LEO with liquidity and and price stability far higher than competitors'. While they compound, users can vote on how to use treasury funds and what features/paths they want from Leonidas Finance.",
+  "coingeckoId": "leonidas",
+  "links": {
+    "twitter": "https://twitter.com/LeonidasFinance"
+  }
+}

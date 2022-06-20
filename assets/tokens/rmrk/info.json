@@ -1,0 +1,14 @@
+{
+  "key": "rmrk",
+  "name": "RMRK",
+  "symbol": "rmrk",
+  "logoURI": "https://assets.coingecko.com/coins/images/18656/large/download_%281%29_%281%29.png?1632865271",
+  "website": "https://rmrk.app/",
+  "description": "Rmrk is the most advanced nft system in the world, adding eternal liquidity and multi chain forward compatibility to all NFT projects coming out. An NFT can now be reused by any future project on any chain without official partnerships between the project creators.\r\n\r\nRMRK.app is a part of Kusama's broader NFT strategy and a way to abuse Kusama's system.remark extrinsic to write custom notes onto the chain in a standardized and structured way. $RMRK is the governance, staking, and collateral token.",
+  "coingeckoId": "rmrk",
+  "links": {
+    "twitter": "https://twitter.com/rmrkapp",
+    "telegram": "https://t.me/rmrkapp",
+    "github": "https://github.com/rmrk-team/rmrk-spec"
+  }
+}

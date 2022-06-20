@@ -1,0 +1,17 @@
+{
+  "key": "refereum",
+  "name": "Refereum",
+  "symbol": "rfr",
+  "logoURI": "https://assets.coingecko.com/coins/images/2102/large/refereum.png?1548608001",
+  "website": "https://refereum.com/",
+  "description": "Refereum uses the blockchain to directly connect developers and influencers, resulting in lower marketing costs and increased profits for everyone. In addition to more effective growth, Refereum strengthens engagement by offering cash prizes \u2014 enabling rewards for anything from an in-game high score to an eSports grand prize. We are working closely with Twitch and Unity, and anyone can play our open source demo today.",
+  "coingeckoId": "refereum",
+  "links": {
+    "medium": "https://medium.com/@refereum",
+    "twitter": "https://twitter.com/refereum",
+    "facebook": "https://www.facebook.com/Refereum",
+    "telegram": "https://t.me/refereum",
+    "whitepaper": "https://refereum.com/RefereumWhitepaper.pdf",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2205251.0"
+  }
+}

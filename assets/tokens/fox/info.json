@@ -1,0 +1,13 @@
+{
+  "key": "fox",
+  "name": "Fox",
+  "symbol": "fox",
+  "logoURI": "https://assets.coingecko.com/coins/images/22186/large/logofoxcmc.png?1641187954",
+  "website": "https://app.coxswap.com",
+  "description": "FOX TOKEN belongs to COXSWAP's ecosystem. FOX is used in farms, staking, lottery features. People can use farms, staking, lottery to earn more FOX TOKEN.",
+  "coingeckoId": "fox",
+  "links": {
+    "twitter": "https://twitter.com/Cox_Swap",
+    "telegram": "https://t.me/coxswap_chat"
+  }
+}

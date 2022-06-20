@@ -1,0 +1,13 @@
+{
+  "key": "optimism",
+  "name": "Optimism",
+  "symbol": "op",
+  "logoURI": "https://assets.coingecko.com/coins/images/25244/large/OP.jpeg?1651026279",
+  "website": "https://app.optimism.io/governance",
+  "description": "OP is the token for the Optimism Collective that governs the Optimism L2 blockchain. The Optimism Collective is a large-scale experiment in digital democratic governance, built to drive rapid and sustainable growth of a decentralized ecosystem, and stewarded by the newly formed Optimism Foundation.\r\nOP governs upgrades to the protocol and network parameters, and creates an ongoing system of incentives for projects and users in the Optimism ecosystem. 5.4% of the total token supply will be distributed to projects on Optimism over the next six months via governance. If you're building something in the Ethereum ecosystem, you can consider applying for the grant.",
+  "coingeckoId": "optimism",
+  "links": {
+    "twitter": "https://twitter.com/optimismPBC",
+    "github": "https://github.com/ethereum-optimism/"
+  }
+}

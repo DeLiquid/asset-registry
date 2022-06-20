@@ -1,0 +1,13 @@
+{
+  "key": "wonderland",
+  "name": "Wonderland",
+  "symbol": "time",
+  "logoURI": "https://assets.coingecko.com/coins/images/18126/large/time.PNG?1630621941",
+  "website": "https://www.wonderland.money/",
+  "description": "Wonderland is the first decentralized reserve currency protocol available on the Avalanche Network based on the TIME token. Each TIME token is backed by a basket of assets (e.g., MIM, TIME-AVAX LP Tokens etc etc) in the Wonderland treasury, giving it an intrinsic value that it cannot fall below. Wonderland also introduces economic and game-theoretic dynamics into the market through staking and bonding. \r\n\r\nOur goal is to build a policy-controlled currency system, native on the AVAX network, in which the behavior of the TIME token! In the long term, we believe this system can be used to optimize for stability and consistency so that TIME can function as a global unit-of-account and medium-of-exchange currency. In the short term, we intend to optimize the system for growth and wealth creation.\r\n\r\nWe intend to achieve price flatness for a representative basket of goods without the use of fiat currency, in order to allow the cryptocurrency industry to detach once and for all from the traditional finance world!",
+  "coingeckoId": "wonderland",
+  "links": {
+    "twitter": "https://twitter.com/wonderland_fi",
+    "github": "https://github.com/Abracadabra-money/wonderland-frontend"
+  }
+}

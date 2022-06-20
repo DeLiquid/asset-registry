@@ -1,0 +1,14 @@
+{
+  "key": "checkdot",
+  "name": "CheckDot",
+  "symbol": "cdt",
+  "logoURI": "https://assets.coingecko.com/coins/images/20370/large/token-200x200_%281%29.png?1636949075",
+  "website": "https://checkdot.io/",
+  "description": "The CheckDot platform is a essential checkpoint for the verification for any cryptocurrency project and more.\r\n\r\nWe have been confronted with the lack of transparency of some projects for many years. CheckDot has the ambition to be the first decentralized platform of opinions in various fields: Projects, companies, forms, code and more. Furthermore, CheckDot makes it possible to create requests for advice or audits involving one or two layers of advisors.",
+  "coingeckoId": "checkdot",
+  "links": {
+    "twitter": "https://twitter.com/checkdot_proto",
+    "telegram": "https://t.me/checkdot",
+    "github": "https://github.com/checkdot"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "bakerytoken",
+  "name": "BakerySwap",
+  "symbol": "bake",
+  "logoURI": "https://assets.coingecko.com/coins/images/12588/large/bakerytoken_logo.jpg?1600940032",
+  "website": "https://www.bakeryswap.org/#/home",
+  "description": "",
+  "coingeckoId": "bakerytoken",
+  "links": {
+    "twitter": "https://twitter.com/bakery_swap",
+    "telegram": "https://t.me/bakeryswap",
+    "github": "https://github.com/BakeryProject"
+  }
+}

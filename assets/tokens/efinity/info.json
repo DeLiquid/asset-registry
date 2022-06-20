@@ -1,0 +1,14 @@
+{
+  "key": "efinity",
+  "name": "Efinity",
+  "symbol": "efi",
+  "logoURI": "https://assets.coingecko.com/coins/images/16558/large/efi-200px_%281%29.png?1624439132",
+  "website": "https://efinity.io",
+  "description": "Efinity is an blockchain for non-fungible tokens (NFTs) developed by Enjin. Enjin pioneered the NFT industry in 2017, authoring ERC-1155, the groundbreaking NFT token standard, and launching the first NFT creation platform.\r\n\r\nEfinity is the world\u2019s cross-chain NFT blockchain. Powered by the deflationary Efinity Token (EFI), the network is environmentally friendly, scalable, and built for games, apps, enterprises, and creators to deliver their own non-fungible tokens to mainstream audiences.\r\n\r\nBuilt on Polkadot in partnership with Parity Technologies and the Web3 Foundation, Efinity is a new blockchain that's purpose-built for NFTs. It's a token highway designed to enable a specific kind of future\u2014where NFTs are as widespread and easy to use as smartphones today.\r\n\r\nFeaturing transaction fee delegation, smart contracts, fuel tanks, crafting, discrete accounts, instant swaps, native multisig, price discovery, cross-chain marketplaces, and a NFT launchpad. Efinity\u2019s transactions are confirmed in 6 seconds and scale to 1000 TPS; in comparison, the Ethereum network currently runs at around 15 TPS.\r\n\r\nEfinity will enable NFTs to be utilized by virtually any industry, unlocking trillions of dollars in currently illiquid and unique real-world and digital assets.\r\n\r\nEfinity is developed as a parachain on Polkadot, the next-generation, fully decentralized network that is solving the largest issues facing blockchains today, including interoperability, scalability, speed, security, privacy, developability and governance.\r\n\r\nEfinity Token (EFI), Efinity\u2019s deflationary token is designed for transaction fees, liquidity, and rewards. Featuring community governance for EFI holders to submit and vote on proposals to steer the future of the network.\r\n\r\nEfinity\u2019s network fees, marketplace commissions, cross-chain bridging tolls, and smart contract fees will go towards yield that can be earned by staking and infusing Enjin Coin (ENJ) and participating in trading and discovering NFTs. ENJ is a critical part of the solution, allowing any user to nominate the most efficient collator nodes that run the Efinity blockchain.\r\n\r\nAdditionally, EFI will be a core utility of NFT.io, a next generation multi-chain NFT launchpad and marketplace. Earned EFI will be required to farm exclusive NFTs and participate in the NFT.io ecosystem",
+  "coingeckoId": "efinity",
+  "links": {
+    "twitter": "https://twitter.com/enjin",
+    "telegram": "https://t.me/enjin",
+    "reddit": "https://www.reddit.com/r/EnjinCoin/"
+  }
+}

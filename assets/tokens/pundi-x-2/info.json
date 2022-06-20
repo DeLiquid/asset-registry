@@ -1,0 +1,13 @@
+{
+  "key": "pundi-x-2",
+  "name": "Pundi X",
+  "symbol": "pundix",
+  "logoURI": "https://assets.coingecko.com/coins/images/14571/large/vDyefsXq_400x400.jpg?1617085003",
+  "website": "https://pundix.com",
+  "description": "",
+  "coingeckoId": "pundi-x-2",
+  "links": {
+    "twitter": "https://twitter.com/PundiXLabs",
+    "telegram": "https://t.me/Pundix"
+  }
+}

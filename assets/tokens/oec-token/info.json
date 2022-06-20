@@ -1,0 +1,14 @@
+{
+  "key": "oec-token",
+  "name": "OKC",
+  "symbol": "okt",
+  "logoURI": "https://assets.coingecko.com/coins/images/13708/large/WeChat_Image_20220118095654.png?1642471094",
+  "website": "https://www.okx.com/okc",
+  "description": "OKExChain is open-source, public blockchain technology developed by OKEx for building blockchain-based trading applications. It is designed to establish a safe and efficient decentralized-finance architecture that can be used to create a decentralized exchange, or DEX, that features community-based operations, transparent trading rules and allows the users to control their own assets.",
+  "coingeckoId": "oec-token",
+  "links": {
+    "twitter": "https://twitter.com/OKCNetwork",
+    "telegram": "https://t.me/OKCNetwork",
+    "reddit": "https://www.reddit.com"
+  }
+}

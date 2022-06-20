@@ -1,0 +1,15 @@
+{
+  "key": "pinksale",
+  "name": "PinkSale",
+  "symbol": "pinksale",
+  "logoURI": "https://assets.coingecko.com/coins/images/17377/large/4cC4Fgs.png?1627450990",
+  "website": "https://www.pinksale.finance/",
+  "description": "PinkSale is a protocol aiming to provide users with the capabilities to launch their own token and create their own initial token sale. No code required, simply navigate through our terminal and design your own token and token launch within a few clicks.",
+  "coingeckoId": "pinksale",
+  "links": {
+    "twitter": "https://twitter.com/pinkecosystem",
+    "telegram": "https://t.me/pinkecosystem",
+    "reddit": "https://www.reddit.com/r/PinkMoon/",
+    "github": "https://github.com/pinkmoonfinance"
+  }
+}

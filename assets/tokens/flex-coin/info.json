@@ -1,0 +1,13 @@
+{
+  "key": "flex-coin",
+  "name": "FLEX Coin",
+  "symbol": "flex",
+  "logoURI": "https://assets.coingecko.com/coins/images/9108/large/coinflex_logo.png?1628750583",
+  "website": "https://coinflex.com/flex/",
+  "description": "\r\n\r\n",
+  "coingeckoId": "flex-coin",
+  "links": {
+    "twitter": "https://twitter.com/CoinFLEXdotcom",
+    "telegram": "https://t.me/coinflex_EN"
+  }
+}

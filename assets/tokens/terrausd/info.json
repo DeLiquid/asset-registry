@@ -1,0 +1,13 @@
+{
+  "key": "terrausd",
+  "name": "TerraClassicUSD",
+  "symbol": "ustc",
+  "logoURI": "https://assets.coingecko.com/coins/images/12681/large/UST.png?1653548090",
+  "website": "https://terra.money",
+  "description": "Terra USD (UST) is an algorithmic stablecoin that is pegged to the USD.",
+  "coingeckoId": "terrausd",
+  "links": {
+    "twitter": "https://twitter.com/terra_money",
+    "github": "https://github.com/terra-project"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "infinity-eth",
+  "name": "Infinity ETH",
+  "symbol": "ieth",
+  "logoURI": "https://assets.coingecko.com/coins/images/20051/large/photo-2021-10-24-17-37-28.jpg?1636427099",
+  "website": "https://infinityeth.com/",
+  "description": "InfinityETH is one of the first Ethereum reflection token running on Binance Smart Chain. Simply hold tokens and get rewarded in Ethereum on every transaction.\r\n\r\nWith the auto-claim feature, you will receive ETH automatically in your wallet \r\n\r\nTax Distribution: 7% dividend 4% split between marketing and buyback 2% liquidity",
+  "coingeckoId": "infinity-eth",
+  "links": {
+    "twitter": "https://twitter.com/infinity_eth",
+    "telegram": "https://t.me/infinity_eth",
+    "reddit": "https://www.reddit.comr/CryptoMoonShots/comments/qf7uua/dont_miss_infinityetha_bsc_gem_that_gives_passive/"
+  }
+}

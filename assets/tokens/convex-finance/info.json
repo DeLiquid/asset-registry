@@ -1,0 +1,14 @@
+{
+  "key": "convex-finance",
+  "name": "Convex Finance",
+  "symbol": "cvx",
+  "logoURI": "https://assets.coingecko.com/coins/images/15585/large/convex.png?1621256328",
+  "website": "https://www.convexfinance.com/",
+  "description": "Convex is a protocol that simplifies Curve boosting experience in order to maximize yields. Convex allows Curve liquidity providers to earn trading fees and claim boosted CRV without locking CRV themselves. Liquidity providers can receive boosted CRV and liquidity mining rewards with minimal effort.\r\nIf you would like to stake CRV, Convex lets users receive trading fees as well as a share of boosted CRV received by liquidity providers. This allows for a better balance between liquidity providers and CRV stakers as well as better capital efficiency.\r\n\r\nCurve liquidity providers can deposit their LP tokens into Convex to maximize their CRV earnings with a more efficient boost.\r\n\r\nCurve DAO token stakers will be able to earn additional boosted CRV and CVX tokens through the protocol.\r\n\r\n",
+  "coingeckoId": "convex-finance",
+  "links": {
+    "twitter": "https://twitter.com/convexfinance",
+    "telegram": "https://t.me/convexEthChat",
+    "github": "https://github.com/convex-eth/platform"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "coin98",
+  "name": "Coin98",
+  "symbol": "c98",
+  "logoURI": "https://assets.coingecko.com/coins/images/17117/large/logo.png?1626412904",
+  "website": "https://www.coin98.com",
+  "description": "Coin98 is an all-in-one DeFi Platform that aims to fulfill untapped demand in the industry and become a Gateway bridging TradFi users to any DeFi services on multiple blockchains. It accomplishes this mission through a full suite of products, including Coin98 Wallet, Coin98 Exchange, and Space Gate (cross-chain bridge).\r\n\r\nCoin98 Wallet: Allows users to store, send, receive, manage crypto assets and connect to numerous dApps on multiple blockchains. It supports over 20 blockchains such as Ethereum, Binance Smart Chain, Solana, Polygon, Avalanche, Terra, etc on both mobile (iOS & android) and Chrome extension versions.\r\n\r\nCoin98 Exchange: A multichain liquidity aggregator that allows users to swap, stake, lend, borrow, earn crypto with the best rates and low slippage.\r\n\r\nSpace Gate: A cross-chain bridge that enables swapping and transferring values across multiple networks. It supports token swaps between ERC20 tokens, BEP20 tokens, SPL tokens, and more.\r\n\r\nThe C98 token is the native utility token of the Coin98 platform and will be used to pay services fees, as staking incentives, for governance, and unique membership rights.",
+  "coingeckoId": "coin98",
+  "links": {
+    "twitter": "https://twitter.com/coin98_wallet",
+    "telegram": "https://t.me/coin98_wallet",
+    "github": "https://github.com/coin98"
+  }
+}

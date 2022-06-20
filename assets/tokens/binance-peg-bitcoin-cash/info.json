@@ -1,0 +1,14 @@
+{
+  "key": "binance-peg-bitcoin-cash",
+  "name": "Binance-Peg Bitcoin Cash",
+  "symbol": "bch",
+  "logoURI": "https://assets.coingecko.com/coins/images/15774/large/bitcoin-cash-circle.png?1621834955",
+  "website": "https://bch.info/",
+  "description": "Tokens that are wrapped and pegged by Binance on a 1:1 ratio to the corresponding native token. Also supports BEP20 token deposits and withdrawals at Binance.com",
+  "coingeckoId": "binance-peg-bitcoin-cash",
+  "links": {
+    "telegram": "https://t.me/bchchannel",
+    "reddit": "https://www.reddit.com",
+    "github": "https://gitlab.com/bitcoin-cash-node"
+  }
+}

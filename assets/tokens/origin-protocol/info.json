@@ -1,0 +1,17 @@
+{
+  "key": "origin-protocol",
+  "name": "Origin Protocol",
+  "symbol": "ogn",
+  "logoURI": "https://assets.coingecko.com/coins/images/3296/large/op.jpg?1547037878",
+  "website": "http://www.originprotocol.com",
+  "description": "Origin Protocol provides a platform for building peer-to-peer marketplaces and e-commerce applications. Users can buy or sell goods and services on these marketplaces, and developers can create their own applications powered by the Origin blockchain. The Origin token (\u201cOGN\u201d) is used as an incentive, payment, and governance token in the Origin ecosystem.\r\n",
+  "coingeckoId": "origin-protocol",
+  "links": {
+    "twitter": "https://twitter.com/originprotocol",
+    "facebook": "https://www.facebook.com/originprotocol",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2711791",
+    "telegram": "https://t.me/originprotocol",
+    "reddit": "https://www.reddit.com/r/originprotocol/",
+    "github": "https://github.com/OriginProtocol"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "zerogoki",
+  "name": "Zerogoki",
+  "symbol": "rei",
+  "logoURI": "https://assets.coingecko.com/coins/images/17015/large/iconZerogoki.png?1626618921",
+  "website": "https://zerogoki.org/",
+  "description": "Zerogoki is a leveraged synthetic asset minting platform based on algorithm-pegging model from duetprotocol",
+  "coingeckoId": "zerogoki",
+  "links": {
+    "twitter": "https://twitter.com/0Zerogoki",
+    "telegram": "https://t.me/zerogokigroup",
+    "github": "https://github.com/duet-protocol"
+  }
+}

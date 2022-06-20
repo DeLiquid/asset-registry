@@ -1,0 +1,17 @@
+{
+  "key": "aurora-dao",
+  "name": "IDEX",
+  "symbol": "idex",
+  "logoURI": "https://assets.coingecko.com/coins/images/2565/large/logomark-purple-286x286.png?1638362736",
+  "website": "https://idex.io/",
+  "description": "",
+  "coingeckoId": "aurora-dao",
+  "links": {
+    "twitter": "https://twitter.com/idexio",
+    "facebook": "https://www.facebook.com/AuroraDAO",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2279539",
+    "telegram": "https://t.me/IDEXChat",
+    "reddit": "https://www.reddit.com/r/auroradao/",
+    "github": "https://github.com/idexio/IDEXd"
+  }
+}

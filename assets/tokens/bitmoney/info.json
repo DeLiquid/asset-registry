@@ -1,0 +1,14 @@
+{
+  "key": "bitmoney",
+  "name": "BitMoney",
+  "symbol": "bit",
+  "logoURI": "https://assets.coingecko.com/coins/images/6584/large/bitmoney.png?1547273177",
+  "website": "https://www.bitmoney.ws",
+  "description": "A cryptocurrency aimed at bringing cryptocurrency into the real-world, through education and innovative blockchain projects.",
+  "coingeckoId": "bitmoney",
+  "links": {
+    "twitter": "https://twitter.com/BitMoney6",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5048071",
+    "github": "https://github.com/CryptVenture/BitMoneyV2"
+  }
+}

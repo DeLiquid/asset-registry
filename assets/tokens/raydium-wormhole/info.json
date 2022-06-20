@@ -1,0 +1,12 @@
+{
+  "key": "raydium-wormhole",
+  "name": "Raydium (Wormhole)",
+  "symbol": "ray",
+  "logoURI": "https://assets.coingecko.com/coins/images/22870/large/RAY_wh_small.png?1644226956",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "raydium-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

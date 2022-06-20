@@ -1,0 +1,17 @@
+{
+  "key": "avinoc",
+  "name": "AVINOC",
+  "symbol": "avinoc",
+  "logoURI": "https://assets.coingecko.com/coins/images/4659/large/qX7fh69Q_400x400-1.jpg?1636680685",
+  "website": "https://www.avinoc.com/",
+  "description": "AVINOC is a consistent, integrated and permissionless base data layer for decentralized, transparent and worldwide coordination of business flights within the general aviation, to achieve optimal utilization and reduce costs significantly. Every user involved in AVINOC possesses a local copy of all relevant data. This creates new opportunities for global, direct, permissionless, and fast communication between participants involved in the complex aviation business. AVINOC makes all necessary information of availability of staff and equipment visible in a decentralized manner. Efforts for communication and coordination can be reduced to a minimum or, in most cases, they can be totally eliminated.",
+  "coingeckoId": "avinoc",
+  "links": {
+    "twitter": "https://twitter.com/AvinocLtd",
+    "facebook": "https://www.facebook.com/avinoc.io",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=4635369",
+    "telegram": "https://t.me/AVINOC",
+    "reddit": "https://www.reddit.com/r/AVINOC/",
+    "github": "https://github.com/AVINOCICO"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key": "project-galaxy",
+  "name": "Project Galaxy",
+  "symbol": "gal",
+  "logoURI": "https://assets.coingecko.com/coins/images/24530/large/GAL-Token-Icon.png?1651483533",
+  "website": "https://galaxy.eco/",
+  "description": "",
+  "coingeckoId": "project-galaxy",
+  "links": {
+    "twitter": "https://twitter.com/ProjectGalaxyHQ",
+    "telegram": "https://t.me/ProjectGalaxyHQ"
+  }
+}

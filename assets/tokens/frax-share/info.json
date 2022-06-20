@@ -1,0 +1,14 @@
+{
+  "key": "frax-share",
+  "name": "Frax Share",
+  "symbol": "fxs",
+  "logoURI": "https://assets.coingecko.com/coins/images/13423/large/frax_share.png?1608478989",
+  "website": "https://frax.finance",
+  "description": "The Frax Share token is the governance and value accrual token of the Frax Stablecoin Protocol",
+  "coingeckoId": "frax-share",
+  "links": {
+    "twitter": "https://twitter.com/fraxfinance",
+    "telegram": "https://t.me/fraxfinance",
+    "github": "https://github.com/fraxfinance/frax-solidity"
+  }
+}

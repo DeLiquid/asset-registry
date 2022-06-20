@@ -1,0 +1,15 @@
+{
+  "key": "klay-token",
+  "name": "Klaytn",
+  "symbol": "klay",
+  "logoURI": "https://assets.coingecko.com/coins/images/9672/large/klaytn.jpeg?1642775250",
+  "website": "https://www.klaytn.foundation",
+  "description": "Klaytn is a public blockchain focused on the metaverse, gamefi, and the creator economy. Officially launched in June 2019, it is the dominant blockchain platform in South Korea and is now undergoing global business expansion from its international base in Singapore.\r\n\r\nThese business expansion activities are supported by the US$500m Klaytn Growth Fund, which aims to grow the ecosystem of companies built on Klaytn. The fund is managed and disbursed by Klaytn Foundation, a Singapore-based non-profit organization established in August 2021.\r\n\r\nTo learn more, please visit <a href=\"https://klaytn.foundation/\">https://klaytn.foundation</a>",
+  "coingeckoId": "klay-token",
+  "links": {
+    "twitter": "https://twitter.com/klaytn_official",
+    "facebook": "https://www.facebook.com/klaytn.official",
+    "reddit": "https://www.reddit.com/r/klaytn/",
+    "github": "https://github.com/klaytn/klaytn"
+  }
+}

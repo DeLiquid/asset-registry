@@ -1,0 +1,15 @@
+{
+  "key": "ampleforth",
+  "name": "Ampleforth",
+  "symbol": "ampl",
+  "logoURI": "https://assets.coingecko.com/coins/images/4708/large/Ampleforth.png?1561684250",
+  "website": "https://www.ampleforth.org/",
+  "description": "Ampleforth is a digital-asset-protocol for smart commodity-money.\r\n\r\nThe smart commodity money with a unique elastic supply protocol. AMPL supply expands and contracts in response to it\u2019s price deviating from a 1 USD target. Deviations result in a supply change of AMPLs once every 24 hours, increasing or decreasing the number of tokens in each holder\u2019s wallet pro-rata. Ampleforth is the only asset in the world with this elastic supply property, and therefore has counter-cyclical trading pressure and is uncorrelated with other digital assets such as Bitcoin.",
+  "coingeckoId": "ampleforth",
+  "links": {
+    "twitter": "https://twitter.com/ampleforthorg",
+    "facebook": "https://www.facebook.com/ampleforthprotocol",
+    "telegram": "https://t.me/Ampleforth",
+    "github": "https://github.com/ampleforth"
+  }
+}

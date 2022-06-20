@@ -1,0 +1,12 @@
+{
+  "key": "frax-share-wormhole",
+  "name": "Frax Share (Wormhole)",
+  "symbol": "fxs",
+  "logoURI": "https://assets.coingecko.com/coins/images/23066/large/FXS_wh_small.png?1644225675",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "frax-share-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

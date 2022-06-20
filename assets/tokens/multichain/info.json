@@ -1,0 +1,14 @@
+{
+  "key": "multichain",
+  "name": "Multichain",
+  "symbol": "multi",
+  "logoURI": "https://assets.coingecko.com/coins/images/22087/large/1_Wyot-SDGZuxbjdkaOeT2-A.png?1640764238",
+  "website": "https://multichain.org/",
+  "description": "Multichain, rebranded from Anyswap, will continue with what it has achieved to date as a router protocol for Web3. As the trailblazer of decentralized cross-chain service, Multichain provides interconnect infrastructure for 27 mainstream public blockchains including Ethereum, Fantom, Binance Smart Chain, Avalanche, Moonriver, Arbitrum, Polygon and Harmony. The Total Value Locked (TVL) on Multichain, whose number of users exceeds 300,000, is more than $5 billion, with over 1,000 crypto assets circulating among different mainnets. It is unsurpassed in terms of speed, security and decentralization. Builders can create application layers on top of it to strengthen DeFi composability.",
+  "coingeckoId": "multichain",
+  "links": {
+    "twitter": "https://twitter.com/MultichainOrg",
+    "telegram": "https://t.me/anyswap",
+    "github": "https://github.com/anyswap"
+  }
+}

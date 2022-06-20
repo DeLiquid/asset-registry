@@ -1,0 +1,14 @@
+{
+  "key": "boba-network",
+  "name": "Boba Network",
+  "symbol": "boba",
+  "logoURI": "https://assets.coingecko.com/coins/images/20285/large/BOBA.png?1636811576",
+  "website": "https://boba.network/",
+  "description": "Boba is an L2 Ethereum scaling & augmenting solution built by the Enya team as core contributors to the OMG Foundation. Boba is a next-generation Ethereum Layer 2 Optimistic Rollup scaling solution that reduces gas fees, improves transaction throughput, and extends the capabilities of smart contracts. Boba offers fast exits backed by community-driven liquidity pools, shrinking the Optimistic Rollup exit period from seven days to only a few minutes, while giving LPs incentivized yield farming opportunities.\r\n\r\nBoba\u2019s extensible smart contracts will enable developers across the Ethereum ecosystem to build dApps that invoke code executed on web-scale infrastructure such as AWS Lambda, making it possible to use algorithms that are either too expensive or impossible to execute on-chain.\r\n\r\nWe\u2019re building Boba in a way that puts our users and developers first. Our goal is to build a pragmatic L2 that is the first step towards opening Ethereum to the next Billion users. Join us on our mission and help grow the community.",
+  "coingeckoId": "boba-network",
+  "links": {
+    "twitter": "https://twitter.com/bobanetwork",
+    "telegram": "https://t.me/bobanetwork",
+    "github": "https://github.com/omgnetwork"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "key": "nkn",
+  "name": "NKN",
+  "symbol": "nkn",
+  "logoURI": "https://assets.coingecko.com/coins/images/3375/large/nkn.png?1548329212",
+  "website": "https://www.nkn.org/",
+  "description": "NKN is building the largest blockchain for network sharing.",
+  "coingeckoId": "nkn",
+  "links": {
+    "twitter": "https://twitter.com/NKN_ORG",
+    "facebook": "https://www.facebook.com/nkn.org",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=3357439",
+    "telegram": "https://t.me/nknorg",
+    "reddit": "https://www.reddit.com/r/nknblockchain/",
+    "github": "https://github.com/nknorg"
+  }
+}

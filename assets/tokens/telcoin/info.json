@@ -1,0 +1,20 @@
+{
+  "key": "telcoin",
+  "name": "Telcoin",
+  "symbol": "tel",
+  "logoURI": "https://assets.coingecko.com/coins/images/1899/large/tel.png?1547036203",
+  "website": "http://www.telco.in",
+  "description": "Telcoin is a new cryptocurrency based on the Ethereum blockchain that will be distributed by your national telecom operator and made available to everyone anywhere by tapping into synergies between the reach of mobile telecoms and the fast, borderless nature of blockchain technology. ",
+  "coingeckoId": "telcoin",
+  "links": {
+    "github": "https://github.com/telcoin/ico",
+    "medium": "https://medium.com/@telcoin",
+    "twitter": "https://twitter.com/telcoin_team",
+    "facebook": "https://www.facebook.com/telcoin",
+    "linkedin": "https://www.linkedin.com/company/telcoin/",
+    "telegram": "https://t.me/telcoincommunity",
+    "whitepaper": "http://www.telco.in/docs/whitepaper.pdf",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2387659",
+    "reddit": "https://www.reddit.com/r/Telcoin/"
+  }
+}

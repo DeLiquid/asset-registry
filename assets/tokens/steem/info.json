@@ -1,0 +1,16 @@
+{
+  "key": "steem",
+  "name": "Steem",
+  "symbol": "steem",
+  "logoURI": "https://assets.coingecko.com/coins/images/398/large/steem.png?1547034126",
+  "website": "https://steem.com/",
+  "description": "Steem is a cryptocurrency that rewards users for community building by posting and upvoting valuable content for others. Steem was inspired from the success of Reddit where the community helped enrich the shareholders. Steem aims to help distribute the rewards to the community members who help create the community in the first place. Steem aims to provide various services to its members such as a source of curated news, Q&A, job boards etc. The founders of Steem came from <a href=\"https://www.coingecko.com/en/coins/bitshares\">BitShares</a> with Dan Larimer involved as well.\r\n\r\nSteem\u2019s main platform, called Steemit, is a social media network built on top of the Steem blockchain. Steemit is similar to popular content-driven social networks like Reddit and Medium, but it rewards users with cryptocurrency for their participation. Fundamentally, the more value a particular piece of content provides to a greater number of people, the more the individuals responsible for creating and curating that content can earn.\r\n\r\nUsers cast votes, creating a hierarchy of content. The more upvotes a post gets, the more it will earn. The platform also allows for downvotes, giving participants more flexibility when it comes to rating content. Steemit is meritocratic, meaning users that hold more currency can cast votes with greater influence.\r\n\r\nThe Steemit community even has another service to offer to its customers. D.tube, which is considered to be very similar to YouTube, is Blockchain based and the users can realize the difference between the traditional video publishing websites and D.tube, as the amount of money earned is also displayed beside the post apart from likes shares and comments. The Steemit community is accused of posting plagiarize contents on their publishing website. The irony seems to be reaching highest levels when the original content doesn\u2019t receive much appreciation and income than the copied versions of it.\"",
+  "coingeckoId": "steem",
+  "links": {
+    "twitter": "https://twitter.com/SteemNetwork",
+    "facebook": "https://www.facebook.com/steemnetwork",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1410943",
+    "reddit": "https://www.reddit.com/r/steem/",
+    "github": "https://github.com/steemit"
+  }
+}

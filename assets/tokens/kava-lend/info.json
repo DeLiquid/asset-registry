@@ -1,0 +1,13 @@
+{
+  "key": "kava-lend",
+  "name": "Kava Lend",
+  "symbol": "hard",
+  "logoURI": "https://assets.coingecko.com/coins/images/13008/large/HARD_coin_256.png?1604733983",
+  "website": "https://kava.io/lend",
+  "description": "",
+  "coingeckoId": "kava-lend",
+  "links": {
+    "twitter": "https://twitter.com/hard_protocol",
+    "telegram": "https://t.me/hard_protocol"
+  }
+}

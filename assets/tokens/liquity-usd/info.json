@@ -1,0 +1,14 @@
+{
+  "key": "liquity-usd",
+  "name": "Liquity USD",
+  "symbol": "lusd",
+  "logoURI": "https://assets.coingecko.com/coins/images/14666/large/Group_3.png?1617631327",
+  "website": "https://www.liquity.org/",
+  "description": "LUSD is a fully redeemable USD-pegged stablecoin issued by the Liquity Protocol. Liquity is a decentralized borrowing protocol that allows you to draw 0% interest loans against Ether used as collateral. Loans are paid out in LUSD and need to maintain a minimum collateral ratio of only 110%.\r\n\r\nIn addition to the collateral, the loans are secured by a Stability Pool containing LUSD and by fellow borrowers collectively acting as guarantors of last resort. \r\n\r\nLiquity as a protocol is non-custodial, immutable, and governance-free.",
+  "coingeckoId": "liquity-usd",
+  "links": {
+    "twitter": "https://twitter.com/LiquityProtocol",
+    "reddit": "https://www.reddit.com/r/Liquity/",
+    "github": "https://github.com/liquity/dev"
+  }
+}

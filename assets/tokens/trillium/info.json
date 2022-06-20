@@ -1,0 +1,12 @@
+{
+  "key": "trillium",
+  "name": "Trillium",
+  "symbol": "tt",
+  "logoURI": "https://assets.coingecko.com/coins/images/22770/large/39cb52d6-cd27-510e-6c7b-a876a455613a.png?1642576177",
+  "website": "https://trilliumtoken.com/",
+  "description": "Trillium is an advanced multilayer payment technology Trillium (TT) is a decentralized finance (DeFi) protocol built to enable cross-border commercial transactions. The system enables traders and payees to send money using a decentralized network to their clients or investors in other territories.",
+  "coingeckoId": "trillium",
+  "links": {
+    "twitter": "https://twitter.com/TokenTrillium"
+  }
+}

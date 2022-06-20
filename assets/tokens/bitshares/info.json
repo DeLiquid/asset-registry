@@ -1,0 +1,15 @@
+{
+  "key": "bitshares",
+  "name": "BitShares",
+  "symbol": "bts",
+  "logoURI": "https://assets.coingecko.com/coins/images/95/large/bitshares.png?1547273755",
+  "website": "http://bitshares.org/",
+  "description": "BitShares (symbol BTS), formerly known as ProtoShares (PTS), is an industrial grade \u201ccrypto-equity\u201d, peer to peer distributed ledger and network based on a <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">Delegated Proof of Stake (DPoS)</a> algorithm. It was created in 2014 by visionary Dan Larimer (\u201cBytemaster\u201d), co-founder of <a href=\"https://www.coingecko.com/en/coins/steem\">Steemit</a>, <a href=\"https://www.coingecko.com/en/coins/eos\">EOS</a> and Cryptonomex. BitShares is based on Graphene, an open source C++ blockchain implementation, which acts as a consensus mechanism. Graphene is used by several other projects like Steemit.com (decentralized Reddit, blog platform), and <a href=\"https://www.coingecko.com/en/coins/peerplays\">PeerPlays.com</a> (gaming site and token PPY) indicating real-world usage.\r\n\r\nBitShares competes with banks by issuing collateralizing market-pegged and stable bitAssets (also called smart coins). This means crypto-based assets track real-world market assets like the US dollar denominated \u201cbitAsset\u201d known as bitUSD. This tracks the movements of the dollar by aggregating a variety of data sources that are maintained by the BitShares community. This Smart Coin token always has at least 200% (or more) of its value backed by the BitShares core currency (BTS), to which it can be converted at any time, as collateral in a smart-contract based loan managed by the blockchain.\r\n\r\nA SmartCoin is a cryptocurrency whose value is pegged to that of another asset, such as the US Dollar or gold. SmartCoins always have 100% or more of their value backed by the BitShares core currency, BTS, to which they can be converted at any time at an exchange rate set by a trustworthy price feed. BitShares provides a high-performance decentralized exchange, with all the features you would expect in a trading platform. It can handle the trading volume of the NASDAQ, while settling orders the second you submit them. High performance blockchain technology is necessary for cryptocurrencies and smart contract platforms to provide a viable alternative to existing financial platforms.\r\n\r\nBitShares BTS is considered a legacy coin as it predates most exchanges (and publications) and is responsible for the crypto trading pair concept. It\u2019s also the first delegated Proof of Stake blockchain and uses community-elected delegates for governance.",
+  "coingeckoId": "bitshares",
+  "links": {
+    "twitter": "https://twitter.com/bitsharesorg",
+    "facebook": "https://www.facebook.com/officialbitshares",
+    "reddit": "https://www.reddit.com/r/BitShares",
+    "github": "https://github.com/bitshares"
+  }
+}

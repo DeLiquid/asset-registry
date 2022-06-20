@@ -1,0 +1,14 @@
+{
+  "key": "aurora-near",
+  "name": "Aurora",
+  "symbol": "aurora",
+  "logoURI": "https://assets.coingecko.com/coins/images/20582/large/aurora.jpeg?1637250883",
+  "website": "https://aurora.dev/",
+  "description": "Aurora is an EVM built on the NEAR Protocol, delivering a turn-key solution for developers to operate their apps on an Ethereum-compatible, high-throughput, scalable and future-safe platform, with low transaction costs for their users.",
+  "coingeckoId": "aurora-near",
+  "links": {
+    "twitter": "https://twitter.com/auroraisnear",
+    "telegram": "https://t.me/auroraisnear",
+    "github": "https://github.com/aurora-is-near/aurora-engine"
+  }
+}

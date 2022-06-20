@@ -1,0 +1,19 @@
+{
+  "key": "adshares",
+  "name": "Adshares",
+  "symbol": "ads",
+  "logoURI": "https://assets.coingecko.com/coins/images/868/large/ads_tr_900.png?1549005693",
+  "website": "https://adshares.net/",
+  "description": "Adshares is a Web3 protocol for monetization space in the Metaverse.\r\nAdserver platforms allow users to rent space inside Metaverse, blockchain games, NFT exhibitions and websites. \r\n\r\nStarting in 2017, the team delivered a protocol that is now highly scalable. Adshares is an umbrella project, maintaining a decentralized network. The idea behind the ADS protocol is to give the network to the community with DAO-style governance. In Adshares, anyone can make their own Adserver by implementing open-source blockchain tools in more and more areas. This breakthrough concept allows $ADS holders to take profit from monetization of the protocol. Crypto projects can advertise using a 100% decentralized marketplace.\r\n\r\nCoins are deflationary due to the native burning and dividend mechanisms.\r\n\r\n$ADS has its own ultra-fast dPoS blockchain, being also cross-chain to Ethereum, Binance Smart Chain and Polygon.\r\n",
+  "coingeckoId": "adshares",
+  "links": {
+    "blog": "https://medium.com/adshares",
+    "github": "https://github.com/adshares/adserver",
+    "twitter": "https://twitter.com/adsharesNet",
+    "facebook": "https://www.facebook.com/adshares/",
+    "telegram": "https://t.me/adshares",
+    "whitepaper": "https://adshares.net/assets/docs/Adshares.Network.whitepaper.pdf",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1994545",
+    "reddit": "https://www.reddit.com/r/adshares/"
+  }
+}

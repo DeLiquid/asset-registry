@@ -1,0 +1,15 @@
+{
+  "key": "orbs",
+  "name": "Orbs",
+  "symbol": "orbs",
+  "logoURI": "https://assets.coingecko.com/coins/images/4630/large/Orbs.jpg?1547039896",
+  "website": "https://www.orbs.com/",
+  "description": "Orbs was built to bridge the unoccupied gap between the functionality of a public blockchain with the ironclad security of a private one.\r\n\r\nIn a time where people are trusting major companies less than ever before, those enterprises can, at best, ask users to trust them. By empowering those enterprises with the option of operating on a public blockchain safely, Orbs grants them a major competitive edge in the form of digital guarantees to users: No need to trust when users can simply verify.",
+  "coingeckoId": "orbs",
+  "links": {
+    "twitter": "https://twitter.com/orbs_network",
+    "telegram": "https://t.me/OrbsNetwork",
+    "reddit": "https://www.reddit.com/r/ORBS_Network/",
+    "github": "https://github.com/orbs-network/nebula"
+  }
+}

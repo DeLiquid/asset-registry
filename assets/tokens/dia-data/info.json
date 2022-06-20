@@ -1,0 +1,15 @@
+{
+  "key": "dia-data",
+  "name": "DIA",
+  "symbol": "dia",
+  "logoURI": "https://assets.coingecko.com/coins/images/11955/large/image.png?1646041751",
+  "website": "https://diadata.org/",
+  "description": "",
+  "coingeckoId": "dia-data",
+  "links": {
+    "twitter": "https://twitter.com/DIAdata_org",
+    "telegram": "https://t.me/DIAdata_org",
+    "reddit": "https://www.reddit.comr/DIAdata",
+    "github": "https://github.com/diadata-org"
+  }
+}

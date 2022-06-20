@@ -1,0 +1,12 @@
+{
+  "key": "genesis-mana",
+  "name": "Genesis Mana",
+  "symbol": "mana",
+  "logoURI": "https://assets.coingecko.com/coins/images/19031/large/genesis-icon.png?1634196000",
+  "website": "https://genesisproject.xyz/",
+  "description": "The Genesis Project is a community of builders, designers, mathematicians and storytellers on a mission to discover the origin story of the Loot universe.",
+  "coingeckoId": "genesis-mana",
+  "links": {
+    "twitter": "https://twitter.com/GenesisLoot"
+  }
+}

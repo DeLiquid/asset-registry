@@ -1,0 +1,13 @@
+{
+  "key": "diversifi",
+  "name": "DiversiFi",
+  "symbol": "dfi",
+  "logoURI": "https://assets.coingecko.com/coins/images/22637/large/17360.png?1642379172",
+  "website": "https://diversificrypto.com/",
+  "description": "Through its custom crafted dividend system, DiversiFi allows holders to receive a percentage of trading volume as a dividend reward for holding DFi Token. Holders can simply select the token they want to receive as their reward from our curated list of available tokens. Based on the amount of DFi in the holders account, they receive a portion of volume which is automatically converted to their chosen rewards token and delivered directly to their wallet with each rewards cycle. No extra fees applied, it\u2019s just that easy! If no rewards token is selected, the contract will default to distributing FTM token as the reward.",
+  "coingeckoId": "diversifi",
+  "links": {
+    "twitter": "https://twitter.com/diversificrypto",
+    "telegram": "https://t.me/DiversifiSquad"
+  }
+}

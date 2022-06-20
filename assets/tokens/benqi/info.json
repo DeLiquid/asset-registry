@@ -1,0 +1,13 @@
+{
+  "key": "benqi",
+  "name": "BENQI",
+  "symbol": "qi",
+  "logoURI": "https://assets.coingecko.com/coins/images/16362/large/GergDDN3_400x400.jpg?1644984441",
+  "website": "https://app.benqi.fi/",
+  "description": "BENQI is a decentralized non-custodial liquidity market protocol, built on Avalanche. The protocol enables users to effortlessly lend, borrow, and earn interest with their digital assets. Depositors providing liquidity to the protocol may earn passive income, while borrowers are able to borrow in an over-collateralized manner.",
+  "coingeckoId": "benqi",
+  "links": {
+    "twitter": "https://twitter.com/BenqiFinance",
+    "telegram": "https://t.me/BenqiFinance"
+  }
+}

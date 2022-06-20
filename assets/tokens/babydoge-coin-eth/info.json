@@ -1,0 +1,14 @@
+{
+  "key": "babydoge-coin-eth",
+  "name": "BabyDoge ETH",
+  "symbol": "babydoge",
+  "logoURI": "https://assets.coingecko.com/coins/images/17166/large/logo_256px_%281%29.png?1626684127",
+  "website": "https://babydogecoin.gg/",
+  "description": "BabyDoge is fully decentralized and on a mission to bring popular cryptocurrency concepts to the mainstream in one, easy to understand project. \r\n\r\nBabyDoge is in it for the long haul. The decentralized community is fostering long-term development of the ecosystem which will result in real use cases, greater rewards and a popularity beyond any temporary trends. \r\n\r\nOur Liquidity Token UNIV2-BabyDoge is locked at Unicrypt for 2 years. \r\n\r\nOur Smart Contract Audit by Solidity Finance.",
+  "coingeckoId": "babydoge-coin-eth",
+  "links": {
+    "twitter": "https://twitter.com/king_bdoge",
+    "telegram": "https://t.me/babydogecoingg",
+    "github": "https://github.com/babydogecoingg"
+  }
+}

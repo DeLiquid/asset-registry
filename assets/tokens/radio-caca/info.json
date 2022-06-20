@@ -1,0 +1,15 @@
+{
+  "key": "radio-caca",
+  "name": "Radio Caca",
+  "symbol": "raca",
+  "logoURI": "https://assets.coingecko.com/coins/images/17841/large/ez44_BSs_400x400.jpg?1629464170",
+  "website": "https://www.radiocaca.com/",
+  "description": "",
+  "coingeckoId": "radio-caca",
+  "links": {
+    "twitter": "https://twitter.com/RadioCacaNFT",
+    "telegram": "https://t.me/RadioCaca",
+    "reddit": "https://www.reddit.com/r/RadioCacaNFT",
+    "github": "https://github.com/radiocaca/radio-caca"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "key": "aurory-wormhole",
+  "name": "Aurory (Wormhole)",
+  "symbol": "aury",
+  "logoURI": "https://assets.coingecko.com/coins/images/22879/large/AURY_wh_small.png?1644224340",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "aurory-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

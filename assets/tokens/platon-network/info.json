@@ -1,0 +1,14 @@
+{
+  "key": "platon-network",
+  "name": "PlatON Network",
+  "symbol": "lat",
+  "logoURI": "https://assets.coingecko.com/coins/images/15430/large/PlatON-Black.png?1623852513",
+  "website": "https://www.platon.network/en",
+  "description": "",
+  "coingeckoId": "platon-network",
+  "links": {
+    "twitter": "https://twitter.com/PlatON_Network",
+    "telegram": "https://t.me/PlatONNetwork",
+    "github": "https://github.com/PlatONnetwork/PlatON-Go"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "key": "belrium",
+  "name": "Belrium",
+  "symbol": "bel",
+  "logoURI": "https://assets.coingecko.com/coins/images/17411/large/Belrium.png?1627551256",
+  "website": "https://www.belrium.com",
+  "description": "Belrium is World\u2019s First KYC Compliant Blockchain, Empowering individuals and businesses with the world\u2019s smartest enterprise grade compliant blockchain solution. The Belrium- KYC Blockchain is based on the fusion of two blockchain technologies, operating independently. Belrium blockchain enables users from across the world to read and send transactions in a compliant manner. The private blockchain acts as the KYC layer to ensure that the public blockchain transactions are done by compliant users.\r\n\r\nGartner has acknowledged Belrium as one of the top 10 blockchain with workable projects\r\nConsecutively for 2nd year, BelfricsBT, the parent company of Belrium is featured among the top global IT firms providing blockchain technology services.\r\n\r\nBelrium - Has collaborated with IIIT-B bangalore to issue educational certificates on Blockchain using their CrediBel Dapp. - https://www.beldapps.com/credibel/\r\n\tBelrium - Has Collaborated with IIIT-B Bangalore and has developed the India\u2019s first blockchain based Covid services platform BelYo - https://belyo.in\r\n\tBelrium - Has collaborated with Capital Markets Authority of Kenya and has obtained a sandbox license to implement their blockchain based KYC system for their capital markets. - https://bitcoinke.io/2020/06/belrium-blockchain-admitted-to-kenya-regulatory-sandbox/\r\nBelrium KYC blockchain received patent from Nigeria Patent Authority for the blockchain based KYC solution.",
+  "coingeckoId": "belrium",
+  "links": {
+    "twitter": "https://twitter.com/belrium"
+  }
+}

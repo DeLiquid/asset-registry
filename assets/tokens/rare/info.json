@@ -1,0 +1,13 @@
+{
+  "key": "rare",
+  "name": "Rare",
+  "symbol": "rare",
+  "logoURI": "https://assets.coingecko.com/coins/images/12868/large/rare_logo.png?1603170092",
+  "website": "https://app.tryroll.com/token/RARE",
+  "description": "Rare is the social money of artist Rare Designer",
+  "coingeckoId": "rare",
+  "links": {
+    "twitter": "https://twitter.com/pepe_designer",
+    "telegram": "https://t.me/rare_designer"
+  }
+}

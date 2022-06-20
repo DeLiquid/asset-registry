@@ -1,0 +1,15 @@
+{
+  "key": "amp-token",
+  "name": "Amp",
+  "symbol": "amp",
+  "logoURI": "https://assets.coingecko.com/coins/images/12409/large/amp-200x200.png?1599625397",
+  "website": "https://amptoken.org",
+  "description": "What is Amp?\r\n\r\nAmp is described as the new digital collateral token offering instant, verifiable assurances for any kind of value transfer. Using Amp, networks like Flexa can quickly and irreversibly secure transactions for a wide variety of asset-related use cases.\r\n\r\nHow does Amp work?\r\n\r\nAmp claims to offer a straightforward but versatile interface for verifiable collateralization through a system of collateral partitions and collateral managers. Where collateral partitions can be designated to collateralize any account, application, or even transaction, and carry balances which are directly verifiable on the Ethereum blockchain, collateral managers are smart contracts that can lock, release, and redirect collateral in these partitions as needed in order to support value transfer activities. Amp supports a wide variety of use cases for collateralization, and also introduces the concept of predefined partition strategies, which can enable special capabilities such as collateral models through which tokens can be staked without ever leaving their original address.",
+  "coingeckoId": "amp-token",
+  "links": {
+    "twitter": "https://twitter.com/amptoken",
+    "telegram": "https://t.me/ampchat",
+    "reddit": "https://www.reddit.com",
+    "github": "https://github.com/amptoken"
+  }
+}

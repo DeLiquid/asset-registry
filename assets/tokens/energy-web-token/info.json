@@ -1,0 +1,15 @@
+{
+  "key": "energy-web-token",
+  "name": "Energy Web",
+  "symbol": "ewt",
+  "logoURI": "https://assets.coingecko.com/coins/images/10886/large/R9gQTJV__400x400.png?1585604557",
+  "website": "https://www.energyweb.org/",
+  "description": "Energy Web Token (EWT) is the native token of the Energy Web Chain, a public, Proof-of-Authority Ethereum Virtual Machine blockchain specifically designed to support enterprise-grade applications in the energy sector. The Energy Web Chain is operated and governed by over 25 Validator nodes from 15 countries, including utilities, grid operators, and startups. In addition to its native token, the EW Chain supports all ERC standards. The Energy Web Chain was launched in June 2019 by Energy Web Foundation - a global nonprofit unleashing blockchain's potential in the energy sector - and its global consortium of Members that includes upstream energy companies, utilities, grid operators, software developers, and technology vendors. For more information, visit energyweb.org.",
+  "coingeckoId": "energy-web-token",
+  "links": {
+    "twitter": "https://twitter.com/energywebx",
+    "facebook": "https://www.facebook.com/EnergyWebFoundation",
+    "telegram": "https://t.me/energyweb",
+    "reddit": "https://www.reddit.com/r/EnergyWeb/"
+  }
+}

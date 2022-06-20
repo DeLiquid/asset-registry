@@ -1,0 +1,15 @@
+{
+  "key": "concordium",
+  "name": "Concordium",
+  "symbol": "ccd",
+  "logoURI": "https://assets.coingecko.com/coins/images/23547/large/Sf_cldmL_400x400.jpg?1644398109",
+  "website": "https://www.concordium.com/",
+  "description": "Concordium offers a trustable state-of-the-science solution with self-sovereign identification at the protocol level and confidentiality using Zero Knowledge Proof cryptography.Concordium Blockchain is designed and built to provide a distributed execution platform that supports regulatory compliance for Fintech and other industries. Network fees are low, predictable and stable in Euro terms.Concordium proposes the most trustable state-of-the-science solution with self-sovereign identification at the protocol level and confidentiality thanks to ZKP cryptography.",
+  "coingeckoId": "concordium",
+  "links": {
+    "twitter": "https://twitter.com/concordiumnet",
+    "telegram": "https://t.me/concordium_official",
+    "reddit": "https://www.reddit.com/r/Concordium_Official/",
+    "github": "https://github.com/Concordium"
+  }
+}

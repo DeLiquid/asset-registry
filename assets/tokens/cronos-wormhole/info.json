@@ -1,0 +1,12 @@
+{
+  "key": "cronos-wormhole",
+  "name": "Cronos (Wormhole)",
+  "symbol": "cro",
+  "logoURI": "https://assets.coingecko.com/coins/images/23034/large/CRO_wh_small.png?1644225055",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "cronos-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

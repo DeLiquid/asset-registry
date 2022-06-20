@@ -1,0 +1,14 @@
+{
+  "key": "bitkub-coin",
+  "name": "Bitkub Coin",
+  "symbol": "kub",
+  "logoURI": "https://assets.coingecko.com/coins/images/15760/large/KUB.png?1621825161",
+  "website": "https://bitkubchain.com/",
+  "description": "Bitkub Chain aims to lay the foundation of the local Blockchain ecosystem, allowing Decentralized Applications and their assets to function transparently with affordable transaction fees and high-speed confirmation times.",
+  "coingeckoId": "bitkub-coin",
+  "links": {
+    "twitter": "https://twitter.com/bitkubchain",
+    "facebook": "https://www.facebook.com/bitkubchainofficial",
+    "github": "https://github.com/bitkubchain/"
+  }
+}

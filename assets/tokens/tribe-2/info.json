@@ -1,0 +1,14 @@
+{
+  "key": "tribe-2",
+  "name": "Tribe",
+  "symbol": "tribe",
+  "logoURI": "https://assets.coingecko.com/coins/images/14575/large/tribe.PNG?1617487954",
+  "website": "https://fei.money/",
+  "description": "TRIBE is the governance token which will allow community members to vote on the future direction / upgrades for the platform and control the DAO treasury.",
+  "coingeckoId": "tribe-2",
+  "links": {
+    "twitter": "https://twitter.com/feiprotocol",
+    "telegram": "https://t.me/feiprotocol ",
+    "github": "https://github.com/fei-protocol/fei-protocol-core"
+  }
+}

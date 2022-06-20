@@ -1,0 +1,14 @@
+{
+  "key": "joe",
+  "name": "JOE",
+  "symbol": "joe",
+  "logoURI": "https://assets.coingecko.com/coins/images/17569/large/joe_200x200.png?1628497750",
+  "website": "https://www.traderjoexyz.com/#/home",
+  "description": "Trader Joe is your one-stop decentralized trading platform on the Avalanche network. \r\n\r\nWe combine DEX services with DeFi lending to offer leveraged trading. \r\n\r\nOur products are community driven which allows us to give fees collected from liquidation and swaps back to the users via our JOE/xJOE staking mechanism.\r\n\r\nJOE is a governance token that also rewards its holders with a share of exchange revenues.",
+  "coingeckoId": "joe",
+  "links": {
+    "twitter": "https://twitter.com/traderjoe_xyz",
+    "telegram": "https://t.me/traderjoe_xyz_ann",
+    "github": "https://github.com/traderjoe-xyz"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "bit_financial",
+  "name": "Bit Financial",
+  "symbol": "bfc",
+  "logoURI": "https://assets.coingecko.com/coins/images/12822/large/BFC.png?1602752235",
+  "website": "http://bitfinancialcoin.io/",
+  "description": "\"\u201cSmart Financial Platform Creation Project BFC\u201d\r\nThe BFC Project Group aims to create an ecosystem that combines its own network business, which is based on blockchain technology.\"",
+  "coingeckoId": "bit_financial",
+  "links": {
+    "twitter": "https://twitter.com/HxkWTHbBq640IAh",
+    "facebook": "https://www.facebook.com/Bfc_project-641745659802442",
+    "github": "https://github.com/Banabaholdingsbfc/BanabaBFC/tree/master"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "thorchain-erc20",
+  "name": "THORChain (ERC20)",
+  "symbol": "rune",
+  "logoURI": "https://assets.coingecko.com/coins/images/13677/large/IMG_20210123_132049_458.png?1612179252",
+  "website": "https://thorchain.org/",
+  "description": "THORChain is building a chain-agnostic bridging protocol that will allow trustless and secure value-transfer connections with most other chains (such as Bitcoin, Ethereum, Monero and all of Binance Chain). Users will be able to instantly swap any asset at fair market prices and deep liquidity. Token holders will be able to stake any asset and earn on liquidity fees. Projects will be able to access manipulation resistant price feeds and accept payments in any currencies, no matter the type or liquidity.",
+  "coingeckoId": "thorchain-erc20",
+  "links": {
+    "twitter": "https://twitter.com/thorchain_org",
+    "telegram": "https://t.me/thorchain_org",
+    "reddit": "https://www.reddit.com/r/thorchain"
+  }
+}

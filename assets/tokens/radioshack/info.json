@@ -1,0 +1,14 @@
+{
+  "key": "radioshack",
+  "name": "RadioShack",
+  "symbol": "radio",
+  "logoURI": "https://assets.coingecko.com/coins/images/25307/large/ZVoPiysPJq6dPIZm_Se-6vjmsBepwhHlTQfdYZRILbHyVVTRUYCO-wmJJ4zT10HXCGv1j-ZyWr2u2sBaVlap5Y-ILqeXZuIquWdBDxxG0E0qDpgH7omLqYdgWWLSM_TUK9d1PiiYdu6bERdCDaucgFjlqwmhVQK4uV4jyUiXzchVUnu8Qt6SnxlNxz88G0mQ_tfiwkFv_vKqtgb1CcPycVZVz9.jpg?1651211260",
+  "website": "https://www.radioshack.org/",
+  "description": "RadioShack is a 100 year old brand embedded into the global consciousness, now on a mission to be the first protocol to bridge the gap to mainstream usage of blockchain and cryptocurrencies.",
+  "coingeckoId": "radioshack",
+  "links": {
+    "twitter": "https://twitter.com/radioshack",
+    "telegram": "https://t.me/radioshackfairlaunch",
+    "github": "https://github.com/radioshackswap"
+  }
+}

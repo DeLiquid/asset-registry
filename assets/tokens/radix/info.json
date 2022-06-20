@@ -1,0 +1,15 @@
+{
+  "key": "radix",
+  "name": "Radix",
+  "symbol": "xrd",
+  "logoURI": "https://assets.coingecko.com/coins/images/4374/large/Radix.png?1629701658",
+  "website": "https://www.radixdlt.com/",
+  "description": "Radix is building an open, interconnected platform where the full range of powerful DeFi applications will be built securely and safely.",
+  "coingeckoId": "radix",
+  "links": {
+    "twitter": "https://twitter.com/radixdlt",
+    "telegram": "https://t.me/radix_dlt",
+    "reddit": "https://www.reddit.com/r/Radix/",
+    "github": "https://github.com/radixdlt"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "tokenize-xchange",
+  "name": "Tokenize Xchange",
+  "symbol": "tkx",
+  "logoURI": "https://assets.coingecko.com/coins/images/4984/large/Tokenize.png?1561602968",
+  "website": "https://tokenize.exchange/",
+  "description": "Tokenize Xchange is a fully integrated cryptocurrency exchange that offers both individuals and institutional investors a frictionless and un-sophisticated user experience. The platform will serve as not only a financial tool but also as an educational and communal instrument in proliferating the values and ideas that the blockchain has to offer. The TKX token can be used to pay transaction fees for any trades on the platform, doing so will allow for significant reductions in the fees.\r\n\r\nThe TKX token is an ERC20 token based on the Ethereum blockchain. ",
+  "coingeckoId": "tokenize-xchange",
+  "links": {
+    "twitter": "https://twitter.com/TokenizeXchange",
+    "facebook": "https://www.facebook.com/tokenize.exchange",
+    "telegram": "https://t.me/tkxannoucement "
+  }
+}

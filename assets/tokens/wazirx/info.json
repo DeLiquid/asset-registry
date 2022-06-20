@@ -1,0 +1,15 @@
+{
+  "key": "wazirx",
+  "name": "WazirX",
+  "symbol": "wrx",
+  "logoURI": "https://assets.coingecko.com/coins/images/10547/large/WazirX.png?1580834330",
+  "website": "https://www.wazirx.com/",
+  "description": "WazirX is a cryptocurrency exchange with an advanced trading interface and features to buy, sell & trade cryptocurrencies. It is an exchange with a live open order book system that allows users to trade 80+ digital assets like Bitcoin, BNB, Bitcoin Cash, Litecoin, Dash & many more.Users can deposit/withdraw cryptocurrencies and also cash in/cash out USDT via Peer-to-Peer (\u201cP2P\u201d) to Indian Rupees (\u201cINR\u201d) with ease and speed, as well as securely store their digital assets in the WazirX wallet.WazirX\u2019s aim is to bridge the global fiat-cryptocurrency gap with the world\u2019s first auto-matching P2P engine - WazirX Peer-to-Peer. As of today, WazirX Peer-to-Peer is the go-to method to deposit and withdraw INR in India, and growing steadily.WazirX\u2019s native token, WRX, is the utility token forming the backbone of the WazirX ecosystem. The WRX token is built on Binance chain with future use cases including: trading fee discounts, WRX Trade Mining (unlock and earn WRX tokens by performing trades), paying for margin fees, and more.",
+  "coingeckoId": "wazirx",
+  "links": {
+    "twitter": "https://twitter.com/wazirxindia",
+    "facebook": "https://www.facebook.com/wazirx",
+    "telegram": "https://t.me/wazirx",
+    "github": "https://github.com/WazirX/wazirx-api"
+  }
+}

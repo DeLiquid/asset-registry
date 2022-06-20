@@ -1,0 +1,15 @@
+{
+  "key": "deapcoin",
+  "name": "DEAPCOIN",
+  "symbol": "dep",
+  "logoURI": "https://assets.coingecko.com/coins/images/10970/large/DEAPcoin_01.png?1586741677",
+  "website": "https://dea.sg/",
+  "description": "The entertaining platform \u201cPlayMining\u201d allows users to acquire the cryptocurrency through enjoying games and cartoons that are available for free on the platform; simultaneously, the roles and goods within will be sold as the cryptocurrency, and used for second transaction among users through Digital Art Auction, which adopts ERC721 private blockchain to manage securely users cryptocurrency. The ERC20-based token DEP will be used for transaction, within which the part of it will be return to the creators. The concept of distributing cryptocurrency to users can attract a large amount of users across the world to participate in, and thereby building the DEP ecosystem.",
+  "coingeckoId": "deapcoin",
+  "links": {
+    "twitter": "https://twitter.com/PlayMining_SG",
+    "facebook": "https://www.facebook.com/PlayMining",
+    "telegram": "https://t.me/DEAPcoin_group",
+    "github": "https://github.com/Digita-Entertainment-Asset/DEP"
+  }
+}

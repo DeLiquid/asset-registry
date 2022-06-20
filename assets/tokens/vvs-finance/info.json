@@ -1,0 +1,13 @@
+{
+  "key": "vvs-finance",
+  "name": "VVS Finance",
+  "symbol": "vvs",
+  "logoURI": "https://assets.coingecko.com/coins/images/20210/large/8glAYOTM_400x400.jpg?1636667919",
+  "website": "https://vvs.finance/",
+  "description": "VVS Finance is a decentralized finance and automated market making platform on the Cronos network by Crypto.com",
+  "coingeckoId": "vvs-finance",
+  "links": {
+    "twitter": "https://twitter.com/VVS_finance",
+    "telegram": "https://t.me/VVSFinance"
+  }
+}

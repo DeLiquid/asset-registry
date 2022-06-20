@@ -1,0 +1,16 @@
+{
+  "key": "theta-token",
+  "name": "Theta Network",
+  "symbol": "theta",
+  "logoURI": "https://assets.coingecko.com/coins/images/2538/large/theta-token-logo.png?1548387191",
+  "website": "https://www.thetatoken.org/",
+  "description": "Theta network is a decentralized video streaming network that is powered by blockchain technology. Theta allows users to watch video content and get rewarded with tokens as they share their internet bandwidth and computing resources on a peer-to-peer (P2P) basis. Besides a line-up of institutional investors like Node Capital and DHVC, Theta Network is advised by Steve Chen, co-founder of YouTube, and Justin Kan, co-founder of Twitch. The video streaming services on Theta rely on a distributed network of users who voluntarily contribute their spare bandwidth and computing resources to run Theta\u2019s system, in return for Theta Fuel (TFuel) reward.\r\n\r\nTheta runs on a modified proof-of-stake consensus mechanism as it has a unique multi-Byzantine Fault Tolerance (BFT) which combines a committee of 20-30 Validator nodes with a second later of thousands of Guardian nodes. This acts to speed up approvals and is faster than traditional proof-of-work networks. Theta\u2019s multi-BFT design achieves a healthy balance between consistency, speed, and decentralization.",
+  "coingeckoId": "theta-token",
+  "links": {
+    "twitter": "https://twitter.com/Theta_Network",
+    "facebook": "https://www.facebook.com/ThetaNetwork",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2451089",
+    "reddit": "https://www.reddit.com",
+    "github": "https://github.com/thetatoken"
+  }
+}

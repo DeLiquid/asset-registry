@@ -1,0 +1,12 @@
+{
+  "key": "constitutiondao-wormhole",
+  "name": "ConstitutionDAO (Wormhole)",
+  "symbol": "people",
+  "logoURI": "https://assets.coingecko.com/coins/images/23009/large/PEOPLE_wh_small.png?1644226832",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "constitutiondao-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

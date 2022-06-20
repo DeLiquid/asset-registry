@@ -1,0 +1,13 @@
+{
+  "key": "mad-usd",
+  "name": "Mad USD",
+  "symbol": "musd",
+  "logoURI": "https://assets.coingecko.com/coins/images/25480/large/musd.png?1652010034",
+  "website": "https://mm.finance/",
+  "description": "The first hybrid CDP and partially collaterised stablecoin platform: Mad USD (MUSD). The MUSD token uses 2 stabilising + minting mechanisms that provides backing for the MUSD token. The MUSD token can be used just like any other traditional stablecoin.",
+  "coingeckoId": "mad-usd",
+  "links": {
+    "twitter": "https://twitter.com/MMFcrypto",
+    "telegram": "https://t.me/MMFcrypto"
+  }
+}

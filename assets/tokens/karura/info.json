@@ -1,0 +1,14 @@
+{
+  "key": "karura",
+  "name": "Karura",
+  "symbol": "kar",
+  "logoURI": "https://assets.coingecko.com/coins/images/17172/large/karura.jpeg?1626782066",
+  "website": "https://acala.network/karura",
+  "description": "Karura is the all-in-one DeFi hub of Kusama.\r\n\r\nFounded by the Acala Foundation, Karura is a scalable, EVM-compatible network optimized for DeFi. The platform offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX \u2013 all with micro gas fees that can be paid in any token.",
+  "coingeckoId": "karura",
+  "links": {
+    "twitter": "https://twitter.com/AcalaNetwork",
+    "telegram": "https://t.me/acalaofficial",
+    "github": "https://github.com/AcalaNetwork/Acala"
+  }
+}

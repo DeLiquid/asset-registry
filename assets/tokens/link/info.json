@@ -1,0 +1,13 @@
+{
+  "key": "link",
+  "name": "LINK",
+  "symbol": "ln",
+  "logoURI": "https://assets.coingecko.com/coins/images/6450/large/linklogo.png?1547042644",
+  "website": "https://blockchain.line.me/",
+  "description": "LINK (LN) is a digital token created by Line Corporation is a subsidiary of the South Korean internet search giant Naver Corporation.\r\n\r\nLINK is the digital token that powers the LINE token economy. LINK can be used to pay for or receive benefits from various LINE service categories, such as content, commerce, social, gaming, and digital asset exchange. LINK holds a minimum value of USD 5 when used for payment within the LINE ecosystem, but can rise in value according to market conditions. \r\n\r\nLINE is focused on expanding the LINE token economy through LINK and a diverse range of dApps to build an ecosystem that serves LINE\u2019s hundreds of millions of global users.\r\n\r\nLINK is distributed as rewards for users of BITBOX. By offering a variety of LINK-related promotions, including rewards based on trading volume and deposits, the BITBOX team aims to encourage participation in the exchange.\r\n\r\nIn addition, when you pay trading fees on BITBOX with LINK, LINK will be accepted at a paid minimum value of USD 5. BITBOX has also prepared additional discount of USD 1 for every LINK used to pay for trading fees for the introduction of the function.",
+  "coingeckoId": "link",
+  "links": {
+    "twitter": "https://twitter.com/linebc_global",
+    "facebook": "https://www.facebook.com/link.ecosystem"
+  }
+}

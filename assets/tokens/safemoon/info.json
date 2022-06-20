@@ -1,0 +1,16 @@
+{
+  "key": "safemoon",
+  "name": "SafeMoon [OLD]",
+  "symbol": "safemoon",
+  "logoURI": "https://assets.coingecko.com/coins/images/14362/large/174x174-white.png?1617174846",
+  "website": "",
+  "description": "SafeMoon - Auto-generating liquidity protocol / Static farming.",
+  "coingeckoId": "safemoon",
+  "links": {
+    "twitter": "https://twitter.com/safemoon",
+    "facebook": "https://www.facebook.com/safemoonprotocol",
+    "telegram": "https://t.me/SafeMoonv2",
+    "reddit": "https://www.reddit.com/r/SafeMoon/",
+    "github": "https://github.com/safemoonprotocol/Safemoon.sol"
+  }
+}

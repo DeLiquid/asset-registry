@@ -1,0 +1,14 @@
+{
+  "key": "plex",
+  "name": "PLEX",
+  "symbol": "plex",
+  "logoURI": "https://assets.coingecko.com/coins/images/13383/large/plex.png?1608082719",
+  "website": "https://mineplex.io/",
+  "description": "MINEPLEX BANKING New Generation Mobile Cryptobank - Banking is a new generation mobile cryptobank with its own liquid token. The project is based on an exceptional balance between traditional financial systems, block technology and mobile applications.",
+  "coingeckoId": "plex",
+  "links": {
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5283540",
+    "telegram": "https://t.me/mineplex_news ",
+    "github": "https://github.com/mineplexio"
+  }
+}

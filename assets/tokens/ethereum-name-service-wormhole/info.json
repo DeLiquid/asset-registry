@@ -1,0 +1,12 @@
+{
+  "key": "ethereum-name-service-wormhole",
+  "name": "Ethereum Name Service (Wormhole)",
+  "symbol": "ens",
+  "logoURI": "https://assets.coingecko.com/coins/images/23045/large/ENS_wh_small.png?1644225427",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "ethereum-name-service-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

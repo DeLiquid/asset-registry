@@ -1,0 +1,14 @@
+{
+  "key": "litentry",
+  "name": "Litentry",
+  "symbol": "lit",
+  "logoURI": "https://assets.coingecko.com/coins/images/13825/large/logo_200x200.png?1612153317",
+  "website": "https://www.litentry.com/",
+  "description": "Litentry is a network that supports DID aggregation protocol and a decentralized mobile application.\r\n\r\nLitentry Network is built on top of the Substrate framework with the objective of enabling DID aggregation, verification, and credit calculation. It aims to simplify the process of resolving agnostic DID mechanisms by integrating DID standards into a modularized identity service.\r\n\r\nThe Litentry mobile application serves as a secure vehicle for users to collect their decentralized identities and manage them in one place. \r\n\r\nLIT token holders are also able to participate in on-chain governance in an efficient and secure manner.",
+  "coingeckoId": "litentry",
+  "links": {
+    "twitter": "https://twitter.com/litentry",
+    "telegram": "https://t.me/litentry",
+    "github": "https://github.com/litentry"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "iris-network",
+  "name": "IRISnet",
+  "symbol": "iris",
+  "logoURI": "https://assets.coingecko.com/coins/images/5135/large/IRIS.png?1557999365",
+  "website": "https://www.irisnet.org",
+  "description": "Inter-chain Service Infrastructure and Protocol \r\nTechnology Foundation for a Distributed Business Ecosystem",
+  "coingeckoId": "iris-network",
+  "links": {
+    "twitter": "https://twitter.com/irisnetwork",
+    "telegram": "https://t.me/irisnetwork",
+    "github": "https://github.com/irisnet/irishub"
+  }
+}

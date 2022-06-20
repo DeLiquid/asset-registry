@@ -1,0 +1,13 @@
+{
+  "key": "radicle",
+  "name": "Radicle",
+  "symbol": "rad",
+  "logoURI": "https://assets.coingecko.com/coins/images/14013/large/radicle.png?1614402918",
+  "website": "https://radicle.xyz/",
+  "description": "",
+  "coingeckoId": "radicle",
+  "links": {
+    "twitter": "https://twitter.com/radicle",
+    "github": "https://github.com/radicle-dev"
+  }
+}

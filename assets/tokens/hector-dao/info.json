@@ -1,0 +1,16 @@
+{
+  "key": "hector-dao",
+  "name": "Hector Finance",
+  "symbol": "hec",
+  "logoURI": "https://assets.coingecko.com/coins/images/19832/large/logo-final.png?1635981937",
+  "website": "https://hector.finance/",
+  "description": "Hector is a decentralized storage protocol based on the HEC token \u2013 collateralized and backed by the Hector DAO. HEC will be the reserve currency on/of Fantom.",
+  "coingeckoId": "hector-dao",
+  "links": {
+    "twitter": "https://twitter.com/HectorDAO_HEC",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5380648",
+    "telegram": "https://t.me/hectorDAO",
+    "reddit": "https://www.reddit.com/r/hectordao",
+    "github": "https://github.com/HectorDAO-HEC"
+  }
+}

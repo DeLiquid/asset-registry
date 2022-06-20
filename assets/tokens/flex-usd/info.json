@@ -1,0 +1,14 @@
+{
+  "key": "flex-usd",
+  "name": "flexUSD",
+  "symbol": "flexusd",
+  "logoURI": "https://assets.coingecko.com/coins/images/13323/large/flexUSD_2x.png?1607480702",
+  "website": " https://coinflex.com",
+  "description": "",
+  "coingeckoId": "flex-usd",
+  "links": {
+    "twitter": "https://twitter.com/CoinFLEXdotcom",
+    "telegram": "https://t.me/coinflex_EN",
+    "github": "https://github.com/coinflex-exchange"
+  }
+}

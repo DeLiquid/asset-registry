@@ -1,0 +1,14 @@
+{
+  "key": "gamedao",
+  "name": "GameDAO",
+  "symbol": "dao",
+  "logoURI": "https://assets.coingecko.com/coins/images/17846/large/gamedao.PNG?1629498646",
+  "website": "https://gamedao.io/",
+  "description": "GameDAO is a NFT encrypted artwork entertainment creation platform",
+  "coingeckoId": "gamedao",
+  "links": {
+    "twitter": "https://twitter.com/NFTGameplatform",
+    "telegram": "https://t.me/gamedaoio",
+    "github": "https://github.com/gamedaoio"
+  }
+}

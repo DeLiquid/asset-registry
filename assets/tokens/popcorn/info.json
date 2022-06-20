@@ -1,0 +1,15 @@
+{
+  "key": "popcorn",
+  "name": "Popcorn",
+  "symbol": "pop",
+  "logoURI": "https://assets.coingecko.com/coins/images/21438/large/pop.png?1644054028",
+  "website": "https://popcorn.network/",
+  "description": "Popcorn offers curated pools of strategies and DeFi products that not only generate high yield on crypto assets, but fund community-selected social impact organizations without any additional friction or cost to the end user.\r\n\r\nBy creating novel, yield-generating DeFi products, where a small fee is charged to be later contributed to public benefit, Popcorn bakes social good into the very foundation of the protocol. Members of the PopcornDAO, or POP token holders, are stewards of Popcorn and share the common goal of fueling the growth of the protocol, decentralizing the organization, and nurturing the mission of driving social impact for public benefit in perpetuity.\r\n\r\nThrough the development of yield-generating DeFi products and the implementation of participation incentives, Popcorn has created a sustainable system which generates and shares value among different classes of participants. The Popcorn Team is proud to introduce a community-driven, ESG-centric asset not only to DeFi, but to the world.",
+  "coingeckoId": "popcorn",
+  "links": {
+    "twitter": "https://twitter.com/Popcorn_DAO",
+    "telegram": "https://t.me/popcorndao",
+    "reddit": "https://www.reddit.com/r/popcorndao/",
+    "github": "https://github.com/popcorndao/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "railgun",
+  "name": "Railgun",
+  "symbol": "rail",
+  "logoURI": "https://assets.coingecko.com/coins/images/16840/large/railgun.jpeg?1625322775",
+  "website": "https://railgun.ch",
+  "description": "RAILGUN secures privacy for DEX trading and lending.  Built without any bridge or layer-2, RAILGUN is a smart contract system that gives zk-SNARK privacy to any transaction or smart contract interaction on Ethereum. \r\nUsing Railgun means users can be untraceable when they trade, use leverage platforms, or add liquidity, with absolutely any dApp on ETH.  It allows any user to build up a private balance and trade through it without withdrawing. It is fully on eth layer-1, so it does not trade off security by using layer 2 node system or cross-chain bridges.\r\nRAIL token is the governance token for the RAILGUN DAO, staking these brings special government and economic rights and privileges over the Railgun system.\r\nRAILGUN is designed for deployment on Ethereum, BSC, Polygon, and later others.",
+  "coingeckoId": "railgun",
+  "links": {
+    "twitter": "https://twitter.com/railgun_project",
+    "telegram": "https://t.me/railgunproject",
+    "github": "https://github.com/Railgun-Privacy/"
+  }
+}

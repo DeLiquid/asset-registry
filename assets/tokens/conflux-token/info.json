@@ -1,0 +1,15 @@
+{
+  "key": "conflux-token",
+  "name": "Conflux",
+  "symbol": "cfx",
+  "logoURI": "https://assets.coingecko.com/coins/images/13079/large/3vuYMbjN.png?1631512305",
+  "website": "https://confluxnetwork.org/",
+  "description": "What is Conflux \r\nConflux is a permissionless Layer 1 blockchain connecting decentralized economies across borders and protocols. Recently migrated to hybrid PoW/PoS consensus, Conflux provides a fast, secure, and scalable blockchain environment with zero congestion, low fees, and improved network security.\r\nAs the only regulatory compliant public blockchain in China, Conflux provides a unique advantage for projects building and expanding into Asia. In the region, Conflux has collaborated with global brands and government entities on blockchain and metaverse initiatives, including the city of Shanghai, McDonald's China, and Oreos. \r\nTo learn more about Conflux, visit confluxnetwork.org/\r\n \r\n\r\nWhat is the Conflux (CFX) Token? \r\nCFX is the native token for the Conflux Network. It is a hard-capped scarce asset used to pay fees, and secure the network through staking. Each CFX contains 10^18 Drip. Transactions on Conflux are handled similarly to those on the Ethereum network, with CFX playing a similar role as ETH. Users submit a contract with a gas limit and a gas price; the latter is denominated in CFX.\r\nUsers can interact with Conflux Network ecosystem applications through wallets. Users can use CFX to participate in governance votes, stake their tokens to earn network interest, or pay for the network's storage and transaction fees.\r\n\r\n\r\nWhere can I buy the Conflux token (CFX)?\r\nCFX is supported across leading exchanges such as Binance, KuCoin, OKEX, Gate, and MEXC\r\n\r\n\r\nWhere can I stake the Conflux token (CFX)? \r\nCFX can be staked at any of the Staking Pools operated by the Conflux community. For the latest information please view the Conflux Forum",
+  "coingeckoId": "conflux-token",
+  "links": {
+    "twitter": "https://twitter.com/Conflux_Network",
+    "telegram": "https://t.me/Conflux_English",
+    "reddit": "https://www.reddit.com/r/Conflux_Network/",
+    "github": "https://github.com/Conflux-Chain/"
+  }
+}

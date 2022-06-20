@@ -1,0 +1,15 @@
+{
+  "key": "verus-coin",
+  "name": "Verus Coin",
+  "symbol": "vrsc",
+  "logoURI": "https://assets.coingecko.com/coins/images/6769/large/Screenshot_33.png?1581942253",
+  "website": "https://verus.io",
+  "description": "Verus Coin aims to be the world's most advanced technology, zero knowledge privacy-enabling blockchain, Verus Coin brings Sapling performance and zero knowledge features to an intelligent system with a completely unique, combined proof of stake/proof of work consensus algorithm that solves the nothing at stake problem. With this and its approach towards CPU mining and ASICs, Verus Coin may also be the most naturally decentralizing and attack resistant blockchain to exist.\r\nOver and above its leading privacy, interchain contracts, and security features, Verus Coin's next steps include automated provisioning of public blockchains as a service, using the same technology that Verus developers created and used to solve the \"\"nothing at stake\"\" problem. At that point, the first applications that will allow provisioning of chains on their behalf will be polls and elections.\r\n\r\nVerus introduces a new consensus algorithm called Proof of Power, a 50% PoW / 50% PoS algorithm, which solves theoretical weaknesses in other PoS systems, and is provably immune to 51% hash attacks, making Verus one of, if not the most, double-spend resistant public blockchain(s) running. With its groundbreaking consensus protocol, Verus also uses a unique hash algorithm, VerusHash, a quantum secure hash algorithm that is near-equally mineable on both CPUs and GPUs.  The Verus Coin\u2019s project vision includes automatically provisioned public blockchains as a service.  Verus was a no-ICO, no-premine, 100% fairly launched community project.",
+  "coingeckoId": "verus-coin",
+  "links": {
+    "twitter": "https://twitter.com/veruscoin",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=4070404",
+    "reddit": "https://www.reddit.com/r/VerusCoin/",
+    "github": "https://github.com/VerusCoin/VerusCoin"
+  }
+}

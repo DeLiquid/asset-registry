@@ -1,0 +1,12 @@
+{
+  "key": "basic-attention-token-wormhole",
+  "name": "Basic Attention Token (Wormhole)",
+  "symbol": "bat",
+  "logoURI": "https://assets.coingecko.com/coins/images/23026/large/BAT_wh_small.png?1644224509",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "basic-attention-token-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

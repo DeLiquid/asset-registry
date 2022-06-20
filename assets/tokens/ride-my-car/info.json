@@ -1,0 +1,14 @@
+{
+  "key": "ride-my-car",
+  "name": "Ride My Car",
+  "symbol": "ride",
+  "logoURI": "https://assets.coingecko.com/coins/images/3095/large/ridemycar.png?1547037461",
+  "website": "http://www.ridemycar.net/",
+  "description": "Ride My Car is a ridesharing platform that functions similarly to any pre-booked transport service website. with the ability to search rides from start to end location.  RIDE serves as the primary payment method for the platform. Users can earn RIDE by selling unfilled seats to passengers wishing to make the same journey. RIDE is a PoS cryptocurrency with a 4% APR.",
+  "coingeckoId": "ride-my-car",
+  "links": {
+    "twitter": "https://twitter.com/ridemycar_team",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1562482",
+    "github": "https://github.com/RideMyCar/RideMyCar-Coin"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key": "aca-token",
+  "name": "ACA",
+  "symbol": "aca",
+  "logoURI": "https://assets.coingecko.com/coins/images/19127/large/aca-icon256x256.png?1634522374",
+  "website": "https://acatoken.io/",
+  "description": "ACA Token is a cryptocurrency token that powers all AdvanceCryptoAcademy protocols. 1st Protocol: HedgeBoard",
+  "coingeckoId": "aca-token",
+  "links": {
+    "twitter": "https://twitter.com/acatoken_io",
+    "telegram": "https://t.me/officialACAToken"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "fox-finance",
+  "name": "Fox Finance",
+  "symbol": "fox",
+  "logoURI": "https://assets.coingecko.com/coins/images/14745/large/fox_finance_logo.png?1618067715",
+  "website": "https://foxfinance.io/",
+  "description": "FOX is an auto-staking token on the Binance Smart Chain, which grants rewards for its holders. 6% of each transaction goes to liquidity with a rolling 4 year lock, and another 6% goes to each holder by stake (including the burn wallet). Our goal is to create an ecosystem and community of awareness focused on wildlife conservation through our advocacy platform FOXES IN ACTION.\r\n\r\nSince inception, FOXEN IN ACTION have performed multiple advocacy campaigns, rewarding the community for tasks such as planting trees and reducing plastic waste through reusable straws. We've virtually adopted several foxes through the World Wildlife Fund and provided other financial donations to worldwide wildlife organizations. We recently released our official FOXNFT contract with a trading platform in alpha on the Binance Smart Chain, which will be used to sell professional art and 3D models for charitable donations. \r\n\r\nAbove all else, FOX considers itself to be a true CharityToken: we seek to use our token's economic power to build greater communities of awareness on the Binance Smart Chain, and to make an impact in the world environment through donations, action, and new and emerging blockchain technologies.",
+  "coingeckoId": "fox-finance",
+  "links": {
+    "twitter": "https://twitter.com/foxfinancebsc",
+    "telegram": "https://t.me/foxfinancebsc",
+    "reddit": "https://www.reddit.com/r/foxfinance/",
+    "github": "https://github.com/FoxFinance12/FOXFINANCE"
+  }
+}

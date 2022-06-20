@@ -1,0 +1,13 @@
+{
+  "key": "galatasaray-fan-token",
+  "name": "Galatasaray Fan Token",
+  "symbol": "gal",
+  "logoURI": "https://assets.coingecko.com/coins/images/11585/large/Galatasaray-10.png?1604736731",
+  "website": "https://www.galatasaray.org/",
+  "description": "",
+  "coingeckoId": "galatasaray-fan-token",
+  "links": {
+    "twitter": "https://twitter.com/GalatasaraySK",
+    "facebook": "https://www.facebook.com/Galatasaray"
+  }
+}

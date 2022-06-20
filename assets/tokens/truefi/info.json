@@ -1,0 +1,14 @@
+{
+  "key": "truefi",
+  "name": "TrueFi",
+  "symbol": "tru",
+  "logoURI": "https://assets.coingecko.com/coins/images/13180/large/truefi_glyph_color.png?1617610941",
+  "website": "http://truefi.io/",
+  "description": "It is a DeFi\u00a0uncollateralized lending protocol developed by the TrustToken team. Lenders can borrow cryptocurrencies with predictable loan rates without the need to pledge collaterals like Aave, Compound, and Venus.\u00a0In the long term, TrueFi aims to become a market-driven, automated credit rating and lending system. This will demand building beyond the rigid, conservative constraints such as minimum/maximum APY and high TRU participation factor. It will also require increased levels of responsibility from users, especially for onboarding new borrowers beyond the pre-approved whitelist and approving new loan types.",
+  "coingeckoId": "truefi",
+  "links": {
+    "twitter": "https://twitter.com/TrustToken",
+    "telegram": "https://t.me/jointruefi",
+    "github": "https://github.com/trusttoken/truefi-spec"
+  }
+}

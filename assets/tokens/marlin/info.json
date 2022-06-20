@@ -1,0 +1,16 @@
+{
+  "key": "marlin",
+  "name": "Marlin",
+  "symbol": "pond",
+  "logoURI": "https://assets.coingecko.com/coins/images/8903/large/POND_200x200.png?1622515451",
+  "website": "https://www.marlin.pro/",
+  "description": "High-performance network infrastructure for modern decentralized networks\r\n\r\n",
+  "coingeckoId": "marlin",
+  "links": {
+    "twitter": "https://twitter.com/marlinprotocol",
+    "facebook": "https://www.facebook.com/marlinprotocol",
+    "telegram": "https://t.me/marlinprotocol",
+    "reddit": "https://www.reddit.com/r/marlinprotocol/",
+    "github": "https://github.com/marlinprotocol/OpenWeaver"
+  }
+}

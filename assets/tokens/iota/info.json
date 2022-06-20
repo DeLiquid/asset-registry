@@ -1,0 +1,15 @@
+{
+  "key": "iota",
+  "name": "IOTA",
+  "symbol": "miota",
+  "logoURI": "https://assets.coingecko.com/coins/images/692/large/IOTA_Swirl.png?1604238557",
+  "website": "http://iota.org/",
+  "description": "IOTA is a distributed ledger for the Internet of Things. The first ledger with microtransactions without fees as well as secure data transfer. Quantum proof. IOTA is a ground breaking new open-source distributed ledger that does not use a blockchain. Its innovative new quantum-proof protocol, known as the Tangle, gives rise to unique new features like zero fees, infinite scalability, fast transactions, secure data transfer and many others. IOTA is initially focused on serving as the backbone of the Internet-of-Things (IoT).\r\n\r\nIOTA is a cryptocurrency that has no transaction fees and requires no miners in order to process transactions. It does, however, require some computational power to submit a transaction, making it perfect for machines to use as a currency and distributed communication protocol for the Internet of Things \u201cIoT\u201d. The main purpose of IOTA is to solve some of the major problems with Blockchain technology, the main one being that the bigger the Blockchain (such as <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>), the slower, more expensive, and also more restricting it is to actually transfer funds. Another issue with the Blockchain is size, as more and more Blocks are added, the longer the Blockchain gets, and therefore the less amount of computers are able to mine it. Right now BTC is over 150GB long, and so is <a href=\"https://www.coingecko.com/en/coins/ethereum\">ETH</a>. If this size increased tenfold, very few computers would be able to mine it at all. Making them relatively centralized (the top 2 Bitcoin mining pools own about 56% of hashing power).\r\n",
+  "coingeckoId": "iota",
+  "links": {
+    "twitter": "https://twitter.com/iota",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1216479",
+    "reddit": "https://www.reddit.com/r/Iota",
+    "github": "https://github.com/iotaledger"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "key": "jetcoin",
+  "name": "Jetcoin",
+  "symbol": "jet",
+  "logoURI": "https://assets.coingecko.com/coins/images/2487/large/jetcoin.png?1547974820",
+  "website": "http://www.jetcoininstitute.com/",
+  "description": "Jetcoin, the new digital fuel for the world of sports and entertainment, gives fans and supporters a unique opportunity to benefit directly from the success of their favourite athletes and stars.  It disrupts traditional fan-athlete/talent relationships by enabling anyone to launch and support the careers of tomorrow\u2019s stars. Using block chain technology, Jetcoin decentralises the world of sports and entertainment, ruled today by powerful agents and corporations. Jetcoin tilts the power balance by establishing the first platform where anyone can own IP rights of promising athletes and talents. Also the first digital currency to be backed by precious metal collateral (gold) via a partnership with XNF, Jetcoin is tradeable across 3 continents through DXMarkets. ",
+  "coingeckoId": "jetcoin",
+  "links": {
+    "twitter": "https://twitter.com/jetcoins",
+    "facebook": "https://www.facebook.com/jetcoins",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1011112",
+    "telegram": "https://t.me/jetcoins",
+    "reddit": "https://www.reddit.com/r/Jetcoin",
+    "github": "https://github.com/jetcoins/jetcoin"
+  }
+}

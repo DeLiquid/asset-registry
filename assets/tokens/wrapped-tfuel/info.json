@@ -1,0 +1,13 @@
+{
+  "key": "wrapped-tfuel",
+  "name": "Wrapped Theta Fuel",
+  "symbol": "tfuel",
+  "logoURI": "https://assets.coingecko.com/coins/images/23270/large/logo.png?1643452733",
+  "website": "https://www.thetatoken.org/",
+  "description": "Wrapped TFuel is the Theta EVM compatible wrapped version of <a href=\"https://www.coingecko.com/en/coins/theta-fuel\">Theta Fuel</a> tokens.",
+  "coingeckoId": "wrapped-tfuel",
+  "links": {
+    "twitter": "https://twitter.com/Theta_Network",
+    "reddit": "https://www.reddit.com/r/theta_network/"
+  }
+}

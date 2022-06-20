@@ -1,0 +1,14 @@
+{
+  "key": "rose",
+  "name": "Rose",
+  "symbol": "rose",
+  "logoURI": "https://assets.coingecko.com/coins/images/22104/large/rose.PNG?1640827477",
+  "website": "https://app.rose.fi/",
+  "description": "Rose is a liquidity protocol on Aurora composed of a stablecoin & wrapped assets exchange, and a Collateralized Debt Position (CDP) based stablecoin utilizing interest bearing tokens as collateral.\r\n\r\nThe first product is the stableswap, the first Automated Market Maker (AMM) decentralized exchange on Aurora to trade pegged assets such as stablecoins and wrapped assets against each other with low slippage and minimum trading fees.\r\n\r\nRose Dollar, RUSD, is a USD pegged stablecoin that users are able to mint by depositing interest-bearing tokens (ibTKN). There is utility for the RUSD from the get-go because users will be able to provide RUSD as liquidity and earn ROSE tokens as rewards from the liquidity mining. Users will be able to leverage their assets by borrowing RUSD and then switching between whichever stablecoin they need to earn more yield or acquire more assets.",
+  "coingeckoId": "rose",
+  "links": {
+    "twitter": "https://twitter.com/roseonaurora",
+    "telegram": "https://t.me/RoseOnAurora",
+    "github": "https://github.com/RoseOnAurora"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key": "s-wallet-protocol",
+  "name": "S-Wallet Protocol",
+  "symbol": "swp",
+  "logoURI": "https://assets.coingecko.com/coins/images/22843/large/P6jfqnuo.png?1643194948",
+  "website": "https://swp.s-wallet.ai/main",
+  "description": "S-Wallet is a comprehensive decentralized ecosystem that enables rapid access to digital assets and DeFi projects. The platform runs on the PoS consensus algorithm, providing users with regular rewards and airdrop programs, staking programs, and the ability to borrow USDT/USDC against assets in the wallet. The ecosystem has support in over 100 countries and operates on four blockchain networks: BTC, ETH, TRX, BSC. \r\n\r\nS-Wallet's mission is to make financial transactions globally accessible to users within a single secure, functional, and convenient platform.",
+  "coingeckoId": "s-wallet-protocol",
+  "links": {
+    "twitter": "https://twitter.com/SWallet_ai",
+    "telegram": "https://t.me/SWallet_ai"
+  }
+}

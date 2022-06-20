@@ -1,0 +1,12 @@
+{
+  "key": "the-graph-wormhole",
+  "name": "The Graph (Wormhole)",
+  "symbol": "grt",
+  "logoURI": "https://assets.coingecko.com/coins/images/22875/large/GRT_wh_small.png?1644225768",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "the-graph-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

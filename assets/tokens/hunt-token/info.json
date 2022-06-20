@@ -1,0 +1,15 @@
+{
+  "key": "hunt-token",
+  "name": "Hunt",
+  "symbol": "hunt",
+  "logoURI": "https://assets.coingecko.com/coins/images/7989/large/HUNT.png?1571024256",
+  "website": "https://token.hunt.town/",
+  "description": "HUNT is a gamified lifestyle DApp network for digital nomads all around the world. It aims to create a DApp world that empowers people to utilise the gamified blockchain and cryptocurrency mechanism. Currently, there are five DApps on the platform with over 200,000 users from 150+ countries all around the world.\r\n\r\nMint Club (https://mint.club/) - No-code/no-LP-required token building platform\r\nNeverlose.money (https://neverlose.money/) - Gamified HODL Protocol for Long-term investors\r\nNomadtask (https://nomadtask.com/) - On-demand task marketplace\r\nSteemhunt (https://steemhunt.com/) - Daily ranking community for cool new products\r\nLOL Hunt (https://lol.hunt.town/) - Daily top chart for funny Youtube clips",
+  "coingeckoId": "hunt-token",
+  "links": {
+    "twitter": "https://twitter.com/steemhunt",
+    "telegram": "https://t.me/steemhunt",
+    "reddit": "https://www.reddit.com/r/steemhunt",
+    "github": "https://github.com/Steemhunt"
+  }
+}

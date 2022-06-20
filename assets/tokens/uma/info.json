@@ -1,0 +1,13 @@
+{
+  "key": "uma",
+  "name": "UMA",
+  "symbol": "uma",
+  "logoURI": "https://assets.coingecko.com/coins/images/10951/large/UMA.png?1586307916",
+  "website": "https://umaproject.org",
+  "description": "UMA is a decentralized financial contracts platform built to enable Universal Market Access.\r\n\r\nUMA builds infrastructure for \u201cpriceless\u201d financial contracts: DeFi contracts that minimize oracle usage, avoiding many of the security and scalability issues that have plagued decentralized finance. The first contracts built with UMA are priceless synthetic tokens: ERC20 tokens that can track anything while minimizing the need for on-chain price data.\r\n\r\nThe UMA project token powers the system in two ways:\r\n\r\nGovernance: UMA token holders govern what types of contracts can access the system, which asset types are supported, and key system parameters and upgrades.\r\n\r\nPrice requests: the priceless methodology minimizes on-chain price requests but doesn\u2019t eliminate them \u2014 when contract interactions are disputed, UMA token holders fulfill price requests via the Data Verification Mechanism, or DVM.\r\n\r\nUMA tokens enable the holder to participate in community governance and resolve contract disputes through the DVM. The tokens are not an investment opportunity.",
+  "coingeckoId": "uma",
+  "links": {
+    "twitter": "https://twitter.com/UMAprotocol",
+    "github": "https://github.com/UMAprotocol/protocol"
+  }
+}

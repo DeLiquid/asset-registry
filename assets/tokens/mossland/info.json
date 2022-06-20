@@ -1,0 +1,16 @@
+{
+  "key": "mossland",
+  "name": "Mossland",
+  "symbol": "moc",
+  "logoURI": "https://assets.coingecko.com/coins/images/2374/large/moc.png?1547036557",
+  "website": "http://moss.land/",
+  "description": "\u201cMossland\u201d is a location-based AR mobile game based on real estate. Users can identify real properties in vicinity, acquire and trade them in the game. Virtual properties in the game can be tradable and liquified through cryptocurrency exchange, so users will put time and effort to increase the value of their properties.",
+  "coingeckoId": "mossland",
+  "links": {
+    "twitter": "https://twitter.com/TheMossland",
+    "facebook": "https://www.facebook.com/TheMossland",
+    "telegram": "https://t.me/mossland",
+    "reddit": "https://www.reddit.com/r/Mossland/",
+    "github": "https://github.com/realityreflection/MossCoin"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key": "coreum",
+  "name": "Coreum",
+  "symbol": "core",
+  "logoURI": "https://assets.coingecko.com/coins/images/24169/large/2b7Phdmz_400x400.png?1646718190",
+  "website": "https://www.coreum.com/",
+  "description": "Coreum is a fast Layer-1 #Blockchain with smart contract, set as a core infrastructure for future decentralized apps and #DeFi.",
+  "coingeckoId": "coreum",
+  "links": {
+    "twitter": "https://twitter.com/CoreumOfficial",
+    "telegram": "https://t.me/CoreumOfficial"
+  }
+}

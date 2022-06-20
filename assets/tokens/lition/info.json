@@ -1,0 +1,16 @@
+{
+  "key": "lition",
+  "name": "Lition",
+  "symbol": "lit",
+  "logoURI": "https://assets.coingecko.com/coins/images/6580/large/Lition_ico.png?1547042787",
+  "website": "https://www.lition.io/",
+  "description": "Lition is a company developing private side chains with deletable data features on top of the Ethereum Blockchain. \r\nAlong with the proprietary layer 2 infrastructure co-innovated with SAP, the world's largest business software provider, we have developed three use cases:\r\n- P2P Energy dApp that currently supplies customers with electricity in over 100 cities in Germany\r\n- Syndicated loan dApp, together with VR-Bank\r\n- Infrastructure layer security tokens for private data management, in collaboration with Tokeny",
+  "coingeckoId": "lition",
+  "links": {
+    "twitter": "https://twitter.com/Lition_Block",
+    "facebook": "https://www.facebook.com/LitionOfficial",
+    "telegram": "https://t.me/LitionEnergy",
+    "reddit": "https://www.reddit.com",
+    "github": "https://github.com/lition-blockchain/energy-use-case-trading-client"
+  }
+}

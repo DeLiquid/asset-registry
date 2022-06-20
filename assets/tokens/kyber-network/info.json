@@ -1,0 +1,17 @@
+{
+  "key": "kyber-network",
+  "name": "Kyber Network Crystal Legacy",
+  "symbol": "kncl",
+  "logoURI": "https://assets.coingecko.com/coins/images/947/large/logo-kncl.png?1618984814",
+  "website": "https://kyber.network/",
+  "description": "",
+  "coingeckoId": "kyber-network",
+  "links": {
+    "blog": "https://blog.kyber.network/",
+    "github": "https://github.com/kybernetwork/KyberWallet",
+    "twitter": "https://twitter.com/kybernetwork",
+    "telegram": "https://t.me/officialkybernetwork",
+    "whitepaper": "https://kyber.network/assets/KyberNetworkWhitepaper.pdf",
+    "reddit": "https://www.reddit.com/r/kybernetwork/"
+  }
+}

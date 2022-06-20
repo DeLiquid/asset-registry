@@ -1,0 +1,14 @@
+{
+  "key": "qredo",
+  "name": "Qredo",
+  "symbol": "qrdo",
+  "logoURI": "https://assets.coingecko.com/coins/images/17541/large/qrdo.png?1630637735",
+  "website": "https://www.qredo.com/",
+  "description": "Qredo is rearchitecting digital asset ownership and blockchain connectivity. A radical new approach to bring liquidity and capital efficiency to the blockchain economy, Qredo has pioneered the first decentralized trustless multi-party computation (MPC) custodial network. This advancement enables Qredo to offer decentralized custody, native cross-chain swaps, and cross-platform liquidity access.",
+  "coingeckoId": "qredo",
+  "links": {
+    "twitter": "https://twitter.com/QredoNetwork",
+    "telegram": "https://t.me/qredonetwork",
+    "github": "https://github.com/qredo"
+  }
+}

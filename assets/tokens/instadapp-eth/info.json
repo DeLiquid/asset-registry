@@ -1,0 +1,10 @@
+{
+  "key": "instadapp-eth",
+  "name": "Instadapp ETH",
+  "symbol": "ieth",
+  "logoURI": "https://assets.coingecko.com/coins/images/25822/large/iETH_100x100.png?1654055637",
+  "website": "https://instadapp.io/",
+  "description": "",
+  "coingeckoId": "instadapp-eth",
+  "links": {}
+}

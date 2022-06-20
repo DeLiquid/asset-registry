@@ -1,0 +1,15 @@
+{
+  "key": "dollars",
+  "name": "Dollars",
+  "symbol": "usdx",
+  "logoURI": "https://assets.coingecko.com/coins/images/12377/large/rCdP56C.png?1599445426",
+  "website": "https://www.dollarprotocol.com",
+  "description": "The stablecoin in Dollar Protocol, a better elastic money powered by dollars and seigniorage shares",
+  "coingeckoId": "dollars",
+  "links": {
+    "twitter": "https://twitter.com/DollarProtocol",
+    "telegram": "https://t.me/dollarprotocol",
+    "reddit": "https://www.reddit.com/r/DollarProtocol/",
+    "github": "https://github.com/dollar-protocol"
+  }
+}

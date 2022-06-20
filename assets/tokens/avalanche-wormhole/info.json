@@ -1,0 +1,12 @@
+{
+  "key": "avalanche-wormhole",
+  "name": "Avalanche (Wormhole)",
+  "symbol": "avax",
+  "logoURI": "https://assets.coingecko.com/coins/images/22943/large/AVAX_wh_small.png?1644224391",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "avalanche-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

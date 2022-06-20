@@ -1,0 +1,14 @@
+{
+  "key": "musd",
+  "name": "mStable USD",
+  "symbol": "musd",
+  "logoURI": "https://assets.coingecko.com/coins/images/11576/large/mStable_USD.png?1595591803",
+  "website": "http://mstable.org",
+  "description": "mUSD is a meta-stablecoin with a native yield ",
+  "coingeckoId": "musd",
+  "links": {
+    "twitter": "https://twitter.com/mstable_",
+    "telegram": "https://t.me/mstableofficial",
+    "github": "https://github.com/mstable"
+  }
+}

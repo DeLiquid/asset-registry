@@ -1,0 +1,16 @@
+{
+  "key": "helium",
+  "name": "Helium",
+  "symbol": "hnt",
+  "logoURI": "https://assets.coingecko.com/coins/images/4284/large/Helium_HNT.png?1612620071",
+  "website": "https://www.helium.com/",
+  "description": "Helium is a decentralized machine network powered by a physical blockchain. The network is created by gateways who also double as miners on our network. These gateway operators can earn tokens based on coverage they provide as well as transaction fees gained from machines connecting to their gateway\r\n\r\nHelium is a new cryptocurrency. Hotspots earn for providing and validating wireless coverage and when devices on the network connect to the internet through Hospots\r\n\r\nHelium is mined and distributed to Hotspot Owners, Helium Inc, and investors.\r\nThere is no pre-mine of Helium, and every month approximately 5,000,000 new Helium are minted.\r\n\r\nAt the end of each mining period, roughly every 30 to 60 mins, Helium is distributed according to the allocation shown:",
+  "coingeckoId": "helium",
+  "links": {
+    "twitter": "https://twitter.com/helium",
+    "facebook": "https://www.facebook.com/heliumsystems",
+    "telegram": "https://t.me/helium_network",
+    "reddit": "https://www.reddit.com/r/HeliumNetwork",
+    "github": "https://github.com/helium/erlang-hbbft"
+  }
+}

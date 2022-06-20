@@ -1,0 +1,12 @@
+{
+  "key": "bancor-wormhole",
+  "name": "Bancor (Wormhole)",
+  "symbol": "bnt",
+  "logoURI": "https://assets.coingecko.com/coins/images/23027/large/BNT_wh_small.png?1644224615",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "bancor-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

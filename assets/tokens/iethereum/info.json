@@ -1,0 +1,15 @@
+{
+  "key": "iethereum",
+  "name": "iEthereum",
+  "symbol": "ieth",
+  "logoURI": "https://assets.coingecko.com/coins/images/1065/large/ieth.png?1600765203",
+  "website": "https://iethereum.trade/",
+  "description": "iEthereum is decentralized worldwide cryptocurrency, based on the Ethereum structure.\r\nIt enables real-time, peer-to-peer value exchange and payment services across both fiat money and decentralized currencies,\r\nalso across jurisdictions and organizational silos. iETH provides a next-generation value transfer service operating across currencies and asset types.\r\nThrough the iEthereum, anyone will be able to conduct financial transactions such as payments, remittances, payroll deposit, B2B commerce,\r\nsupply-chain finance, loyalty programs, asset management and trading, and other on-demand services, in a completely decentralized and inexpensive way.\r\nAlso, it\u2019s fully compatible with all Ethereum wallets which support ERC20 Tokens or smart-contracts that uses the ERC20 Standard.",
+  "coingeckoId": "iethereum",
+  "links": {
+    "twitter": "https://twitter.com/iethereum",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2270135",
+    "telegram": "https://t.me/iethereum_official",
+    "github": "https://github.com/ethereumfan/iethereum"
+  }
+}

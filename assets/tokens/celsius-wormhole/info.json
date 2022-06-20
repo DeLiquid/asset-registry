@@ -1,0 +1,12 @@
+{
+  "key": "celsius-wormhole",
+  "name": "Celsius (Wormhole)",
+  "symbol": "cel",
+  "logoURI": "https://assets.coingecko.com/coins/images/22971/large/CEL_wh_small.png?1644224813",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "celsius-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "skale",
+  "name": "SKALE",
+  "symbol": "skl",
+  "logoURI": "https://assets.coingecko.com/coins/images/13245/large/SKALE_token_300x300.png?1606789574",
+  "website": "https://skale.network/",
+  "description": "",
+  "coingeckoId": "skale",
+  "links": {
+    "twitter": "https://twitter.com/SkaleNetwork",
+    "telegram": "https://t.me/skaleofficial",
+    "reddit": "https://www.reddit.com/r/SKALEnetwork/",
+    "github": "https://github.com/skalenetwork"
+  }
+}

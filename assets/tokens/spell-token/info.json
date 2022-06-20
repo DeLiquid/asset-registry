@@ -1,0 +1,13 @@
+{
+  "key": "spell-token",
+  "name": "Spell",
+  "symbol": "spell",
+  "logoURI": "https://assets.coingecko.com/coins/images/15861/large/abracadabra-3.png?1622544862",
+  "website": "https://abracadabra.money/",
+  "description": "",
+  "coingeckoId": "spell-token",
+  "links": {
+    "twitter": "https://twitter.com/MIM_Spell",
+    "telegram": "https://t.me/abracadabramoney"
+  }
+}

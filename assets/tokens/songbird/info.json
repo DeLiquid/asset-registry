@@ -1,0 +1,13 @@
+{
+  "key": "songbird",
+  "name": "Songbird",
+  "symbol": "sgb",
+  "logoURI": "https://assets.coingecko.com/coins/images/18663/large/SGB_512x512.png?1645088006",
+  "website": "https://flare.xyz/",
+  "description": "",
+  "coingeckoId": "songbird",
+  "links": {
+    "twitter": "https://twitter.com/FlareNetworks",
+    "telegram": "https://t.me/FlareNetwork"
+  }
+}

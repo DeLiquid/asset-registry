@@ -1,0 +1,14 @@
+{
+  "key": "vaiot",
+  "name": "Vaiot",
+  "symbol": "vai",
+  "logoURI": "https://assets.coingecko.com/coins/images/13981/large/VAIOT_logo.png?1613456546",
+  "website": "https://vaiot.ai",
+  "description": "VAIOT offers a portfolio of blockchain-based AI Assistants for businesses and consumers to provide automated services and transactions. Easier, cheaper and faster.",
+  "coingeckoId": "vaiot",
+  "links": {
+    "twitter": "https://twitter.com/vaiot_ltd",
+    "telegram": "https://t.me/VAIOT_Community",
+    "github": "https://github.com/VAIoT"
+  }
+}

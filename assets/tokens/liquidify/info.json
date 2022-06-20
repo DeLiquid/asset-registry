@@ -1,0 +1,13 @@
+{
+  "key": "liquidify",
+  "name": "Liquidify",
+  "symbol": "lat",
+  "logoURI": "https://assets.coingecko.com/coins/images/20628/large/liquidify.PNG?1637323038",
+  "website": "https://liquidify.io/",
+  "description": "Liquidify is the world's first liquidity accelerator for long-tail crypto assets, more simply: small cap coins. Liquidify is a DeFi protocol specifically designed to improve the value and liquidity of such long-tail crypto assets by pooling them together with highly liquid mainstream cryptocurrencies in a single asset pool. Users of the protocol will receive LAT and LFY, LAT is backed by the total asset pool value plus utility value, while LFY can be used in protocol governance.\r\n\r\nUsers can synthesize a number of whitelisted tokens and receive LAT+LFY - while retaining ownership of their original tokens! They can exchange back the original amount of tokens at any time. This doubles the user's chances of winning: if LAT goes up, they win. If the collateralized tokens they synthetized via the protocol go up - they can just redeem them and win as well. Double the chances. Moreover, NFT synthetization will be implemented in our protocol soon: Users will be able to use NFTs as collateral to get liquidity in the form of LAT and LFY. Let's liquefy all assets!\r\n\r\nThe team behind Liquidify consists of 20 professionals, all with years of experience in technology, finance, and crypto. Once the initial development phases are complete, Liquidify will become fully decentralized and governed by a DAO. Governance rights will be exercised via the protocol governance token LFY.",
+  "coingeckoId": "liquidify",
+  "links": {
+    "twitter": "https://twitter.com/Liquidifyio",
+    "telegram": "https://t.me/liquidifyio"
+  }
+}

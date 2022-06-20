@@ -1,0 +1,14 @@
+{
+  "key": "numeraire",
+  "name": "Numeraire",
+  "symbol": "nmr",
+  "logoURI": "https://assets.coingecko.com/coins/images/752/large/numeraire.png?1592538976",
+  "website": "https://erasure.world/",
+  "description": "A new kind of hedge fund built by a network of data scientists.",
+  "coingeckoId": "numeraire",
+  "links": {
+    "twitter": "https://twitter.com/numerai",
+    "reddit": "https://www.reddit.com/r/numerai",
+    "github": "https://github.com/erasureprotocol"
+  }
+}

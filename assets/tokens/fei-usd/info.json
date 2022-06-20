@@ -1,0 +1,13 @@
+{
+  "key": "fei-usd",
+  "name": "Fei USD",
+  "symbol": "fei",
+  "logoURI": "https://assets.coingecko.com/coins/images/14570/large/ZqsF51Re_400x400.png?1617082206",
+  "website": "https://fei.money/",
+  "description": "FEI uses a new kind of stablecoin mechanism called protocol controlled value (PCV). It is more capital-efficient, has a fair distribution, and is fully decentralized. The protocol uses the value it controls to maintain liquid secondary markets.\r\n\r\nFei Labs is the team that created FEI, a highly scalable, decentralized, and reserve-backed stablecoin that can meet DeFi\u2019s needs without relying on centralized assets for collateral, that unlocks next-generation integration potential. Our mission is to be the stable coin of DeFi backed by some of the top minds in the space, including a16z, Nascent, Variant, Coinbase,\r\n\r\nFei v2 launches in late 2021, bringing 1:1 redeemability, TRIBE buybacks/backstop, and algorithmic PCV management: https://medium.com/fei-protocol/introducing-fei-v2-6f56afe7a1b5",
+  "coingeckoId": "fei-usd",
+  "links": {
+    "twitter": "https://twitter.com/feiprotocol",
+    "telegram": "https://t.me/feiprotocol"
+  }
+}

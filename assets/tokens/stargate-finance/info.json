@@ -1,0 +1,10 @@
+{
+  "key": "stargate-finance",
+  "name": "Stargate Finance",
+  "symbol": "stg",
+  "logoURI": "https://assets.coingecko.com/coins/images/24413/large/STG_LOGO.png?1647654518",
+  "website": "https://stargate.finance/",
+  "description": "A composable native asset bridge with unified liquidity and instant guaranteed finality",
+  "coingeckoId": "stargate-finance",
+  "links": {}
+}

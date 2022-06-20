@@ -1,0 +1,17 @@
+{
+  "key": "menlo-one",
+  "name": "Menlo One",
+  "symbol": "one",
+  "logoURI": "https://assets.coingecko.com/coins/images/3947/large/menlo-one.png?1547038971",
+  "website": "https://menlo.one",
+  "description": "Menlo One is a crypto-tech company that has built an open-source framework for making decentralized applications easier and faster to use in the Web 3.0 era. Menlo One decentralized database and Proof-of-Reputation incentive system is the infrastructure that enables the Web 3.0 generation of marketplaces, social media platforms, and future apps to be as fast and performant as their centralized predecessors.\r\n\r\nBuilt on the Ethereum network, Menlo One\u2019s technology offers communication, social, and automation capabilities that were previously unavailable. Together, these improvements address the critical limitations around user experience, security, and compliance that presently stymie widespread adoption. \r\n\r\nMenlo One framework is being used to develop the only token sale marketplace with security, messaging & governance for making the Token Economy mainstream. \r\n",
+  "coingeckoId": "menlo-one",
+  "links": {
+    "twitter": "https://twitter.com/menloone",
+    "facebook": "https://www.facebook.com/menloone",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=3904487",
+    "telegram": "https://t.me/Menloone",
+    "reddit": "https://www.reddit.com/r/menloone/",
+    "github": "https://github.com/MenloOne"
+  }
+}

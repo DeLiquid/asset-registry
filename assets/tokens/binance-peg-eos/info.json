@@ -1,0 +1,15 @@
+{
+  "key": "binance-peg-eos",
+  "name": "Binance-Peg EOS",
+  "symbol": "eos",
+  "logoURI": "https://assets.coingecko.com/coins/images/15771/large/eos-eos-logo.png?1621834238",
+  "website": "https://eos.io/",
+  "description": "Tokens that are wrapped and pegged by Binance on a 1:1 ratio to the corresponding native token. Also supports BEP20 token deposits and withdrawals at Binance.com",
+  "coingeckoId": "binance-peg-eos",
+  "links": {
+    "twitter": "https://twitter.com/block_one_",
+    "facebook": "https://www.facebook.com/240536563111750",
+    "reddit": "https://www.reddit.com",
+    "github": "https://github.com/EOSIO"
+  }
+}

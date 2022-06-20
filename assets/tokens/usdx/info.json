@@ -1,0 +1,10 @@
+{
+  "key": "usdx",
+  "name": "USDX",
+  "symbol": "usdx",
+  "logoURI": "https://assets.coingecko.com/coins/images/13056/large/USDX_coin.png?1604734048",
+  "website": "https://www.kava.io/overview",
+  "description": "USDX is the crypto-backed native stablecoin of the Kava DeFi hub.",
+  "coingeckoId": "usdx",
+  "links": {}
+}

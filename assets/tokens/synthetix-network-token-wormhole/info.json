@@ -1,0 +1,12 @@
+{
+  "key": "synthetix-network-token-wormhole",
+  "name": "Synthetix Network Token (Wormhole)",
+  "symbol": "snx",
+  "logoURI": "https://assets.coingecko.com/coins/images/22981/large/SNX_wh_small.png?1644224357",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "synthetix-network-token-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

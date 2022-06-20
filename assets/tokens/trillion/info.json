@@ -1,0 +1,13 @@
+{
+  "key": "trillion",
+  "name": "Trillion",
+  "symbol": "tt",
+  "logoURI": "https://assets.coingecko.com/coins/images/17216/large/EC65-CF15-3575-41-C7-8-D2-F-0-B2-FDC82-DF96.jpg?1626877437",
+  "website": "https://trilliontoken.net",
+  "description": "Trillion is a decentralized digital currency with a fixed-supply of 1,000,000,000,000 tokens, for a total market cap of $21168 at launch. Trillion Token was founded by an experienced developer with multiple projects under his belt, with a combined market cap in the hundreds of millions.\r\n\r\n\u200bAs Trillion gains popularity and usage, the value may increase above the initial launch price of 0.0000000000111111. Over time, the price of Trillion will increase and reach a market cap of 10 million, 100 million, or even higher.",
+  "coingeckoId": "trillion",
+  "links": {
+    "twitter": "https://twitter.com/trilliontoken",
+    "telegram": "https://t.me/onetrilliontoken"
+  }
+}

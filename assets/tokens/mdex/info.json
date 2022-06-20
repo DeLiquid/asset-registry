@@ -1,0 +1,14 @@
+{
+  "key": "mdex",
+  "name": "Mdex",
+  "symbol": "mdx",
+  "logoURI": "https://assets.coingecko.com/coins/images/13775/large/mdex.png?1611739676",
+  "website": "https://mdex.co/#/",
+  "description": "Mdex is an automatic market-making decentralized exchange based on the concept of fund pools. It is similar in function to some DEXs on the market, but on this basis, it proposes and implements a dual-chain DEX model based on the Huobi Eco Chain and Ethereum . It combines the advantages of the low transaction fees of the Huobi Eco Chain and the prosperity of the Ethereum ecosystem, and supports the dual mining mechanism of liquidity and transactions.",
+  "coingeckoId": "mdex",
+  "links": {
+    "twitter": "https://twitter.com/Mdextech ",
+    "telegram": "https://t.me/MdexEN",
+    "github": "https://github.com/mdexSwap"
+  }
+}

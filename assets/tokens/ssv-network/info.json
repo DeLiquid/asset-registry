@@ -1,0 +1,13 @@
+{
+  "key": "ssv-network",
+  "name": "SSV Network",
+  "symbol": "ssv",
+  "logoURI": "https://assets.coingecko.com/coins/images/19155/large/ssv.png?1638181902",
+  "website": "https://ssv.network/",
+  "description": "SSV promotes decentralization, security, and liveness across the Ethereum consensus layer and forms the foundation of SSV.network \u2013 a fully decentralized and robust ETH staking network. Using the network will be open and simple for anyone who wants to run an Ethereum validator; from DIY users all the way to staking pools and big institutional staking services. This applies to using the network both as a user or a service provider; regardless of staking configuration, as long as duties are properly executed, anyone is eligible to provide service and reap rewards for doing so. ",
+  "coingeckoId": "ssv-network",
+  "links": {
+    "twitter": "https://twitter.com/blox_staking",
+    "github": "https://github.com/bloxapp/ssv-web"
+  }
+}

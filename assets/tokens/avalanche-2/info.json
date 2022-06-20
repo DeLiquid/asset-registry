@@ -1,0 +1,15 @@
+{
+  "key": "avalanche-2",
+  "name": "Avalanche",
+  "symbol": "avax",
+  "logoURI": "https://assets.coingecko.com/coins/images/12559/large/coin-round-red.png?1604021818",
+  "website": "https://www.avax.network/",
+  "description": "Avalanche is a high throughput smart contract blockchain\u00a0platform. Validators secure the network through a proof-of-stake consensus protocol. It is said to be fast, low cost, and environmental friendly.\r\n\r\nMainnet was launched in September 21, 2020.\u00a0Since then, the platform has grown to secure over 100+ individual projects, $1.4M+ of AVAX burned (reducing supply), 950+ individual block-producing validators, and over 500k+ community members around the globe.\u00a0Decentralized finance (DeFi) applications can be found on Avalanche such as Pangolin, TraderJoe, and more.",
+  "coingeckoId": "avalanche-2",
+  "links": {
+    "twitter": "https://twitter.com/avalancheavax",
+    "telegram": "https://t.me/avalancheavax",
+    "reddit": "https://www.reddit.com/r/Avax",
+    "github": "https://github.com/ava-labs/avalanchego"
+  }
+}

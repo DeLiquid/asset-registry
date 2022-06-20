@@ -1,0 +1,13 @@
+{
+  "key": "alchemix",
+  "name": "Alchemix",
+  "symbol": "alcx",
+  "logoURI": "https://assets.coingecko.com/coins/images/14113/large/Alchemix.png?1614409874",
+  "website": "https://alchemix.fi/",
+  "description": "Alchemix token is the governance token for the Alchemix protocol. ",
+  "coingeckoId": "alchemix",
+  "links": {
+    "twitter": "https://twitter.com/alchemixfi",
+    "github": "https://github.com/alchemix-finance"
+  }
+}

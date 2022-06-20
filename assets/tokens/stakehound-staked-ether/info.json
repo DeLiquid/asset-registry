@@ -1,0 +1,13 @@
+{
+  "key": "stakehound-staked-ether",
+  "name": "StakeHound Staked Ether",
+  "symbol": "steth",
+  "logoURI": "https://assets.coingecko.com/coins/images/13752/large/926MHi5g_400x400.png?1611542247",
+  "website": "https://stakehound.com/",
+  "description": "StakeHound stETH is a wrapped token with a 1:1 representation of the user\u2019s underlying ETH. After a user onboards their ETH, StakeHound stakes those ETH for the users and redistributes the rewards to stETH. That way, the stETH allows you to receive ETH 2.0 staking rewards without the minimum staking requirement and no lock-up period as stETH can be sold at any time, for example, on Uniswap. ",
+  "coingeckoId": "stakehound-staked-ether",
+  "links": {
+    "twitter": "https://twitter.com/stakedTokens",
+    "telegram": "https://t.me/stakehound"
+  }
+}

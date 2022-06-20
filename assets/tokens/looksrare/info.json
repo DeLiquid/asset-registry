@@ -1,0 +1,13 @@
+{
+  "key": "looksrare",
+  "name": "LooksRare",
+  "symbol": "looks",
+  "logoURI": "https://assets.coingecko.com/coins/images/22173/large/circle-black-256.png?1641173160",
+  "website": "https://looksrare.org/",
+  "description": "\"LooksRare is the community-first NFT marketplace that actively rewards collectors and creators for participating.\r\n\r\n\ud83d\uddbc\ud83d\udc4c By NFT people, for NFT people.\r\n\r\nThis is who we are.\r\n\r\nPart of being community-first means that LooksRare rewards, empowers, and gives back to the platform's users and creators.\r\n\r\n\ud83d\udc8e Get rewarded - Users that buy or sell NFTs from eligible collections earn LOOKS tokens.\r\n\ud83e\udd1d Share the platform fees - 100% of trading fees are earned by LOOKS stakers.\r\n\u26a1\ufe0f Creators get paid instantly - Creators get royalty payments at the moment of sale.\r\n\r\n\ud83c\udf74 Not a fork\r\nLooksRare\u2019s smart contracts are custom-built within a modular system that enables new features to be rolled out over time \u2013 without compromising security \u2013 thanks to standardized signatures that clearly define the execution scope.\r\n\r\nThis means we can offer new types of interactions, like these (rolling out soon):\r\n\r\n- Collection offer - Make an offer that covers all NFTs in a selected collection\r\n- Trait offer - Offer to buy any NFT with a specific trait in a collection e.g. BAYC w/ Gold Fur\r\n- Multi-cancelation - Cancels multiple open orders in one transaction\r\n\r\n\ud83e\udd96 Not a dinosaur\r\nFrom utilizing some of the world\u2019s most powerful search infra, down to implementing on-chain standards like EIP-712 and EIP-2981, LooksRare\u2019s technical architecture (contracts, database, API, front end, search) has been designed from the floor up for scalability, speed and security using the latest and greatest tech.\r\n\r\nWe\u2019ve also made sure to retain compatibility for deploying on ETH scaling solutions when they're ready for the masses.\"",
+  "coingeckoId": "looksrare",
+  "links": {
+    "twitter": "https://twitter.com/LooksRareNFT",
+    "github": "https://github.com/looksrare"
+  }
+}

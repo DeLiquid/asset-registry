@@ -1,0 +1,14 @@
+{
+  "key": "bitriver",
+  "name": "Bitriver",
+  "symbol": "btr",
+  "logoURI": "https://assets.coingecko.com/coins/images/14946/large/1552652626371.png?1619128181",
+  "website": "https://bitriver.farm/en/",
+  "description": "Founded by Igor Runets in 2017 and headquartered in Moscow, BitRiver LLC provides hosting services and turnkey solutions for large-scale cryptocurrency mining operations to institutional investors around the world. BitRiver employs over 100 full-time staff in three offices across Russia and full-time sales\u2019 representatives in China, Japan, Central Europe, UAE, USA and South Korea. With a vision of powering the most promising tech of today and tomorrow through low cost and sustainable energy, BitRiver currently utilizes only surplus hydroelectric power to operate the largest data center that offers co-location services for cryptocurrency mining in Russia and the CIS region.",
+  "coingeckoId": "bitriver",
+  "links": {
+    "twitter": "https://twitter.com/BitRiverMining",
+    "facebook": "https://www.facebook.com/BitRiverMining",
+    "telegram": "https://t.me/bitriver_btr_english"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "tokamak-network",
+  "name": "Tokamak Network",
+  "symbol": "ton",
+  "logoURI": "https://assets.coingecko.com/coins/images/12260/large/D919x5-s_400x400.png?1598568068",
+  "website": "https://tokamak.network/",
+  "description": "Tokamak Network is a platform that assures decentralized and secure property same as Ethereum Main chain while supporting high level of scalability and extendability. Each Dapp is built easily for specific purpose through Tokamak Network.\r\n\r\nTokamak Network has each Dapp to operate in its own chain. Plasma Chains are connected to Ethereum\u2019s Main Chain via the Tokamak Protocol.\r\n\r\nt is used as an incentive to correctly decentralize the Tokamak Plasma Chain. The service operator must deposit TON to open the Plasma Chain. If the chain properly runs, this deposit will gradually increase. However, if there is a technical issue in the chain and someone who finds problem raises an issue, and then, the deposit as a reward will go to that person (challenger).\r\n\r\nMoreover, TON is also used to charge Stamina, which is the transaction fee in Plasma Chain. The stamina will be recharged after a certain period. It does not disappear until it is withdrawn.",
+  "coingeckoId": "tokamak-network",
+  "links": {
+    "twitter": "https://twitter.com/tokamak_network",
+    "facebook": "https://www.facebook.com/OntherInc",
+    "telegram": "https://t.me/tokamak_network",
+    "github": "https://github.com/onther-tech"
+  }
+}

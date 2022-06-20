@@ -1,0 +1,15 @@
+{
+  "key": "cere-network",
+  "name": "Cere Network",
+  "symbol": "cere",
+  "logoURI": "https://assets.coingecko.com/coins/images/20008/large/cere.png?1636366576",
+  "website": "https://cere.network/",
+  "description": "Cere Network is the first Decentralized Data Cloud (DDC) platform built on Substrate and Polygon. \r\n\r\nCere is the first Web3 project that facilitates trustless cloud data storage, integration and data collaboration across blockchain networks as well as Web3 NFT, metaverse and gaming content. \r\n\r\nCere is backed by the world\u2019s largest institutions and projects, such as Binance Labs, Republic Labs and Polygon.\r\n",
+  "coingeckoId": "cere-network",
+  "links": {
+    "twitter": "https://twitter.com/cerenetwork",
+    "telegram": "https://t.me/cerenetwork_official",
+    "reddit": "https://www.reddit.com",
+    "github": "https://github.com/Cerebellum-Network"
+  }
+}

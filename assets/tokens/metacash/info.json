@@ -1,0 +1,13 @@
+{
+  "key": "metacash",
+  "name": "MetaCash",
+  "symbol": "meta",
+  "logoURI": "https://assets.coingecko.com/coins/images/22217/large/hzBuuMFM_400x400.jpg?1641198854",
+  "website": "https://metacashbsc.com/",
+  "description": "",
+  "coingeckoId": "metacash",
+  "links": {
+    "twitter": "https://twitter.com/MetaCashBSC",
+    "telegram": "https://t.me/MetaCash"
+  }
+}

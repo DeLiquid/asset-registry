@@ -1,0 +1,16 @@
+{
+  "key": "dusk-network",
+  "name": "DUSK Network",
+  "symbol": "dusk",
+  "logoURI": "https://assets.coingecko.com/coins/images/5217/large/D_ticker_purple_on_circle_%282%29.png?1563781659",
+  "website": "https://dusk.network/",
+  "description": "Dusk Network is a high throughput permissionless blockchain aimed at providing privacy, programmability and auditability.\r\nDusk Network is currently in the Testnet phase and is a blockchain protocol for easy deployment of programmable zero-knowledge dApps, thus becoming the backbone of an open, permissionless and global privacy-oriented dApp ecosystem.\r\nDusk Network aims to remove technical barriers that have undermined mainstream issuance and trading of security tokens. Compliance, auditability and privacy are built into the open, permissionless Confidential Security Token-standard (XSC).",
+  "coingeckoId": "dusk-network",
+  "links": {
+    "twitter": "https://twitter.com/duskfoundation",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=4656203",
+    "telegram": "https://t.me/DuskNetwork",
+    "reddit": "https://www.reddit.com/r/dusknetwork",
+    "github": "https://github.com/dusk-network"
+  }
+}

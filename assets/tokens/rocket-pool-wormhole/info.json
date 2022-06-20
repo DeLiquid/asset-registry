@@ -1,0 +1,12 @@
+{
+  "key": "rocket-pool-wormhole",
+  "name": "Rocket Pool (Wormhole)",
+  "symbol": "rpl",
+  "logoURI": "https://assets.coingecko.com/coins/images/22986/large/RPL_wh_small.png?1644224836",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "rocket-pool-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

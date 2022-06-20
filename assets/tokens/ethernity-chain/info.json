@@ -1,0 +1,13 @@
+{
+  "key": "ethernity-chain",
+  "name": "Ethernity Chain",
+  "symbol": "ern",
+  "logoURI": "https://assets.coingecko.com/coins/images/14238/large/LOGO_HIGH_QUALITY.png?1647831402",
+  "website": "https://ethernity.io/",
+  "description": "Ethernity Chain is a community-oriented platform that produces limited edition authenticated NFTs and trading cards created by your favorite artists and endorsed by notable figures. Built on the Ethereum Network, it aims to build the biggest A-NFT library, reward its creators and raise funds for charitable causes forever. Its unique DEFI applications allow ERN token holders to farm rare A-NFTs and vote on proposals that will amend the Ethernity Chain ecosystem.",
+  "coingeckoId": "ethernity-chain",
+  "links": {
+    "twitter": "https://twitter.com/ethernitychain",
+    "telegram": "https://t.me/ethernitychain"
+  }
+}

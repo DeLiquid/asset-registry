@@ -1,0 +1,12 @@
+{
+  "key": "1inch-wormhole",
+  "name": "1INCH (Wormhole)",
+  "symbol": "1inch",
+  "logoURI": "https://assets.coingecko.com/coins/images/22878/large/1INCH_wh.png?1644222467",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "1inch-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "key": "0x",
+  "name": "0x",
+  "symbol": "zrx",
+  "logoURI": "https://assets.coingecko.com/coins/images/863/large/0x.png?1547034672",
+  "website": "https://0x.org/",
+  "description": "",
+  "coingeckoId": "0x",
+  "links": {
+    "blog": "https://medium.com/0x-project",
+    "slack": "https://slack.0xproject.com/",
+    "github": "https://github.com/0xProject",
+    "twitter": "https://twitter.com/0xproject",
+    "facebook": "https://www.facebook.com/0xProject/",
+    "linkedin": "https://www.linkedin.com/company-beta/17942619/",
+    "whitepaper": "https://www.0xproject.com/pdfs/0x_white_paper.pdf",
+    "telegram": "https://t.me/official_0x",
+    "reddit": "https://www.reddit.com/r/0xProject/"
+  }
+}

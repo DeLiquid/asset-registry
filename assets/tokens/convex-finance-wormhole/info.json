@@ -1,0 +1,12 @@
+{
+  "key": "convex-finance-wormhole",
+  "name": "Convex Finance (Wormhole)",
+  "symbol": "cvx",
+  "logoURI": "https://assets.coingecko.com/coins/images/23038/large/CVX_wh_small.png?1644225143",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "convex-finance-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

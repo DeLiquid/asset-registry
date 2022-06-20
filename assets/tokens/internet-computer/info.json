@@ -1,0 +1,15 @@
+{
+  "key": "internet-computer",
+  "name": "Internet Computer",
+  "symbol": "icp",
+  "logoURI": "https://assets.coingecko.com/coins/images/14495/large/Internet_Computer_logo.png?1620703073",
+  "website": "https://dfinity.org/",
+  "description": "Internet Computer (IC) is the world\u2019s first blockchain that is capable of running at web speed at unrestrictive capacities. Built by the DFINITY Foundation, IC aims to recreate the web by supporting smart contract development at scale and changing the way people can interact using web services. Internet Computer aims to extend the public internet, so that it can be the world\u2019s computing platform, in a decentralized manner. Internet Computer sets to revolutionalize the design of the crypto economy, with an aim to overhaul traditional software services. \r\n\r\nThe project was founded in October 2016 by Dominic WIllams and have raised a total of $121 million from investors such as Adreessen Horowitz, Polychain Capital, Multicoin Capital and such. On May 10, 2021, DFINITY launched the Internet Computer into the public domain, marking it a major milestone for ICP as it means the internet now functions as a decentralised global computer. This is marked by the release of all of the Internet Computer\u2019s source code into the public domain, as well as ICP utility token that allows tens of thousands of community members to govern the Internet Computer network.\r\n\r\nICP is Internet Computer's native token. It plays three prominent roles:\r\n\r\n1. Network Governance: Users that participate in the governance will be rewarded with ICPI\r\n2. Production of Cycles for Compute: ICP can be converted into cycles where it is used as the transaction fee to access the network. Cycles are burned after used.\r\n3. Rewarding Users: ICP is used as the rewards to incentivize users to participate in the network such as securing the network.",
+  "coingeckoId": "internet-computer",
+  "links": {
+    "twitter": "https://twitter.com/dfinity",
+    "telegram": "https://t.me/DFinity",
+    "reddit": "https://www.reddit.com/r/dfinity/",
+    "github": "https://github.com/dfinity"
+  }
+}

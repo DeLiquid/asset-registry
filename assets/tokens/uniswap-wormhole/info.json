@@ -1,0 +1,12 @@
+{
+  "key": "uniswap-wormhole",
+  "name": "Uniswap (Wormhole)",
+  "symbol": "uni",
+  "logoURI": "https://assets.coingecko.com/coins/images/22969/large/UNI_wh_small.png?1644223592",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "uniswap-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

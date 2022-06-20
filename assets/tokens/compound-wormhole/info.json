@@ -1,0 +1,12 @@
+{
+  "key": "compound-wormhole",
+  "name": "Compound (Wormhole)",
+  "symbol": "comp",
+  "logoURI": "https://assets.coingecko.com/coins/images/23031/large/COMP_wh_small.png?1644224958",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "compound-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

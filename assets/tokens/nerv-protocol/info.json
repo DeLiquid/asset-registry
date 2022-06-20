@@ -1,0 +1,13 @@
+{
+  "key": "nerv-protocol",
+  "name": "Nerv Protocol",
+  "symbol": "nrv",
+  "logoURI": "https://assets.coingecko.com/coins/images/24971/large/cCSt_8IK_400x400_%281%29.png?1649645546",
+  "website": "https://nervprotocol.com/",
+  "description": "Next Gen Decentralized, Gasless Ecosystem, Built to compete with Web 2, With Wallet and  NFT Marketplace under its belt.",
+  "coingeckoId": "nerv-protocol",
+  "links": {
+    "twitter": "https://twitter.com/NervChain",
+    "telegram": "https://t.me/NervChain"
+  }
+}

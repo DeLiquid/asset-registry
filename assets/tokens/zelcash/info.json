@@ -1,0 +1,16 @@
+{
+  "key": "zelcash",
+  "name": "Flux",
+  "symbol": "flux",
+  "logoURI": "https://assets.coingecko.com/coins/images/5163/large/Flux_symbol_blue-white.png?1617192144",
+  "website": "https://runonflux.io",
+  "description": "",
+  "coingeckoId": "zelcash",
+  "links": {
+    "twitter": "https://twitter.com/runonflux",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2853688",
+    "telegram": "https://t.me/zelhub",
+    "reddit": "https://www.reddit.com/r/Flux_Official/",
+    "github": "https://github.com/runonflux"
+  }
+}

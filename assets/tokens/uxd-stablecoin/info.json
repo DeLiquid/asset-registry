@@ -1,0 +1,13 @@
+{
+  "key": "uxd-stablecoin",
+  "name": "UXD Stablecoin",
+  "symbol": "uxd",
+  "logoURI": "https://assets.coingecko.com/coins/images/22850/large/UXD-White.png?1642747473",
+  "website": "https://uxd.fi/",
+  "description": "UXD Protocol is an algorithmic stablecoin that is fully backed by a delta-neutral position using derivatives. UXD Protocol is non-custodial, and does not hold user's deposited crypto assets. Users can mint/redeem UXD on a permissionless basis.UXD users can mint 1 UXD for $1 worth of crypto assets. UXD does not require any over-collateralization. ",
+  "coingeckoId": "uxd-stablecoin",
+  "links": {
+    "twitter": "https://twitter.com/UXDProtocol",
+    "github": "https://github.com/uxdprotocol"
+  }
+}

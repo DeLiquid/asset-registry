@@ -1,0 +1,15 @@
+{
+  "key": "hashland-coin",
+  "name": "HashLand Coin",
+  "symbol": "hc",
+  "logoURI": "https://assets.coingecko.com/coins/images/20610/large/hc200x200.png?1637291655",
+  "website": "https://www.hashland.com/",
+  "description": "HashLand is the first decentralized synthetic assets platform that unites Intellectual Property and hash rate Assets. Bridging NFTs and hash rate assets, HashLand are able to reshape the hash rate market in the form of Synthetic NFT, thereby laying the foundational value for the S-NFT. Through the Minting Contract, Purchase Contract, and Mining Contract, HashLand are able to provide a useful toolbox for hash rate providers and Intellectual Property providers alike.",
+  "coingeckoId": "hashland-coin",
+  "links": {
+    "twitter": "https://twitter.com/HashLand_NFT",
+    "telegram": "https://t.me/HashLand_NFT",
+    "reddit": "https://www.reddit.com/r/hashland_community/",
+    "github": "https://github.com/HashlandGamefi"
+  }
+}

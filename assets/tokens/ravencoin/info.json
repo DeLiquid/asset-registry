@@ -1,0 +1,17 @@
+{
+  "key": "ravencoin",
+  "name": "Ravencoin",
+  "symbol": "rvn",
+  "logoURI": "https://assets.coingecko.com/coins/images/3412/large/ravencoin.png?1548386057",
+  "website": "https://ravencoin.org/",
+  "description": "Ravencoin is a blockchain specifically dedicated to the creation and peer-to-peer transfer of assets. Just as <a href=\"https://www.coingecko.com/en/coins/monero\">Monero</a> is solely focused on privacy, Ravencoin specializes in asset transfer \u2013 nothing more, nothing less. Although you can exchange assets over other blockchains, like <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> and <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>, that\u2019s not their intended purpose. And the lack of specialization leads to problems that are specific to transferring assets. Ravencoin enables you to create and trade any real-world (e.g., gold bars, land deeds) or digital (e.g., gaming items, software licenses) assets on a network with only that in mind.\r\n\r\nRavencoin doesn\u2019t have an established team. It\u2019s an open-source project led by the core developers: RavoncoinDev, Tron, and Chatturga (discord usernames). Bruce Fenton, Board Member of The Bitcoin Foundation, advises the team. The core developers launched Ravencoin on January 3rd, 2018 and Fenton kicked off the launch with a Tweet announcing the start of mining. The project gained some notoriety when Overstock CEO Patrick Byrne announced that his company had made a multi-million dollar investment into the team. Since then, the team has been building out the core functionality of asset support and rewards capabilities.\r\n\r\nThe release of the Ravencoin mainnet and increase in activity on the platform should help the price. Any news of notable companies or financial institutions utilizing the platform should also have a positive effect. Ravencoin offers just one thing: tokenized asset transfer. And that singular focus isn\u2019t a bad thing. When projects attempt to solve a bunch of problems at once, they often create a bunch of half-baked solutions. Ravencoin is avoiding that. As a young project with seemingly endless competition, it\u2019s difficult to predict how successful Ravencoin will be. An active community and backing from one of the most respected names in online retail are positive indicators, though. There\u2019s a clear trend toward the tokenization of all types of assets. However, we have yet to see whether or not Ravencoin will be leading that change.",
+  "coingeckoId": "ravencoin",
+  "links": {
+    "twitter": "https://twitter.com/ravencoin",
+    "facebook": "https://www.facebook.com/Ravencoinofficial",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=3238497",
+    "telegram": "https://t.me/RavencoinDev",
+    "reddit": "https://www.reddit.com/r/Ravencoin",
+    "github": "https://github.com/RavenProject/Ravencoin"
+  }
+}

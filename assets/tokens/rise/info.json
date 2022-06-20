@@ -1,0 +1,17 @@
+{
+  "key": "rise",
+  "name": "Rise",
+  "symbol": "rise",
+  "logoURI": "https://assets.coingecko.com/coins/images/452/large/rise.vision.png?1547034167",
+  "website": "https://rise.vision",
+  "description": "RISE offers a platform for Decentralized Applications (DAPPs), powered by a community driven Delegated Proof of Stake (DPoS) blockchain.\r\n\r\nApplications built on RISE will be both distributed and decentralized, as a copy of the blockchain will reside on multiple nodes and if one node fails the network can still operate. Each DAPP created with RISE development tools will run on RISE sidechain technology connecting to the mainchain.",
+  "coingeckoId": "rise",
+  "links": {
+    "twitter": "https://twitter.com/RiseVisionTeam",
+    "facebook": "https://www.facebook.com/risevisionteam",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1445947",
+    "telegram": "https://t.me/risevisionofficial",
+    "reddit": "https://www.reddit.com/r/RiseVision/",
+    "github": "https://github.com/RiseVision/rise-node"
+  }
+}

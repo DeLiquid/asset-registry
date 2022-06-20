@@ -1,0 +1,14 @@
+{
+  "key": "timeleap-finance",
+  "name": "Timeleap Finance",
+  "symbol": "time",
+  "logoURI": "https://assets.coingecko.com/coins/images/18854/large/timeleap.PNG?1633596238",
+  "website": "https://timeleap.finance/",
+  "description": "Timeleap Finance is a new age Polygon farm ecosystem created by yield farmers, for yield farmers. We're not a standard \"copy and paste yield farm\" - we're here to create a #FarmRevolution!\r\n\r\nRevolution #1: Buyback-and-Make circular tokenomics\r\n\r\nTimeleap is a yield farm with a max supply yet no additional layers. Normally, a max supply would mean that token emissions and farming would end. \r\n\r\nWhat we've done to make farming continue even after all tokens are minted is to create an automated way to refill/top up the Masterchef (MC) contract - by buying back TIME from the market and depositing it in MC. Farming emissions continue normally as if we never reached max supply to begin with! \r\n\r\nRevolution #2: Wormholes product\r\n\r\nWe function as a \"fund manager\" to recommend you other projects to invest in, based on your risk level / what returns you\u2019re expecting. We conduct independent reviews for each project before deciding to add it to our Wormholes product. You invest in one currency (stable coin or large cap), and you earn the auto-compounded returns in that same currency. \r\n\r\nOn our roadmap are more #FarmRevolutions. This includes an innovation on the typical dividend pools that most farms have, as well as a DeFi NFT game - both of which are currently in progress.\r\n\r\nFinally, we're highly secure: DxLocked Liquidity, Timelocked, Ownership renounced, and two Paladin audits completed. Timeleap Finance is also an official JetSwap and WaultSwap partner.\r\n",
+  "coingeckoId": "timeleap-finance",
+  "links": {
+    "twitter": "https://twitter.com/TimeleapGameFi",
+    "telegram": "https://t.me/timeleapgamefi",
+    "github": "https://github.com/timeleapfinance/"
+  }
+}

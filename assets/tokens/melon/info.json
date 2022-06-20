@@ -1,0 +1,19 @@
+{
+  "key": "melon",
+  "name": "Enzyme",
+  "symbol": "mln",
+  "logoURI": "https://assets.coingecko.com/coins/images/605/large/Enzyme_Icon_Secondary.png?1611576629",
+  "website": "https://enzyme.finance/",
+  "description": "A fast & cost-effective way to build, scale and monetize investment strategies in DeFi. Enzyme is powered by MLN token",
+  "coingeckoId": "melon",
+  "links": {
+    "slack": "http://chat.melonport.com/",
+    "github": "https://github.com/enzymefinance",
+    "twitter": "https://twitter.com/enzymefinance",
+    "facebook": "https://www.facebook.com/melonport/",
+    "linkedin": "https://www.linkedin.com/company/melonport-ltd",
+    "telegram": "https://t.me/enzymefinance",
+    "whitepaper": "https://github.com/melonproject/greenpaper/blob/master/melonprotocol.pdf",
+    "reddit": "https://www.reddit.com/r/enzymefinance/"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "key": "game",
+  "name": "Game",
+  "symbol": "gtc",
+  "logoURI": "https://assets.coingecko.com/coins/images/2046/large/game.png?1547742459",
+  "website": "http://www.game.com",
+  "description": "GameCoin (GMC) is a digital currency targeted towards the gaming community. GMC tokens go on sale at the end of September through the GameCoin ICO.\r\n\r\nGameCoin aims to increase the revenue of the gaming industry by 3 times \u2013 or 300 billion dollars per year. It aims to allow players to earn money from their hobby. And, within a year, the developers claim the capitalization of GameCoin will \u201cexceed and billion dollars and will continue to grow rapidly.\u201d\r\nGameCoin is being proposed as a way to monetize the world of free gaming. The GameCoin whitepaper explains that the majority of gaming revenue comes from 10% of users. Today, developers are struggling to monetize the remaining 90% of users. GameCoin claims to have found a way to do that using blockchain technology.\r\n\r\nBasically, GameCoin\u2019s idea is to allow each game developer to create their own cryptocurrency. This cryptocurrency is used as in-game money. The developers can create this cryptocurrency at virtually no cost to themselves \u2013 it\u2019s just a digital token that has value in the game. However, by the time it circulates through gamers, the token will have value because it can be used to pay for in-game items.\r\n\r\nIn more straightforward terms, GameCoin plans to make it easy for developers to create a secure in-game currency. It appears that these cryptocurrencies will operate as forks on the GameCoin blockchain. Each developer will be able to make their own fork \u2013 so gamers can easily apply their GWC tokens to any game of their choice (the GameCoin wallet will support all forks).",
+  "coingeckoId": "game",
+  "links": {
+    "slack": "http://gameico.slack.com/",
+    "github": "https://github.com/GameLeLe/trade-addr-tx-service",
+    "twitter": "https://twitter.com/gamecom666",
+    "facebook": "https://www.facebook.com/Gamecom-2055954348021983",
+    "telegram": "https://t.me/gameico",
+    "whitepaper": "http://ic.game.com/download/Game.com-Whitepaper_EN.pdf",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2258262"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "key": "iostoken",
+  "name": "IOST",
+  "symbol": "iost",
+  "logoURI": "https://assets.coingecko.com/coins/images/2523/large/IOST.png?1557555183",
+  "website": "http://iost.io/",
+  "description": "IOST is building an ultra-high TPS blockchain infrastructure to meet the security and scalability needs of a decentralized economy. Led by a team of proven founders and backed by $40 million from world-class investors, including Sequoia and Matrix, IOST aims to be the underlying architecture for the future of online services.\r\n\r\nThe powerful consensus algorithm \u201cProof-of-Believability\u201d enables next-gen transaction throughput speeds while ensuring nodes stay compliant, using factors including IOST token balance, reputation-based token balance, network contributions and user behaviors. A faster grade Byzantine Fault Tolerance mechanism, microstate blocks, Atomic Commit protocol and a dynamic sharding protocol (Efficient Distributed Sharding) all ensure transactions are safeguarded, consistent and lightning fast while reducing storage, configuration costs and processing power for validators. \r\n\r\nAnyone is able to participate in every layer of our system, from using services on our blockchain to running a node and validating transactions. Our rules and code are open for all to see and no preconditions will limit participation. IOST aims to fundamentally disrupt previous methods of business by creating a self-operated, trustless network that maximizes network value for all parties. The project places great emphasis on decentralized and secure ways of storing information. It also provides for Dapps and smart contracts, and anyone who is familiar with blockchain technology knows just how integral these two concepts have become.\r\n\r\nAdhering to the quintessential egalitarian values of blockchain technology, IOST is creating a censorship-resistant and trustless network that is open to all, using blockchain technology to cut out middlemen and maximize network value for all parties. \r\n\r\nTerrace Wang, Kimmy Zhong, and Ray Xiao, who are extremely brilliant, have co-founded the project. In addition to these original three, the project has 12 employees and 4 advisors. It is also worth noting that Ryan Bubiski, a co-founder of CodeAcademy and a winner of Times Most Influential People award plays a major role in the advisory board of the project. The team has partnered with about sixteen blockchain and cryptocurrency oriented companies such as Sequoia, Nirvana Capital, and DFund. The project, therefore, has strong investors.\"",
+  "coingeckoId": "iostoken",
+  "links": {
+    "twitter": "https://twitter.com/IOST_Official",
+    "facebook": "https://www.facebook.com/IOSTofficial",
+    "telegram": "https://t.me/officialios",
+    "reddit": "https://www.reddit.com/r/IOStoken/",
+    "github": "https://github.com/iost-official"
+  }
+}

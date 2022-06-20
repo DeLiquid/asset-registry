@@ -1,0 +1,17 @@
+{
+  "key": "noia-network",
+  "name": "Syntropy",
+  "symbol": "noia",
+  "logoURI": "https://assets.coingecko.com/coins/images/3269/large/Component_1.png?1608275724",
+  "website": "http://syntropynet.com/",
+  "description": "Syntropy is transforming the public internet into a secure and user-centric internet through a unifying layer where encryption and optimized performance are built-in and automatically enabled for anything and everything connected to it.",
+  "coingeckoId": "noia-network",
+  "links": {
+    "twitter": "https://twitter.com/Syntropynet",
+    "facebook": "https://www.facebook.com/NOIANetwork",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=3109399",
+    "telegram": "https://t.me/SyntropyNet",
+    "reddit": "https://www.reddit.com/r/SyntropyNet/",
+    "github": "https://github.com/noia-network"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key": "gains-farm",
+  "name": "Gains Farm",
+  "symbol": "gfarm2",
+  "logoURI": "https://assets.coingecko.com/coins/images/13703/large/gfarm_v2.png?1611035398",
+  "website": "https://gains.farm",
+  "description": "DeFi protocol combining yield farming with a new use case: a decentralized leveraged trading platform with NFTs",
+  "coingeckoId": "gains-farm",
+  "links": {
+    "twitter": "https://twitter.com/gfarmv2",
+    "telegram": "https://t.me/GFarmTrading"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "key": "iotex",
+  "name": "IoTeX",
+  "symbol": "iotx",
+  "logoURI": "https://assets.coingecko.com/coins/images/3334/large/iotex-logo.png?1547037941",
+  "website": "https://iotex.io",
+  "description": "IoTeX is the auto-scalable and privacy-centric blockchain infrastructure for the Internet of Things (IoT). IoTeX\u2019s global team is comprised of Ph.Ds in Cryptography, Distributed Systems, and Machine Learning, top tier engineers, and experienced ecosystem builders. IoTeX is developing several in-house innovations to push the frontier of blockchain 3.0, including a blockchains-in-blockchain architecture for heterogeneous computing, lightning fast Roll-DPoS consensus mechanism, and lightweight privacy-preserving techniques. IoTeX is bringing autonomous device coordination to the masses by \u201cconnecting the physical world, block by block.\u201d\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/iotex-iotx/\">CoinBureau</a> for the complete review of IoTeX.",
+  "coingeckoId": "iotex",
+  "links": {
+    "twitter": "https://twitter.com/iotex_io",
+    "facebook": "https://www.facebook.com/iotex.io",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=3099670",
+    "telegram": "https://t.me/IoTeXGroup",
+    "reddit": "https://www.reddit.com/r/IoTeX",
+    "github": "https://github.com/iotexproject/iotex-core"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "depth-token",
+  "name": "Depth",
+  "symbol": "dep",
+  "logoURI": "https://assets.coingecko.com/coins/images/14574/large/depth_icon_round__500.png?1617086437",
+  "website": "https://depth.fi/",
+  "description": "Depth is an efficient stablecoin swap protocol, based on the Huobi Ecochain. \r\nAs a trusted stablecoin swap manager, Depth allows stablecoins to swap between HUSD/USDT and other stablecoins in a safe and secure environment, with good depth, low slippage, and low transaction fees. In addition, Depth benifit liquidity providers with the aggregation of transaction fees as well as rewards from other DeFi protocols in a long-term run.",
+  "coingeckoId": "depth-token",
+  "links": {
+    "twitter": "https://twitter.com/DepthFi",
+    "telegram": "https://t.me/depthglobal",
+    "github": "https://github.com/depthfinance/contract"
+  }
+}

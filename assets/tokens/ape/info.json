@@ -1,0 +1,13 @@
+{
+  "key": "ape",
+  "name": "APE",
+  "symbol": "ape",
+  "logoURI": "https://assets.coingecko.com/coins/images/20762/large/uXhjvO7.png?1637651257",
+  "website": "http://www.justape.io",
+  "description": "APE is an ERC20 token celebrating an entire community of passionate punters who live and breathe by watching the floor prices of their favourite online jpegs. Dopamine drops and lower NFT volumes do not stop us, they embolden us. Meme coins created in 1 day? Why Not! Doing Research? Reading the whitepaper? We Just $APE in. Because WAGMI!",
+  "coingeckoId": "ape",
+  "links": {
+    "twitter": "https://twitter.com/justaped",
+    "telegram": "https://t.me/justaped"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "key": "dash-diamond",
+  "name": "Dash Diamond",
+  "symbol": "dashd",
+  "logoURI": "https://assets.coingecko.com/coins/images/9628/large/DASHD.jpg?1614669940",
+  "website": "https://dashdiamond.net/",
+  "description": "Dash Diamond is a coin that rewards social behavior in the DECENOMY ecosystem. Every economic system has a profit motive, so does DECENOMY. But in almost all ecosystems social behavior usually comes at a cost, which is fundamentally wrong. If people are socially secure and behave socially in such an economic system, then such an economic system is much more powerful.",
+  "coingeckoId": "dash-diamond",
+  "links": {
+    "twitter": "https://twitter.com/dashdiamond7",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5173754",
+    "telegram": "https://t.me/dashdiamond",
+    "github": "https://github.com/Dash-Diamond"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "key": "mxc",
+  "name": "MXC",
+  "symbol": "mxc",
+  "logoURI": "https://assets.coingecko.com/coins/images/4604/large/mxc.png?1655534336",
+  "website": "https://www.mxc.org",
+  "description": "The MXC vision is to introduce a systematic process to both simplify and increase IoT data transactions\r\n\r\nThe decentralized infrastructure upon which MXC\u2019s system is based is the future of Low Power Wide Access Network (LPWAN) and the Machine eXchange Protocol (MXProtocol). Utilizing this solid device network foundation, MXC is introducing an extraordinarily unique coin offering, Machine eXchange Coin (MXC), which allows for increased data transactions and an idiosyncratic data flow monetization within the mammoth data market. \r\n\r\nMXProtocol places a keen focus on reducing collision between networks, constructing an inter-chain data market, developing a market for network coverage and introducing an independent Quality of Services (QoS) framework for both data providers and receivers. For the first time ever, individual network users, corporations and enterprises can all participate in the construction of decentralized, ubiquitous and secure LPWAN. Simply by connecting \u201canything\u201d to the network, adopters will be able to profit and trade MXC. \r\n\r\nThe trading network is built on the premise of the \u201csharing economy.\u201d Therefore, it is uniquely and exclusively owned by users \u2014 both individuals and enterprises \u2014 who take advantage of the monetization of the network in two ways: 1. By increasing uplink and downlink coverage via a Gateway, e.g. a MatchBox LPWAN Gateway, Cisco LPWAN Gateway 2. By unleashing access to a massive network of published and traded data to the marketplace which is securely traded using blockchain technology",
+  "coingeckoId": "mxc",
+  "links": {
+    "twitter": "https://twitter.com/MXCfoundation",
+    "facebook": "https://www.facebook.com/MXCfoundation",
+    "telegram": "https://t.me/mxcfoundation",
+    "reddit": "https://www.reddit.com/r/MXCFoundation/",
+    "github": "https://github.com/mxc-foundation"
+  }
+}

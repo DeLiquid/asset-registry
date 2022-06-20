@@ -1,0 +1,15 @@
+{
+  "key": "playdapp",
+  "name": "PlayDapp",
+  "symbol": "pla",
+  "logoURI": "https://assets.coingecko.com/coins/images/14316/large/54023228.png?1615366911",
+  "website": "https://playdapp.io/",
+  "description": "PlayDapp token (PLA) is a digital asset used within the PlayDapp Blockchain gaming ecosystem to purchase and trade NFT items within games and with the global C2C marketplace 'playdapp.com'.",
+  "coingeckoId": "playdapp",
+  "links": {
+    "twitter": "https://twitter.com/playdapp_io",
+    "facebook": "https://www.facebook.com/playdapp.io",
+    "telegram": "https://t.me/playdapp_official",
+    "github": "https://github.com/playdapp"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "key": "unibright",
+  "name": "Unibright",
+  "symbol": "ubt",
+  "logoURI": "https://assets.coingecko.com/coins/images/2707/large/UnibrightLogo_colorful_500x500_preview.png?1547036916",
+  "website": "http://unibright.io/",
+  "description": "Unibright & Baseledger - Enterprise Blockchain solutions from Germany\r\n\r\nUnibright is a team of blockchain specialists, architects, developers, and consultants with 20+ years of experience in business processes and integration. \r\n\r\nUnibright offers Baseledger.net - The blockchain for Baselining (Baseline-protocol.org), Low-code-integration Tools, programmable DeFi with our tokenization platform Freequity and the Universal Business Token (UBT). \r\n",
+  "coingeckoId": "unibright",
+  "links": {
+    "twitter": "https://twitter.com/Unibrightio",
+    "facebook": "https://www.facebook.com/Unibright.IO",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2892915",
+    "telegram": "https://t.me/Unibright_IO",
+    "reddit": "https://www.reddit.com/r/Unibright/"
+  }
+}

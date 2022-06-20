@@ -1,0 +1,14 @@
+{
+  "key": "gala",
+  "name": "Gala",
+  "symbol": "gala",
+  "logoURI": "https://assets.coingecko.com/coins/images/12493/large/GALA-COINGECKO.png?1600233435",
+  "website": "https://gala.games/",
+  "description": "GALA is designed to power the Gala Games ecosystem to support gaming re-imagined to benefit creators and players, alike.",
+  "coingeckoId": "gala",
+  "links": {
+    "twitter": "https://twitter.com/GoGalaGames",
+    "facebook": "https://www.facebook.com/GoGalaGames",
+    "reddit": "https://www.reddit.com/r/GoGalaGames/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "chain-2",
+  "name": "Chain",
+  "symbol": "xcn",
+  "logoURI": "https://assets.coingecko.com/coins/images/24210/large/Chain_icon_200x200.png?1646895054",
+  "website": "https://chain.com/",
+  "description": "Chain is a cloud blockchain infrastructure that enables organizations to build better financial services from the ground up. Chain has launched Chain Core which is a permissioned and open source blockchain and Sequence, its ledger as a service product. Clients can receive discounts and pay for commercial fees with Chain Tokens (XCN) as well as participate in community protocol governance and access to premium features.",
+  "coingeckoId": "chain-2",
+  "links": {
+    "twitter": "https://twitter.com/chain",
+    "telegram": "https://t.me/Chain",
+    "github": "https://github.com/chain"
+  }
+}

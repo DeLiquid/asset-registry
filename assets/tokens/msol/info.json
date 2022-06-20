@@ -1,0 +1,13 @@
+{
+  "key": "msol",
+  "name": "Marinade staked SOL",
+  "symbol": "msol",
+  "logoURI": "https://assets.coingecko.com/coins/images/17752/large/mSOL.png?1644541955",
+  "website": "https://marinade.finance/",
+  "description": "Marinade.finance is the first Liquid staking protocol built on Solana, and is supported by the Solana Foundation. The users stake their SOL tokens with Marinade-, which is using automatic staking strategies to delegate the SOL to validators, -and the user receive \"staked SOL\" tokens called mSOL that they can use in the world of DeFi or to swap any time back to original SOL tokens to unstake.",
+  "coingeckoId": "msol",
+  "links": {
+    "twitter": "https://twitter.com/MarinadeFinance",
+    "github": "https://github.com/marinade-finance/"
+  }
+}

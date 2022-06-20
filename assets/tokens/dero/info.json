@@ -1,0 +1,16 @@
+{
+  "key": "dero",
+  "name": "Dero",
+  "symbol": "dero",
+  "logoURI": "https://assets.coingecko.com/coins/images/3522/large/dero_logo_png.png?1582180390",
+  "website": "https://dero.io/",
+  "description": "DERO is the first crypto project to combine a Proof of Work blockchain with a DAG block structure and private transactions using Homomorphic Encryption technology. The distributed ledger processes transactions with a twenty-seven average block time and is secure against 51% attacks. Dero aims to be the first layer one private blockchain to have smart contracts on its native chain. This means no extra layers or secondary blockchains. DERO was written in Golang from scratch to support billions of users with enhanced reliability, privacy, security, and usability. Balances and transactions are private on the DERO blockchain. The goal of the Dero project is to become a blockchain network that can serve a wide variety of users and use cases while allowing for secure, fast and anonymous transactions. In addition to this, it will provide smart contract execution and a secure services model.",
+  "coingeckoId": "dero",
+  "links": {
+    "twitter": "https://twitter.com/DeroProject",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2525508",
+    "telegram": "https://t.me/DeroProjectGroup",
+    "reddit": "https://www.reddit.com/r/DeroProject/",
+    "github": "https://github.com/deroproject"
+  }
+}

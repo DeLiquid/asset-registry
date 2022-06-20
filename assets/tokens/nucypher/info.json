@@ -1,0 +1,14 @@
+{
+  "key": "nucypher",
+  "name": "NuCypher",
+  "symbol": "nu",
+  "logoURI": "https://assets.coingecko.com/coins/images/3318/large/photo1198982838879365035.jpg?1547037916",
+  "website": "https://www.nucypher.com",
+  "description": "Privacy layer for distributed systems and decentralized applications. NuCypher KMS helps dApp developers secure their data on the blockchain with decentralized proxy re-encryption as a service.",
+  "coingeckoId": "nucypher",
+  "links": {
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2035166",
+    "reddit": "https://www.reddit.com/r/nucypher",
+    "github": "https://github.com/nucypher/"
+  }
+}

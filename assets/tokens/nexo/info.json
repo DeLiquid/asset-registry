@@ -1,0 +1,16 @@
+{
+  "key": "nexo",
+  "name": "NEXO",
+  "symbol": "nexo",
+  "logoURI": "https://assets.coingecko.com/coins/images/3695/large/nexo.png?1548086057",
+  "website": "https://nexo.io/",
+  "description": "The NEXO Token is an asset-backed token and is backed by the underlying assets of Nexo\u2019s loan portfolio. NEXO Tokens Holders will get 30% of the company\u2019s profits.\r\nNEXO Tokens offer additional utility features such as discounted interest rates on the Nexo Instant Crypto-backed Loans and are also accepted as collateral on the Nexo Platform.",
+  "coingeckoId": "nexo",
+  "links": {
+    "twitter": "https://twitter.com/Nexo",
+    "facebook": "https://www.facebook.com/NexoFinance",
+    "telegram": "https://t.me/nexofinance",
+    "reddit": "https://www.reddit.com/r/Nexo/",
+    "github": "https://github.com/nexofinance/NEXO-Token/"
+  }
+}

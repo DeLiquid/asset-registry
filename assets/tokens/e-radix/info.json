@@ -1,0 +1,15 @@
+{
+  "key": "e-radix",
+  "name": "e-Radix",
+  "symbol": "exrd",
+  "logoURI": "https://assets.coingecko.com/coins/images/13145/large/exrd_logo.png?1605662677",
+  "website": "https://www.radixdlt.com/",
+  "description": "",
+  "coingeckoId": "e-radix",
+  "links": {
+    "twitter": "https://twitter.com/RadixDLT",
+    "telegram": "https://t.me/radix_dlt",
+    "reddit": "https://www.reddit.com/r/Radix/",
+    "github": "https://github.com/radixdlt"
+  }
+}

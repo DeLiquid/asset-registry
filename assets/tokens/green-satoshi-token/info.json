@@ -1,0 +1,12 @@
+{
+  "key": "green-satoshi-token",
+  "name": "STEPN Green Satoshi Token on Solana",
+  "symbol": "gst-sol",
+  "logoURI": "https://assets.coingecko.com/coins/images/21841/large/gst.png?1640332626",
+  "website": "https://stepn.com/",
+  "description": "What is Green Satoshi Token (GST)\r\n\r\nGST is earned in STEPN, a Web3 lifestyle app with fun social elements and gamification design.\r\n\r\nGST serves as the replacement to experience points and in-app currency. Users equipped with NFT Sneakers \u2013 walk, jog or run outdoors to earn GST, which can be used to level up and mint new Sneakers.\r\n\r\nWhen should I buy Green Satoshi Tokens (GST)?\r\n\r\nPlayers buy GSTs to spend/burn in the STEPN app. GSTs are minted by players through moving and leasing their NFT Sneakers, and burned through making progress in the social and gamification components. GST is different from GMT, which is the Governance Token of STEPN with a supply of 6 billion tokens.\r\n\r\nWhat is STEPN?\r\n\r\nSTEPN is a Web3 lifestyle app with fun social elements and gamification design. Users equipped with NFT Sneakers \u2013 walk, jog or run outdoors to earn GST, which can be used to level up and mint new Sneakers.\r\n\r\nPlayer can choose to lease or sell their NFT Sneakers on the in-app Marketplace; users\u2019 GST earnings are stored in the in-app Wallet, which has a built-in Swap function.\r\n\r\nWho is behind STEPN?\r\n\r\nSTEPN is created by Find Satoshi Lab, an Australian-based fintech studio. The team won the 2021 Solana Ignition Hackathon Gaming Track and is part of DeFi Alliance Gaming cohort.",
+  "coingeckoId": "green-satoshi-token",
+  "links": {
+    "twitter": "https://twitter.com/Stepnofficial"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key": "tdex",
+  "name": "Tdex",
+  "symbol": "tt",
+  "logoURI": "https://assets.coingecko.com/coins/images/26036/large/20606.png?1655362548",
+  "website": "https://www.teco.cool/",
+  "description": "TT launched by Turkish team on September 29, 2021,Tdex is a web 3.0 platform for decentralized applications, like crypto wallet, DEX, DeFi, GameFi, SocialFi, NFT, and Metaverse space. You can also connect with your cryptocurrency wallet to any application on the Tdex platform.",
+  "coingeckoId": "tdex",
+  "links": {
+    "twitter": "https://twitter.com/MetaTdex",
+    "telegram": "https://t.me/TDEX_groupCN"
+  }
+}

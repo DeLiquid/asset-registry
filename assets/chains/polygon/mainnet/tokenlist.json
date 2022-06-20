@@ -1,0 +1,497 @@
+[
+  {
+    "key": "1inch",
+    "address": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
+    "decimals": 18
+  },
+  {
+    "key": "aave",
+    "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+    "decimals": 18
+  },
+  {
+    "key": "aavegotchi-alpha",
+    "address": "0x6a3e7c3c6ef65ee26975b12293ca1aad7e1daed2",
+    "decimals": 18
+  },
+  {
+    "key": "aavegotchi",
+    "address": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+    "decimals": 18
+  },
+  {
+    "key": "adex",
+    "address": "0xc8e36f0a44fbeca89fdd5970439cbe62eb4b5d03",
+    "decimals": 18
+  },
+  {
+    "key": "adshares",
+    "address": "0x598e49f01befeb1753737934a5b11fea9119c796",
+    "decimals": 11
+  },
+  {
+    "key": "ageur",
+    "address": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4",
+    "decimals": 18
+  },
+  {
+    "key": "ankr",
+    "address": "0x101a023270368c0d50bffb62780f4afd4ea79c35",
+    "decimals": 18
+  },
+  {
+    "key": "arpa-chain",
+    "address": "0xee800b277a96b0f490a1a732e1d6395fad960a26",
+    "decimals": 18
+  },
+  {
+    "key": "atlas-usv",
+    "address": "0xac63686230f64bdeaf086fe6764085453ab3023f",
+    "decimals": 9
+  },
+  {
+    "key": "auroratoken",
+    "address": "0x0c8c8ae8bc3a69dc8482c01ceacfb588bb516b01",
+    "decimals": 18
+  },
+  {
+    "key": "automata",
+    "address": "0x0df0f72ee0e5c9b7ca761ecec42754992b2da5bf",
+    "decimals": 18
+  },
+  {
+    "key": "avalanche-2",
+    "address": "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
+    "decimals": 18
+  },
+  {
+    "key": "avalanche-wormhole",
+    "address": "0x7bb11e7f8b10e9e571e5d8eace04735fdfb2358a",
+    "decimals": 18
+  },
+  {
+    "key": "axion",
+    "address": "0x839f1a22a59eaaf26c85958712ab32f80fea23d9",
+    "decimals": 18
+  },
+  {
+    "key": "balancer",
+    "address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
+    "decimals": 18
+  },
+  {
+    "key": "basic-attention-token",
+    "address": "0x3cef98bb43d732e2f285ee605a8158cde967d219",
+    "decimals": 18
+  },
+  {
+    "key": "battle-world",
+    "address": "0xc1543024dc71247888a7e139c644f44e75e96d38",
+    "decimals": 18
+  },
+  {
+    "key": "beefy-finance",
+    "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
+    "decimals": 18
+  },
+  {
+    "key": "binance-coin-wormhole",
+    "address": "0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d",
+    "decimals": 18
+  },
+  {
+    "key": "binance-usd",
+    "address": "0x9fb83c0635de2e815fd1c21b3a292277540c2e8d",
+    "decimals": 18
+  },
+  {
+    "key": "cartesi",
+    "address": "0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b",
+    "decimals": 18
+  },
+  {
+    "key": "celsius-degree-token",
+    "address": "0xd85d1e945766fea5eda9103f918bd915fbca63e6",
+    "decimals": 4
+  },
+  {
+    "key": "chainlink",
+    "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+    "decimals": 18
+  },
+  {
+    "key": "circuits-of-value",
+    "address": "0x4597c8a59ab28b36840b82b3a674994a279593d0",
+    "decimals": 8
+  },
+  {
+    "key": "compound-governance-token",
+    "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
+    "decimals": 18
+  },
+  {
+    "key": "curve-dao-token",
+    "address": "0x172370d5cd63279efa6d502dab29171933a610af",
+    "decimals": 18
+  },
+  {
+    "key": "dai",
+    "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+    "decimals": 18
+  },
+  {
+    "key": "decentral-games-old",
+    "address": "0x2a93172c8dccbfbc60a39d56183b7279a2f647b4",
+    "decimals": 18
+  },
+  {
+    "key": "decentral-games",
+    "address": "0xef938b6da8576a896f6e0321ef80996f4890f9c4",
+    "decimals": 18
+  },
+  {
+    "key": "decentraland",
+    "address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
+    "decimals": 18
+  },
+  {
+    "key": "defipulse-index",
+    "address": "0x85955046df4668e1dd369d2de9f3aeb98dd2a369",
+    "decimals": 18
+  },
+  {
+    "key": "dei-token",
+    "address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
+    "decimals": 18
+  },
+  {
+    "key": "dodo",
+    "address": "0xe4bf2864ebec7b7fdf6eeca9bacae7cdfdaffe78",
+    "decimals": 18
+  },
+  {
+    "key": "dogelon-mars",
+    "address": "0xe0339c80ffde91f3e20494df88d4206d86024cdf",
+    "decimals": 18
+  },
+  {
+    "key": "ecowatt",
+    "address": "0xd9e838dd60c8ea1e7dd4e670913323bb87db112c",
+    "decimals": 4
+  },
+  {
+    "key": "ethereum-wormhole",
+    "address": "0x11cd37bb86f65419713f30673a480ea33c826872",
+    "decimals": 18
+  },
+  {
+    "key": "everipedia",
+    "address": "0xb9638272ad6998708de56bbc0a290a1de534a578",
+    "decimals": 18
+  },
+  {
+    "key": "everrise",
+    "address": "0xc17c30e98541188614df99239cabd40280810ca3",
+    "decimals": 18
+  },
+  {
+    "key": "frax-share",
+    "address": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
+    "decimals": 18
+  },
+  {
+    "key": "frax",
+    "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+    "decimals": 18
+  },
+  {
+    "key": "gains-farm",
+    "address": "0x7075cab6bcca06613e2d071bd918d1a0241379e2",
+    "decimals": 18
+  },
+  {
+    "key": "gensokishis-metaverse",
+    "address": "0xa3c322ad15218fbfaed26ba7f616249f7705d945",
+    "decimals": 18
+  },
+  {
+    "key": "havven",
+    "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+    "decimals": 18
+  },
+  {
+    "key": "impermax",
+    "address": "0x60bb3d364b765c497c8ce50ae0ae3f0882c5bd05",
+    "decimals": 18
+  },
+  {
+    "key": "insure",
+    "address": "0xf88332547c680f755481bf489d890426248bb275",
+    "decimals": 18
+  },
+  {
+    "key": "iris-token-2",
+    "address": "0xdab35042e63e93cc8556c9bae482e5415b5ac4b1",
+    "decimals": 18
+  },
+  {
+    "key": "iron-titanium-token",
+    "address": "0xaaa5b9e6c589642f98a1cda99b9d024b8407285a",
+    "decimals": 18
+  },
+  {
+    "key": "kirobo",
+    "address": "0xb382c1cfa622795a534e5bd56fac93d59bac8b0d",
+    "decimals": 18
+  },
+  {
+    "key": "klima-dao",
+    "address": "0x4e78011ce80ee02d2c3e649fb657e45898257815",
+    "decimals": 9
+  },
+  {
+    "key": "kyber-network-crystal",
+    "address": "0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c",
+    "decimals": 18
+  },
+  {
+    "key": "lido-dao",
+    "address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756",
+    "decimals": 18
+  },
+  {
+    "key": "liquity-usd",
+    "address": "0x23001f892c0c82b79303edc9b9033cd190bb21c7",
+    "decimals": 18
+  },
+  {
+    "key": "magic-internet-money",
+    "address": "0x49a0400587a7f65072c87c4910449fdcc5c47242",
+    "decimals": 18
+  },
+  {
+    "key": "mask-network",
+    "address": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7",
+    "decimals": 18
+  },
+  {
+    "key": "matic-network",
+    "address": "0x0000000000000000000000000000000000001010",
+    "decimals": 18
+  },
+  {
+    "key": "mimatic",
+    "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+    "decimals": 18
+  },
+  {
+    "key": "multichain",
+    "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+    "decimals": 18
+  },
+  {
+    "key": "nest",
+    "address": "0x98f8669f6481ebb341b522fcd3663f79a3d1a6a7",
+    "decimals": 18
+  },
+  {
+    "key": "neutrino",
+    "address": "0x013f9c3fac3e2759d7e90aca4f9540f75194a0d7",
+    "decimals": 18
+  },
+  {
+    "key": "noia-network",
+    "address": "0x957d1ad5214468332c5e6c00305a25116f9a46bb",
+    "decimals": 18
+  },
+  {
+    "key": "orbs",
+    "address": "0x614389eaae0a6821dc49062d56bda3d9d45fa2ff",
+    "decimals": 18
+  },
+  {
+    "key": "ovr",
+    "address": "0x1631244689ec1fecbdd22fb5916e920dfc9b8d30",
+    "decimals": 18
+  },
+  {
+    "key": "playdapp",
+    "address": "0x8765f05adce126d70bcdf1b0a48db573316662eb",
+    "decimals": 18
+  },
+  {
+    "key": "polyalpha-finance",
+    "address": "0x0b048d6e01a6b9002c291060bf2179938fd8264c",
+    "decimals": 18
+  },
+  {
+    "key": "popop-world",
+    "address": "0xf562de317091efb0ba45c9622421123cf4c3a702",
+    "decimals": 18
+  },
+  {
+    "key": "qi-dao",
+    "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4",
+    "decimals": 18
+  },
+  {
+    "key": "radioshack",
+    "address": "0x613a489785c95afeb3b404cc41565ccff107b6e0",
+    "decimals": 18
+  },
+  {
+    "key": "rari-governance-token",
+    "address": "0xf4bb0ed25ac7bcc9c327b88bac5ca288a08ec41e",
+    "decimals": 18
+  },
+  {
+    "key": "renbtc",
+    "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501",
+    "decimals": 8
+  },
+  {
+    "key": "render-token",
+    "address": "0x61299774020da444af134c82fa83e3810b309991",
+    "decimals": 18
+  },
+  {
+    "key": "request-network",
+    "address": "0xb25e20de2f2ebb4cffd4d16a55c7b395e8a94762",
+    "decimals": 18
+  },
+  {
+    "key": "shapeshift-fox-token",
+    "address": "0x65a05db8322701724c197af82c9cae41195b0aa8",
+    "decimals": 18
+  },
+  {
+    "key": "sol-wormhole",
+    "address": "0xd93f7e271cb87c23aaa73edc008a79646d1f9912",
+    "decimals": 9
+  },
+  {
+    "key": "stargate-finance",
+    "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+    "decimals": 18
+  },
+  {
+    "key": "stasis-eurs",
+    "address": "0xe111178a87a3bff0c8d18decba5798827539ae99",
+    "decimals": 2
+  },
+  {
+    "key": "superfarm",
+    "address": "0xa1428174f516f527fafdd146b883bb4428682737",
+    "decimals": 18
+  },
+  {
+    "key": "sushi",
+    "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+    "decimals": 18
+  },
+  {
+    "key": "synapse-2",
+    "address": "0xf8f9efc0db77d8881500bb06ff5d6abc3070e695",
+    "decimals": 18
+  },
+  {
+    "key": "telcoin",
+    "address": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32",
+    "decimals": 2
+  },
+  {
+    "key": "tether",
+    "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+    "decimals": 6
+  },
+  {
+    "key": "the-graph",
+    "address": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
+    "decimals": 18
+  },
+  {
+    "key": "the-sandbox",
+    "address": "0xbbba073c31bf03b8acf7c28ef0738decf3695683",
+    "decimals": 18
+  },
+  {
+    "key": "timeleap-finance",
+    "address": "0x5c59d7cb794471a9633391c4927ade06b8787a90",
+    "decimals": 18
+  },
+  {
+    "key": "toucan-protocol-base-carbon-tonne",
+    "address": "0x2f800db0fdb5223b3c3f354886d907a671414a7f",
+    "decimals": 18
+  },
+  {
+    "key": "toucan-protocol-nature-carbon-tonne",
+    "address": "0xd838290e877e0188a4a44700463419ed96c16107",
+    "decimals": 18
+  },
+  {
+    "key": "true-usd",
+    "address": "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756",
+    "decimals": 18
+  },
+  {
+    "key": "unibright",
+    "address": "0x7fbc10850cae055b27039af31bd258430e714c62",
+    "decimals": 8
+  },
+  {
+    "key": "uniswap",
+    "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
+    "decimals": 18
+  },
+  {
+    "key": "usd-coin",
+    "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "decimals": 6
+  },
+  {
+    "key": "vulcan-forged",
+    "address": "0x430ef9263e76dae63c84292c3409d61c598e9682",
+    "decimals": 18
+  },
+  {
+    "key": "wazirx",
+    "address": "0x72d6066f486bd0052eefb9114b66ae40e0a6031a",
+    "decimals": 8
+  },
+  {
+    "key": "woo-network",
+    "address": "0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603",
+    "decimals": 18
+  },
+  {
+    "key": "wrapped-bitcoin",
+    "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+    "decimals": 8
+  },
+  {
+    "key": "wrapped-btc-wormhole",
+    "address": "0x5d49c278340655b56609fdf8976eb0612af3a0c3",
+    "decimals": 8
+  },
+  {
+    "key": "wrapped-ust",
+    "address": "0x692597b009d13c4049a947cab2239b7d6517875f",
+    "decimals": 18
+  },
+  {
+    "key": "xcad-network",
+    "address": "0xa55870278d6389ec5b524553d03c04f5677c061e",
+    "decimals": 18
+  },
+  {
+    "key": "yearn-finance",
+    "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
+    "decimals": 18
+  },
+  {
+    "key": "zerogoki",
+    "address": "0xb9f9e37c2cdbaff928c3da730b02f06fe09ae70e",
+    "decimals": 18
+  }
+]

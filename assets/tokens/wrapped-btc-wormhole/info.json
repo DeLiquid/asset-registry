@@ -1,0 +1,12 @@
+{
+  "key": "wrapped-btc-wormhole",
+  "name": "Wrapped BTC (Wormhole)",
+  "symbol": "wbtc",
+  "logoURI": "https://assets.coingecko.com/coins/images/23004/large/WBTC_wh_small.png?1644223021",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "wrapped-btc-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

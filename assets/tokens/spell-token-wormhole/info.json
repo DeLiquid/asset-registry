@@ -1,0 +1,12 @@
+{
+  "key": "spell-token-wormhole",
+  "name": "Spell Token (Wormhole)",
+  "symbol": "spell",
+  "logoURI": "https://assets.coingecko.com/coins/images/22979/large/SPELL_wh_small.png?1644224162",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "spell-token-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

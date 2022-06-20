@@ -1,0 +1,15 @@
+{
+  "key": "olympus",
+  "name": "Olympus",
+  "symbol": "ohm",
+  "logoURI": "https://assets.coingecko.com/coins/images/14483/large/token_OHM_%281%29.png?1628311611",
+  "website": "https://olympusdao.finance/",
+  "description": "",
+  "coingeckoId": "olympus",
+  "links": {
+    "twitter": "https://twitter.com/OlympusDAO",
+    "telegram": "https://t.me/OlympusTG",
+    "reddit": "https://www.reddit.com/r/olympusdao/",
+    "github": "https://github.com/OlympusDAO"
+  }
+}

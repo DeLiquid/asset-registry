@@ -1,0 +1,14 @@
+{
+  "key": "raven-dark",
+  "name": "Raven Dark",
+  "symbol": "xrd",
+  "logoURI": "https://assets.coingecko.com/coins/images/8187/large/bAY1Smt.png?1556155507",
+  "website": "http://www.raven-dark.com",
+  "description": "Raven Dark is a GPU secured blockchain with privacy.",
+  "coingeckoId": "raven-dark",
+  "links": {
+    "twitter": "https://twitter.com/ravendark_xrd",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5093982",
+    "github": "https://github.com/raven-dark/raven-dark"
+  }
+}

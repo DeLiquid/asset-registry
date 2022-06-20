@@ -1,0 +1,14 @@
+{
+  "key": "rootkit",
+  "name": "Rootkit",
+  "symbol": "root",
+  "logoURI": "https://assets.coingecko.com/coins/images/13151/large/rootkit_logo.png?1605712875",
+  "website": "https://rootkit.finance",
+  "description": "Rootkit is a highly advanced new DeFi protocol that pushes the limits of financial wizardry. Using a combination of permanent liquidity locks and a fixed supply currency, Rootkit creates a mathematical price floor. There can only ever be 10000 ROOT, and the price floor represents the lowest possible price a ROOT token can ever be. With our new ERC-31337 token wrapper, Rootkit is able to unlock the ETH from under the price floor and send it to a vault. This ETH is moved without effecting the market price, or depth of the order book. As the price floor rises through market volume, liquidity locks. Which means more ETH is unlocked from below the floor and sent to the vault. Because there is no tokens available to sell, the floor starts at the price, which is determined by how many ETH are raised in the ETH. Since we can unback the KETH below the floor, all of the ETH used to create the first liquidity can be used twice. This lets us offer our first LP a huge bonus, which is something no other protocol can do. The true power of Rootkit is the ability to use the same ETH multiple times to push the price up, without ever using it to sell back to the market, or push the price down. Rootkit, the future of finance.",
+  "coingeckoId": "rootkit",
+  "links": {
+    "twitter": "https://twitter.com/rootkitfinance",
+    "telegram": "https://t.me/rootkitfinance",
+    "github": "https://github.com/rootkitfinance"
+  }
+}

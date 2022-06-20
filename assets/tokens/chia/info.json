@@ -1,0 +1,14 @@
+{
+  "key": "chia",
+  "name": "Chia",
+  "symbol": "xch",
+  "logoURI": "https://assets.coingecko.com/coins/images/15174/large/zV5K5y9f_400x400.png?1620024414",
+  "website": "https://www.chia.net/",
+  "description": "Founded by Bram Cohen, the inventor of the BitTorrent network, Chia Network is building a better blockchain and smart transaction platform which is more decentralized, more efficient, and more secure.\r\n\r\nChialisp is Chia\u2019s new smart transaction programming language that is powerful, easy to audit, and secure. The blockchain is powered by the first new Nakamoto style consensus algorithm since Bitcoin launched in 2008. Proofs of Space and Time replace energy intensive \u201cproofs of work\u201d by utilizing unused disk space.\r\n\r\nChia Network supports the development and deployment of the Chia blockchain globally. Chia Network supports chia developers and supports the enterprise use of chia with software support and chia lending.",
+  "coingeckoId": "chia",
+  "links": {
+    "twitter": "https://twitter.com/chia_project",
+    "reddit": "https://www.reddit.com/r/chia/",
+    "github": "https://github.com/Chia-Network"
+  }
+}

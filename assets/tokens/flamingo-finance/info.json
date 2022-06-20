@@ -1,0 +1,15 @@
+{
+  "key": "flamingo-finance",
+  "name": "Flamingo Finance",
+  "symbol": "flm",
+  "logoURI": "https://assets.coingecko.com/coins/images/12618/large/flamingo_finance_logo.jpg?1601274535",
+  "website": "https://flamingo.finance/",
+  "description": "",
+  "coingeckoId": "flamingo-finance",
+  "links": {
+    "twitter": "https://twitter.com/FlamingoFinance",
+    "telegram": "https://t.me/flamingo_finance",
+    "reddit": "https://www.reddit.com/r/FlamingoDeFi/",
+    "github": "https://github.com/flamingo-finance"
+  }
+}

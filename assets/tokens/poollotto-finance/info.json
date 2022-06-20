@@ -1,0 +1,13 @@
+{
+  "key": "poollotto-finance",
+  "name": "Poollotto.finance",
+  "symbol": "plt",
+  "logoURI": "https://assets.coingecko.com/coins/images/21425/large/polotto.png?1639116841",
+  "website": "https://www.poollotto.finance/",
+  "description": "\"Poollotto Token (PLT) is a new generation of lottery token-based smart contracts for non-centralized management of the global community-driven lottery pools, automated and safe payments. \r\nThe PLT Token project was launched to create a blockchain platform and token economy that gives transparency and fair outcomes to users around the globe. At the same time, token distribution is defined to provide a required level of development, promotion, and support of the PLT Ecosystem. \"",
+  "coingeckoId": "poollotto-finance",
+  "links": {
+    "twitter": "https://twitter.com/pltfinance",
+    "telegram": "https://t.me/pltlottochat"
+  }
+}

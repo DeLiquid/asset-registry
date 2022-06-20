@@ -1,0 +1,17 @@
+{
+  "key": "blockstack",
+  "name": "Stacks",
+  "symbol": "stx",
+  "logoURI": "https://assets.coingecko.com/coins/images/2069/large/Stacks_logo_full.png?1604112510",
+  "website": "http://stacks.co/",
+  "description": "Stacks brings Apps and Smart Contracts to Bitcoin. Apps built on Stacks inherit all of Bitcoin\u2019s powers. They run their logic on the blockchain with smart contracts, are controlled by code instead of companies, and are accessible to anyone. This enables decentralized apps to do things that regular apps can\u2019t.",
+  "coingeckoId": "blockstack",
+  "links": {
+    "github": "https://github.com/blockstack",
+    "twitter": "https://twitter.com/Stacks ",
+    "linkedin": "https://www.linkedin.com/company/blockstack-labs",
+    "whitepaper": "https://blockstack.com/tokenpaper.pdf",
+    "telegram": "https://t.me/BlockstackChat",
+    "reddit": "https://www.reddit.com"
+  }
+}

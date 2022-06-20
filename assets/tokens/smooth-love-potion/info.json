@@ -1,0 +1,13 @@
+{
+  "key": "smooth-love-potion",
+  "name": "Smooth Love Potion",
+  "symbol": "slp",
+  "logoURI": "https://assets.coingecko.com/coins/images/10366/large/SLP.png?1578640057",
+  "website": "https://axieinfinity.com/",
+  "description": "Smooth Love Potion (SLP) tokens can be earned as rewards by Axie Infinity players through battle or adventure mode. SLP are tokens that can be used to breed new digital pets, known as Axies. It was formally known as Small Love Potion before the token upgrade to the Ronin blockchain.\r\n\r\nThe cost of breeding begins at 100 SLP but increases gradually \u2014 rising to 200 SLP for the second breed, 300 for the third, 500 for the fourth, 800 for the fifth, and 1,300 for the sixth. Axies can be bred a maximum of seven times, and the seventh breed costs 2,100 SLP. This limit exists in order to prevent hyperinflation in the marketplace.\r\n\r\nSLP paves the way to the concept of Play-to-earn which popularizes the Axie Infinity games among players who are looking to earn some money or participate in DeFi. It is especially popular in countries like Philippines.\u00a0",
+  "coingeckoId": "smooth-love-potion",
+  "links": {
+    "twitter": "https://twitter.com/AxieInfinity",
+    "reddit": "https://www.reddit.com/r/AxieInfinity"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "boringdao-[old]",
+  "name": "BoringDAO [OLD]",
+  "symbol": "bor",
+  "logoURI": "https://assets.coingecko.com/coins/images/12917/large/bor_logo.png?1603607502",
+  "website": "https://www.boringdao.com/",
+  "description": "",
+  "coingeckoId": "boringdao-[old]",
+  "links": {
+    "twitter": "https://twitter.com/TheBoringDAO",
+    "telegram": "https://t.me/boringdao_official",
+    "github": "https://github.com/BoringDAO"
+  }
+}

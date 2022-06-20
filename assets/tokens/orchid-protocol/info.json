@@ -1,0 +1,17 @@
+{
+  "key": "orchid-protocol",
+  "name": "Orchid Protocol",
+  "symbol": "oxt",
+  "logoURI": "https://assets.coingecko.com/coins/images/3916/large/download_%285%29.png?1576624060",
+  "website": "https://www.orchid.com/",
+  "description": "The Orchid Protocol organizes bandwidth sellers into a structured peer-to-peer (P2P) network termed the Orchid Market. Customers connect to the Orchid Market and pay bandwidth sellers in order to form a proxy chain to a specific resource on the Internet.\r\n\r\nUnlike more common methods for sending and receiving data from the global Internet, proxy chains in the Orchid Market naturally separate information about the source of data from information about its destination; no single relay or proxy holds both pieces of information, or knows the identity of someone who does. The structure of the Orchid Market further supports this separation of information by providing strong resistance against collusion attacks \u2013 the ability of a group of bandwidth sellers to overcome this separation of knowledge.\r\n\r\nThe Internet was originally an open platform where people could freely learn and communicate. Unfortunately, as the Internet grew it became a place where people could be monitored, controlled, and censored. We're building a new civil contract around a distributed marketplace for computation, storage, and bandwidth to provide the framework for a new form of digital citizenship.\r\n",
+  "coingeckoId": "orchid-protocol",
+  "links": {
+    "twitter": "https://twitter.com/orchidprotocol",
+    "facebook": "https://www.facebook.com/OrchidProtocol",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2704270",
+    "telegram": "https://t.me/OrchidOfficial",
+    "reddit": "https://www.reddit.com/r/orchid/",
+    "github": "https://github.com/OrchidTechnologies/orchid"
+  }
+}

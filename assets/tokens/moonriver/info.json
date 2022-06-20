@@ -1,0 +1,15 @@
+{
+  "key": "moonriver",
+  "name": "Moonriver",
+  "symbol": "movr",
+  "logoURI": "https://assets.coingecko.com/coins/images/17984/large/9285.png?1630028620",
+  "website": "https://moonbeam.network/networks/moonriver/",
+  "description": "Moonriver is a fully Ethereum-compatible smart contract parachain on Kusama. Due to this Ethereum-like design and developer-friendly approach, Moonriver has attracted dozens of projects to build on it: https://moonbeam.network/community/projects/. It does this by providing a full EVM implementation, a Web3-compatible API, and bridges that connect Moonriver to existing Ethereum networks. This allows developers to deploy existing Solidity/Vyper smart contracts and DApp frontends to Moonriver with minimal changes.\r\n\r\nIt is intended to be a companion network to Moonbeam (on Polkadot), where it will provide a permanently incentivized canary network. New code will ship to Moonriver first, where it can be tested and verified under real economic conditions. Once proven, the same code will ship to Moonbeam on Polkadot.",
+  "coingeckoId": "moonriver",
+  "links": {
+    "twitter": "https://twitter.com/MoonriverNW",
+    "telegram": "https://t.me/Moonbeam_Official",
+    "reddit": "https://www.reddit.com/r/moonbeam/",
+    "github": "https://github.com/PureStake/moonbeam/"
+  }
+}

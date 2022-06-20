@@ -1,0 +1,16 @@
+{
+  "key": "komodo",
+  "name": "Komodo",
+  "symbol": "kmd",
+  "logoURI": "https://assets.coingecko.com/coins/images/611/large/KMD_Mark_Color.png?1563350261",
+  "website": "https://komodoplatform.com/",
+  "description": "Komodo is an end-to-end blockchain infrastructure solutions provider. Consistently recognized as one of the world\u2019s most innovative blockchain projects, Komodo is developing technologies at the cutting-edge of the blockchain industry. \r\n\r\nIn reality, most blockchain platforms today are but a single blockchain that offers support for smart contracts and decentralized applications. This model forces all projects to share the same infrastructure, leading to congestion, increased transactions fees, and stifled growth. \r\n\r\nWhereas other blockchain platforms employ a single, shared-blockchain model, Komodo\u2019s federated multi-chain architecture provides each and every external project with independent infrastructure and a dedicated blockchain. \r\n\r\nThis multi-chain design is what makes Komodo unique among blockchain platforms. Each project is given the opportunity to create their own blockchain ecosystem via Komodo\u2019s infinitely scalable infrastructure. \r\n\r\nKomodo\u2019s tech enables seamless cross-chain interoperability among all federated blockchains. Every blockchain built with Komodo is also connected to 95% of chains outside the federation via atomic swap technology. Future plans are in place for blockchain bridging support, which will create cross-chain fungibility throughout the entire blockchains industry. \r\n\r\nMoreover, with Komodo\u2019s architecture, multiple blockchains can sync up and function as a single chain. If one chain is not meeting performance needs, additional chains can be added to form a blockchain cluster. A blockchain cluster boosts performance linearly without inflating coin supply or devaluing the currency. \r\n\r\nThe Komodo ecosystem is not only scalable and interoperable, it\u2019s also secured with the power of the Bitcoin network. This is accomplished with a series of cross-chain notarizations that store a blockhash onto the Bitcoin ledger every ten minutes, providing protection from 51% attacks. \r\n\r\nJoin Komodo as we continue to accelerate the global adoption of blockchain technology. ",
+  "coingeckoId": "komodo",
+  "links": {
+    "twitter": "https://twitter.com/KomodoPlatform",
+    "facebook": "https://www.facebook.com/KomodoPlatform",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1605144",
+    "reddit": "https://www.reddit.com/r/komodoplatform",
+    "github": "https://github.com/KomodoPlatform"
+  }
+}

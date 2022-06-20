@@ -1,0 +1,19 @@
+{
+  "key": "dent",
+  "name": "Dent",
+  "symbol": "dent",
+  "logoURI": "https://assets.coingecko.com/coins/images/1152/large/gLCEA2G.png?1604543239",
+  "website": "https://www.dentwireless.com/",
+  "description": "Our vision is to create a global exchange using Ethereum blockchain, where everyone on this planet has the opportunity to buy and sell mobile bandwidth in any country just like you buy foreign currencies on FOREX.",
+  "coingeckoId": "dent",
+  "links": {
+    "slack": "https://dentcoin.herokuapp.com/",
+    "twitter": "https://twitter.com/dentcoin",
+    "youtube": "https://www.youtube.com/channel/UCyxn3sx68u1VrErs_tNI7ig",
+    "facebook": "https://www.facebook.com/dentcoin",
+    "telegram": "https://t.me/dentcoin",
+    "whitepaper": "https://www.dentcoin.com/whitepaper",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=1974825",
+    "reddit": "https://www.reddit.com/r/dent/"
+  }
+}

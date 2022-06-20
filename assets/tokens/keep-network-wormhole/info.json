@@ -1,0 +1,12 @@
+{
+  "key": "keep-network-wormhole",
+  "name": "Keep Network (Wormhole)",
+  "symbol": "keep",
+  "logoURI": "https://assets.coingecko.com/coins/images/23075/large/KEEP_wh_small.png?1644226155",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "keep-network-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "key": "divi",
+  "name": "Divi",
+  "symbol": "divi",
+  "logoURI": "https://assets.coingecko.com/coins/images/1273/large/red_logomark.png?1590383789",
+  "website": "https://www.diviproject.org/",
+  "description": "Divi is a project with the goal of making popular cryptocurrencies easy to use for the public mass. Divi\u2019s \"Smart Wallet\" and blockchain make transactions speedier, affordable, easier, safe to use, and less prone to user errors. Under the hood Divi is powered by a masternode network, and they developed \"MOCCI\" which is a one-click installer allowing anyone with little technical knowledge to easily participate in the network as a masternode. Thereby securing the network further and in return masternode participants earn crypto as incentive.",
+  "coingeckoId": "divi",
+  "links": {
+    "twitter": "https://twitter.com/diviproject",
+    "facebook": "https://www.facebook.com/diviproject",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2270938",
+    "telegram": "https://t.me/diviproject",
+    "reddit": "https://www.reddit.com/r/diviproject",
+    "github": "https://github.com/Divicoin/Divicoin"
+  }
+}

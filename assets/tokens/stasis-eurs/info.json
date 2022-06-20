@@ -1,0 +1,16 @@
+{
+  "key": "stasis-eurs",
+  "name": "STASIS EURO",
+  "symbol": "eurs",
+  "logoURI": "https://assets.coingecko.com/coins/images/5164/large/EURS_300x300.png?1550571779",
+  "website": "https://stasis.net/",
+  "description": "EURS token is a virtual financial asset that is designed to digitally mirror the EURO on the condition that its value is tied to the value of its collateral.\r\n\r\nDownload STASIS Stablecoin wallet: Android: https://play.google.com/store/apps/details?id=com.stasis.stasiswallet iOS: https://itunes.apple.com/app/stasis-wallet/id1371949230",
+  "coingeckoId": "stasis-eurs",
+  "links": {
+    "twitter": "https://twitter.com/stasisnet",
+    "facebook": "https://www.facebook.com/stasisnet",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=4789890",
+    "telegram": "https://t.me/stasis_community",
+    "github": "https://github.com/STASISNET/STASIS-EURS-token-smart-contract"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key": "ribbon-finance",
+  "name": "Ribbon Finance",
+  "symbol": "rbn",
+  "logoURI": "https://assets.coingecko.com/coins/images/15823/large/RBN_64x64.png?1633529723",
+  "website": "https://www.ribbon.finance/",
+  "description": "Ribbon Finance is a new protocol that helps users access crypto structured products for DeFi. It combines options, futures, and fixed income to improve a portfolio's risk-return profile.",
+  "coingeckoId": "ribbon-finance",
+  "links": {
+    "twitter": "https://twitter.com/ribbonfinance",
+    "github": "https://github.com/ribbon-finance"
+  }
+}

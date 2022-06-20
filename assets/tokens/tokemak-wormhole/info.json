@@ -1,0 +1,12 @@
+{
+  "key": "tokemak-wormhole",
+  "name": "Tokemak (Wormhole)",
+  "symbol": "toke",
+  "logoURI": "https://assets.coingecko.com/coins/images/22974/large/TOKE_wh_small.png?1644223839",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "tokemak-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

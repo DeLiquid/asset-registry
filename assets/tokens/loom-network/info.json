@@ -1,0 +1,14 @@
+{
+  "key": "loom-network",
+  "name": "Loom Network (OLD)",
+  "symbol": "loomold",
+  "logoURI": "https://assets.coingecko.com/coins/images/3387/large/1_K76UVoLq-FOL7l-_Fag-Qw_2x.png?1547038040",
+  "website": "https://loomx.io/",
+  "description": "The Next-Generation Blockchain Application Platform for Ethereum.\r\nLoom Network\u2019s DPoS sidechains allow for truly scalable blockchain games and DApps with the security of Ethereum mainnet. Like EOS on Ethereum.\r\n\r\nWhat is Loom Network?\r\nLoom Network is a Layer 2 scaling solution for Ethereum that is live in production. It is a network of DPoS sidechains, which allows for highly-scalable games and user-facing DApps while still being backed by the security of Ethereum.\r\nLive in production\r\nLoom Network has been live in production since March 2018. Developers, start building on Loom today.\r\n\r\nHighly Scalable Sidechains\r\nDubbed \u201cEOS on Ethereum\u201d, Loom\u2019s DPoS sidechains provide the same high scalability and throughput promised by alternative platforms like EOS, while still being fully Ethereum-compatible and secure.\r\n\r\nBacked by Ethereum\r\nWe built the world\u2019s first Plasma Cash implementation, which allows Ethereum-based tokens to be used on Loom sidechains with the full security guarantees of Ethereum.\r\n",
+  "coingeckoId": "loom-network",
+  "links": {
+    "twitter": "https://twitter.com/loomnetwork",
+    "telegram": "https://t.me/loomnetwork",
+    "github": "https://github.com/loomnetwork"
+  }
+}

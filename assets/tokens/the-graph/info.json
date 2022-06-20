@@ -1,0 +1,15 @@
+{
+  "key": "the-graph",
+  "name": "The Graph",
+  "symbol": "grt",
+  "logoURI": "https://assets.coingecko.com/coins/images/13397/large/Graph_Token.png?1608145566",
+  "website": "https://thegraph.com/",
+  "description": "The Graph is an indexing protocol and global API for organizing blockchain data and making it easily accessible with GraphQL. Developers can use Graph Explorer to search, find, and publish all the public data they need to build decentralized applications. The Graph Network makes it possible to build serverless dApps that run entirely on public infrastructure.\r\n\r\nGRT is the native token of the network that\u2019s used to coordinate work. GRT is an ERC20 token. Node operators, called Indexers, stake and earn GRT for processing queries. Anyone can delegate GRT to Indexers to secure the network and earn rewards. Curators organize data on The Graph by signaling GRT on useful APIs, called subgraphs. Indexers, Delegators, and Curators work together to organize the data for the crypto economy and maintain a useful global API for DeFi and Web3.\r\n",
+  "coingeckoId": "the-graph",
+  "links": {
+    "twitter": "https://twitter.com/graphprotocol",
+    "telegram": "https://t.me/graphprotocol",
+    "reddit": "https://www.reddit.com/r/thegraph",
+    "github": "https://github.com/graphprotocol"
+  }
+}

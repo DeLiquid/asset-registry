@@ -1,0 +1,14 @@
+{
+  "key": "nem",
+  "name": "NEM",
+  "symbol": "xem",
+  "logoURI": "https://assets.coingecko.com/coins/images/242/large/NEM_WC_Logo_200px.png?1642668663",
+  "website": "https://nem.io/",
+  "description": "NEM was a blockchain platform launched in March of 2015. At the time it was one of the pioneers of the industry and sought to improve on the imperfections found on other chains at the time. It was one of the first non-turing complete chains to feature user-defined tokens (called mosaics), namespaces, multisignature accounts, and a P2P reputation system based on EigenTrust++. Its most notable contribution, however, was the PoI consensus mechanism which sought to reward on-chain activity and deter the concentration of wealth commonly associated with proof-of-stake. Its client, NIS, is written in Java. Today, NEM remains a highly-traded cryptocurrency. Current development is centered around NEM's merge with another blockchain platform: Symbol.",
+  "coingeckoId": "nem",
+  "links": {
+    "twitter": "https://twitter.com/nemofficial",
+    "reddit": "https://www.reddit.com/r/nem",
+    "github": "https://github.com/nemtech"
+  }
+}

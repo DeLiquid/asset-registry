@@ -1,0 +1,15 @@
+{
+  "key": "api3",
+  "name": "API3",
+  "symbol": "api3",
+  "logoURI": "https://assets.coingecko.com/coins/images/13256/large/api3.jpg?1606751424",
+  "website": "https://api3.org/",
+  "description": "API3 builds blockchain-native, decentralized APIs with DAO-governance and quantifiable security.",
+  "coingeckoId": "api3",
+  "links": {
+    "twitter": "https://twitter.com/API3DAO",
+    "telegram": "https://t.me/API3DAO",
+    "reddit": "https://www.reddit.com/r/API3/",
+    "github": "https://github.com/api3dao"
+  }
+}

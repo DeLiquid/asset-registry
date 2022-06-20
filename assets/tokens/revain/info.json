@@ -1,0 +1,16 @@
+{
+  "key": "revain",
+  "name": "Revain",
+  "symbol": "rev",
+  "logoURI": "https://assets.coingecko.com/coins/images/1107/large/256x256.png?1587018647",
+  "website": "https://revain.org/",
+  "description": "Revain is one of the new alternative currencies to be introduced in the already hyper crypto market. Revain is an unbiased review platform built on blockchain technology, which allows users to stay highly motivated. With the platform being a new generation feedback platform build on the blockchain technology, the platform aims to reinvent the review industry. Obviously, it\u2019s an industry that needs a change \u2013 this booming industry has been fraught with peril and fraud as malicious users relentlessly write fake reviews. Also, a five star review on TripAdvisor, Yelp, and similar ratings websites can change the course of a business.\r\n\r\nThe platform is led by Rinat Arslanov as the CEO. He is an entrepreneur with 10+ years in business, venture capital, and blockchain experience. Other key members of the team include Sergey Potekhin, who leads the development and blockchain design of Revain and holds the position of CEO of the Technology area; as well as developer Sergey Omilyanchuk, who is responsible for server and application architecture.\r\n\r\nIn 2018 the team plans to launch the RVN token in quarter 3 and release gaming reviews in quarter 4. Revain is a marketing platform in the form of a Yelp-like online review platform. Businesses incentivize users to leave public feedback that\u2019s posted to Revain\u2019s digital ledger on the <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> blockchain.",
+  "coingeckoId": "revain",
+  "links": {
+    "twitter": "https://twitter.com/Revain_org",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2064640",
+    "telegram": "https://t.me/revainorg",
+    "reddit": "https://www.reddit.com/r/revain_org/",
+    "github": "https://github.com/Revain/REVETHToken"
+  }
+}

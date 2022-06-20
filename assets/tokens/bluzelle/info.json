@@ -1,0 +1,15 @@
+{
+  "key": "bluzelle",
+  "name": "Bluzelle",
+  "symbol": "blz",
+  "logoURI": "https://assets.coingecko.com/coins/images/2848/large/ColorIcon_3x.png?1622516510",
+  "website": "https://bluzelle.com/",
+  "description": "Bluzelle is a decentralized storage network for the creator economy.\r\n\r\nBluzelle delivers high security, un-matched availability, and is censorship resistant. Whether you are an artist, musician, scientist, publisher, or developer, Bluzelle protects the intellectual property of all creators. Bluzelle is data storage, file storage, oracles and specifically for NFTs and DeFi.",
+  "coingeckoId": "bluzelle",
+  "links": {
+    "twitter": "https://twitter.com/BluzelleHQ",
+    "telegram": "https://t.me/bluzelle",
+    "reddit": "https://www.reddit.com/r/Bluzelle/",
+    "github": "https://github.com/njmurarka/bluzelle"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "nest",
+  "name": "Nest Protocol",
+  "symbol": "nest",
+  "logoURI": "https://assets.coingecko.com/coins/images/11284/large/52954052.png?1589868539",
+  "website": "https://nestprotocol.org/",
+  "description": "Nest protocol is a decentralized price fact Oracle protocol network based on Ethereum network.",
+  "coingeckoId": "nest",
+  "links": {
+    "twitter": "https://twitter.com/nest_protocol",
+    "telegram": "https://t.me/nest_chat",
+    "github": "https://github.com/NEST-Protocol"
+  }
+}

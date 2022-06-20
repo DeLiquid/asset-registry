@@ -1,0 +1,12 @@
+{
+  "key": "toucan-protocol-nature-carbon-tonne",
+  "name": "Toucan Protocol: Nature Carbon Tonne",
+  "symbol": "nct",
+  "logoURI": "https://assets.coingecko.com/coins/images/24484/large/NCT-removebg-preview.png?1647836439",
+  "website": "https://toucan.earth/",
+  "description": "NCT is the second carbon pool and liquid carbon reference token to be launched on the Toucan Protocol. Every NCT is backed 1:1 with a nature-based carbon token held in the carbon pool. Anyone can redeem NCT for TCO2 tokens, which can be retired on-chain.\r\n",
+  "coingeckoId": "toucan-protocol-nature-carbon-tonne",
+  "links": {
+    "twitter": "https://twitter.com/ToucanProtocol"
+  }
+}

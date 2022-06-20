@@ -1,0 +1,13 @@
+{
+  "key": "unifty",
+  "name": "Unifty",
+  "symbol": "nif",
+  "logoURI": "https://assets.coingecko.com/coins/images/13726/large/logo_transparent.png?1628254980",
+  "website": "https://unifty.io",
+  "description": "NIF is a utility token for the Unifty NFT ecosystem.",
+  "coingeckoId": "unifty",
+  "links": {
+    "twitter": "https://twitter.com/unifty_com",
+    "telegram": "https://t.me/unifty"
+  }
+}

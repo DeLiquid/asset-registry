@@ -1,0 +1,13 @@
+{
+  "key": "arpa-chain",
+  "name": "ARPA Chain",
+  "symbol": "arpa",
+  "logoURI": "https://assets.coingecko.com/coins/images/8506/large/9u0a23XY_400x400.jpg?1559027357",
+  "website": "https://arpachain.io/",
+  "description": "ARPA is a Secure Computation Network Compatible With Blockchains\r\n\r\nThey propose a blockchain-based secure computation network of Multi-party Computation (MPC). ARPA cryptographically enables private smart contract, unprecedented data-at-use privacy protection, as well as scalable computational sharding.",
+  "coingeckoId": "arpa-chain",
+  "links": {
+    "twitter": "https://twitter.com/arpaofficial",
+    "telegram": "https://t.me/arpa_community"
+  }
+}

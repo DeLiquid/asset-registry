@@ -1,0 +1,17 @@
+{
+  "key": "velas",
+  "name": "Velas",
+  "symbol": "vlx",
+  "logoURI": "https://assets.coingecko.com/coins/images/9651/large/velas.png?1607999828",
+  "website": "https://www.velas.com/",
+  "description": "\"Velas AG, headquartered in Switzerland, is a new AI-operated dPoS (delegated proof of stake) blockchain project and an ecosystem on which one can build AI projects, dApps, smart contracts, etc. It is founded by the CEO of the world\u2019s first and biggest altcoin payment processor platform from 2013 \u2013 Coinpayments.net \u2013 Alex Alexandrov. Coinpayments created a CPS coin to provide its active merchants and users of 3'000 000 000 a discount token for transactions and fees, and earn staking rewards vaulting their CPS coin. The development of Velas rooted from CPS, as the founders saw an opportunity to create an own proprietary AI enhanced Blockhain and consensus protocol, rather than using a third party solution which still has flaws. Development of Velas started 2 years ago. \r\n\r\nCoinpayments Coin to Velas coin (VLX) was done via Coinpayments platform on the 4th of July 2019 and will mark the day of Velas independence from original token. This will also launch first Stage described in Technical Paper.\r\n\r\nThe purpose of Velas is to address and fix existing issues and challenges faced by most existing Blockchains, like centralization, 51% attack, nothing at stake problem, scalability, security, high upfront expenses, etc. It does so by using neural networks optimized by artificial intuition to enhance its consensus algorithm.\"",
+  "coingeckoId": "velas",
+  "links": {
+    "twitter": "https://twitter.com/VelasBlockchain",
+    "facebook": "https://www.facebook.com/velasblockchain",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5165827",
+    "telegram": "https://t.me/velascommunity",
+    "reddit": "https://www.reddit.com/r/Velas/",
+    "github": "https://github.com/velas"
+  }
+}

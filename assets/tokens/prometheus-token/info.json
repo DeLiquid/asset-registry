@@ -1,0 +1,13 @@
+{
+  "key": "prometheus-token",
+  "name": "Peak Finance Prometheus",
+  "symbol": "pro",
+  "logoURI": "https://assets.coingecko.com/coins/images/25031/large/8aa91569950f5011ca8a9.png?1649851602",
+  "website": "https://peakfinance.io",
+  "description": "\"Peak Finance is a protocol designed to maintain the $PEAK token to the value of $METIS.\r\n$PRO token is a share token earned through the ecosystem via staking $PEAK-$METIS LP. The $PRO token helps maintain $PEAK's peg to the price of $METIS through inflationary epochs. $PRO differs from share tokens due to the transaction taxation mechanics that burn $PRO to replenish the treasury, as well as benefits from diverse revenue streams from partnerships in the ecosystem.\"",
+  "coingeckoId": "prometheus-token",
+  "links": {
+    "twitter": "https://twitter.com/PeakFinance_DAO",
+    "telegram": "https://t.me/peak_finance_verification_bot"
+  }
+}

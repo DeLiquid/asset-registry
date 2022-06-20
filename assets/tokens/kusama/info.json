@@ -1,0 +1,13 @@
+{
+  "key": "kusama",
+  "name": "Kusama",
+  "symbol": "ksm",
+  "logoURI": "https://assets.coingecko.com/coins/images/9568/large/m4zRhP5e_400x400.jpg?1576190080",
+  "website": "https://kusama.network/",
+  "description": "Kusama is a public blockchain network that is running the exact same codebase as Polkadot. It is aimed to be a canary build for the Polkadot network which is an experimental and development environment for new features that will eventually be deployed to Polkadot. Because of the experimental nature of Kusama, the developmental speed is much faster and it has seen significant traction since launched in 2019.\r\n\r\nKusama is an early, highly experimental version of Polkadot presenting real economic conditions. The community will own the network \u2013 there will be no central kill switch. Kusama will exist as long as its community maintains it and we envision it will cater to new, early functionality and projects preparing to develop and deploy on Polkadot.",
+  "coingeckoId": "kusama",
+  "links": {
+    "twitter": "https://twitter.com/kusamanetwork",
+    "github": "https://github.com/kusamanetwork/kusama.network"
+  }
+}

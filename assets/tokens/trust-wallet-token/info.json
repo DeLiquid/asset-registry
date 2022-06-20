@@ -1,0 +1,16 @@
+{
+  "key": "trust-wallet-token",
+  "name": "Trust Wallet",
+  "symbol": "twt",
+  "logoURI": "https://assets.coingecko.com/coins/images/11085/large/Trust.png?1588062702",
+  "website": "https://trustwallet.com/",
+  "description": "Trust Wallet Token (TWT) 511 is a utility token that can only be used within the app. This will be used to incentivize all Trust Wallet users.\r\n\r\nWhat are the Incentives of (TWT)?\r\nGovernance token that will be used by anyone who wants to take part in making decisions for adding new blockchain support, tokens and product features. Will also be collected as fees for submissions to the Trust Wallet repository 59.\r\n\r\nDiscounts on DEX services and purchasing crypto within the app.\r\n\r\nCollectible Marketplace, anyone interested in trading, selling or buying digital collectibles can utilize the token in a user-friendly environment.\r\n\r\nDApp reviews and promotions to incentivize developers to work on DApps that contribute to further adoption of Web 3.0 on mobile devices.\r\n\r\nAffiliate and bounty rewards, the token can be converted to BNB or ETH, that can be used for Network Fees.\r\n\r\nVouching and User reputation, users will be able to vouch for developers of products they enjoy to show the quality of the product to the rest of the Trust Ecosystem.",
+  "coingeckoId": "trust-wallet-token",
+  "links": {
+    "twitter": "https://twitter.com/trustwallet",
+    "facebook": "https://www.facebook.com/trustwalletapp",
+    "telegram": "https://t.me/trust_announcements",
+    "reddit": "https://www.reddit.com/r/trustapp/",
+    "github": "https://github.com/trustwallet/wallet-core"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "dola-usd",
+  "name": "Dola",
+  "symbol": "dola",
+  "logoURI": "https://assets.coingecko.com/coins/images/14287/large/anchor-logo-1-200x200.png?1615275005",
+  "website": "https://www.inverse.finance/",
+  "description": "Dola is the asset and debt backed decentralized stablecoin of Inverse Finance",
+  "coingeckoId": "dola-usd",
+  "links": {
+    "twitter": "https://twitter.com/InverseFinance",
+    "telegram": "https://t.me/InverseFinance",
+    "github": "https://github.com/InverseFinance"
+  }
+}

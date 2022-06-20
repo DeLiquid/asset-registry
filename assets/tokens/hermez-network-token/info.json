@@ -1,0 +1,14 @@
+{
+  "key": "hermez-network-token",
+  "name": "Hermez Network",
+  "symbol": "hez",
+  "logoURI": "https://assets.coingecko.com/coins/images/12826/large/hermez_logo.png?1602826556",
+  "website": "https://hermez.io/",
+  "description": "Hermez is a decentralized zk-rollup focused on scaling payments and token transfers on top of Ethereum.",
+  "coingeckoId": "hermez-network-token",
+  "links": {
+    "twitter": "https://twitter.com/PolygonHermez",
+    "telegram": "https://t.me/polygonhermez",
+    "github": "https://github.com/hermeznetwork"
+  }
+}

@@ -1,0 +1,512 @@
+[
+  {
+    "key": "0x-wormhole",
+    "address": "GJa1VeEYLTRoHbaeqcxfzHmjGCGtZGF3CUqxv9znZZAY",
+    "decimals": 8
+  },
+  {
+    "key": "1inch-wormhole",
+    "address": "AjkPkq3nsyDe1yKcbyZT7N4aK4Evv9om9tzhQD3wsRC",
+    "decimals": 8
+  },
+  {
+    "key": "aave-wormhole",
+    "address": "3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg",
+    "decimals": 8
+  },
+  {
+    "key": "ageur-wormhole",
+    "address": "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1",
+    "decimals": 8
+  },
+  {
+    "key": "aleph-im-wormhole",
+    "address": "3UCMiSnkcnkPE1pgQ5ggPCBv6dXgVUy16TmMUe1WpG9x",
+    "decimals": 8
+  },
+  {
+    "key": "amp-wormhole",
+    "address": "D559HwgjYGDYsXpmFUKxhFTEwutvS9sya1kXiyCVogCV",
+    "decimals": 8
+  },
+  {
+    "key": "ampleforth-wormhole",
+    "address": "EHKQvJGu48ydKA4d3RivrkNyTJTkSdoS32UafxSX1yak",
+    "decimals": 8
+  },
+  {
+    "key": "ankr-network-wormhole",
+    "address": "Gq2norJ1kBemBp3mPfkgAUMhMMmnFmY4zEyi26tRcxFB",
+    "decimals": 8
+  },
+  {
+    "key": "audius-wormhole",
+    "address": "9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM",
+    "decimals": 8
+  },
+  {
+    "key": "aurory",
+    "address": "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP",
+    "decimals": 9
+  },
+  {
+    "key": "avalanche-2",
+    "address": "7JnHPPJBBKSTJ7iEmsiGSBcPJgbcKw28uCRXtQgimncp",
+    "decimals": 8
+  },
+  {
+    "key": "avalanche-wormhole",
+    "address": "KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE",
+    "decimals": 8
+  },
+  {
+    "key": "bancor-wormhole",
+    "address": "EDVVEYW4fPJ6vKw5LZXRGUSPzxoHrv6eWvTqhCr8oShs",
+    "decimals": 8
+  },
+  {
+    "key": "basic-attention-token-wormhole",
+    "address": "EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz",
+    "decimals": 8
+  },
+  {
+    "key": "binance-coin-wormhole",
+    "address": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
+    "decimals": 8
+  },
+  {
+    "key": "bitmon",
+    "address": "EGiWZhNk3vUNJr35MbL2tY5YD6D81VVZghR2LgEFyXZh",
+    "decimals": 9
+  },
+  {
+    "key": "bulldog-billionaires",
+    "address": "D3eyBjfgJMPHZyYDRtbf1cSxeLiNwKumwHzQK3h3TRRq",
+    "decimals": 6
+  },
+  {
+    "key": "celsius-wormhole",
+    "address": "nRtfwU9G82CSHhHGJNxFhtn7FLvWP2rqvQvje1WtL69",
+    "decimals": 4
+  },
+  {
+    "key": "chainlink-wormhole",
+    "address": "2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX",
+    "decimals": 8
+  },
+  {
+    "key": "chiliz-wormhole",
+    "address": "5TtSKAamFq88grN1QGrEaZ1AjjyciqnCya1aiMhAgFvG",
+    "decimals": 8
+  },
+  {
+    "key": "coin98",
+    "address": "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9",
+    "decimals": 6
+  },
+  {
+    "key": "compound-wormhole",
+    "address": "AwEauVaTMQRB71WeDnwf1DWSBxaMKjEPuxyLr1uixFom",
+    "decimals": 8
+  },
+  {
+    "key": "constitutiondao-wormhole",
+    "address": "CobcsUrt3p91FwvULYKorQejgsm5HoQdv5T8RUZ6PnLA",
+    "decimals": 8
+  },
+  {
+    "key": "convex-finance-wormhole",
+    "address": "BLvmrccP4g1B6SpiVvmQrLUDya1nZ4B2D1nm9jzKF7sz",
+    "decimals": 8
+  },
+  {
+    "key": "cronos-wormhole",
+    "address": "DvjMYMVeXgKxaixGKpzQThLoG98nc7HSU7eanzsdCboA",
+    "decimals": 8
+  },
+  {
+    "key": "curve-dao-token-wormhole",
+    "address": "7gjNiPun3AzEazTZoFEjZgcBMeuaXdpjHq2raZTmTrfs",
+    "decimals": 8
+  },
+  {
+    "key": "dai-wormhole",
+    "address": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
+    "decimals": 8
+  },
+  {
+    "key": "decentraland-wormhole",
+    "address": "7dgHoN8wBZCc5wbnQ2C47TDnBMAxG4Q5L3KjP67z8kNi",
+    "decimals": 8
+  },
+  {
+    "key": "dogelon-mars-wormhole",
+    "address": "6nKUU36URHkewHg5GGGAgxs6szkE4VTioGUT5txQqJFU",
+    "decimals": 8
+  },
+  {
+    "key": "dydx-wormhole",
+    "address": "4Hx6Bj56eGyw8EJrrheM6LBQAvVYRikYCWsALeTrwyRU",
+    "decimals": 8
+  },
+  {
+    "key": "enjin-wormhole",
+    "address": "EXExWvT6VyYxEjFzF5BrUxt5GZMPVZnd48y3iWrRefMq",
+    "decimals": 8
+  },
+  {
+    "key": "ethereum-wormhole",
+    "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+    "decimals": 8
+  },
+  {
+    "key": "frax-share-wormhole",
+    "address": "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct",
+    "decimals": 8
+  },
+  {
+    "key": "frax-share",
+    "address": "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct",
+    "decimals": 8
+  },
+  {
+    "key": "frax-wormhole",
+    "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+    "decimals": 8
+  },
+  {
+    "key": "frax",
+    "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+    "decimals": 8
+  },
+  {
+    "key": "ftx-token",
+    "address": "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3",
+    "decimals": 6
+  },
+  {
+    "key": "ftx-wormhole",
+    "address": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
+    "decimals": 8
+  },
+  {
+    "key": "gala-wormhole",
+    "address": "AuGz22orMknxQHTVGwAu7e3dJikTJKgcjFwMNDikEKmF",
+    "decimals": 8
+  },
+  {
+    "key": "gatechain-wormhole",
+    "address": "ABAq2R9gSpDDGguQxBk4u13s4ZYW6zbwKVBx15mCMG8",
+    "decimals": 8
+  },
+  {
+    "key": "genesysgo-shadow",
+    "address": "SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y",
+    "decimals": 9
+  },
+  {
+    "key": "genopets",
+    "address": "GENEtH5amGSi8kHAtQoezp1XEXwZJ8vcuePYnXdKrMYz",
+    "decimals": 9
+  },
+  {
+    "key": "green-satoshi-token",
+    "address": "AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB",
+    "decimals": 9
+  },
+  {
+    "key": "huobi-btc-wormhole",
+    "address": "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
+    "decimals": 8
+  },
+  {
+    "key": "husd-stablecoin-wormhole",
+    "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
+    "decimals": 8
+  },
+  {
+    "key": "hxro-wormhole",
+    "address": "HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK",
+    "decimals": 8
+  },
+  {
+    "key": "hxro",
+    "address": "HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK",
+    "decimals": 8
+  },
+  {
+    "key": "illuvium-wormhole",
+    "address": "8UJbtpsEubDVkY53rk7d61hNYKkvouicczB2XmuwiG4g",
+    "decimals": 8
+  },
+  {
+    "key": "jet",
+    "address": "JET6zMJWkCN9tpRT2v2jfAmm5VnQFDpUBCyaKojmGtz",
+    "decimals": 9
+  },
+  {
+    "key": "joe-wormhole",
+    "address": "CriXdFS9iRAYbGEQiTcUqbWwG9RBmYt5B6LwTnoJ61Sm",
+    "decimals": 8
+  },
+  {
+    "key": "keep-network-wormhole",
+    "address": "64L6o4G2H7Ln1vN7AHZsUMW4pbFciHyuwn4wUdSbcFxh",
+    "decimals": 8
+  },
+  {
+    "key": "keep3rv1-wormhole",
+    "address": "3a2VW9t5N6p4baMW3M6yLH1UJ9imMt7VsyUk6ouXPVLq",
+    "decimals": 8
+  },
+  {
+    "key": "kin",
+    "address": "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
+    "decimals": 5
+  },
+  {
+    "key": "lido-dao-wormhole",
+    "address": "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p",
+    "decimals": 8
+  },
+  {
+    "key": "lido-staked-ether-wormhole",
+    "address": "H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE",
+    "decimals": 8
+  },
+  {
+    "key": "lido-staked-sol",
+    "address": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+    "decimals": 9
+  },
+  {
+    "key": "loopringcoin-v2-wormhole",
+    "address": "HCTVFTzHL21a1dPzKxAUeWwqbE8QMUyvgChFDL4XYoi1",
+    "decimals": 8
+  },
+  {
+    "key": "mango-markets",
+    "address": "MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac",
+    "decimals": 6
+  },
+  {
+    "key": "mimatic",
+    "address": "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
+    "decimals": 9
+  },
+  {
+    "key": "msol",
+    "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+    "decimals": 9
+  },
+  {
+    "key": "my-neighbor-alice-wormhole",
+    "address": "9ARQsBfAn65q522cEqSJuse3cLhA31jgWDBGQHeiq7Mg",
+    "decimals": 8
+  },
+  {
+    "key": "nerv-protocol",
+    "address": "BtnUizMTmDdKxP3hZhQhZMUXF9RZZaZJvcNDFLiRbZ5e",
+    "decimals": 0
+  },
+  {
+    "key": "nexus-mutual-wormhole",
+    "address": "Aqs5ydqKXEK2cjotDXxHmk8N9PknqQ5q4ZED4ymY1eeh",
+    "decimals": 8
+  },
+  {
+    "key": "olympus-wormhole",
+    "address": "Afe9gSG8NcWicJtC58tUPGWG6pUcdK29d59BJuSAsePJ",
+    "decimals": 8
+  },
+  {
+    "key": "pancakeswap-wormhole",
+    "address": "J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S",
+    "decimals": 8
+  },
+  {
+    "key": "paxos-gold-wormhole",
+    "address": "C6oFsE8nXRDThzrMEQ5SxaNFGKoyyfWDDVPw37JKvPTe",
+    "decimals": 8
+  },
+  {
+    "key": "perpetual-wormhole",
+    "address": "9BsnSWDPfbusseZfnXyZ3un14CyPMZYvsKjWY3Y8Gbqn",
+    "decimals": 8
+  },
+  {
+    "key": "playground-waves-floor-index",
+    "address": "4uRn7vxRPWYP4HuAa4UNXwEPLRL8oQ71YByMhr6yBnL4",
+    "decimals": 2
+  },
+  {
+    "key": "rad",
+    "address": "B6aJ3TGfme3SMnLSouHXqWXjVFqYyqj7czzhzr8WJFAi",
+    "decimals": 4
+  },
+  {
+    "key": "rari-governance-token-wormhole",
+    "address": "ASk8bss7PoxfFVJfXnSJepj9KupTX15QaRnhdjs6DdYe",
+    "decimals": 8
+  },
+  {
+    "key": "raydium",
+    "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+    "decimals": 6
+  },
+  {
+    "key": "reserve-rights-wormhole",
+    "address": "DkbE8U4gSRuGHcVMA1LwyZPYUjYbfEbjW8DMR3iSXBzr",
+    "decimals": 8
+  },
+  {
+    "key": "rocket-pool-wormhole",
+    "address": "HUCyuyqESEUV4YWTKFvvB4JiQLqoovscTBpRXfGzW4Wx",
+    "decimals": 8
+  },
+  {
+    "key": "rose-wormhole",
+    "address": "S3SQfD6RheMXQ3EEYn1Z5sJsbtwfXdt7tSAVXPQFtYo",
+    "decimals": 8
+  },
+  {
+    "key": "serum",
+    "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+    "decimals": 6
+  },
+  {
+    "key": "shiba-inu-wormhole",
+    "address": "CiKu4eHsVrc1eueVQeHn7qhXTcVu95gSQmBpX4utjL9z",
+    "decimals": 8
+  },
+  {
+    "key": "smooth-love-potion-wormhole",
+    "address": "4hpngEp1v3CXpeKB81Gw4sv7YvwUVRKvY3SGag9ND8Q4",
+    "decimals": 8
+  },
+  {
+    "key": "solhero",
+    "address": "Hero6s7zJXsw9hfCXLVR5stLqgCok3E7CCkpQEoLAk2g",
+    "decimals": 6
+  },
+  {
+    "key": "solootbox-dao",
+    "address": "DysbQiM8nPdZbBhvHM1EgcSE73EwtFWDanXwY8CDD3Jn",
+    "decimals": 8
+  },
+  {
+    "key": "spell-token-wormhole",
+    "address": "BCsFXYm81iqXyYmrLKgAp3AePcgLHnirb8FjTs6sjM7U",
+    "decimals": 8
+  },
+  {
+    "key": "stepn",
+    "address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
+    "decimals": 9
+  },
+  {
+    "key": "superbonds",
+    "address": "SuperbZyz7TsSdSoFAZ6RYHfAWe9NmjXBLVQpS8hqdx",
+    "decimals": 6
+  },
+  {
+    "key": "sushi-wormhole",
+    "address": "ChVzxWRmrTeSgwd3Ui3UumcN8KX7VK3WaD4KGeSKpypj",
+    "decimals": 8
+  },
+  {
+    "key": "sushi",
+    "address": "ChVzxWRmrTeSgwd3Ui3UumcN8KX7VK3WaD4KGeSKpypj",
+    "decimals": 8
+  },
+  {
+    "key": "swipe-wormhole",
+    "address": "3CyiEDRehaGufzkpXJitCP5tvh7cNhRqd9rPBxZrgK5z",
+    "decimals": 8
+  },
+  {
+    "key": "synthetix-network-token-wormhole",
+    "address": "8cTNUtcV2ueC3royJ642uRnvTxorJAWLZc58gxAo7y56",
+    "decimals": 8
+  },
+  {
+    "key": "tether",
+    "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "decimals": 6
+  },
+  {
+    "key": "the-graph-wormhole",
+    "address": "HGsLG4PnZ28L8A4R5nPqKgZd86zUUdmfnkTRnuFJ5dAX",
+    "decimals": 8
+  },
+  {
+    "key": "the-sandbox-wormhole",
+    "address": "49c7WuCZkQgc3M4qH8WuEUNXfgwupZf1xqWkDQ7gjRGt",
+    "decimals": 8
+  },
+  {
+    "key": "tokemak-wormhole",
+    "address": "3EQ6LqLkiFcoxTeGEsHMFpSLWNVPe9yT7XPX2HYSFyxX",
+    "decimals": 8
+  },
+  {
+    "key": "tribe-wormhole",
+    "address": "DPgNKZJAG2w1S6vfYHDBT62R4qrWWH5f45CnxtbQduZE",
+    "decimals": 8
+  },
+  {
+    "key": "ufo-gaming-wormhole",
+    "address": "GWdkYFnXnSJAsCBvmsqFLiPPe2tpvXynZcJdxf11Fu3U",
+    "decimals": 8
+  },
+  {
+    "key": "uniswap-wormhole",
+    "address": "8FU95xFJhUUkyyCLU13HSzDLs7oC4QZdXQHL6SCeab36",
+    "decimals": 8
+  },
+  {
+    "key": "usd-coin",
+    "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "decimals": 6
+  },
+  {
+    "key": "usdk-wormhole",
+    "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
+    "decimals": 8
+  },
+  {
+    "key": "uxd-stablecoin",
+    "address": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+    "decimals": 6
+  },
+  {
+    "key": "woo-network",
+    "address": "E5rk3nmgLUuKUiS94gg4bpWwWwyjCMtddsAXkTFLtHEy",
+    "decimals": 6
+  },
+  {
+    "key": "wrapped-btc-wormhole",
+    "address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+    "decimals": 8
+  },
+  {
+    "key": "wrapped-solana",
+    "address": "So11111111111111111111111111111111111111112",
+    "decimals": 9
+  },
+  {
+    "key": "wrapped-ust",
+    "address": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
+    "decimals": 9
+  },
+  {
+    "key": "yearn-finance-wormhole",
+    "address": "BXZX2JRJFjvKazM1ibeDFxgAngKExb74MRXzXKvgikxX",
+    "decimals": 8
+  },
+  {
+    "key": "yield-guild-games-wormhole",
+    "address": "EzZp7LRN1xwu3QsB2RJRrWwEGjJGsuWzuMCeQDB3NSPK",
+    "decimals": 8
+  }
+]

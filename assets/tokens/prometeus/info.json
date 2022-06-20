@@ -1,0 +1,13 @@
+{
+  "key": "prometeus",
+  "name": "Prometeus",
+  "symbol": "prom",
+  "logoURI": "https://assets.coingecko.com/coins/images/8825/large/promlogofinal.png?1633713982",
+  "website": "https://prometeus.io/",
+  "description": "Prometeus Network is a secure and decentralized ecosystem designed to solve real-world problems in data brokerage, created for the Influencer Marketing, Medical and Insurance data market industries. Prometeus Network is developed by Prometeus Labs. A company existing out of data scientists and entrepreneurs who have been working for more than 15 years on machine learning, business development and marketing.",
+  "coingeckoId": "prometeus",
+  "links": {
+    "twitter": "https://twitter.com/prometeusnet",
+    "telegram": "https://t.me/promnetwork"
+  }
+}

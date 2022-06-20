@@ -1,0 +1,17 @@
+{
+  "key": "uquid-coin",
+  "name": "Uquid Coin",
+  "symbol": "uqc",
+  "logoURI": "https://assets.coingecko.com/coins/images/1341/large/uquid-coin.png?1548759712",
+  "website": "https://uquidcoin.com/",
+  "description": "UQC is a decentralised virtual currency based on the ERC20 - token, one of Ethereum Technological trends.  The goal of this blockchain asset is to supplement the development of UQUID Ecosystem. In this virtual revolution, coin holders will have the benefit of instantly and effortlessly cash out their coins.\r\n\r\nThe uquid card project started from 2016 was became the first project to issue prepaid payment cards for bitcoin and altcoins. Uquid cards now support over 100 types of altcoins. The uquid coin was born with the goal of supporting the uquid ecosystem in helping altcoins users to shop online (ebay, amazon) directly through the uquid ecosystem and build up an card-less system by 2020.",
+  "coingeckoId": "uquid-coin",
+  "links": {
+    "twitter": "https://twitter.com/uquidcard",
+    "facebook": "https://www.facebook.com/uquidcoin",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2161156",
+    "telegram": "https://t.me/uquidcoinofficial",
+    "reddit": "https://www.reddit.com",
+    "github": "https://github.com/uquid/express"
+  }
+}

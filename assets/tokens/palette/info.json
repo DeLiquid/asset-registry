@@ -1,0 +1,12 @@
+{
+  "key": "palette",
+  "name": "Palette",
+  "symbol": "plt",
+  "logoURI": "https://assets.coingecko.com/coins/images/22153/large/262aoVTp_400x400.jpg?1640940192",
+  "website": "https://hashpalette.com/eng",
+  "description": "Palette is a new blockchain platform built for the next generation of entertainment such as Manga, sports and music.",
+  "coingeckoId": "palette",
+  "links": {
+    "twitter": "https://twitter.com/hashpalette"
+  }
+}

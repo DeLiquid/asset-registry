@@ -1,0 +1,15 @@
+{
+  "key": "greekmythology",
+  "name": "GreekMythology",
+  "symbol": "gmt",
+  "logoURI": "https://assets.coingecko.com/coins/images/24042/large/uxr1prT.png?1646138792",
+  "website": "https://www.greekmythologytoken.com/",
+  "description": "GreekMythology is a new decentralised blockchain concept that will combine art and gaming to create a new form of art game model.",
+  "coingeckoId": "greekmythology",
+  "links": {
+    "twitter": "https://twitter.com/Greekmythtoken",
+    "facebook": "https://www.facebook.com/GreekMythologyToken",
+    "telegram": "https://t.me/GreekMythologyToken",
+    "github": "https://github.com/greekmythologytokenBSC/GMT_Token/blob/main/GMT1.sol"
+  }
+}

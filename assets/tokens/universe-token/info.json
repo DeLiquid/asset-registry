@@ -1,0 +1,14 @@
+{
+  "key": "universe-token",
+  "name": "UNIVERSE Project",
+  "symbol": "uni",
+  "logoURI": "https://assets.coingecko.com/coins/images/10008/large/uni_logo_200.png?1643186831",
+  "website": "https://universe-project.com/",
+  "description": "Main goal of the Universe cryptocurrency is to help evolution of the game industry.\r\nOur target is creation of the infrastructure around the Universe cryptocurrency, development of the game (and not only) projects, introduction UNI as payment service to the various games.\r\n",
+  "coingeckoId": "universe-token",
+  "links": {
+    "twitter": "https://twitter.com/Unicoin_UNI",
+    "facebook": "https://www.facebook.com/universecoin",
+    "telegram": "https://t.me/Universe_UNI"
+  }
+}

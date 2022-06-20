@@ -1,0 +1,14 @@
+{
+  "key": "itheum",
+  "name": "Itheum",
+  "symbol": "itheum",
+  "logoURI": "https://assets.coingecko.com/coins/images/25361/large/itheum.png?1651314594",
+  "website": "https://www.itheum.io/",
+  "description": "The $ITHEUM utility token forms the foundation for a decentralized web3 data economy, enabling vibrant and personalized metaverse worlds where data is traded with shared value between data creators and data consumers.\r\n\r\n$ITHEUM is the core token of Itheum; a multi-chain data protocol that aims to empower everyone around the world with the tools to own and trade their personal data in the metaverse.\r\n\r\nItheum's mission is to take the \"\"serious and complicated\"\" topic of data ownership and make it \"\"fun, viral, and exciting\"\". This is done via some revolutionary new web3 technology such as the web2-to-web3 data bridge, Data NFTs, Metaverse Data Avatars, and Bulk-Data Trading DAOs. ",
+  "coingeckoId": "itheum",
+  "links": {
+    "twitter": "https://twitter.com/itheum",
+    "telegram": "https://t.me/itheum",
+    "github": "https://github.com/Itheum"
+  }
+}

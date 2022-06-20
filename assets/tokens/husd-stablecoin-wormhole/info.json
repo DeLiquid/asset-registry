@@ -1,0 +1,12 @@
+{
+  "key": "husd-stablecoin-wormhole",
+  "name": "HUSD Stablecoin (Wormhole)",
+  "symbol": "husd",
+  "logoURI": "https://assets.coingecko.com/coins/images/23071/large/HUSD_wh_small.png?1644225938",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "husd-stablecoin-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

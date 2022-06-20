@@ -1,0 +1,18 @@
+{
+  "key": "stox",
+  "name": "Stox",
+  "symbol": "stx",
+  "logoURI": "https://assets.coingecko.com/coins/images/1230/large/stox-token.png?1547035256",
+  "website": "https://www.stox.com/en",
+  "description": "Stox is an open source, Bancor based prediction market platform. Using the wisdom of the crowd, every day people will be able to predict and trade the outcome of events in almost any imaginable category: Finance, sports, politics and even the weather. Stox is designed to accommodate and be intuitive for mainstream audiences. Powering Stox will be the STX digital token, the primary form for fees, collaterals, and the currency for investment in event outcomes.",
+  "coingeckoId": "stox",
+  "links": {
+    "blog": "https://steemit.com/@stx",
+    "twitter": "https://twitter.com/stx_coin",
+    "telegram": "https://t.me/joinchat/DByWw0Pnq9BAy4FqPv_Lyg",
+    "whitepaper": "https://www.stox.com/assets/stox-whitepaper.pdf",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2035348",
+    "reddit": "https://www.reddit.com/r/STOX",
+    "github": "https://github.com/stx-technologies/stox-token"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "dydx",
+  "name": "dYdX",
+  "symbol": "dydx",
+  "logoURI": "https://assets.coingecko.com/coins/images/17500/large/hjnIm9bV.jpg?1628009360",
+  "website": "https://dydx.exchange/",
+  "description": "dYdX token is a governance token for the dYdX exchange protocol. Past users of the protocol who trades on margin or on decentralized perpetual swaps are eligible to earn retroactive rewards.",
+  "coingeckoId": "dydx",
+  "links": {
+    "twitter": "https://twitter.com/dYdX",
+    "reddit": "https://www.reddit.comr/dydxprotocol/",
+    "github": "https://github.com/dydxprotocol"
+  }
+}

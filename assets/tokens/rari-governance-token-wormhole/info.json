@@ -1,0 +1,12 @@
+{
+  "key": "rari-governance-token-wormhole",
+  "name": "Rari Governance Token (Wormhole)",
+  "symbol": "rgt",
+  "logoURI": "https://assets.coingecko.com/coins/images/22987/large/RGT_wh_small.png?1644226999",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "rari-governance-token-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

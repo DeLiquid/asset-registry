@@ -1,0 +1,14 @@
+{
+  "key": "kilt-protocol",
+  "name": "KILT Protocol",
+  "symbol": "kilt",
+  "logoURI": "https://assets.coingecko.com/coins/images/20861/large/kilt.png?1637893150",
+  "website": "https://www.kilt.io/",
+  "description": "KILT is an open-source blockchain protocol for issuing verifiable, revocable, and anonymous claims-based credentials in Web 3.0.\r\n\r\nKILT\u2019s mission is to return control over personal data to its owner, restoring privacy to the individual and enabling innovative business models around identity and credentials. \r\n\r\nKILT provides a way to represent your identity without revealing things you prefer to keep private. It brings the old process of trust in real-world verifiable credentials (passport, driving license, certificate, etc.) to the digital world, while keeping your data private and in your possession. Users have the option to store information and can choose what information they want to disclose and to whom.\r\n\r\nDevelopers can use KILT to create identifiers for people, machines, services and anything that identities can be built on. Using KILT's open source Javascript SDK, they can quickly spin up applications for issuing, holding and verifying credentials in order to create businesses around identity and privacy.\r\n\r\nKILT was built on Parity Substrate, launched mainnet as a Kusama parachain in September 2021. KILT is integrating with Kusama and Polkadot projects like gaming, NFTs, DeFi and DEXs; KILT is also implementing enterprise partnerships in the energy, health care and banking sectors. \r\n\r\nKILT launched as a fully decentralized parachain in November 2021 with three major token utilities: payment, on-chain, and staking mechanisms for collators and delegators. Regardless of whether KILT Protocol moves from a Kusama to a Polkadot parachain (as determined by community governance), there would be only one KILT network and one KILT Coin across both.",
+  "coingeckoId": "kilt-protocol",
+  "links": {
+    "twitter": "https://twitter.com/Kiltprotocol",
+    "telegram": "https://t.me/KILTProtocolChat",
+    "github": "https://github.com/KILTprotocol"
+  }
+}

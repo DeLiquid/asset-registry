@@ -1,0 +1,14 @@
+{
+  "key": "mandala-exchange-token",
+  "name": "Mandala Exchange",
+  "symbol": "mdx",
+  "logoURI": "https://assets.coingecko.com/coins/images/13736/large/png-cmc.png?1611288725",
+  "website": "https://trade.mandala.exchange/",
+  "description": "",
+  "coingeckoId": "mandala-exchange-token",
+  "links": {
+    "twitter": "https://twitter.com/mandalaex",
+    "facebook": "https://www.facebook.com/mandalaexchange",
+    "telegram": "https://t.me/mandalaexchange"
+  }
+}

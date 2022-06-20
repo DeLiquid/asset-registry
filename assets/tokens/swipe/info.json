@@ -1,0 +1,15 @@
+{
+  "key": "swipe",
+  "name": "SXP",
+  "symbol": "sxp",
+  "logoURI": "https://assets.coingecko.com/coins/images/9368/large/swipe.png?1566792311",
+  "website": "https://solar.org",
+  "description": "The Swipe Wallet has been designed to require Swipe Tokens SXP to perform all functions and utility of the Wallet including to use the services and to make withdraws. Users on the Swipe Wallet can buy, sell, and pay with their cryptocurrencies to fiat directly within the Wallet application as well as purchase Gift Cards and make instant exchanges between all supported assets. Users are able to use their SXP tokens on launch and there are also tiered benefits based on the SXP holding on the Wallet Contract. All Swipe Wallets require a 1 SXP deposit to activate and utilize on-chain functions based on an audited Smart Wallet-Contract to perform its duties. The protocol has been designed and built on Ethereum and destroys 80% of network and transaction fees are and 20% of the fees are retained by the company.",
+  "coingeckoId": "swipe",
+  "links": {
+    "twitter": "https://twitter.com/SolarNetwork",
+    "facebook": "https://www.facebook.com/SwipeWalletOfficial",
+    "telegram": "https://t.me/Solar",
+    "github": "https://GitHub.com/Solar-network"
+  }
+}

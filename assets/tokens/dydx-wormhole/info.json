@@ -1,0 +1,12 @@
+{
+  "key": "dydx-wormhole",
+  "name": "dYdX (Wormhole)",
+  "symbol": "dydx",
+  "logoURI": "https://assets.coingecko.com/coins/images/23039/large/DYDX_wh_small.png?1644225284",
+  "website": "https://wormholenetwork.com/en/",
+  "description": "",
+  "coingeckoId": "dydx-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

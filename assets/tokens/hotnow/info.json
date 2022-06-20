@@ -1,0 +1,15 @@
+{
+  "key": "hotnow",
+  "name": "HotNow",
+  "symbol": "hot",
+  "logoURI": "https://assets.coingecko.com/coins/images/8098/large/HotNow_token.png?1554715301",
+  "website": "https://hotoken.io/",
+  "description": "",
+  "coingeckoId": "hotnow",
+  "links": {
+    "twitter": "https://twitter.com/HOT_TokenICO",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=2477806",
+    "reddit": "https://www.reddit.com/r/HotNow/",
+    "github": "https://github.com/hotoken/HOT"
+  }
+}

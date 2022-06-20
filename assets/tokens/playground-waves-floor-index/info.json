@@ -1,0 +1,12 @@
+{
+  "key": "playground-waves-floor-index",
+  "name": "Playground Waves Floor Index",
+  "symbol": "waves",
+  "logoURI": "https://assets.coingecko.com/coins/images/24388/large/playgorund_waves.PNG?1647502973",
+  "website": "https://app.bridgesplit.com",
+  "description": "Bridgesplit enables any unique asset to become liquid and yield generative via NFT-collateralized lending, indexes, and more. Applications from marketplaces to games benefit from the Bridgesplit protocol.\r\n\r\n$WAVES is a floor index for the very popular \"\"Playground Waves\"\" NFT Collection.",
+  "coingeckoId": "playground-waves-floor-index",
+  "links": {
+    "twitter": "https://twitter.com/bridgesplit"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "key": "compound-0x",
+  "name": "c0x",
+  "symbol": "czrx",
+  "logoURI": "https://assets.coingecko.com/coins/images/10644/large/czrx1.JPG?1581390510",
+  "website": "https://compound.finance/",
+  "description": "Compound protocol balance token",
+  "coingeckoId": "compound-0x",
+  "links": {
+    "twitter": "https://twitter.com/compoundfinance",
+    "reddit": "https://www.reddit.com/r/compound"
+  }
+}

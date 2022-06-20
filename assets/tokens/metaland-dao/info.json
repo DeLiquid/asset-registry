@@ -1,0 +1,13 @@
+{
+  "key": "metaland-dao",
+  "name": "Metaland DAO",
+  "symbol": "meta",
+  "logoURI": "https://assets.coingecko.com/coins/images/22322/large/meta.PNG?1641457212",
+  "website": "https://metalanddao.io/",
+  "description": "Metaland is a virtual reality platform powered by the BSC blockchain. Users can create, experience, and monetize content and applications.",
+  "coingeckoId": "metaland-dao",
+  "links": {
+    "twitter": "https://twitter.com/DaoMetaland",
+    "telegram": "https://t.me/metalanddao"
+  }
+}

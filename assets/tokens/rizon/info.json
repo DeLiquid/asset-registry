@@ -1,0 +1,14 @@
+{
+  "key": "rizon",
+  "name": "RIZON",
+  "symbol": "atolo",
+  "logoURI": "https://assets.coingecko.com/coins/images/21028/large/atolo.png?1638198329",
+  "website": "https://rizon.world/",
+  "description": "Rizon is a Tendermint core-based blockchain platform that develops modules to support the transformation of off-chain services into on-chain services. These modules provide users with blockchain-based services, boosting the inflow of ecosystem participants and the diversification of businesses that utilize the platform.",
+  "coingeckoId": "rizon",
+  "links": {
+    "twitter": "https://twitter.com/hdac_rizon",
+    "telegram": "https://t.me/rizon_atolo_eng",
+    "github": "https://github.com/rizon-world/rizon"
+  }
+}

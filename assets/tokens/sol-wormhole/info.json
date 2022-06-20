@@ -1,0 +1,12 @@
+{
+  "key": "sol-wormhole",
+  "name": "SOL (Wormhole)",
+  "symbol": "sol",
+  "logoURI": "https://assets.coingecko.com/coins/images/22876/large/SOL_wh_small.png?1644224316",
+  "website": "https://wormholenetwork.com/",
+  "description": "",
+  "coingeckoId": "sol-wormhole",
+  "links": {
+    "twitter": "https://twitter.com/wormholecrypto"
+  }
+}

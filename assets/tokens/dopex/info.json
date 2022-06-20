@@ -1,0 +1,15 @@
+{
+  "key": "dopex",
+  "name": "Dopex",
+  "symbol": "dpx",
+  "logoURI": "https://assets.coingecko.com/coins/images/16652/large/DPX_%281%29.png?1624598630",
+  "website": "https://www.dopex.io/",
+  "description": "Dopex (Decentralized Options Exchange) is a decentralized options protocol that aims to maximize liquidity and minimize losses for option writers while maximizing gains for option buyers. This is done in a passive manner for liquidity-contributing participants. \r\n\r\nDPX is the limited supply governance token for the Dopex protocol and is used to vote on protocol and app level proposals. Apart from being a vanilla governance token, DPX also accrues fees and revenue from pools, vaults and wrappers built over the Dopex protocol after every global epoch.\r\n\r\nDopex makes use of unique option pricing model that is calculated on-chain based on the Black-Scholes formula \u2014 using implied volatility and asset prices retrieved via Chainlink adapters \u2014 and passed through a function to determine volatility smiles based on the realized volatility of the asset. This model ensures pricing that is fair and efficient platform flow. Dopex provides solutions to low liquidity, unfair pricing, lack of composability, lack of user adoption, and unfair arbitrage opportunities during times of high volatility \u2014 all without compromising the buyer and seller experience.",
+  "coingeckoId": "dopex",
+  "links": {
+    "twitter": "https://twitter.com/dopex_io",
+    "telegram": "https://t.me/dopexofficial",
+    "reddit": "https://www.reddit.com/r/Dopex/",
+    "github": "https://github.com/dopex-io"
+  }
+}

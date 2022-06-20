@@ -1,0 +1,13 @@
+{
+  "key": "huobi-btc",
+  "name": "Huobi BTC",
+  "symbol": "hbtc",
+  "logoURI": "https://assets.coingecko.com/coins/images/12407/large/Unknown-5.png?1599624896",
+  "website": "https://www.hbtc.finance/zh-cn/",
+  "description": "Launched by Huobi Global and deployed on the Ethereum network, Huobi BTC (HBTC)token aims to promote the growth of the decentralized marketplace by injecting Bitcoin (BTC), the largest and most liquid asset, into the decentralized finance (DeFi) eco-system. HBTC maintains a strict, asset-backed 1:1 peg to BTC. Every 1HBTC issued will be fully backed by the same BTC asset quantity to ensure users can perform a 1:1 exchange between HBTC and BTC at any time.",
+  "coingeckoId": "huobi-btc",
+  "links": {
+    "twitter": "https://twitter.com/HuobiGlobal",
+    "telegram": "https://t.me/huobiglobalofficial"
+  }
+}

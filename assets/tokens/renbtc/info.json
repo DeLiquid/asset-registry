@@ -1,0 +1,15 @@
+{
+  "key": "renbtc",
+  "name": "renBTC",
+  "symbol": "renbtc",
+  "logoURI": "https://assets.coingecko.com/coins/images/11370/large/Bitcoin.jpg?1628072791",
+  "website": "https://renproject.io/",
+  "description": "REN Tokenized BTC\r\n\r\nOnce an asset is in the custody of RenVM, an ERC20 token at a 1:1 value is minted on Ethereum - this can then be used as any ERC20 can within the Ethereum ecosystem (for example, swaps, collateralization, trades etc.)",
+  "coingeckoId": "renbtc",
+  "links": {
+    "twitter": "https://twitter.com/renprotocol",
+    "telegram": "https://t.me/renproject",
+    "reddit": "https://www.reddit.com/r/RenProject/",
+    "github": "https://github.com/renproject/ren-js"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "key": "apenft",
+  "name": "APENFT",
+  "symbol": "nft",
+  "logoURI": "https://assets.coingecko.com/coins/images/15687/large/apenft.jpg?1621562368",
+  "website": "https://apenft.org/",
+  "description": "APENFT Fund was born with the mission to register world-class artworks as NFTs on-chain. It is built on top of TRON, one of the world's top three public chains, and is powered by the world's largest distributed data storage system BitTorrent.\r\n\r\nLike how blockchain democratizes finance like never before, APENFT, by turning top artists and art pieces into NFTs, not only upgrades the way artworks are hosted but also transforms them from being elite-exclusive items to something that truly belongs to the people and mirrors their aspirations. APENFT is the art for everyone.",
+  "coingeckoId": "apenft",
+  "links": {
+    "twitter": "https://twitter.com/apenftorg"
+  }
+}

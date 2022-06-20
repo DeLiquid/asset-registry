@@ -1,0 +1,15 @@
+{
+  "key": "hathor",
+  "name": "Hathor",
+  "symbol": "htr",
+  "logoURI": "https://assets.coingecko.com/coins/images/12718/large/hathor_logo.png?1601978023",
+  "website": "https://hathor.network/",
+  "description": "Hathor's technology is a natural evolution of Bitcoin's blockchain. Instead of arranging the transactions in a Merkle Tree inside the blocks, we arrange the transactions in a DAG - outside the blocks - which are confirmed by the blocks. This novel design allows Hathor to be highly scalable AND decentralized.\r\nHathor also tackles the complexity of creating a new token. It's easy and fast. There are no such things as \"\"gas,\"\" \"\"solidity,\"\" and all \u201cERC 20\"\" paraphernalia. Tokens in the network operate with the same scalability and security parameters as the native HTR token.\r\nHathor's architecture is based on the Ph.D. thesis of Hathor's founder Marcelo Brogliato, and it is a completely novel architecture.",
+  "coingeckoId": "hathor",
+  "links": {
+    "twitter": "https://twitter.com/HathorNetwork",
+    "telegram": "https://t.me/HathorOfficial",
+    "reddit": "https://www.reddit.com/r/HathorNetwork/",
+    "github": "https://github.com/HathorNetwork/hathor-core"
+  }
+}

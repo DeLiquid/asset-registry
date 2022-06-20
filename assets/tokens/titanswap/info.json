@@ -1,0 +1,14 @@
+{
+  "key": "titanswap",
+  "name": "TitanSwap",
+  "symbol": "titan",
+  "logoURI": "https://assets.coingecko.com/coins/images/12606/large/nqGlQzdz_400x400.png?1601019805",
+  "website": "https://titanswap.org/",
+  "description": "TITAN is a blockchain based decentralized financial center that provides optimal liquidity solutions for different digital asset category by adaptive bonding curve. It not only provides a user-centered decentralized exchange, but also it is an aggregated liquidity pool that supports order smart routing.",
+  "coingeckoId": "titanswap",
+  "links": {
+    "twitter": "https://twitter.com/TitanSwaporg",
+    "telegram": "https://t.me/TitanSwap",
+    "github": "https://github.com/titanSwap"
+  }
+}
