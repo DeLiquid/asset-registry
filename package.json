@@ -1,8 +1,12 @@
 {
   "name": "@deliquid/asset-registry",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "The registry for chains and tokens supported by DeLiquid.",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/**/*"
+  ],
   "scripts": {
     "format": "npx prettier --write **/*.{ts,tsx,css,md,json} --config ./.prettierrc"
   },
