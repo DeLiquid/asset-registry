@@ -17,6 +17,7 @@ export interface NativeTokenInfo {
   key: string;
   decimals: number;
   baseUnit?: string; // for cosmos (e.g. 'uatom'), no need for base units on other chains (e.g. 'wei', 'lamport')
+  extra?: { [key: string]: any }; // for any chain/network-specific info
 }
 
 export interface FungibleTokenInfo {
@@ -24,6 +25,7 @@ export interface FungibleTokenInfo {
   decimals: number;
   address: string;
   baseUnit?: string;
+  extra?: { [key: string]: any };
 }
 
 export interface LinkMetadata {
@@ -48,8 +50,8 @@ export interface TokenMetadata {
   logoURI: string;
   website: string;
   description: string;
-  coingeckoId: string;
   links: LinkMetadata;
+  coingeckoId?: string;
 }
 
 export interface NetworkMetadata<C extends SupportedChain> {
