@@ -1,16 +1,24 @@
 import fetch from 'cross-fetch';
 
-import { FungibleTokenInfo, SupportedChain, SupportedNetwork, TokenMetadata } from './types';
+import {
+  BasicTokenMetadata,
+  FungibleTokenInfo,
+  SupportedChain,
+  SupportedNetwork,
+  TokenMetadata,
+} from './types';
 
 export enum FetchStrategy {
   GitHub = 'https://raw.githubusercontent.com/DeLiquid/asset-registry/main/assets',
   JSDelivr = 'https://cdn.jsdelivr.net/gh/DeLiquid/asset-registry@main/assets',
 }
 
-export async function getAllTokensMetadata(fetchStrategy: FetchStrategy = FetchStrategy.GitHub) {
-  return fetch(`${fetchStrategy}/tokens/info.json`)
+export async function getAllTokensBasicMetadata(
+  fetchStrategy: FetchStrategy = FetchStrategy.GitHub,
+) {
+  return fetch(`${fetchStrategy}/tokens/basic_info.json`)
     .then((res) => res.json())
-    .then((res) => res as { [key: string]: TokenMetadata });
+    .then((res) => res as BasicTokenMetadata[]);
 }
 
 export async function getTokenMetadata(
@@ -22,7 +30,7 @@ export async function getTokenMetadata(
     .then((res) => res as TokenMetadata);
 }
 
-export async function getTokensByNetwork<C extends SupportedChain>(
+export async function getTokensInfoByNetwork<C extends SupportedChain>(
   chain: C,
   network: SupportedNetwork[C],
   fetchStrategy: FetchStrategy = FetchStrategy.GitHub,

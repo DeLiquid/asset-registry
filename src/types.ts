@@ -43,15 +43,18 @@ export interface LinkMetadata {
   youtube?: string;
 }
 
-export interface TokenMetadata {
+export interface BasicTokenMetadata {
   key: string;
   name: string;
   symbol: string;
   logoURI: string;
+  coingeckoId?: string;
+}
+
+export interface TokenMetadata extends BasicTokenMetadata {
   website: string;
   description: string;
   links: LinkMetadata;
-  coingeckoId?: string;
 }
 
 export interface NetworkMetadata<C extends SupportedChain> {
