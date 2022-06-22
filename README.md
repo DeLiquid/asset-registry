@@ -28,13 +28,13 @@ CHAIN_REGISTRY['solana'];
 NETWORK_REGISTRY['solana']['devnet'];
 
 // metadata of all tokens
-await getAllTokensMetadata();
+await getAllTokensBasicMetadata();
 
 // token metadata (key defined in assets/tokens/)
 await getTokenMetadata('usd-coin');
 
 // all available tokens in a network (key defined in src/types.ts)
-await getTokensByNetwork('solana', 'mainnet');
+await getTokensInfoByNetwork('solana', 'mainnet');
 ```
 
 ### Add assets
