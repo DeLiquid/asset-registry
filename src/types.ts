@@ -1,15 +1,31 @@
 /* ----- Key Registrations ----- */
 
-export type SupportedNetwork = {
-  solana: 'mainnet' | 'testnet' | 'devnet';
-  ethereum: 'mainnet' | 'goerli';
-  polygon: 'mainnet' | 'mumbai';
-  'binance-smart-chain': 'mainnet' | 'testnet';
-  'avalanche-c': 'mainnet' | 'fuji';
-  cosmoshub: 'mainnet' | 'theta';
+export type SupportedChain =
+  | 'solana'
+  | 'ethereum'
+  | 'polygon'
+  | 'binance-smart-chain'
+  | 'avalanche-c'
+  | 'cosmoshub';
+
+export const SupportedNetworks: Record<SupportedChain, Readonly<string[]>> = {
+  solana: ['mainnet', 'testnet', 'devnet'] as const,
+  ethereum: ['mainnet', 'goerli'] as const,
+  polygon: ['mainnet', 'mumbai'] as const,
+  'binance-smart-chain': ['mainnet', 'testnet'] as const,
+  'avalanche-c': ['mainnet', 'fuji'] as const,
+  cosmoshub: ['mainnet', 'theta'] as const,
 };
 
-export type SupportedChain = keyof SupportedNetwork;
+export function isSupportedNetwork<C extends SupportedChain>(chain: C, network: string) {
+  return SupportedNetworks[chain].includes(network);
+}
+
+export function assertIsSupportedNetwork<C extends SupportedChain>(chain: C, network: string) {
+  if (!isSupportedNetwork(chain, network)) {
+    throw new Error(`The provided network key (${network}) is not valid for ${chain}.`);
+  }
+}
 
 /* ----- Schema ----- */
 
@@ -58,7 +74,7 @@ export interface TokenMetadata extends BasicTokenMetadata {
 }
 
 export interface NetworkMetadata<C extends SupportedChain> {
-  key: SupportedNetwork[C];
+  key: string;
   chainKey: C;
   name: string;
   chainId: number | string;

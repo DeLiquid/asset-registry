@@ -1,4 +1,4 @@
-import { ChainMetadata, NetworkMetadata, SupportedNetwork } from '../types';
+import { ChainMetadata, NetworkMetadata } from '../types';
 
 export const SOLANA_CHAIN_METADATA: Readonly<ChainMetadata<'solana'>> = Object.freeze({
   key: 'solana',
@@ -17,43 +17,42 @@ export const SOLANA_CHAIN_METADATA: Readonly<ChainMetadata<'solana'>> = Object.f
   },
 });
 
-export const SOLANA_NETWORK_METADATA: Readonly<{
-  [N in SupportedNetwork['solana']]: NetworkMetadata<'solana'>;
-}> = Object.freeze({
-  mainnet: {
-    key: 'mainnet',
-    chainKey: 'solana',
-    name: 'Solana Mainnet',
-    chainId: 101,
-    isTestnet: false,
-    explorer: {
-      address: 'https://solscan.io/account/{{id}}',
-      token: 'https://solscan.io/token/{{id}}',
-      transaction: 'https://solscan.io/tx/{{id}}',
+export const SOLANA_NETWORK_METADATA: Readonly<Record<string, NetworkMetadata<'solana'>>> =
+  Object.freeze({
+    mainnet: {
+      key: 'mainnet',
+      chainKey: 'solana',
+      name: 'Solana Mainnet',
+      chainId: 101,
+      isTestnet: false,
+      explorer: {
+        address: 'https://solscan.io/account/{{id}}',
+        token: 'https://solscan.io/token/{{id}}',
+        transaction: 'https://solscan.io/tx/{{id}}',
+      },
     },
-  },
-  testnet: {
-    key: 'testnet',
-    chainKey: 'solana',
-    name: 'Solana Testnet',
-    chainId: 102,
-    isTestnet: true,
-    explorer: {
-      address: 'https://solscan.io/account/{{id}}?cluster=testnet',
-      token: 'https://solscan.io/token/{{id}}?cluster=testnet',
-      transaction: 'https://solscan.io/tx/{{id}}?cluster=testnet',
+    testnet: {
+      key: 'testnet',
+      chainKey: 'solana',
+      name: 'Solana Testnet',
+      chainId: 102,
+      isTestnet: true,
+      explorer: {
+        address: 'https://solscan.io/account/{{id}}?cluster=testnet',
+        token: 'https://solscan.io/token/{{id}}?cluster=testnet',
+        transaction: 'https://solscan.io/tx/{{id}}?cluster=testnet',
+      },
     },
-  },
-  devnet: {
-    key: 'devnet',
-    chainKey: 'solana',
-    name: 'Solana Devnet',
-    chainId: 103,
-    isTestnet: true,
-    explorer: {
-      address: 'https://solscan.io/account/{{id}}?cluster=devnet',
-      token: 'https://solscan.io/token/{{id}}?cluster=devnet',
-      transaction: 'https://solscan.io/tx/{{id}}?cluster=devnet',
+    devnet: {
+      key: 'devnet',
+      chainKey: 'solana',
+      name: 'Solana Devnet',
+      chainId: 103,
+      isTestnet: true,
+      explorer: {
+        address: 'https://solscan.io/account/{{id}}?cluster=devnet',
+        token: 'https://solscan.io/token/{{id}}?cluster=devnet',
+        transaction: 'https://solscan.io/tx/{{id}}?cluster=devnet',
+      },
     },
-  },
-});
+  });

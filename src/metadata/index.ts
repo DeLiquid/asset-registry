@@ -1,4 +1,4 @@
-import { ChainMetadata, NetworkMetadata, SupportedChain, SupportedNetwork } from '../types';
+import { ChainMetadata, NetworkMetadata, SupportedChain } from '../types';
 import { AVALANCHEC_CHAIN_METADATA, AVALANCHEC_NETWORK_METADATA } from './avalanche-c';
 import { BSC_CHAIN_METADATA, BSC_NETWORK_METADATA } from './binance-smart-chain';
 import { COSMOSHUB_CHAIN_METADATA, COSMOSHUB_NETWORK_METADATA } from './cosmoshub';
@@ -18,7 +18,7 @@ export const CHAIN_REGISTRY: Readonly<{
 });
 
 export const NETWORK_REGISTRY: Readonly<{
-  [C in SupportedChain]: { [N in SupportedNetwork[C]]: NetworkMetadata<C> };
+  [C in SupportedChain]: Record<string, NetworkMetadata<C>>;
 }> = Object.freeze({
   'avalanche-c': AVALANCHEC_NETWORK_METADATA,
   'binance-smart-chain': BSC_NETWORK_METADATA,

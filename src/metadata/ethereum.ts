@@ -1,4 +1,4 @@
-import { ChainMetadata, NetworkMetadata, SupportedNetwork } from '../types';
+import { ChainMetadata, NetworkMetadata } from '../types';
 
 export const ETHEREUM_CHAIN_METADATA: Readonly<ChainMetadata<'ethereum'>> = Object.freeze({
   key: 'ethereum',
@@ -18,33 +18,32 @@ export const ETHEREUM_CHAIN_METADATA: Readonly<ChainMetadata<'ethereum'>> = Obje
   },
 });
 
-export const ETHEREUM_NETWORK_METADATA: Readonly<{
-  [N in SupportedNetwork['ethereum']]: NetworkMetadata<'ethereum'>;
-}> = Object.freeze({
-  mainnet: {
-    key: 'mainnet',
-    chainKey: 'ethereum',
-    name: 'Ethereum Mainnet',
-    chainId: 1,
-    isTestnet: false,
-    explorer: {
-      address: 'https://etherscan.io/address/{{id}}',
-      token: 'https://etherscan.io/token/{{id}}',
-      transaction: 'https://etherscan.io/tx/{{id}}',
+export const ETHEREUM_NETWORK_METADATA: Readonly<Record<string, NetworkMetadata<'ethereum'>>> =
+  Object.freeze({
+    mainnet: {
+      key: 'mainnet',
+      chainKey: 'ethereum',
+      name: 'Ethereum Mainnet',
+      chainId: 1,
+      isTestnet: false,
+      explorer: {
+        address: 'https://etherscan.io/address/{{id}}',
+        token: 'https://etherscan.io/token/{{id}}',
+        transaction: 'https://etherscan.io/tx/{{id}}',
+      },
+      networkId: 1,
     },
-    networkId: 1,
-  },
-  goerli: {
-    key: 'goerli',
-    chainKey: 'ethereum',
-    name: 'Ethereum Goerli Testnet',
-    chainId: 5,
-    isTestnet: true,
-    explorer: {
-      address: 'https://goerli.etherscan.io/address/{{id}}',
-      token: 'https://goerli.etherscan.io/token/{{id}}',
-      transaction: 'https://goerli.etherscan.io/tx/{{id}}',
+    goerli: {
+      key: 'goerli',
+      chainKey: 'ethereum',
+      name: 'Ethereum Goerli Testnet',
+      chainId: 5,
+      isTestnet: true,
+      explorer: {
+        address: 'https://goerli.etherscan.io/address/{{id}}',
+        token: 'https://goerli.etherscan.io/token/{{id}}',
+        transaction: 'https://goerli.etherscan.io/tx/{{id}}',
+      },
+      networkId: 5,
     },
-    networkId: 5,
-  },
-});
+  });
