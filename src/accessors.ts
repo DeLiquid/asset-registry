@@ -1,10 +1,13 @@
 import fetch from 'cross-fetch';
+import { CHAIN_REGISTRY, NETWORK_REGISTRY } from './metadata';
 
 import {
+  assertIsSupportedNetwork,
   BasicTokenMetadata,
+  ChainMetadata,
   FungibleTokenInfo,
+  NetworkMetadata,
   SupportedChain,
-  SupportedNetwork,
   TokenMetadata,
 } from './types';
 
@@ -32,10 +35,28 @@ export async function getTokenMetadata(
 
 export async function getTokensInfoByNetwork<C extends SupportedChain>(
   chain: C,
-  network: SupportedNetwork[C],
+  network: string,
   fetchStrategy: FetchStrategy = FetchStrategy.GitHub,
 ) {
   return fetch(`${fetchStrategy}/chains/${chain}/${network}/tokenlist.json`)
     .then((res) => res.json())
     .then((res) => res as FungibleTokenInfo[]);
+}
+
+export function getChainMetadata<C extends SupportedChain>(chain: C): ChainMetadata<C> {
+  return CHAIN_REGISTRY[chain];
+}
+
+export function getNetworksMetadataByChain<C extends SupportedChain>(
+  chain: C,
+): Record<string, NetworkMetadata<C>> {
+  return NETWORK_REGISTRY[chain];
+}
+
+export function getNetworkMetadata<C extends SupportedChain>(
+  chain: C,
+  network: string,
+): NetworkMetadata<C> {
+  assertIsSupportedNetwork(chain, network);
+  return NETWORK_REGISTRY[chain][network];
 }

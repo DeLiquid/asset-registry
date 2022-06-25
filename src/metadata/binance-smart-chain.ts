@@ -1,4 +1,4 @@
-import { ChainMetadata, NetworkMetadata, SupportedNetwork } from '../types';
+import { ChainMetadata, NetworkMetadata } from '../types';
 
 export const BSC_CHAIN_METADATA: Readonly<ChainMetadata<'binance-smart-chain'>> = Object.freeze({
   key: 'binance-smart-chain',
@@ -17,9 +17,9 @@ export const BSC_CHAIN_METADATA: Readonly<ChainMetadata<'binance-smart-chain'>> 
   },
 });
 
-export const BSC_NETWORK_METADATA: Readonly<{
-  [N in SupportedNetwork['binance-smart-chain']]: NetworkMetadata<'binance-smart-chain'>;
-}> = Object.freeze({
+export const BSC_NETWORK_METADATA: Readonly<
+  Readonly<Record<string, NetworkMetadata<'binance-smart-chain'>>>
+> = Object.freeze({
   mainnet: {
     key: 'mainnet',
     chainKey: 'binance-smart-chain',

@@ -1,4 +1,4 @@
-import { ChainMetadata, NetworkMetadata, SupportedNetwork } from '../types';
+import { ChainMetadata, NetworkMetadata } from '../types';
 
 export const COSMOSHUB_CHAIN_METADATA: Readonly<ChainMetadata<'cosmoshub'>> = Object.freeze({
   key: 'cosmoshub',
@@ -19,31 +19,30 @@ export const COSMOSHUB_CHAIN_METADATA: Readonly<ChainMetadata<'cosmoshub'>> = Ob
   },
 });
 
-export const COSMOSHUB_NETWORK_METADATA: Readonly<{
-  [N in SupportedNetwork['cosmoshub']]: NetworkMetadata<'cosmoshub'>;
-}> = Object.freeze({
-  mainnet: {
-    key: 'mainnet',
-    chainKey: 'cosmoshub',
-    name: 'Cosmos Hub Mainnet',
-    chainId: 'cosmoshub-4',
-    isTestnet: false,
-    explorer: {
-      address: 'https://www.mintscan.io/cosmos/account/{{id}}',
-      token: '', // N/A
-      transaction: 'https://www.mintscan.io/cosmos/txs/{{id}}',
+export const COSMOSHUB_NETWORK_METADATA: Readonly<Record<string, NetworkMetadata<'cosmoshub'>>> =
+  Object.freeze({
+    mainnet: {
+      key: 'mainnet',
+      chainKey: 'cosmoshub',
+      name: 'Cosmos Hub Mainnet',
+      chainId: 'cosmoshub-4',
+      isTestnet: false,
+      explorer: {
+        address: 'https://www.mintscan.io/cosmos/account/{{id}}',
+        token: '', // N/A
+        transaction: 'https://www.mintscan.io/cosmos/txs/{{id}}',
+      },
     },
-  },
-  theta: {
-    key: 'theta',
-    chainKey: 'cosmoshub',
-    name: 'Cosmos Hub v7-Theta Public Mainnet',
-    chainId: 'theta-testnet-001',
-    isTestnet: true,
-    explorer: {
-      address: 'https://cosmoshub-testnet.mintscan.io/cosmoshub-testnet/account/{{id}}',
-      token: '', // N/A
-      transaction: 'https://cosmoshub-testnet.mintscan.io/cosmoshub-testnet/txs/{{id}}',
+    theta: {
+      key: 'theta',
+      chainKey: 'cosmoshub',
+      name: 'Cosmos Hub v7-Theta Public Mainnet',
+      chainId: 'theta-testnet-001',
+      isTestnet: true,
+      explorer: {
+        address: 'https://cosmoshub-testnet.mintscan.io/cosmoshub-testnet/account/{{id}}',
+        token: '', // N/A
+        transaction: 'https://cosmoshub-testnet.mintscan.io/cosmoshub-testnet/txs/{{id}}',
+      },
     },
-  },
-});
+  });

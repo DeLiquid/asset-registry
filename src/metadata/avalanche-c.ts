@@ -1,4 +1,4 @@
-import { ChainMetadata, NetworkMetadata, SupportedNetwork } from '../types';
+import { ChainMetadata, NetworkMetadata } from '../types';
 
 export const AVALANCHEC_CHAIN_METADATA: Readonly<ChainMetadata<'avalanche-c'>> = Object.freeze({
   key: 'avalanche-c',
@@ -17,9 +17,9 @@ export const AVALANCHEC_CHAIN_METADATA: Readonly<ChainMetadata<'avalanche-c'>> =
   },
 });
 
-export const AVALANCHEC_NETWORK_METADATA: Readonly<{
-  [N in SupportedNetwork['avalanche-c']]: NetworkMetadata<'avalanche-c'>;
-}> = Object.freeze({
+export const AVALANCHEC_NETWORK_METADATA: Readonly<
+  Readonly<Record<string, NetworkMetadata<'avalanche-c'>>>
+> = Object.freeze({
   mainnet: {
     key: 'mainnet',
     chainKey: 'avalanche-c',

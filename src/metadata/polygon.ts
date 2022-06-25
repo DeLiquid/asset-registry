@@ -1,4 +1,4 @@
-import { ChainMetadata, NetworkMetadata, SupportedNetwork } from '../types';
+import { ChainMetadata, NetworkMetadata } from '../types';
 
 export const POLYGON_CHAIN_METADATA: Readonly<ChainMetadata<'polygon'>> = Object.freeze({
   key: 'polygon',
@@ -17,33 +17,32 @@ export const POLYGON_CHAIN_METADATA: Readonly<ChainMetadata<'polygon'>> = Object
   },
 });
 
-export const POLYGON_NETWORK_METADATA: Readonly<{
-  [N in SupportedNetwork['polygon']]: NetworkMetadata<'polygon'>;
-}> = Object.freeze({
-  mainnet: {
-    key: 'mainnet',
-    chainKey: 'polygon',
-    name: 'Polygon Mainnet',
-    chainId: 137,
-    isTestnet: false,
-    explorer: {
-      address: 'https://polygonscan.com/address/{{id}}',
-      token: 'https://polygonscan.com/token/{{id}}',
-      transaction: 'https://polygonscan.com/tx/{{id}}',
+export const POLYGON_NETWORK_METADATA: Readonly<Record<string, NetworkMetadata<'polygon'>>> =
+  Object.freeze({
+    mainnet: {
+      key: 'mainnet',
+      chainKey: 'polygon',
+      name: 'Polygon Mainnet',
+      chainId: 137,
+      isTestnet: false,
+      explorer: {
+        address: 'https://polygonscan.com/address/{{id}}',
+        token: 'https://polygonscan.com/token/{{id}}',
+        transaction: 'https://polygonscan.com/tx/{{id}}',
+      },
+      networkId: 137,
     },
-    networkId: 137,
-  },
-  mumbai: {
-    key: 'mumbai',
-    chainKey: 'polygon',
-    name: 'Polygon Mumbai Testnet',
-    chainId: 80001,
-    isTestnet: true,
-    explorer: {
-      address: 'https://mumbai.polygonscan.com/address/{{id}}',
-      token: 'https://mumbai.polygonscan.com/token/{{id}}',
-      transaction: 'https://mumbai.polygonscan.com/tx/{{id}}',
+    mumbai: {
+      key: 'mumbai',
+      chainKey: 'polygon',
+      name: 'Polygon Mumbai Testnet',
+      chainId: 80001,
+      isTestnet: true,
+      explorer: {
+        address: 'https://mumbai.polygonscan.com/address/{{id}}',
+        token: 'https://mumbai.polygonscan.com/token/{{id}}',
+        transaction: 'https://mumbai.polygonscan.com/tx/{{id}}',
+      },
+      networkId: 80001,
     },
-    networkId: 80001,
-  },
-});
+  });
