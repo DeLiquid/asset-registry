@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "key": "usd-coin",
+    "address": "0x3fea4fa8fbeac2eea431b49243560de48efca2a1",
+    "decimals": 6
+  },
+  {
+    "key": "tether",
+    "address": "0x337610d27c682e347c9cd60bd4b3b107c9d34ddd",
+    "decimals": 18
+  }
+]
