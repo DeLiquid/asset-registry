@@ -6251,6 +6251,12 @@
     "coingeckoId": "wazirx"
   },
   {
+    "key": "weenus",
+    "name": "Weenus",
+    "symbol": "weenus",
+    "logoURI": ""
+  },
+  {
     "key": "weway",
     "name": "WeWay",
     "symbol": "wwy",
@@ -6377,6 +6383,12 @@
     "coingeckoId": "xdce-crowd-sale"
   },
   {
+    "key": "xeenus",
+    "name": "Xeenus",
+    "symbol": "xeenus",
+    "logoURI": ""
+  },
+  {
     "key": "xels",
     "name": "XELS",
     "symbol": "xels",
@@ -6433,6 +6445,12 @@
     "coingeckoId": "yearn-finance-wormhole"
   },
   {
+    "key": "yeenus",
+    "name": "Yeenus",
+    "symbol": "yeenus",
+    "logoURI": ""
+  },
+  {
     "key": "yield-guild-games",
     "name": "Yield Guild Games",
     "symbol": "ygg",
@@ -6466,6 +6484,12 @@
     "symbol": "zec",
     "logoURI": "https://assets.coingecko.com/coins/images/486/large/circle-zcash-color.png?1547034197",
     "coingeckoId": "zcash"
+  },
+  {
+    "key": "zeenus",
+    "name": "Zeenus",
+    "symbol": "zeenus",
+    "logoURI": ""
   },
   {
     "key": "zelcash",

@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "key": "usd-coin",
+    "address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
+    "decimals": 6
+  },
+  {
+    "key": "weenus",
+    "address": "0xaFF4481D10270F50f203E0763e2597776068CBc5",
+    "decimals": 18
+  },
+  {
+    "key": "xeenus",
+    "address": "0x022E292b44B5a146F2e8ee36Ff44D3dd863C915c",
+    "decimals": 18
+  },
+  {
+    "key": "yeenus",
+    "address": "0xc6fDe3FD2Cc2b173aEC24cc3f267cb3Cd78a26B7",
+    "decimals": 8
+  },
+  {
+    "key": "zeenus",
+    "address": "0x1f9061B953bBa0E36BF50F21876132DcF276fC6e",
+    "decimals": 0
+  }
+]

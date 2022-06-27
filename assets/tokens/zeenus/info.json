@@ -1,0 +1,11 @@
+{
+  "key": "zeenus",
+  "name": "Zeenus",
+  "symbol": "zeenus",
+  "logoURI": "",
+  "website": "https://github.com/bokkypoobah/WeenusTokenFaucet",
+  "description": "An ERC20 token faucet on the Ethereum mainnet, the Ropsten, Kovan, Rinkeby and Görli testnets, and the xDai network.",
+  "links": {
+    "github": "https://github.com/bokkypoobah/WeenusTokenFaucet"
+  }
+}

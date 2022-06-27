@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "key": "usd-coin",
+    "address": "CpMah17kQEL2wqyMKt3mZBdTnZbkbfx4nqmQMFDP5vwp",
+    "decimals": 6
+  }
+]
