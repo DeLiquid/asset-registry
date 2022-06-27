@@ -36,7 +36,7 @@ export const COSMOSHUB_NETWORK_METADATA: Readonly<Record<string, NetworkMetadata
     theta: {
       key: 'theta',
       chainKey: 'cosmoshub',
-      name: 'Cosmos Hub v7-Theta Public Mainnet',
+      name: 'Cosmos Hub v7-Theta Public Testnet',
       chainId: 'theta-testnet-001',
       isTestnet: true,
       explorer: {
