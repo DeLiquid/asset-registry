@@ -1,12 +1,15 @@
 /* ----- Key Registrations ----- */
 
-export type SupportedChain =
-  | 'solana'
-  | 'ethereum'
-  | 'polygon'
-  | 'binance-smart-chain'
-  | 'avalanche-c'
-  | 'cosmoshub';
+export const SupportedChains = [
+  'solana',
+  'ethereum',
+  'polygon',
+  'binance-smart-chain',
+  'avalanche-c',
+  'cosmoshub',
+] as const;
+
+export type SupportedChain = typeof SupportedChains[number];
 
 export const SupportedNetworks: Record<SupportedChain, Readonly<string[]>> = {
   solana: ['mainnet', 'testnet', 'devnet'] as const,
