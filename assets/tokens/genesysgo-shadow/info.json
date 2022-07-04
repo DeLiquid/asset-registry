@@ -8,5 +8,13 @@
   "coingeckoId": "genesysgo-shadow",
   "links": {
     "twitter": "https://twitter.com/genesysgo"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y",
+      "decimals": 9
+    }
+  ]
 }

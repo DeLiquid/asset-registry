@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/fistianaweb3",
     "telegram": "https://t.me/fistianaweb3"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xa316f5ed04c3cc6aff914d9144e582b31c089fe9",
+      "decimals": 18
+    }
+  ]
 }

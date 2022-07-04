@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/ethernitychain",
     "telegram": "https://t.me/ethernitychain"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
+      "decimals": 18
+    }
+  ]
 }

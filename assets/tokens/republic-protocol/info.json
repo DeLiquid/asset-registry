@@ -11,5 +11,13 @@
     "telegram": "https://t.me/renproject",
     "reddit": "https://www.reddit.com",
     "github": "https://github.com/renproject/renproject.io"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x408e41876cccdc0f92210600ef50372656052a38",
+      "decimals": 18
+    }
+  ]
 }

@@ -12,5 +12,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=5209540",
     "telegram": "https://t.me/bitfree_Cash",
     "github": "https://github.com/bitfreecash/bitfree"
-  }
+  },
+  "networks": []
 }

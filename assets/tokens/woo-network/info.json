@@ -9,5 +9,37 @@
   "links": {
     "twitter": "https://twitter.com/WOOnetwork",
     "telegram": "https://t.me/woonetwork"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0xabc9547b534519ff73921b1fba6e672b5f58d083",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603",
+      "decimals": 18
+    },
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "E5rk3nmgLUuKUiS94gg4bpWwWwyjCMtddsAXkTFLtHEy",
+      "decimals": 6
+    }
+  ]
 }

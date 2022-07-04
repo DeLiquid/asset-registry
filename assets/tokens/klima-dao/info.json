@@ -8,5 +8,13 @@
   "coingeckoId": "klima-dao",
   "links": {
     "twitter": "https://twitter.com/KlimaDAO"
-  }
+  },
+  "networks": [
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x4e78011ce80ee02d2c3e649fb657e45898257815",
+      "decimals": 9
+    }
+  ]
 }

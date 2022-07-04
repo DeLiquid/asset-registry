@@ -6,5 +6,6 @@
   "website": "https://bluefincore.com",
   "description": "A better way to present your money using fully featured digital currency and now available on the team xpeed studio for everyone! It\u2019s the fastest and most scalable digital asset, enabling real-time contracts and apps any where in the world.",
   "coingeckoId": "bluefincore",
-  "links": {}
+  "links": {},
+  "networks": []
 }

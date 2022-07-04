@@ -17,5 +17,6 @@
     "whitepaper": "https://medibloc.org/whitepaper/medibloc_whitepaper_en.pdf",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2285103",
     "reddit": "https://www.reddit.com/r/MediBloc"
-  }
+  },
+  "networks": []
 }

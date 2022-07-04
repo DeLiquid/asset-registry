@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/neutrino_proto",
     "facebook": "https://www.facebook.com/NeutrinoProtocol",
     "telegram": "https://t.me/neutrino_protocol_news"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x9d79d5b61de59d882ce90125b18f74af650acb93",
+      "decimals": 6
+    }
+  ]
 }

@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/738700972824847",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=361813",
     "reddit": "https://www.reddit.com"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+      "decimals": 8
+    }
+  ]
 }

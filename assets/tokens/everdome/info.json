@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/Everdome_io",
     "facebook": "https://www.facebook.com/Everdome",
     "telegram": "https://t.me/everdome"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x475bfaa1848591ae0e6ab69600f48d828f61a80e",
+      "decimals": 18
+    }
+  ]
 }

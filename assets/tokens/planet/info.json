@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/member_planet",
     "telegram": "https://t.me/PLANETOFFICIAL"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x307d45afbb7e84f82ef3d251a6bb0f00edf632e4",
+      "decimals": 18
+    }
+  ]
 }

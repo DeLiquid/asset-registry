@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/WODEX_official",
     "telegram": "https://t.me/WODEX_official",
     "github": "https://github.com/WODEX"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x780622e3043d329abd7b1fd522c9b6c877cfb8c0",
+      "decimals": 18
+    }
+  ]
 }

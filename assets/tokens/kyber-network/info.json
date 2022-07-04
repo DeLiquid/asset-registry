@@ -13,5 +13,13 @@
     "telegram": "https://t.me/officialkybernetwork",
     "whitepaper": "https://kyber.network/assets/KyberNetworkWhitepaper.pdf",
     "reddit": "https://www.reddit.com/r/kybernetwork/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+      "decimals": 18
+    }
+  ]
 }

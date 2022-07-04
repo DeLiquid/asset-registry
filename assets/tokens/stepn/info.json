@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/stepnofficial",
     "telegram": "https://t.me/STEPNofficial",
     "reddit": "https://www.reddit.com"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1",
+      "decimals": 8
+    },
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
+      "decimals": 9
+    }
+  ]
 }

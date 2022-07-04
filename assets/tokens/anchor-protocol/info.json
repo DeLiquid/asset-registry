@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/anchor_protocol",
     "telegram": "https://t.me/anchor_official",
     "github": "https://github.com/Anchor-Protocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x0f3adc247e91c3c50bc08721355a41037e89bc20",
+      "decimals": 18
+    }
+  ]
 }

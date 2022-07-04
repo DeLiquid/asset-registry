@@ -11,5 +11,31 @@
     "facebook": "https://www.facebook.com/TrustToken",
     "telegram": "https://t.me/TUSDofficial_EN",
     "github": "https://github.com/trusttoken/trueUSD"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x0000000000085d4780b73119b644ae5ecd22b376",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756",
+      "decimals": 18
+    }
+  ]
 }

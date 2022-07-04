@@ -11,5 +11,6 @@
     "facebook": "https://www.facebook.com/klaytn.official",
     "reddit": "https://www.reddit.com/r/klaytn/",
     "github": "https://github.com/klaytn/klaytn"
-  }
+  },
+  "networks": []
 }

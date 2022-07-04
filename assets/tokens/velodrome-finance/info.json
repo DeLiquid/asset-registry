@@ -8,5 +8,6 @@
   "coingeckoId": "velodrome-finance",
   "links": {
     "twitter": "https://twitter.com/VelodromeFi"
-  }
+  },
+  "networks": []
 }

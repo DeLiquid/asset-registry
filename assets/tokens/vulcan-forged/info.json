@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/VulcanForged",
     "telegram": "https://t.me/VeriArti"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x430ef9263e76dae63c84292c3409d61c598e9682",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x430ef9263e76dae63c84292c3409d61c598e9682",
+      "decimals": 18
+    }
+  ]
 }

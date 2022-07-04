@@ -13,5 +13,6 @@
     "telegram": "https://t.me/diviproject",
     "reddit": "https://www.reddit.com/r/diviproject",
     "github": "https://github.com/Divicoin/Divicoin"
-  }
+  },
+  "networks": []
 }

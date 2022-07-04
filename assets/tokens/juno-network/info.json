@@ -11,5 +11,6 @@
     "telegram": "https://t.me/JunoNetwork",
     "reddit": "https://www.reddit.com",
     "github": "https://github.com/CosmosContracts"
-  }
+  },
+  "networks": []
 }

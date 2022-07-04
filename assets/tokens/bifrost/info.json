@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/BIFROSTio",
     "facebook": "https://www.facebook.com/theBifrost.io",
     "telegram": "https://t.me/Bifrost_Global"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x0c7d5ae016f806603cb1782bea29ac69471cab9c",
+      "decimals": 18
+    }
+  ]
 }

@@ -8,5 +8,13 @@
   "coingeckoId": "dogelon-mars-wormhole",
   "links": {
     "twitter": "https://twitter.com/wormholecrypto"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "6nKUU36URHkewHg5GGGAgxs6szkE4VTioGUT5txQqJFU",
+      "decimals": 8
+    }
+  ]
 }

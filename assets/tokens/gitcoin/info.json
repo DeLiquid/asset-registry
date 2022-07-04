@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/gitcoin",
     "reddit": "https://www.reddit.com/r/gitcoincommunity"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+      "decimals": 18
+    }
+  ]
 }

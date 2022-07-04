@@ -11,5 +11,13 @@
     "telegram": "https://t.me/KeepNetworkOfficial",
     "reddit": "https://www.reddit.com/r/KeepNetwork",
     "github": "https://github.com/keep-network"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+      "decimals": 18
+    }
+  ]
 }

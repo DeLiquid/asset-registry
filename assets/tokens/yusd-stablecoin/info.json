@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/YetiFinance",
     "telegram": "https://t.me/yetifinance"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x111111111111ed1d73f860f57b2798b683f2d325",
+      "decimals": 18
+    }
+  ]
 }

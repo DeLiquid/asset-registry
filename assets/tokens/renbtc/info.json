@@ -11,5 +11,25 @@
     "telegram": "https://t.me/renproject",
     "reddit": "https://www.reddit.com/r/RenProject/",
     "github": "https://github.com/renproject/ren-js"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xfce146bf3146100cfe5db4129cf6c82b0ef4ad8c",
+      "decimals": 8
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+      "decimals": 8
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501",
+      "decimals": 8
+    }
+  ]
 }

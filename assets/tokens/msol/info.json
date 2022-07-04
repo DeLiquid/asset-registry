@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/MarinadeFinance",
     "github": "https://github.com/marinade-finance/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+      "decimals": 9
+    }
+  ]
 }

@@ -12,5 +12,6 @@
     "telegram": "https://t.me/BCDcommunity",
     "reddit": "https://www.reddit.com/r/Bitcoin-Diamond/",
     "github": "https://github.com/eveybcd/BitcoinDiamond"
-  }
+  },
+  "networks": []
 }

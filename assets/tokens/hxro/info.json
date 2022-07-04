@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/HxroNetwork",
     "telegram": "https://t.me/Hxro_Consortium"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3",
+      "decimals": 18
+    },
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK",
+      "decimals": 8
+    }
+  ]
 }

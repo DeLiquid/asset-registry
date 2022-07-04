@@ -8,5 +8,13 @@
   "coingeckoId": "binance-peg-xrp",
   "links": {
     "twitter": "https://twitter.com/Ripple"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+      "decimals": 18
+    }
+  ]
 }

@@ -12,5 +12,19 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2847114",
     "telegram": "https://t.me/ceekvrtokensale",
     "reddit": "https://www.reddit.com/r/Ceek/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xe0f94ac5462997d2bc57287ac3a3ae4c31345d66",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xb056c38f6b7dc4064367403e26424cd2c60655e1",
+      "decimals": 18
+    }
+  ]
 }

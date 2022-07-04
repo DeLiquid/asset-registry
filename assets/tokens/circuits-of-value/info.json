@@ -12,5 +12,25 @@
     "telegram": "https://t.me/Coval_Chat",
     "reddit": "https://www.reddit.com",
     "github": "https://github.com/DecentricCorp/coval-exodos"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xd15cee1deafbad6c0b3fd7489677cc102b141464",
+      "decimals": 8
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x3d658390460295fb963f54dc0899cfb1c30776df",
+      "decimals": 8
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x4597c8a59ab28b36840b82b3a674994a279593d0",
+      "decimals": 8
+    }
+  ]
 }

@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/TCDXOfficial",
     "telegram": "https://t.me/tkogroupOFFICIAL",
     "github": "https://github.com/Tokocrypto/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
+      "decimals": 18
+    }
+  ]
 }

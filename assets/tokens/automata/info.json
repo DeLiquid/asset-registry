@@ -9,5 +9,25 @@
   "links": {
     "twitter": "https://twitter.com/automatanetwork",
     "telegram": "https://t.me/ata_network"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x0df0f72ee0e5c9b7ca761ecec42754992b2da5bf",
+      "decimals": 18
+    }
+  ]
 }

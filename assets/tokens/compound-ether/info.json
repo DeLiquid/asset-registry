@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/compoundfinance",
     "reddit": "https://www.reddit.com/r/compound/",
     "github": "https://github.com/compound-finance/compound-protocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+      "decimals": 8
+    }
+  ]
 }

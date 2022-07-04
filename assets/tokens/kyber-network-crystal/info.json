@@ -11,5 +11,31 @@
     "telegram": "https://t.me/officialkybernetwork",
     "reddit": "https://www.reddit.com/r/kybernetwork/",
     "github": "https://github.com/kybernetwork/KyberWallet"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x39fc9e94caeacb435842fadedecb783589f50f5f",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c",
+      "decimals": 18
+    }
+  ]
 }

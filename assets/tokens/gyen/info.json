@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/GMOTrust",
     "github": "https://github.com/trust-zcom/gmotrust-stablecoin-contract"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xc08512927d12348f6620a698105e1baac6ecd911",
+      "decimals": 6
+    }
+  ]
 }

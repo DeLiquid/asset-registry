@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/nymproject",
     "telegram": "https://t.me/nymchan",
     "github": "https://github.com/nymtech"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x525a8f6f3ba4752868cde25164382bfbae3990e1",
+      "decimals": 6
+    }
+  ]
 }

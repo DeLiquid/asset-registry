@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/loomnetwork",
     "telegram": "https://t.me/loomnetwork",
     "github": "https://github.com/loomnetwork"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
+      "decimals": 18
+    }
+  ]
 }

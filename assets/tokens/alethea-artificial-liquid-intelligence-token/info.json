@@ -11,5 +11,13 @@
     "telegram": "https://t.me/alethea_ai",
     "reddit": "https://www.reddit.com/r/Alethea/",
     "github": "https://github.com/Alethea-tech"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181",
+      "decimals": 18
+    }
+  ]
 }

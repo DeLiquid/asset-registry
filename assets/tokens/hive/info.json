@@ -11,5 +11,6 @@
     "telegram": "https://t.me/hiveblockchain",
     "reddit": "https://www.reddit.com/r/hivenetwork/",
     "github": "https://github.com/openhive-network/hive"
-  }
+  },
+  "networks": []
 }

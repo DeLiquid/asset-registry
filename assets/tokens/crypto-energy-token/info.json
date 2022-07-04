@@ -13,5 +13,13 @@
     "telegram": "https://t.me/CETCryptoEnergy",
     "reddit": "https://www.reddit.com/r/crypto_energy/",
     "github": "https://github.com/Crypto-Energy"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xf519b491aa3c19c51662d0ecf1b77c0a19bd6815",
+      "decimals": 9
+    }
+  ]
 }

@@ -8,5 +8,13 @@
   "coingeckoId": "toucan-protocol-nature-carbon-tonne",
   "links": {
     "twitter": "https://twitter.com/ToucanProtocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xd838290e877e0188a4a44700463419ed96c16107",
+      "decimals": 18
+    }
+  ]
 }

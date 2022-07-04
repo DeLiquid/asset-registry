@@ -11,5 +11,13 @@
     "telegram": "https://t.me/handshake_hns",
     "reddit": "https://www.reddit.com/r/handshake",
     "github": "https://github.com/handshake-org"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xa771b49064da011df051052848477f18dba1d2ac",
+      "decimals": 6
+    }
+  ]
 }

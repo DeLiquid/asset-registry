@@ -8,5 +8,13 @@
   "coingeckoId": "loopringcoin-v2-wormhole",
   "links": {
     "twitter": "https://twitter.com/wormholecrypto"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "HCTVFTzHL21a1dPzKxAUeWwqbE8QMUyvgChFDL4XYoi1",
+      "decimals": 8
+    }
+  ]
 }

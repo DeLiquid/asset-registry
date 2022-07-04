@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/ravendark_xrd",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=5093982",
     "github": "https://github.com/raven-dark/raven-dark"
-  }
+  },
+  "networks": []
 }

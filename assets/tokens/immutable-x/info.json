@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/Immutable",
     "telegram": "https://t.me/immutablex",
     "reddit": "https://www.reddit.com"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+      "decimals": 18
+    }
+  ]
 }

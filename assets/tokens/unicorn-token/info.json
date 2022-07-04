@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/unicorn_unx",
     "github": "https://github.com/uni-official/token-profile"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x2730d6fdc86c95a74253beffaa8306b40fedecbb",
+      "decimals": 8
+    }
+  ]
 }

@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/thorchain_org",
     "telegram": "https://t.me/thorchain_org",
     "reddit": "https://www.reddit.com/r/thorchain"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x3155ba85d5f96b2d030a4966af206230e46849cb",
+      "decimals": 18
+    }
+  ]
 }

@@ -12,5 +12,13 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=5277290",
     "telegram": "https://t.me/EscoinICO",
     "github": "https://github.com/escoin-ico"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xa2085073878152ac3090ea13d1e41bd69e60dc99",
+      "decimals": 18
+    }
+  ]
 }

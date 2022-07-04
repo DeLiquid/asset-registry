@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/shibtoken",
     "telegram": "https://t.me/bonedogekiller"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x9813037ee2218799597d83d4a5b6f3b6778218d9",
+      "decimals": 18
+    }
+  ]
 }

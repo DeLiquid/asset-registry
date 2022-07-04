@@ -8,5 +8,13 @@
   "coingeckoId": "my-neighbor-alice-wormhole",
   "links": {
     "twitter": "https://twitter.com/wormholecrypto"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "9ARQsBfAn65q522cEqSJuse3cLhA31jgWDBGQHeiq7Mg",
+      "decimals": 8
+    }
+  ]
 }

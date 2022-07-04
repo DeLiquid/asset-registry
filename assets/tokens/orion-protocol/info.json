@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/orion_protocol",
     "telegram": "https://t.me/orionprotocol",
     "github": "https://github.com/orionprotocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",
+      "decimals": 8
+    }
+  ]
 }

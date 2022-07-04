@@ -11,5 +11,13 @@
     "telegram": "https://t.me/radix_dlt",
     "reddit": "https://www.reddit.com/r/Radix/",
     "github": "https://github.com/radixdlt"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414",
+      "decimals": 18
+    }
+  ]
 }

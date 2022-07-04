@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/curvefinance",
     "telegram": "https://t.me/curvefi",
     "github": "https://github.com/curvefi"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x172370d5cd63279efa6d502dab29171933a610af",
+      "decimals": 18
+    }
+  ]
 }

@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/ribbonfinance",
     "github": "https://github.com/ribbon-finance"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+      "decimals": 18
+    }
+  ]
 }

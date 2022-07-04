@@ -12,5 +12,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2876667",
     "telegram": "https://t.me/appics_official",
     "reddit": "https://www.reddit.com"
-  }
+  },
+  "networks": []
 }

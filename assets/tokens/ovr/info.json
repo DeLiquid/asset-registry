@@ -11,5 +11,25 @@
     "telegram": "https://t.me/OVRtheReality",
     "reddit": "https://www.reddit.comhttps://www.reddit.com/r/OVR_AR_Platform/",
     "github": "https://github.com/OVR-Platform"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x7e35d0e9180bf3a1fc47b0d110be7a21a10b41fe",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x1631244689ec1fecbdd22fb5916e920dfc9b8d30",
+      "decimals": 18
+    }
+  ]
 }

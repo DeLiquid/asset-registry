@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/binahero",
     "telegram": "https://t.me/BinaHero"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x78c3ade403438b37638304f9fbbfb1b76608c1bd",
+      "decimals": 18
+    }
+  ]
 }

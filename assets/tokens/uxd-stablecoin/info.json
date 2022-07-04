@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/UXDProtocol",
     "github": "https://github.com/uxdprotocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+      "decimals": 6
+    }
+  ]
 }

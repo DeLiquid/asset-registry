@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/TheBoringDAO",
     "telegram": "https://t.me/boringdao_official",
     "github": "https://github.com/BoringDAO"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x92d7756c60dcfd4c689290e8a9f4d263b3b32241",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9",
+      "decimals": 18
+    }
+  ]
 }

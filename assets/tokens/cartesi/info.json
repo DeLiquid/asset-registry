@@ -13,5 +13,31 @@
     "telegram": "https://t.me/cartesiproject",
     "reddit": "https://www.reddit.com/r/cartesi/",
     "github": "https://github.com/cartesi"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x6b289cceaa8639e3831095d75a3e43520fabf552",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x8da443f84fea710266c8eb6bc34b71702d033ef2",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b",
+      "decimals": 18
+    }
+  ]
 }

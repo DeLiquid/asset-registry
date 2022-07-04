@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/raydiumprotocol",
     "telegram": "https://t.me/raydiumprotocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+      "decimals": 6
+    }
+  ]
 }

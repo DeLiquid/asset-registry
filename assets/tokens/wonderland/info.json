@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/wonderland_fi",
     "github": "https://github.com/Abracadabra-money/wonderland-frontend"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0xb54f16fb19478766a268f172c9480f8da1a7c9c3",
+      "decimals": 9
+    }
+  ]
 }

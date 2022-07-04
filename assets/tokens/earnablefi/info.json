@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/EarnableFi",
     "telegram": "https://t.me/earnablefiportal",
     "github": "https://github.com/Earnable-Finance"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x48666fe01d123d14b53eacf21f36786f2a786c86",
+      "decimals": 18
+    }
+  ]
 }

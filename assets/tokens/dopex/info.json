@@ -11,5 +11,13 @@
     "telegram": "https://t.me/dopexofficial",
     "reddit": "https://www.reddit.com/r/Dopex/",
     "github": "https://github.com/dopex-io"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xeec2be5c91ae7f8a338e1e5f3b5de49d07afdc81",
+      "decimals": 18
+    }
+  ]
 }

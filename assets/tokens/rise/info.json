@@ -13,5 +13,6 @@
     "telegram": "https://t.me/risevisionofficial",
     "reddit": "https://www.reddit.com/r/RiseVision/",
     "github": "https://github.com/RiseVision/rise-node"
-  }
+  },
+  "networks": []
 }

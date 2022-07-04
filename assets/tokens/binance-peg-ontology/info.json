@@ -12,5 +12,13 @@
     "telegram": "https://t.me/OntologyNetwork",
     "reddit": "https://www.reddit.com/r/OntologyNetwork/",
     "github": "https://github.com/ontio/ontology"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335",
+      "decimals": 18
+    }
+  ]
 }

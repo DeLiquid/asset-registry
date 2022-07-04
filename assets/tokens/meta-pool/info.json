@@ -9,5 +9,6 @@
   "links": {
     "twitter": "https://twitter.com/meta_pool",
     "github": "https://github.com/Narwallets/meta-pool"
-  }
+  },
+  "networks": []
 }

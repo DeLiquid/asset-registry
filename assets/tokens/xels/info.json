@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/xels_pr",
     "facebook": "https://www.facebook.com/xelscoin",
     "telegram": "https://t.me/xelscoin"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x397deb686c72384fad502a81f4d7fdb89e1f1280",
+      "decimals": 8
+    }
+  ]
 }

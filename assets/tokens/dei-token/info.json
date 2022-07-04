@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/DeusDao",
     "telegram": "https://t.me/deusfinance",
     "github": "https://github.com/deusfinance"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
+      "decimals": 18
+    }
+  ]
 }

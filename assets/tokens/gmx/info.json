@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/GMX_IO",
     "telegram": "https://t.me/GMX_IO",
     "github": "https://github.com/xvi10/gambit-contracts"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x62edc0692bd897d2295872a9ffcac5425011c661",
+      "decimals": 18
+    }
+  ]
 }

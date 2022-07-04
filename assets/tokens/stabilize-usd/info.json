@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/stabilize_fi",
     "telegram": "https://t.me/StabilizeFi",
     "github": "https://github.com/Stabilizefi"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0xaafd2577fb67366d3c89db0d627c49d769ee2e5d",
+      "decimals": 18
+    }
+  ]
 }

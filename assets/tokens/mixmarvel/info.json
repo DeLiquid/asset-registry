@@ -11,5 +11,19 @@
     "facebook": "https://www.facebook.com/mixmarvelplatform",
     "telegram": "https://t.me/MixMarvelGlobal",
     "reddit": "https://www.reddit.com/r/MIXMARVEL"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x398f7827dccbefe6990478876bbf3612d93baf05",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x5d285f735998f36631f678ff41fb56a10a4d0429",
+      "decimals": 18
+    }
+  ]
 }

@@ -13,5 +13,13 @@
     "telegram": "https://t.me/digitalbits",
     "reddit": "https://www.reddit.com/r/DigitalBitsOrg/",
     "github": "https://github.com/DigitalBitsOrg/datadog-digitalbits-core"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xb9eefc4b0d472a44be93970254df4f4016569d27",
+      "decimals": 7
+    }
+  ]
 }

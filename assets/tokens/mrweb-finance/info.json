@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/Mrweb-finance-108394238009953",
     "telegram": "https://t.me/mrwebfinance",
     "reddit": "https://www.reddit.com/r/Mrweb_Finance/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xfc3da4a1b6fadab364039525dd2ab7c0c16521cd",
+      "decimals": 18
+    }
+  ]
 }

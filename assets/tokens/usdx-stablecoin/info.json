@@ -11,5 +11,13 @@
     "telegram": "https://t.me/dforcenet",
     "reddit": "https://www.reddit.com/r/dForceNetwork/",
     "github": "https://github.com/dforcenetwork/eth-contract-metadata"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xeb269732ab75a6fd61ea60b06fe994cd32a83549",
+      "decimals": 18
+    }
+  ]
 }

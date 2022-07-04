@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/AxieInfinity",
     "reddit": "https://www.reddit.com/r/AxieInfinity"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25",
+      "decimals": 0
+    }
+  ]
 }

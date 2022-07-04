@@ -11,5 +11,6 @@
     "telegram": "https://t.me/HathorOfficial",
     "reddit": "https://www.reddit.com/r/HathorNetwork/",
     "github": "https://github.com/HathorNetwork/hathor-core"
-  }
+  },
+  "networks": []
 }

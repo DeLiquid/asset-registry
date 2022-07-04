@@ -12,5 +12,13 @@
     "telegram": "https://t.me/oikoscash",
     "reddit": "https://www.reddit.com/r/OikosCash/",
     "github": "https://github.com/oikos-cash"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x6bf2be9468314281cd28a94c35f967cafd388325",
+      "decimals": 18
+    }
+  ]
 }

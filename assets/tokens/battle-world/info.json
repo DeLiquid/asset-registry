@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/BattleworldGame",
     "telegram": "https://t.me/battleworldgame"
-  }
+  },
+  "networks": [
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xc1543024dc71247888a7e139c644f44e75e96d38",
+      "decimals": 18
+    }
+  ]
 }

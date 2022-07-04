@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/LITWTF",
     "telegram": "https://t.me/litwtf"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xc5b3d3231001a776123194cf1290068e8b0c783b",
+      "decimals": 18
+    }
+  ]
 }

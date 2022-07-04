@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/bitfinex",
     "telegram": "https://t.me/bfxtelegram",
     "reddit": "https://www.reddit.com/r/bitfinex/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+      "decimals": 18
+    }
+  ]
 }

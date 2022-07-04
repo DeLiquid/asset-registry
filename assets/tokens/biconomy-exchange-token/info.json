@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/Biconomy_Global",
     "telegram": "https://t.me/Biconomy_Global",
     "reddit": "https://www.reddit.com/r/Biconomyexchange"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xc864019047b864b6ab609a968ae2725dfaee808a",
+      "decimals": 9
+    }
+  ]
 }

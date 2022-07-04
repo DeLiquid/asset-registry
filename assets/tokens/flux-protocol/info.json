@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/zero1_flux",
     "telegram": "https://t.me/flux01"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x1ab6478b47270ff05af11a012ac17b098758e193",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x7645ddfeeceda57e41f92679c4acd83c56a81d14",
+      "decimals": 18
+    }
+  ]
 }

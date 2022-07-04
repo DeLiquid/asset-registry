@@ -11,5 +11,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=1365894",
     "reddit": "https://www.reddit.com/r/vergecurrency",
     "github": "https://github.com/vergecurrency/verge"
-  }
+  },
+  "networks": []
 }

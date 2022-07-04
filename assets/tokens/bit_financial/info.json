@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/HxkWTHbBq640IAh",
     "facebook": "https://www.facebook.com/Bfc_project-641745659802442",
     "github": "https://github.com/Banabaholdingsbfc/BanabaBFC/tree/master"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x4d31200e6d7854c2f664af7fc38a21600960f74d",
+      "decimals": 18
+    }
+  ]
 }

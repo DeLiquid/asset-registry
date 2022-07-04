@@ -10,5 +10,17 @@
     "twitter": "https://twitter.com/binance",
     "reddit": "https://www.reddit.com/r/binance",
     "github": "https://github.com/binance-exchange"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "testnet",
+      "decimals": 18
+    }
+  ]
 }

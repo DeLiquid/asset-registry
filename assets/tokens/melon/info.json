@@ -15,5 +15,13 @@
     "telegram": "https://t.me/enzymefinance",
     "whitepaper": "https://github.com/melonproject/greenpaper/blob/master/melonprotocol.pdf",
     "reddit": "https://www.reddit.com/r/enzymefinance/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
+      "decimals": 18
+    }
+  ]
 }

@@ -8,5 +8,13 @@
   "coingeckoId": "mask-vault-nftx",
   "links": {
     "twitter": "https://twitter.com/nftx_"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xc7a8b45e184138114e6085c82936a8db93dd156a",
+      "decimals": 18
+    }
+  ]
 }

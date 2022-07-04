@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/OntherInc",
     "telegram": "https://t.me/tokamak_network",
     "github": "https://github.com/onther-tech"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x2be5e8c109e2197d077d13a82daead6a9b3433c5",
+      "decimals": 18
+    }
+  ]
 }

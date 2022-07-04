@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/clover_finance",
     "telegram": "https://t.me/clv_en",
     "github": "https://github.com/clover-network"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x09e889bb4d5b474f561db0491c38702f367a4e4d",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x80c62fe4487e1351b47ba49809ebd60ed085bf52",
+      "decimals": 18
+    }
+  ]
 }

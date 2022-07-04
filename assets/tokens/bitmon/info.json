@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/BitmonWorld",
     "reddit": "https://www.reddit.com/r/Bitmon/",
     "github": "https://github.com/bitmon-world"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "EGiWZhNk3vUNJr35MbL2tY5YD6D81VVZghR2LgEFyXZh",
+      "decimals": 9
+    }
+  ]
 }

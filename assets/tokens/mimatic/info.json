@@ -9,5 +9,31 @@
   "links": {
     "twitter": "https://twitter.com/0xLaoZi",
     "github": "https://github.com/0xlaozi/qidao"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x3b55e45fd6bd7d4724f5c47e0d1bcaedd059263e",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+      "decimals": 18
+    },
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
+      "decimals": 9
+    }
+  ]
 }

@@ -11,5 +11,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2477806",
     "reddit": "https://www.reddit.com/r/HotNow/",
     "github": "https://github.com/hotoken/HOT"
-  }
+  },
+  "networks": []
 }

@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/popop_world",
     "facebook": "https://www.facebook.com/popopworld",
     "telegram": "https://t.me/popopworldcommunity"
-  }
+  },
+  "networks": [
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xf562de317091efb0ba45c9622421123cf4c3a702",
+      "decimals": 18
+    }
+  ]
 }

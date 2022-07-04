@@ -13,5 +13,6 @@
     "telegram": "https://t.me/SeroOfficial",
     "reddit": "https://www.reddit.com/r/SERO_Official/",
     "github": "https://github.com/sero-cash/go-sero"
-  }
+  },
+  "networks": []
 }

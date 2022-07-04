@@ -12,5 +12,6 @@
     "telegram": "https://t.me/vegacoin_offical",
     "reddit": "https://www.reddit.com/r/vegateam",
     "github": "https://github.com/VegaCoinProject/"
-  }
+  },
+  "networks": []
 }

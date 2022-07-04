@@ -9,5 +9,31 @@
   "links": {
     "twitter": "https://twitter.com/terra_money",
     "github": "https://github.com/terra-project"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x692597b009d13c4049a947cab2239b7d6517875f",
+      "decimals": 18
+    },
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
+      "decimals": 9
+    }
+  ]
 }

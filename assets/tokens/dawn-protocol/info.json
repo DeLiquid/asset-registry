@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/dawnprotocol",
     "telegram": "https://t.me/dawnprotocol",
     "github": "https://github.com/Dawn-Protocol/dawn-erc20-erc777"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x580c8520deda0a441522aeae0f9f7a5f29629afa",
+      "decimals": 18
+    }
+  ]
 }

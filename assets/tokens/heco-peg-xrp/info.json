@@ -6,5 +6,6 @@
   "website": "https://ripple.com/xrp/",
   "description": "",
   "coingeckoId": "heco-peg-xrp",
-  "links": {}
+  "links": {},
+  "networks": []
 }

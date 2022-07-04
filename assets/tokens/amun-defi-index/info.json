@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/Amun",
     "telegram": "https://t.me/AmunTokens",
     "github": "https://github.com/amun/contracts/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xa9536b9c75a9e0fae3b56a96ac8edf76abc91978",
+      "decimals": 18
+    }
+  ]
 }

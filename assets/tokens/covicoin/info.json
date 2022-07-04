@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/covicoin",
     "telegram": "https://t.me/covicoinofficial",
     "reddit": "https://www.reddit.com/r/covicoin/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xc6f0a9b75fa529dcc0f90459e30684e7ed9a9ea6",
+      "decimals": 18
+    }
+  ]
 }

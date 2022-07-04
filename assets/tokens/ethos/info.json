@@ -13,5 +13,13 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=5189492",
     "telegram": "https://t.me/investvoyager",
     "reddit": "https://www.reddit.com/r/Invest_Voyager/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x3c4b6e6e1ea3d4863700d7f76b36b7f3d3f13e3d",
+      "decimals": 8
+    }
+  ]
 }

@@ -13,5 +13,6 @@
     "telegram": "https://t.me/xinfintalk",
     "reddit": "https://www.reddit.com/r/xinfin/",
     "github": "https://github.com/XinFinOrg"
-  }
+  },
+  "networks": []
 }

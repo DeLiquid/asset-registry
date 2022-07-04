@@ -8,5 +8,13 @@
   "coingeckoId": "league-of-kingdoms",
   "links": {
     "twitter": "https://twitter.com/LeagueKingdoms"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x61e90a50137e1f645c9ef4a0d3a4f01477738406",
+      "decimals": 18
+    }
+  ]
 }

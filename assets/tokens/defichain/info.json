@@ -12,5 +12,19 @@
     "telegram": "https://t.me/defiblockchain",
     "reddit": "https://www.reddit.com/r/defiblockchain",
     "github": "https://github.com/DeFiCh/ain"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x361c60b7c2828fcab80988d00d1d542c83387b50",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x8fc8f8269ebca376d046ce292dc7eac40c8d358a",
+      "decimals": 8
+    }
+  ]
 }

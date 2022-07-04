@@ -12,5 +12,6 @@
     "telegram": "https://t.me/thorchain_org",
     "reddit": "https://www.reddit.com/r/thorchain",
     "github": "https://github.com/thorchain"
-  }
+  },
+  "networks": []
 }

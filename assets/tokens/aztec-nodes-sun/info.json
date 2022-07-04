@@ -8,5 +8,13 @@
   "coingeckoId": "aztec-nodes-sun",
   "links": {
     "twitter": "https://twitter.com/AztecNodes"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0xdc05bff771cd5eb1bdc3a76950144ffd8d64efc0",
+      "decimals": 18
+    }
+  ]
 }

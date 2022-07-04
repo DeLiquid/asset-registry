@@ -11,5 +11,13 @@
     "telegram": "https://t.me/cultdao",
     "reddit": "https://www.reddit.com/r/cultdao/",
     "github": "https://github.com/cultdao-developer/cultdao"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xf0f9d895aca5c8678f706fb8216fa22957685a13",
+      "decimals": 18
+    }
+  ]
 }

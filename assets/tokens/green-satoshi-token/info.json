@@ -8,5 +8,13 @@
   "coingeckoId": "green-satoshi-token",
   "links": {
     "twitter": "https://twitter.com/Stepnofficial"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB",
+      "decimals": 9
+    }
+  ]
 }

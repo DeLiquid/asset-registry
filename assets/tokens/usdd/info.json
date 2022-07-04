@@ -8,5 +8,19 @@
   "coingeckoId": "usdd",
   "links": {
     "twitter": "https://twitter.com/usddio"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6",
+      "decimals": 18
+    }
+  ]
 }

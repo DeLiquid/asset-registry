@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/Cox_Swap",
     "telegram": "https://t.me/coxswap_chat"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x02df2d8120966a143caaf760cc3ae1d12f9862a7",
+      "decimals": 18
+    }
+  ]
 }

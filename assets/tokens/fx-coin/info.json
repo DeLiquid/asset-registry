@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/functionx.io",
     "telegram": "https://t.me/functionx",
     "github": "https://github.com/functionx"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057",
+      "decimals": 18
+    }
+  ]
 }

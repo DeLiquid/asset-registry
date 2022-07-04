@@ -11,5 +11,25 @@
     "telegram": "https://t.me/yearnfinance",
     "reddit": "https://www.reddit.com/r/yearn_finance/",
     "github": "https://github.com/iearn-finance"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
+      "decimals": 18
+    }
+  ]
 }

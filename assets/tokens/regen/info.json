@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/regen_network",
     "telegram": "https://t.me/regennetworkdevannounce",
     "github": "https://github.com/regen-network/"
-  }
+  },
+  "networks": []
 }

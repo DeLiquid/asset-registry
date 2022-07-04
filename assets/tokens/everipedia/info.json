@@ -12,5 +12,25 @@
     "telegram": "https://t.me/everipedia",
     "reddit": "https://www.reddit.com/r/Everipedia/",
     "github": "https://github.com/EveripediaNetwork/Everipedia"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x0e37d70b51ffa2b98b4d34a5712c5291115464e3",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x579cea1889991f68acc35ff5c3dd0621ff29b0c9",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xb9638272ad6998708de56bbc0a290a1de534a578",
+      "decimals": 18
+    }
+  ]
 }

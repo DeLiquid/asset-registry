@@ -11,5 +11,6 @@
     "telegram": "https://t.me/kavalabs",
     "reddit": "https://www.reddit.com/r/kava_platform/",
     "github": "https://github.com/Kava-Labs"
-  }
+  },
+  "networks": []
 }

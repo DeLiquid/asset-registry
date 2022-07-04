@@ -12,5 +12,19 @@
     "telegram": "https://t.me/ProtonXPR",
     "reddit": "https://www.reddit.com/r/ProtonChain/",
     "github": "https://github.com/ProtonProtocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x5de3939b2f811a61d830e6f52d13b066881412ab",
+      "decimals": 4
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xd7efb00d12c2c13131fd319336fdf952525da2af",
+      "decimals": 4
+    }
+  ]
 }

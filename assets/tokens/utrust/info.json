@@ -16,5 +16,13 @@
     "whitepaper": "https://s3-eu-west-1.amazonaws.com/utrust/UTRUST-whitepaper-v1.0.1.pdf",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2078433",
     "github": "https://github.com/utrustdev/speedtracker"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c",
+      "decimals": 18
+    }
+  ]
 }

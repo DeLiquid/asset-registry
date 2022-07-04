@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/thedaomaker",
     "telegram": "https://t.me/daomaker",
     "github": "https://github.com/daomaker"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x22f3997a5df5a80e29871fed24fe3e85741f5e82",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+      "decimals": 18
+    }
+  ]
 }

@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/splinterlands",
     "telegram": "https://t.me/splinterlandsHQ",
     "reddit": "https://www.reddit.com/r/Splinterlands/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x1633b7157e7638c4d6593436111bf125ee74703f",
+      "decimals": 18
+    }
+  ]
 }

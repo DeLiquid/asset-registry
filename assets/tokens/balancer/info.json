@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/BalancerLabs",
     "github": "https://github.com/balancer-labs"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
+      "decimals": 18
+    }
+  ]
 }

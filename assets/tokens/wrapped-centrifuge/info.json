@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/centrifuge",
     "telegram": "https://t.me/centrifuge_chat",
     "github": "https://github.com/centrifuge/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xc221b7e65ffc80de234bbb6667abdd46593d34f0",
+      "decimals": 18
+    }
+  ]
 }

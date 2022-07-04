@@ -11,5 +11,6 @@
     "telegram": "https://t.me/GXChain_international",
     "reddit": "https://www.reddit.com/r/GXS/",
     "github": "https://github.com/rei-network"
-  }
+  },
+  "networks": []
 }

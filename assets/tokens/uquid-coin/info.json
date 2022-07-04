@@ -13,5 +13,13 @@
     "telegram": "https://t.me/uquidcoinofficial",
     "reddit": "https://www.reddit.com",
     "github": "https://github.com/uquid/express"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2",
+      "decimals": 18
+    }
+  ]
 }

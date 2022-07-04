@@ -12,5 +12,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2451089",
     "reddit": "https://www.reddit.com/r/theta_network/",
     "github": "https://github.com/thetatoken/theta-protocol-ledger"
-  }
+  },
+  "networks": []
 }

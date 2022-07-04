@@ -13,5 +13,13 @@
     "telegram": "https://t.me/safenetwork",
     "reddit": "https://www.reddit.com/r/safenetwork",
     "github": "https://github.com/maidsafe"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x329c6e459ffa7475718838145e5e85802db2a303",
+      "decimals": 18
+    }
+  ]
 }

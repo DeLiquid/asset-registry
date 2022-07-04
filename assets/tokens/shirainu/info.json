@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/shirainutoken",
     "telegram": "https://t.me/shirainu"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x04a5198063e45d84b1999516d3228167146417a6",
+      "decimals": 9
+    }
+  ]
 }

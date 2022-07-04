@@ -12,5 +12,6 @@
     "telegram": "https://t.me/bytecoin_chat",
     "reddit": "https://www.reddit.com/r/BytecoinBCN/",
     "github": "https://github.com/bcndev"
-  }
+  },
+  "networks": []
 }

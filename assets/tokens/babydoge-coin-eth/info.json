@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/king_bdoge",
     "telegram": "https://t.me/babydogecoingg",
     "github": "https://github.com/babydogecoingg"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xac8e13ecc30da7ff04b842f21a62a1fb0f10ebd5",
+      "decimals": 9
+    }
+  ]
 }

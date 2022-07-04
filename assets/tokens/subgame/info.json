@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/SubGame.netwrok",
     "telegram": "https://t.me/subgame_network",
     "github": "https://github.com/SubGame-Network/subgame-network"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x4b4eb5c44d50bfd44124688c6754633f7e258b01",
+      "decimals": 8
+    }
+  ]
 }

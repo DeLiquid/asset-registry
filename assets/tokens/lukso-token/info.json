@@ -12,5 +12,13 @@
     "telegram": "https://t.me/LUKSO",
     "reddit": "https://www.reddit.com/r/lukso/",
     "github": "https://github.com/lukso-network"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xa8b919680258d369114910511cc87595aec0be6d",
+      "decimals": 18
+    }
+  ]
 }

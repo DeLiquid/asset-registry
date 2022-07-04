@@ -13,5 +13,13 @@
     "telegram": "https://t.me/IDEXChat",
     "reddit": "https://www.reddit.com/r/auroradao/",
     "github": "https://github.com/idexio/IDEXd"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xb705268213d593b8fd88d3fdeff93aff5cbdcfae",
+      "decimals": 18
+    }
+  ]
 }

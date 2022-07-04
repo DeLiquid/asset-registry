@@ -11,5 +11,13 @@
     "telegram": "https://t.me/Metazuckzilla",
     "reddit": "https://www.reddit.com/r/metazuckzilla/",
     "github": "https://github.com/metazuckzilla/metazuckzilla"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xbe5e820ed156a345191dcc976ad3752075ebcb79",
+      "decimals": 18
+    }
+  ]
 }

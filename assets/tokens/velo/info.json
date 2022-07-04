@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/veloprotocol",
     "telegram": "https://t.me/veloprotocol",
     "github": "https://github.com/velo-protocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xf486ad071f3bee968384d2e39e2d8af0fcf6fd46",
+      "decimals": 18
+    }
+  ]
 }

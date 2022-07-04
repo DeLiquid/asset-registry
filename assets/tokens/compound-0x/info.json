@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/compoundfinance",
     "reddit": "https://www.reddit.com/r/compound"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407",
+      "decimals": 8
+    }
+  ]
 }

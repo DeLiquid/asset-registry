@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/MakerDAO",
     "reddit": "https://www.reddit.com/r/MakerDAO",
     "github": "https://github.com/makerdao/dai.js"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x88128fd4b259552a9a1d457f435a6527aab72d42",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "decimals": 18
+    }
+  ]
 }

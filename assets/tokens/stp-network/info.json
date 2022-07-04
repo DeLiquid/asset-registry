@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/STP_Networks",
     "telegram": "https://t.me/STPofficial"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
+      "decimals": 18
+    }
+  ]
 }

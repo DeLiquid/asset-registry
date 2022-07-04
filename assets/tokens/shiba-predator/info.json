@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/ShibaPredator1",
     "telegram": "https://t.me/JoinQOMshibapredator",
     "reddit": "https://www.reddit.com/r/qomtheshibapredator/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xa71d0588eaf47f12b13cf8ec750430d21df04974",
+      "decimals": 18
+    }
+  ]
 }

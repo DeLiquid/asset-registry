@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/bitkubchain",
     "facebook": "https://www.facebook.com/bitkubchainofficial",
     "github": "https://github.com/bitkubchain/"
-  }
+  },
+  "networks": []
 }

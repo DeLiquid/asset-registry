@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/TheSandboxGame",
     "facebook": "https://www.facebook.com/TheSandboxGame",
     "telegram": "https://t.me/sandboxgame"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xbbba073c31bf03b8acf7c28ef0738decf3695683",
+      "decimals": 18
+    }
+  ]
 }

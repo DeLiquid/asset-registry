@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/BigFundDao",
     "telegram": "https://t.me/bigfundcapital",
     "github": "https://github.com/bigfundcapital"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x2d5433e9d475c78542dbd0d16d7016b9aab99c1c",
+      "decimals": 9
+    }
+  ]
 }

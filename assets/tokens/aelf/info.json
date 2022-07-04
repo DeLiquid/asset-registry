@@ -13,5 +13,13 @@
     "telegram": "https://t.me/aelfblockchain",
     "reddit": "https://www.reddit.com/r/aelfofficial/",
     "github": "https://github.com/AElfProject"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xbf2179859fc6d5bee9bf9158632dc51678a4100e",
+      "decimals": 18
+    }
+  ]
 }

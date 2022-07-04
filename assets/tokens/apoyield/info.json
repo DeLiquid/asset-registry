@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/apoyield",
     "telegram": "https://t.me/APOYield",
     "github": "https://github.com/APOYield/APOyield.xyz"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x67d012f731c23f0313cea1186d0121779c77fcfe",
+      "decimals": 8
+    }
+  ]
 }

@@ -13,5 +13,25 @@
     "whitepaper": "http://cosmos.network/whitepaper",
     "telegram": "https://t.me/cosmosproject",
     "reddit": "https://www.reddit.com/r/cosmosnetwork"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+      "decimals": 18
+    },
+    {
+      "chain": "cosmoshub",
+      "network": "mainnet",
+      "decimals": 6,
+      "baseUnit": "uatom"
+    },
+    {
+      "chain": "cosmoshub",
+      "network": "theta",
+      "decimals": 6,
+      "baseUnit": "uatom"
+    }
+  ]
 }

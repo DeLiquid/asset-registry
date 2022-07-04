@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/irisnetwork",
     "telegram": "https://t.me/irisnetwork",
     "github": "https://github.com/irisnet/irishub"
-  }
+  },
+  "networks": []
 }

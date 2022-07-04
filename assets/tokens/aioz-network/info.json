@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/aioznetwork",
     "telegram": "https://t.me/aioznetwork"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x33d08d8c7a168333a85285a68c0042b39fc3741d",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x626e8036deb333b408be468f951bdb42433cbf18",
+      "decimals": 18
+    }
+  ]
 }

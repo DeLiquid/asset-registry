@@ -6,5 +6,13 @@
   "website": "https://www.circle.com/blog/understanding-avalanche-usdc-vs.-usdc.e",
   "description": "",
   "coingeckoId": "usd-coin-avalanche-bridged-usdc-e",
-  "links": {}
+  "links": {},
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "decimals": 6
+    }
+  ]
 }

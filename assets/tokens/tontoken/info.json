@@ -9,5 +9,13 @@
   "links": {
     "telegram": "https://t.me/ton_en",
     "github": "https://github.com/ton-blockchain/ton"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a",
+      "decimals": 18
+    }
+  ]
 }

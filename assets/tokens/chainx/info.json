@@ -12,5 +12,6 @@
     "telegram": "https://t.me/chainx_org",
     "reddit": "https://www.reddit.com/r/ChainX/",
     "github": "https://github.com/chainx-org/ChainX"
-  }
+  },
+  "networks": []
 }

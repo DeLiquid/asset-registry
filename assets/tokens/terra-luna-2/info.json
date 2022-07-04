@@ -11,5 +11,6 @@
     "telegram": "https://t.me/terralunachat",
     "reddit": "https://www.reddit.com",
     "github": "https://github.com/terra-money/core"
-  }
+  },
+  "networks": []
 }

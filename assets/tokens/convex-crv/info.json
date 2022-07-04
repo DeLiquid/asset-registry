@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/ConvexFinance",
     "telegram": "https://t.me/convexEthChat",
     "github": "https://github.com/convex-eth/platform"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
+      "decimals": 18
+    }
+  ]
 }

@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/flow_blockchain",
     "telegram": "https://t.me/flow_blockchain",
     "github": "https://github.com/onflow"
-  }
+  },
+  "networks": []
 }

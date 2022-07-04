@@ -11,5 +11,6 @@
     "facebook": "https://www.facebook.com/ardorplatform",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=1518497",
     "reddit": "https://www.reddit.com/r/Ardor/"
-  }
+  },
+  "networks": []
 }

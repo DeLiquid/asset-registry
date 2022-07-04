@@ -12,5 +12,13 @@
     "telegram": "https://t.me/kardiachainofficial",
     "reddit": "https://www.reddit.com/r/KardiaChain/",
     "github": "https://github.com/kardiachain/go-kardia"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x39ae8eefb05138f418bb27659c21632dc1ddab10",
+      "decimals": 18
+    }
+  ]
 }

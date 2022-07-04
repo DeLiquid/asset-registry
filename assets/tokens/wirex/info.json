@@ -8,5 +8,19 @@
   "coingeckoId": "wirex",
   "links": {
     "twitter": "https://twitter.com/wirexapp"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0xfcde4a87b8b6fa58326bb462882f1778158b02f1",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xa02120696c7b8fe16c09c749e4598819b2b0e915",
+      "decimals": 18
+    }
+  ]
 }

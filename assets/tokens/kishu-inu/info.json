@@ -11,5 +11,13 @@
     "telegram": "https://t.me/KishuInuCommunity",
     "reddit": "https://www.reddit.com",
     "github": "https://github.com/Kishu-Inu/Kishu-Inu-Contracts"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xa2b4c0af19cc16a6cfacce81f192b024d625817d",
+      "decimals": 9
+    }
+  ]
 }

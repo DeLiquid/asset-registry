@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/XidoFinance",
     "telegram": "https://t.me/xidofinance",
     "github": "https://github.com/xidofinance"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x3764bc0de9b6a68c67929130aaec16b6060cab8c",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xf6650117017ffd48b725b4ec5a00b414097108a7",
+      "decimals": 18
+    }
+  ]
 }

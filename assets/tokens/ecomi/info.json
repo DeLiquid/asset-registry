@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/ecomi_",
     "telegram": "https://t.me/ecomi",
     "github": "https://github.com/Ecomi-Ecosystem/tge-contract"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xed35af169af46a02ee13b9d79eb57d6d68c1749e",
+      "decimals": 18
+    }
+  ]
 }

@@ -13,5 +13,6 @@
     "whitepaper": "https://blockstack.com/tokenpaper.pdf",
     "telegram": "https://t.me/BlockstackChat",
     "reddit": "https://www.reddit.com"
-  }
+  },
+  "networks": []
 }

@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/MIM_Spell",
     "telegram": "https://t.me/abracadabramoney"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0xce1bffbd5374dac86a2893119683f4911a2f7814",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+      "decimals": 18
+    }
+  ]
 }

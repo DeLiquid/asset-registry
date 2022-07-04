@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/CORE_Vault",
     "telegram": "https://t.me/COREVault",
     "github": "https://github.com/cVault-finance"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x62359ed7505efc61ff1d56fef82158ccaffa23d7",
+      "decimals": 18
+    }
+  ]
 }

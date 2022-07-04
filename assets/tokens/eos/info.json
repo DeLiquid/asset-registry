@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/EosNFoundation",
     "reddit": "https://www.reddit.com/r/eos",
     "github": "https://github.com/eosnetworkfoundation/"
-  }
+  },
+  "networks": []
 }

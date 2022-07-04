@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/linearfinance",
     "telegram": "https://t.me/LinearExchangeCommunity",
     "github": "https://github.com/Linear-finance"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x23e8a70534308a4aaf76fb8c32ec13d17a3bd89e",
+      "decimals": 18
+    }
+  ]
 }

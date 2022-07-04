@@ -11,5 +11,13 @@
     "telegram": "https://t.me/Bifrost_Global",
     "reddit": "https://www.reddit.com",
     "github": "https://github.com/bifrost-platform/BIFI"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x2791bfd60d232150bff86b39b7146c0eaaa2ba81",
+      "decimals": 18
+    }
+  ]
 }

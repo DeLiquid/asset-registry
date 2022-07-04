@@ -9,5 +9,25 @@
   "links": {
     "twitter": "https://twitter.com/beta_finance",
     "telegram": "https://t.me/BetaFinanceProtocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x511d35c52a3c244e7b8bd92c0c297755fbd89212",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xbe1a001fe942f96eea22ba08783140b9dcc09d28",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xbe1a001fe942f96eea22ba08783140b9dcc09d28",
+      "decimals": 18
+    }
+  ]
 }

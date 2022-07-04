@@ -9,5 +9,31 @@
   "links": {
     "twitter": "https://twitter.com/SynapseProtocol",
     "telegram": "https://t.me/synapseprotocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x1f1e7c893855525b303f99bdf5c3c05be09ca251",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xa4080f1778e69467e905b8d6f72f6e441f9e9484",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x0f2d719407fdbeff09d87557abb7232601fd9f29",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xf8f9efc0db77d8881500bb06ff5d6abc3070e695",
+      "decimals": 18
+    }
+  ]
 }

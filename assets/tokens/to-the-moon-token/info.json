@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/Token_to_moon",
     "telegram": "https://t.me/TONTokenGlobal"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xb919149a7f1fcf4b5e7a05e6ea6f951ca6d73b5b",
+      "decimals": 18
+    }
+  ]
 }

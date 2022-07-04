@@ -8,5 +8,13 @@
   "coingeckoId": "genesis-mana",
   "links": {
     "twitter": "https://twitter.com/GenesisLoot"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x2d77f5b3efa51821ad6483adaf38ea4cb1824cc5",
+      "decimals": 18
+    }
+  ]
 }

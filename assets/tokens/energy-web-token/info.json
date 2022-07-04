@@ -11,5 +11,6 @@
     "facebook": "https://www.facebook.com/EnergyWebFoundation",
     "telegram": "https://t.me/energyweb",
     "reddit": "https://www.reddit.com/r/EnergyWeb/"
-  }
+  },
+  "networks": []
 }

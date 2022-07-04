@@ -11,5 +11,19 @@
     "telegram": "https://t.me/LTOnetwork",
     "reddit": "https://www.reddit.com/r/LTONetwork/",
     "github": "https://github.com/ltonetwork"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x857b222fc79e1cbbf8ca5f78cb133d1b7cf34bbd",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xd01409314acb3b245cea9500ece3f6fd4d70ea30",
+      "decimals": 8
+    }
+  ]
 }

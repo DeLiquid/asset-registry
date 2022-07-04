@@ -13,5 +13,13 @@
     "telegram": "https://t.me/polyswarm",
     "reddit": "https://www.reddit.com/r/PolySwarm",
     "github": "https://github.com/polyswarm"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x9e46a38f5daabe8683e10793b06749eef7d733d1",
+      "decimals": 18
+    }
+  ]
 }

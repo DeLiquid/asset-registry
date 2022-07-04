@@ -16,5 +16,19 @@
     "whitepaper": "http://www.telco.in/docs/whitepaper.pdf",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2387659",
     "reddit": "https://www.reddit.com/r/Telcoin/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x467bccd9d29f223bce8043b84e8c8b282827790f",
+      "decimals": 2
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32",
+      "decimals": 2
+    }
+  ]
 }

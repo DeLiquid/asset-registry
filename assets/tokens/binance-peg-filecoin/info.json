@@ -8,5 +8,13 @@
   "coingeckoId": "binance-peg-filecoin",
   "links": {
     "twitter": "https://twitter.com/https://twitter.com/Filecoin"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+      "decimals": 18
+    }
+  ]
 }

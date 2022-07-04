@@ -11,5 +11,13 @@
     "telegram": "https://t.me/fitmintoken",
     "reddit": "https://www.reddit.com/r/Fitmin/",
     "github": "https://github.com/fitmin-finance/fitmin-contract"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xa4b6e76bba7413b9b4bd83f4e3aa63cc181d869f",
+      "decimals": 9
+    }
+  ]
 }

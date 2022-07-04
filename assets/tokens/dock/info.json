@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/docknetwork",
     "telegram": "https://t.me/dockio",
     "reddit": "https://www.reddit.com/r/dockio/"
-  }
+  },
+  "networks": []
 }

@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/BigONEexchange",
     "facebook": "https://www.facebook.com/exBigONE",
     "telegram": "https://t.me/B1_EN"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x04baf95fd4c52fd09a56d840baee0ab8d7357bf0",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x946551dd05c5abd7cc808927480225ce36d8c475",
+      "decimals": 18
+    }
+  ]
 }

@@ -11,5 +11,19 @@
     "facebook": "https://www.facebook.com/Neutrino-Protocol-106351204088941",
     "telegram": "https://t.me/neutrino_protocol_news",
     "github": "https://github.com/ventuary-lab/neutrino-contract"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x674c6ad92fd080e4004b2312b45f796a192d27a0",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x013f9c3fac3e2759d7e90aca4f9540f75194a0d7",
+      "decimals": 18
+    }
+  ]
 }

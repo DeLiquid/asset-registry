@@ -11,5 +11,19 @@
     "telegram": "https://t.me/everscale",
     "reddit": "https://www.reddit.com/r/Everscale/",
     "github": "https://github.com/tonlabs"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x0a7e7d210c45c4abba183c1d0551b53ad1756eca",
+      "decimals": 9
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x29d578cec46b50fa5c88a99c6a4b70184c062953",
+      "decimals": 9
+    }
+  ]
 }

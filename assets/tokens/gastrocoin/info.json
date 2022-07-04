@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/CoinGastro",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=5325925",
     "github": "https://github.com/TeamGastroCoin/gastrocoin"
-  }
+  },
+  "networks": []
 }

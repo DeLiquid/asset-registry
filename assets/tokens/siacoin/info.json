@@ -11,5 +11,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=1060294",
     "reddit": "https://www.reddit.com/r/siacoin",
     "github": "https://github.com/NebulousLabs"
-  }
+  },
+  "networks": []
 }

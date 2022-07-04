@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/traderjoe_xyz",
     "telegram": "https://t.me/traderjoe_xyz_ann",
     "github": "https://github.com/traderjoe-xyz"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+      "decimals": 18
+    }
+  ]
 }

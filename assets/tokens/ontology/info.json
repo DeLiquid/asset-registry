@@ -12,5 +12,6 @@
     "telegram": "https://t.me/OntologyNetwork",
     "reddit": "https://www.reddit.com/r/OntologyNetwork/",
     "github": "https://github.com/ontio"
-  }
+  },
+  "networks": []
 }

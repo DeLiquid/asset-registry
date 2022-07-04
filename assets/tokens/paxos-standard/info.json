@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/PaxosStandard",
     "github": "https://github.com/paxosglobal/pax-contracts"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+      "decimals": 18
+    }
+  ]
 }

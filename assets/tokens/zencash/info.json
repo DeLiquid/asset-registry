@@ -13,5 +13,6 @@
     "telegram": "https://t.me/horizencommunity",
     "reddit": "https://www.reddit.com/r/Horizen",
     "github": "https://github.com/HorizenOfficial"
-  }
+  },
+  "networks": []
 }

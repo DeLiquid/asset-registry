@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/emoney_com",
     "telegram": "https://t.me/emoney_com",
     "github": "https://github.com/e-money"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xed0d5747a9ab03a75fbfec3228cd55848245b75d",
+      "decimals": 6
+    }
+  ]
 }

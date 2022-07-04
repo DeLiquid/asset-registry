@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/tethergold",
     "facebook": "https://www.facebook.com/tether.to"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x68749665ff8d2d112fa859aa293f07a622782f38",
+      "decimals": 6
+    }
+  ]
 }

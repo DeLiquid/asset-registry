@@ -10,5 +10,37 @@
     "twitter": "https://twitter.com/MakerDAO",
     "telegram": "https://t.me/makerdaoOfficial",
     "reddit": "https://www.reddit.com/r/MakerDAO"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "fuji",
+      "address": "0x40E71a970Ff1fbd21A53b4d2dbc102Be0E1d574f",
+      "decimals": 18
+    },
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+      "decimals": 18
+    }
+  ]
 }

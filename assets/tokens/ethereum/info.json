@@ -12,5 +12,17 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=428589",
     "reddit": "https://www.reddit.com/r/ethereum",
     "github": "https://github.com/ethereum"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "goerli",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "decimals": 18
+    }
+  ]
 }

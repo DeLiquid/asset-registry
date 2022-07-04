@@ -13,5 +13,13 @@
     "whitepaper": "https://tokensale.civic.com/whitepaper",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=1942882",
     "reddit": "https://www.reddit.com/r/civicplatform"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x41e5560054824ea6b0732e656e3ad64e20e94e45",
+      "decimals": 8
+    }
+  ]
 }

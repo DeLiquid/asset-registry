@@ -11,5 +11,6 @@
     "telegram": "https://t.me/CortexOfficialEN",
     "reddit": "https://www.reddit.com/r/Cortex_Official/",
     "github": "https://github.com/CortexFoundation"
-  }
+  },
+  "networks": []
 }

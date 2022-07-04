@@ -12,5 +12,13 @@
     "telegram": "https://t.me/DuskNetwork",
     "reddit": "https://www.reddit.com/r/dusknetwork",
     "github": "https://github.com/dusk-network"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551",
+      "decimals": 18
+    }
+  ]
 }

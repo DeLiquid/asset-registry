@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/AERGO_IO",
     "telegram": "https://t.me/aergoofficial",
     "github": "https://github.com/aergoio"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
+      "decimals": 18
+    }
+  ]
 }

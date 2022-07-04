@@ -15,5 +15,25 @@
     "whitepaper": "https://adshares.net/assets/docs/Adshares.Network.whitepaper.pdf",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=1994545",
     "reddit": "https://www.reddit.com/r/adshares/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
+      "decimals": 11
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
+      "decimals": 11
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x598e49f01befeb1753737934a5b11fea9119c796",
+      "decimals": 11
+    }
+  ]
 }

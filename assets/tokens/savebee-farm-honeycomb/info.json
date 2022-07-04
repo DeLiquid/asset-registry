@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/savebeecoin",
     "telegram": "https://t.me/savebeeBR"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x567d9bf9cdf2b8b6ac2962cb882eabf08bd1fd22",
+      "decimals": 12
+    }
+  ]
 }

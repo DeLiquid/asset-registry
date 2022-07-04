@@ -11,5 +11,19 @@
     "facebook": "https://www.facebook.com/CelsiusNetwork",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2517756",
     "reddit": "https://www.reddit.com/r/CelsiusNetwork"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
+      "decimals": 4
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xd85d1e945766fea5eda9103f918bd915fbca63e6",
+      "decimals": 4
+    }
+  ]
 }

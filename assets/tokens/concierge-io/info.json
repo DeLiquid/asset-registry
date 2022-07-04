@@ -12,5 +12,6 @@
     "telegram": "https://t.me/travala",
     "reddit": "https://www.reddit.com/r/Travala",
     "github": "https://github.com/travala/AVA-token"
-  }
+  },
+  "networks": []
 }

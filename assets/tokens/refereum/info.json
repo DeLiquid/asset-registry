@@ -13,5 +13,13 @@
     "telegram": "https://t.me/refereum",
     "whitepaper": "https://refereum.com/RefereumWhitepaper.pdf",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2205251.0"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xd0929d411954c47438dc1d871dd6081f5c5e149c",
+      "decimals": 4
+    }
+  ]
 }

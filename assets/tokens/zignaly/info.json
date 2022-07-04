@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/zignaly",
     "telegram": "https://t.me/ZignalyHQ"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xb2617246d0c6c0087f18703d576831899ca94f01",
+      "decimals": 18
+    }
+  ]
 }

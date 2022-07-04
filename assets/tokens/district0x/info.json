@@ -14,5 +14,13 @@
     "whitepaper": "https://district0x.io/docs/district0x-whitepaper.pdf",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2009966",
     "reddit": "https://www.reddit.com/r/district0x"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x0abdace70d3790235af448c88547603b945604ea",
+      "decimals": 18
+    }
+  ]
 }

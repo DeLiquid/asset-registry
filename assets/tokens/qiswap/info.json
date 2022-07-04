@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/QiSwap",
     "telegram": "https://t.me/qiswapofficial",
     "github": "https://github.com/qiswap/QiToken"
-  }
+  },
+  "networks": []
 }

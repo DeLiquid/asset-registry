@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/itheum",
     "telegram": "https://t.me/itheum",
     "github": "https://github.com/Itheum"
-  }
+  },
+  "networks": []
 }

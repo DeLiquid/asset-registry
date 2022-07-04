@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/CoinFLEXdotcom",
     "telegram": "https://t.me/coinflex_EN"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xfcf8eda095e37a41e002e266daad7efc1579bc0a",
+      "decimals": 18
+    }
+  ]
 }

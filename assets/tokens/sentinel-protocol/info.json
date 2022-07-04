@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/sentinelprotocol",
     "telegram": "https://t.me/newofficialsentinelprotocol",
     "reddit": "https://www.reddit.com/r/Sentinel_Protocol/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xc86d054809623432210c107af2e3f619dcfbf652",
+      "decimals": 18
+    }
+  ]
 }

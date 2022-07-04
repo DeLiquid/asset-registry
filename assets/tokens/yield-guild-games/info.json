@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/YieldGuild",
     "telegram": "https://t.me/yieldguildgames"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+      "decimals": 18
+    }
+  ]
 }

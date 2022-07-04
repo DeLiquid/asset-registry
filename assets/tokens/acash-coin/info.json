@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/acashcoin",
     "facebook": "https://www.facebook.com/aca.cash",
     "telegram": "https://t.me/AcashCoin"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x63d958d765f5bd88efdbd8afd32445393b24907f",
+      "decimals": 8
+    }
+  ]
 }

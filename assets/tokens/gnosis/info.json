@@ -13,5 +13,13 @@
     "facebook": "https://www.facebook.com/Gnosis.pm",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=1529098",
     "reddit": "https://www.reddit.com/r/gnosisPM"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+      "decimals": 18
+    }
+  ]
 }

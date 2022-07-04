@@ -11,5 +11,19 @@
     "telegram": "https://t.me/thunder_official",
     "reddit": "https://www.reddit.com/r/thunder_official/",
     "github": "https://github.com/thundercore"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x990e7154bb999faa9b2fa5ed29e822703311ea85",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x1e053d89e08c24aa2ce5c5b4206744dc2d7bd8f5",
+      "decimals": 18
+    }
+  ]
 }

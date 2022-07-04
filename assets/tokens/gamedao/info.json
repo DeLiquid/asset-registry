@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/NFTGameplatform",
     "telegram": "https://t.me/gamedaoio",
     "github": "https://github.com/gamedaoio"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x21a807b748423e5c37a914fb4fb40850037dafdd",
+      "decimals": 9
+    }
+  ]
 }

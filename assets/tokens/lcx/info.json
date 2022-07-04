@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/lcx",
     "facebook": "https://www.facebook.com/lcx.exchange",
     "telegram": "https://t.me/JoinLCX"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x037a54aab062628c9bbae1fdb1583c195585fe41",
+      "decimals": 18
+    }
+  ]
 }

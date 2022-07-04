@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/TenseT_io",
     "telegram": "https://t.me/tenset_io_eng",
     "github": "https://github.com/TensetIO/tenset"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x1ae369a6ab222aff166325b7b87eb9af06c86e57",
+      "decimals": 18
+    }
+  ]
 }

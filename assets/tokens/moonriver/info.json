@@ -11,5 +11,6 @@
     "telegram": "https://t.me/Moonbeam_Official",
     "reddit": "https://www.reddit.com/r/moonbeam/",
     "github": "https://github.com/PureStake/moonbeam/"
-  }
+  },
+  "networks": []
 }

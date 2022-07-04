@@ -10,5 +10,31 @@
     "twitter": "https://twitter.com/MultichainOrg",
     "telegram": "https://t.me/anyswap",
     "github": "https://github.com/anyswap"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x65ef703f5594d2573eb71aaf55bc0cb548492df4",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+      "decimals": 18
+    }
+  ]
 }

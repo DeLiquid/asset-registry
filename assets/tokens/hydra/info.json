@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/hydra_chain",
     "telegram": "https://t.me/hydrachain",
     "github": "https://github.com/Hydra-Chain"
-  }
+  },
+  "networks": []
 }

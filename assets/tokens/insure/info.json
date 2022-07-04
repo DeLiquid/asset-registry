@@ -12,5 +12,31 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=5176277",
     "telegram": "https://t.me/insuredefi",
     "github": "https://github.com/inSureToken/SmartContract/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x5fc17416925789e0852fbfcd81c490ca4abc51f9",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x9b17baadf0f21f03e35249e0e59723f34994f806",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xf88332547c680f755481bf489d890426248bb275",
+      "decimals": 18
+    }
+  ]
 }

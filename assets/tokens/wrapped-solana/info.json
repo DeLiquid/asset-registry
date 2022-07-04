@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/solana",
     "reddit": "https://www.reddit.com/r/solana"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x570a5d26f7765ecb712c0924e4de545b89fd43df",
+      "decimals": 18
+    },
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "So11111111111111111111111111111111111111112",
+      "decimals": 9
+    }
+  ]
 }

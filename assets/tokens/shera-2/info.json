@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/sheratokens",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=5615160",
     "telegram": "https://t.me/sheratokens"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xe2c5fcf777a2b860921116b275951a50e8135eeb",
+      "decimals": 9
+    }
+  ]
 }

@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/btsecom",
     "telegram": "https://t.me/btsecom",
     "reddit": "https://www.reddit.com/r/btsecom/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x666d875c600aa06ac1cf15641361dec3b00432ef",
+      "decimals": 8
+    }
+  ]
 }

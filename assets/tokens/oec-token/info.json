@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/OKCNetwork",
     "telegram": "https://t.me/OKCNetwork",
     "reddit": "https://www.reddit.com"
-  }
+  },
+  "networks": []
 }

@@ -8,5 +8,13 @@
   "coingeckoId": "binance-peg-cardano",
   "links": {
     "twitter": "https://twitter.com/CardanoStiftung"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+      "decimals": 18
+    }
+  ]
 }

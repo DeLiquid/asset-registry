@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/go_apecoin",
     "telegram": "https://t.me/APE_Token"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xa9ea4b786ee5b7a733c035564bfd9341a4c9fc1e",
+      "decimals": 18
+    }
+  ]
 }

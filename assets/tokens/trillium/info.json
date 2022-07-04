@@ -8,5 +8,13 @@
   "coingeckoId": "trillium",
   "links": {
     "twitter": "https://twitter.com/TokenTrillium"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x2f8a4c0ca0b45a2fb240cba7010c34ba60ad9b6d",
+      "decimals": 9
+    }
+  ]
 }

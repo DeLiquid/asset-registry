@@ -11,5 +11,13 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2270135",
     "telegram": "https://t.me/iethereum_official",
     "github": "https://github.com/ethereumfan/iethereum"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xc71d8baaa436aa7e42da1f40bec48f11ab3c9e4a",
+      "decimals": 8
+    }
+  ]
 }

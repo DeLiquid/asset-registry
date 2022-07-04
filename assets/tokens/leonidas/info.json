@@ -8,5 +8,13 @@
   "coingeckoId": "leonidas",
   "links": {
     "twitter": "https://twitter.com/LeonidasFinance"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x945a6869819cdad404dc80647a2085957cb1f28b",
+      "decimals": 5
+    }
+  ]
 }

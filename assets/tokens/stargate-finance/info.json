@@ -6,5 +6,31 @@
   "website": "https://stargate.finance/",
   "description": "A composable native asset bridge with unified liquidity and instant guaranteed finality",
   "coingeckoId": "stargate-finance",
-  "links": {}
+  "links": {},
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "decimals": 18
+    }
+  ]
 }

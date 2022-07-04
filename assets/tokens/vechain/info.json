@@ -11,5 +11,6 @@
     "telegram": "https://t.me/vechain_official_english",
     "reddit": "https://www.reddit.com/r/Vechain",
     "github": "https://github.com/vechain"
-  }
+  },
+  "networks": []
 }

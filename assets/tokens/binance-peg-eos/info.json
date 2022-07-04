@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/240536563111750",
     "reddit": "https://www.reddit.com",
     "github": "https://github.com/EOSIO"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+      "decimals": 18
+    }
+  ]
 }

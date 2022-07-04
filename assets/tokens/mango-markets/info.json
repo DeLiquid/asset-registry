@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/mangomarkets",
     "github": "https://github.com/blockworks-foundation/mango"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac",
+      "decimals": 6
+    }
+  ]
 }

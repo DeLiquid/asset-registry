@@ -10,5 +10,31 @@
     "twitter": "https://twitter.com/PaxosGlobal",
     "facebook": "https://www.facebook.com/paxosglobal",
     "github": "https://github.com/paxosglobal/busd-contract"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x9fb83c0635de2e815fd1c21b3a292277540c2e8d",
+      "decimals": 18
+    }
+  ]
 }

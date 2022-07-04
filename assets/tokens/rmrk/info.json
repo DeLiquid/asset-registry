@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/rmrkapp",
     "telegram": "https://t.me/rmrkapp",
     "github": "https://github.com/rmrk-team/rmrk-spec"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x471ea49dd8e60e697f4cac262b5fafcc307506e4",
+      "decimals": 10
+    }
+  ]
 }

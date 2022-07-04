@@ -11,5 +11,19 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2137740",
     "reddit": "https://www.reddit.com/r/RequestNetwork",
     "github": "https://github.com/RequestNetwork/Request_SmartContracts"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xb25e20de2f2ebb4cffd4d16a55c7b395e8a94762",
+      "decimals": 18
+    }
+  ]
 }

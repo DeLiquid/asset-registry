@@ -11,5 +11,6 @@
     "facebook": "https://www.facebook.com/officialbitshares",
     "reddit": "https://www.reddit.com/r/BitShares",
     "github": "https://github.com/bitshares"
-  }
+  },
+  "networks": []
 }

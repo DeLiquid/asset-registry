@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/NominexExchange",
     "telegram": "https://t.me/nominex_announcements",
     "github": "https://github.com/nominex/eth-smart-contracts"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xd32d01a43c869edcd1117c640fbdcfcfd97d9d65",
+      "decimals": 18
+    }
+  ]
 }

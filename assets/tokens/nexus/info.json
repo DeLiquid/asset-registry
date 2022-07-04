@@ -13,5 +13,6 @@
     "telegram": "https://t.me/NexusOfficial",
     "reddit": "https://www.reddit.com/r/nexusearth/",
     "github": "https://github.com/Nexusoft"
-  }
+  },
+  "networks": []
 }

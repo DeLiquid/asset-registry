@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/trilliontoken",
     "telegram": "https://t.me/onetrilliontoken"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xecacab6725ac1711d97e55df35d525b863b8b9f7",
+      "decimals": 18
+    }
+  ]
 }

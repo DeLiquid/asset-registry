@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/cryptyk",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2837930",
     "telegram": "https://t.me/cryptyk"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x42a501903afaa1086b5975773375c80e363f4063",
+      "decimals": 8
+    }
+  ]
 }

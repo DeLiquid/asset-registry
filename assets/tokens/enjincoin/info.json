@@ -16,5 +16,13 @@
     "telegram": "https://t.me/enjin",
     "reddit": "https://www.reddit.com/r/EnjinCoin",
     "github": "https://github.com/enjin/erc-1155"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+      "decimals": 18
+    }
+  ]
 }

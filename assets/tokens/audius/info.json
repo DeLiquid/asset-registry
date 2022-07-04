@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/AudiusProject",
     "reddit": "https://www.reddit.com/r/audius/",
     "github": "https://github.com/AudiusProject"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+      "decimals": 18
+    }
+  ]
 }

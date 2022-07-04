@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/LiquityProtocol",
     "reddit": "https://www.reddit.com\\/r/Liquity/",
     "github": "https://github.com/liquity/dev"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+      "decimals": 18
+    }
+  ]
 }

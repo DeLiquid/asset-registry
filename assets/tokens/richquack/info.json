@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/richquack",
     "telegram": "https://t.me/richquack",
     "reddit": "https://www.reddit.com/r/RichQuack_Quack/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xd74b782e05aa25c50e7330af541d46e18f36661c",
+      "decimals": 9
+    }
+  ]
 }

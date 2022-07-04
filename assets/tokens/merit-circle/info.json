@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/MeritCircle_IO",
     "telegram": "https://t.me/meritcircle",
     "github": "https://github.com/Merit-Circle"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
+      "decimals": 18
+    }
+  ]
 }

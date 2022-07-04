@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/RupiahTokenIDRT",
     "telegram": "https://t.me/rupiahtokeninternational",
     "github": "https://github.com/rupiah-token/rupiahtoken-smart-contracts"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x998ffe1e43facffb941dc337dd0468d52ba5b48a",
+      "decimals": 2
+    }
+  ]
 }

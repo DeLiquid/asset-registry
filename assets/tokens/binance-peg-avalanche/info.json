@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/avalancheavax",
     "reddit": "https://www.reddit.com/r/Avax"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
+      "decimals": 18
+    }
+  ]
 }

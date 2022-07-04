@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/Dvision-Network-119255129870212",
     "telegram": "https://t.me/dvisionnetworkglobal",
     "github": "https://github.com/Dvision-Network"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x10633216e7e8281e33c86f02bf8e565a635d9770",
+      "decimals": 18
+    }
+  ]
 }

@@ -11,5 +11,6 @@
     "telegram": "https://t.me/PersistenceOneChat",
     "reddit": "https://www.reddit.com/r/PersistenceOne/",
     "github": "https://github.com/persistenceOne/persistenceCore"
-  }
+  },
+  "networks": []
 }

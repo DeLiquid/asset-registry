@@ -9,5 +9,55 @@
   "links": {
     "twitter": "https://twitter.com/Tether_to",
     "facebook": "https://www.facebook.com/tether.to"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "fuji",
+      "address": "0x051DE28a8B5836f678A13d19EE7F8c167b4Ca54D",
+      "decimals": 6
+    },
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+      "decimals": 6
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "testnet",
+      "address": "0x337610d27c682e347c9cd60bd4b3b107c9d34ddd",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "decimals": 6
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+      "decimals": 6
+    },
+    {
+      "chain": "solana",
+      "network": "devnet",
+      "address": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
+      "decimals": 6
+    },
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "decimals": 6
+    }
+  ]
 }

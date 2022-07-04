@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/RaiFinance",
     "telegram": "https://t.me/RaiFinance",
     "github": "https://github.com/RaiFinance"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x1a28ed8472f644e8898a169a644503b779748d6e",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xb49fa25978abf9a248b8212ab4b87277682301c0",
+      "decimals": 18
+    }
+  ]
 }

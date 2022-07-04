@@ -11,5 +11,13 @@
     "telegram": "https://t.me/fishervspirateEN",
     "reddit": "https://www.reddit.com/user/FISHERvsPIRATE",
     "github": "https://github.com/delarosan1/sc/tree/main"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x09d9963def672b1d4be8f1bc0ec1d3f30b380f5e",
+      "decimals": 18
+    }
+  ]
 }

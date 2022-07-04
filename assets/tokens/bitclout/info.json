@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/desoprotocol",
     "reddit": "https://www.reddit.com/r/DESO/",
     "github": "https://github.com/deso-protocol"
-  }
+  },
+  "networks": []
 }

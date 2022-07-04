@@ -13,5 +13,6 @@
     "telegram": "https://t.me/Syscoin_Official",
     "reddit": "https://www.reddit.com/r/SysCoin",
     "github": "https://github.com/syscoin/syscoin2"
-  }
+  },
+  "networks": []
 }

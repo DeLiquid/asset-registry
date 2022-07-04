@@ -11,5 +11,13 @@
     "telegram": "https://t.me/foxfinancebsc",
     "reddit": "https://www.reddit.com/r/foxfinance/",
     "github": "https://github.com/FoxFinance12/FOXFINANCE"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xfad8e46123d7b4e77496491769c167ff894d2acb",
+      "decimals": 9
+    }
+  ]
 }

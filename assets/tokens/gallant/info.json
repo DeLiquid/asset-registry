@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/GallantToken",
     "telegram": "https://t.me/GallantTokenOfficial",
     "reddit": "https://www.reddit.com/r/GallantToken/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x580655e2c6d4fc125c0b2d37b2a3e56219bf9f78",
+      "decimals": 9
+    }
+  ]
 }

@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/AlchemixFi",
     "github": "https://github.com/alchemix-finance"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xbc6da0fe9ad5f3b0d58160288917aa56653660e9",
+      "decimals": 18
+    }
+  ]
 }

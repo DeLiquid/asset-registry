@@ -12,5 +12,13 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=860629",
     "reddit": "https://www.reddit.com/r/Augur",
     "github": "https://github.com/AugurProject"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x221657776846890989a759ba2973e427dff5c9bb",
+      "decimals": 18
+    }
+  ]
 }

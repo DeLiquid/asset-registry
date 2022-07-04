@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/Kiltprotocol",
     "telegram": "https://t.me/KILTProtocolChat",
     "github": "https://github.com/KILTprotocol"
-  }
+  },
+  "networks": []
 }

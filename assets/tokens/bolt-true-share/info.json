@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/bolt_dollar",
     "telegram": "https://t.me/boltdollar"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xc2e1acef50ae55661855e8dcb72adb182a3cc259",
+      "decimals": 18
+    }
+  ]
 }

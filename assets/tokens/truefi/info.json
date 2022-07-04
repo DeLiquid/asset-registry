@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/TrustToken",
     "telegram": "https://t.me/jointruefi",
     "github": "https://github.com/trusttoken/truefi-spec"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
+      "decimals": 8
+    }
+  ]
 }

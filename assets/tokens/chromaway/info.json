@@ -11,5 +11,19 @@
     "facebook": "https://www.facebook.com/teamchromia",
     "telegram": "https://t.me/hellochromia",
     "reddit": "https://www.reddit.com"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xf9cec8d50f6c8ad3fb6dccec577e05aa32b224fe",
+      "decimals": 6
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2",
+      "decimals": 6
+    }
+  ]
 }

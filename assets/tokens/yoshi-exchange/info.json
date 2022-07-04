@@ -8,5 +8,13 @@
   "coingeckoId": "yoshi-exchange",
   "links": {
     "twitter": "https://twitter.com/YoshiExchange"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x4374f26f0148a6331905edf4cd33b89d8eed78d1",
+      "decimals": 18
+    }
+  ]
 }

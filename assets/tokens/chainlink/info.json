@@ -11,5 +11,31 @@
     "telegram": "https://t.me/chainlinkofficial",
     "reddit": "https://www.reddit.com/r/Chainlink/",
     "github": "https://github.com/smartcontractkit"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x5947bb275c521040051d82396192181b413227a3",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+      "decimals": 18
+    }
+  ]
 }

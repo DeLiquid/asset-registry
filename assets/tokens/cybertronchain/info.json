@@ -10,5 +10,13 @@
     "facebook": "https://www.facebook.com/cybertronchain",
     "telegram": "https://t.me/cybertronchain",
     "reddit": "https://www.reddit.com/r/CyberTronChain/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x00b7db6b4431e345eee5cc23d21e8dbc1d5cada3",
+      "decimals": 18
+    }
+  ]
 }

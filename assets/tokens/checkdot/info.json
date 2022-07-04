@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/checkdot_proto",
     "telegram": "https://t.me/checkdot",
     "github": "https://github.com/checkdot"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
+      "decimals": 18
+    }
+  ]
 }

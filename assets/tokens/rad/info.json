@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/ZillazNFT",
     "telegram": "https://t.me/zillaznft",
     "github": "https://github.com/zillaznft"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "B6aJ3TGfme3SMnLSouHXqWXjVFqYyqj7czzhzr8WJFAi",
+      "decimals": 4
+    }
+  ]
 }

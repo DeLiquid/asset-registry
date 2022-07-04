@@ -13,5 +13,19 @@
     "telegram": "https://t.me/ShareRing",
     "reddit": "https://www.reddit.com/r/ShareRing",
     "github": "https://github.com/ShareRing/Shareledger"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x5fb4968fc85868df3ad2d6e59883a10570f01d18",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xd98f75b1a3261dab9eed4956c93f33749027a964",
+      "decimals": 2
+    }
+  ]
 }

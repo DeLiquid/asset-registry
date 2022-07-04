@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/osmosiszone",
     "telegram": "https://t.me/osmosis_chat",
     "github": "https://github.com/osmosis-labs/osmosis"
-  }
+  },
+  "networks": []
 }

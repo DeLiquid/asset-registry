@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/MOBOX_Official",
     "telegram": "https://t.me/mobox_io",
     "reddit": "https://www.reddit.com/r/Mobox/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
+      "decimals": 18
+    }
+  ]
 }

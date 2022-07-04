@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/share_nft2008",
     "telegram": "https://t.me/sharenft2008",
     "github": "https://github.com/ShareNft/sharenft"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x6f3619d033fc96d322aacd22665461f040106a04",
+      "decimals": 18
+    }
+  ]
 }

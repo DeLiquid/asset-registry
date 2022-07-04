@@ -10,5 +10,31 @@
     "twitter": "https://twitter.com/atlasusv",
     "telegram": "https://t.me/atlasusv",
     "github": "https://github.com/AtlasUSV/atlas-contracts"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0xb0a8e082e5f8d2a04e74372c1be47737d85a0e73",
+      "decimals": 9
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xaf6162dc717cfc8818efc8d6f46a41cf7042fcba",
+      "decimals": 9
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x88536c9b2c4701b8db824e6a16829d5b5eb84440",
+      "decimals": 9
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xac63686230f64bdeaf086fe6764085453ab3023f",
+      "decimals": 9
+    }
+  ]
 }

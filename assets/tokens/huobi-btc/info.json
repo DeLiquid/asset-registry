@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/HuobiGlobal",
     "telegram": "https://t.me/huobiglobalofficial"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
+      "decimals": 18
+    }
+  ]
 }

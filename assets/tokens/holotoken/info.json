@@ -13,5 +13,13 @@
     "telegram": "https://t.me/channelholo",
     "reddit": "https://www.reddit.com/r/holochain",
     "github": "https://github.com/holochain"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+      "decimals": 18
+    }
+  ]
 }

@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/TiFiToken",
     "telegram": "https://t.me/tifi_token",
     "reddit": "https://www.reddit.com/r/TiFiToken"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x17e65e6b9b166fb8e7c59432f0db126711246bc0",
+      "decimals": 18
+    }
+  ]
 }

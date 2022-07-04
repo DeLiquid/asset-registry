@@ -11,5 +11,6 @@
     "telegram": "https://t.me/minaprotocol",
     "reddit": "https://www.reddit.com/r/MinaProtocol/",
     "github": "https://github.com/MinaProtocol/mina"
-  }
+  },
+  "networks": []
 }

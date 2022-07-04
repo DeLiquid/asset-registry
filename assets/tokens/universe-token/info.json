@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/Unicoin_UNI",
     "facebook": "https://www.facebook.com/universecoin",
     "telegram": "https://t.me/Universe_UNI"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x576525b21e8fd5b4f2620a8dfa59d2b32c1d292a",
+      "decimals": 18
+    }
+  ]
 }

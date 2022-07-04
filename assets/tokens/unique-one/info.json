@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/Unique-One-104043604825334",
     "telegram": "https://t.me/unique_one_rare",
     "github": "https://github.com/Unique-One-Official"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x93dfaf57d986b9ca77df9376c50878e013d9c7c8",
+      "decimals": 18
+    }
+  ]
 }

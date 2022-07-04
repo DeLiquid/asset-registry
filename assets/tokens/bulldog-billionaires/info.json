@@ -8,5 +8,13 @@
   "coingeckoId": "bulldog-billionaires",
   "links": {
     "twitter": "https://twitter.com/bbsolana"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "D3eyBjfgJMPHZyYDRtbf1cSxeLiNwKumwHzQK3h3TRRq",
+      "decimals": 6
+    }
+  ]
 }

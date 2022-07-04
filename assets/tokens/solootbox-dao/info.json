@@ -8,5 +8,13 @@
   "coingeckoId": "solootbox-dao",
   "links": {
     "twitter": "https://twitter.com/solootbox"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "DysbQiM8nPdZbBhvHM1EgcSE73EwtFWDanXwY8CDD3Jn",
+      "decimals": 8
+    }
+  ]
 }

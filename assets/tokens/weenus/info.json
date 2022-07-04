@@ -4,8 +4,22 @@
   "symbol": "weenus",
   "logoURI": "",
   "website": "https://github.com/bokkypoobah/WeenusTokenFaucet",
-  "description": "An ERC20 token faucet on the Ethereum mainnet, the Ropsten, Kovan, Rinkeby and Görli testnets, and the xDai network.",
+  "description": "An ERC20 token faucet on the Ethereum mainnet, the Ropsten, Kovan, Rinkeby and G\u00c3\u00b6rli testnets, and the xDai network.",
   "links": {
     "github": "https://github.com/bokkypoobah/WeenusTokenFaucet"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "goerli",
+      "address": "0xaFF4481D10270F50f203E0763e2597776068CBc5",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mumbai",
+      "address": "0xB293DfbDAfdE43cd79B54F98214402ffa895d056",
+      "decimals": 18
+    }
+  ]
 }

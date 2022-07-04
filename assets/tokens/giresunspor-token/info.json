@@ -8,5 +8,13 @@
   "coingeckoId": "giresunspor-token",
   "links": {
     "twitter": "https://twitter.com/Giresunspor"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x47d49d010c03b40f88f422502d694ff49fe6c9c8",
+      "decimals": 2
+    }
+  ]
 }

@@ -11,5 +11,19 @@
     "telegram": "https://t.me/LinearExchangeCommunity",
     "reddit": "https://www.reddit.com/r/LinearFinance/",
     "github": "https://github.com/Linear-finance/linear"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x762539b45a1dcce3d36d080f74d1aed37844b878",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+      "decimals": 18
+    }
+  ]
 }

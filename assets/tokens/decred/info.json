@@ -13,5 +13,6 @@
     "telegram": "https://t.me/Decred",
     "reddit": "https://www.reddit.com/r/decred",
     "github": "https://github.com/decred"
-  }
+  },
+  "networks": []
 }

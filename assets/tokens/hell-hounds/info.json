@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/hellhoundscoin",
     "telegram": "https://t.me/HellHoundsCryptoOfficial",
     "github": "https://github.com/theloneraynger/HellHounds/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xd01bc67a6d82a4e07e505d198a55316ec01684a8",
+      "decimals": 18
+    }
+  ]
 }

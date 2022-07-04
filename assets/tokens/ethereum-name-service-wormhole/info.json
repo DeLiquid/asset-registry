@@ -8,5 +8,6 @@
   "coingeckoId": "ethereum-name-service-wormhole",
   "links": {
     "twitter": "https://twitter.com/wormholecrypto"
-  }
+  },
+  "networks": []
 }

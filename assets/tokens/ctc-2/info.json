@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/CTC_30",
     "telegram": "https://t.me/CTC303"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x7921f18d516b42fc8bf26c13c363cac63c22f3c4",
+      "decimals": 18
+    }
+  ]
 }

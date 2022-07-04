@@ -11,5 +11,19 @@
     "telegram": "https://t.me/fetch_ai",
     "reddit": "https://www.reddit.com/r/FetchAI_Community/",
     "github": "https://github.com/fetchai"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x031b41e504677879370e9dbcf937283a8691fa7f",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
+      "decimals": 18
+    }
+  ]
 }

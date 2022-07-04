@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/MarsXtoken",
     "telegram": "https://t.me/MarsXOfficial"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xe0df31d06d72b2f5231489af0edc422b372f49f1",
+      "decimals": 18
+    }
+  ]
 }

@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/refinableapp",
     "telegram": "https://t.me/refinablenft"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x4e6415a5727ea08aae4580057187923aec331227",
+      "decimals": 18
+    }
+  ]
 }

@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/CeloOrg",
     "telegram": "https://t.me/celoplatform",
     "github": "https://github.com/celo-org"
-  }
+  },
+  "networks": []
 }

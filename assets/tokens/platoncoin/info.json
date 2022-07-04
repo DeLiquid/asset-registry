@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/platonfinance",
     "telegram": "https://t.me/platonlifecom",
     "github": "https://github.com/platonfinance/SmartContracts"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x429d83bb0dcb8cdd5311e34680adc8b12070a07f",
+      "decimals": 18
+    }
+  ]
 }

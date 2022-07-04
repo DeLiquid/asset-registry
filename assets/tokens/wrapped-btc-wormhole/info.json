@@ -8,5 +8,19 @@
   "coingeckoId": "wrapped-btc-wormhole",
   "links": {
     "twitter": "https://twitter.com/wormholecrypto"
-  }
+  },
+  "networks": [
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x5d49c278340655b56609fdf8976eb0612af3a0c3",
+      "decimals": 8
+    },
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+      "decimals": 8
+    }
+  ]
 }

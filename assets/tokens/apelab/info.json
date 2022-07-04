@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/apelabofficial",
     "telegram": "https://t.me/ApeLabOfficial"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x54283eb77cc33182c06b311248c48c73adf4e2ef",
+      "decimals": 18
+    }
+  ]
 }

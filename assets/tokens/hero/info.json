@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/FarmHeroIO",
     "telegram": "https://t.me/farmheroIO"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x9b26e16377ad29a6ccc01770bcfb56de3a36d8b2",
+      "decimals": 18
+    }
+  ]
 }

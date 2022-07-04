@@ -11,5 +11,25 @@
     "facebook": "https://www.facebook.com/ampleforthprotocol",
     "telegram": "https://t.me/Ampleforth",
     "github": "https://github.com/ampleforth"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x027dbca046ca156de9622cd1e2d907d375e53aa7",
+      "decimals": 9
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xdb021b1b247fe2f1fa57e0a87c748cc1e321f07f",
+      "decimals": 9
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+      "decimals": 9
+    }
+  ]
 }

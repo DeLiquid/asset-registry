@@ -8,5 +8,25 @@
   "coingeckoId": "wrapped-bitcoin",
   "links": {
     "github": "https://github.com/WrappedBTC"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+      "decimals": 8
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "decimals": 8
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+      "decimals": 8
+    }
+  ]
 }

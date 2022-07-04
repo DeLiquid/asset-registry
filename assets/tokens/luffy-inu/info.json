@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/luffyinutoken",
     "telegram": "https://t.me/luffytoken_official",
     "reddit": "https://www.reddit.comhttps://www.reddit.com/r/luffy_inu/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x3f6b2d68980db7371d3d0470117393c9262621ea",
+      "decimals": 9
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x7121d00b4fa18f13da6c2e30d19c04844e6afdc8",
+      "decimals": 9
+    }
+  ]
 }

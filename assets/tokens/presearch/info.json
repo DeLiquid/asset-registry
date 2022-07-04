@@ -15,5 +15,13 @@
     "whitepaper": "https://www.presearch.io/uploads/WhitePaper.pdf",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=1967343",
     "reddit": "https://www.reddit.com/r/Presearch"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xec213f83defb583af3a000b1c0ada660b1902a0f",
+      "decimals": 18
+    }
+  ]
 }

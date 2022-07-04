@@ -14,5 +14,13 @@
     "facebook": "https://www.facebook.com/golemproject",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=1655002",
     "reddit": "https://www.reddit.com/r/GolemProject"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",
+      "decimals": 18
+    }
+  ]
 }

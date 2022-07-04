@@ -6,5 +6,13 @@
   "website": "https://gatechain.io/",
   "description": "",
   "coingeckoId": "gatechain-token",
-  "links": {}
+  "links": {},
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xe66747a101bff2dba3697199dcce5b743b454759",
+      "decimals": 18
+    }
+  ]
 }

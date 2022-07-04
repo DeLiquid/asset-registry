@@ -15,5 +15,13 @@
     "telegram": "https://web.telegram.org/#/im?p=@setherplatform",
     "whitepaper": "https://github.com/mware-solutions/icosite/blob/master/SETHER%20Whitepaper.pdf",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2407336.0"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x78b039921e84e726eb72e7b1212bb35504c645ca",
+      "decimals": 18
+    }
+  ]
 }
