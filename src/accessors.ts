@@ -19,7 +19,7 @@ export enum FetchStrategy {
 export async function getAllTokensBasicMetadata(
   fetchStrategy: FetchStrategy = FetchStrategy.GitHub,
 ) {
-  return fetch(`${fetchStrategy}/tokens/basic_info.json`)
+  return fetch(`${fetchStrategy}/tokens/selected_basic_info.json`)
     .then((res) => res.json())
     .then((res) => res as BasicTokenMetadata[]);
 }
