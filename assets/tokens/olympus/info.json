@@ -11,5 +11,13 @@
     "telegram": "https://t.me/OlympusTG",
     "reddit": "https://www.reddit.com/r/olympusdao/",
     "github": "https://github.com/OlympusDAO"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+      "decimals": 9
+    }
+  ]
 }

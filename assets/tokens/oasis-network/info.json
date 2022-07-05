@@ -11,5 +11,6 @@
     "telegram": "https://t.me/oasisprotocolcommunity",
     "reddit": "https://www.reddit.com/r/oasislabs/",
     "github": "https://github.com/oasisprotocol"
-  }
+  },
+  "networks": []
 }

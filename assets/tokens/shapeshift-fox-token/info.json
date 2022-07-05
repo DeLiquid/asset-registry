@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/ShapeShift_io",
     "telegram": "https://t.me/shapeshiftofficial"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xc770eefad204b5180df6a14ee197d99d808ee52d",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x65a05db8322701724c197af82c9cae41195b0aa8",
+      "decimals": 18
+    }
+  ]
 }

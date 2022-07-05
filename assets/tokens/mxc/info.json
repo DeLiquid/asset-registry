@@ -12,5 +12,13 @@
     "telegram": "https://t.me/mxcfoundation",
     "reddit": "https://www.reddit.com/r/MXCFoundation/",
     "github": "https://github.com/mxc-foundation"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x5ca381bbfb58f0092df149bd3d243b08b9a8386e",
+      "decimals": 18
+    }
+  ]
 }

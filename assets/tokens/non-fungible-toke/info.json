@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/holdyourtoke",
     "telegram": "https://t.me/holdyourtoke"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x98ddc72bd02d448f68c4226f26122c66c5bd711e",
+      "decimals": 18
+    }
+  ]
 }

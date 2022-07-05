@@ -10,5 +10,37 @@
     "twitter": "https://twitter.com/fraxfinance",
     "telegram": "https://t.me/fraxfinance",
     "github": "https://github.com/fraxfinance/frax-solidity"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+      "decimals": 18
+    },
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+      "decimals": 8
+    }
+  ]
 }

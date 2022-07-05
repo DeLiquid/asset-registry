@@ -11,5 +11,6 @@
     "telegram": "https://t.me/Cardano",
     "reddit": "https://www.reddit.com/r/cardano",
     "github": "https://github.com/input-output-hk"
-  }
+  },
+  "networks": []
 }

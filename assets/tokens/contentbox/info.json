@@ -12,5 +12,13 @@
     "telegram": "https://t.me/BoxCommunity",
     "reddit": "https://www.reddit.com/r/ContentBoxOfficial/",
     "github": "https://github.com/BOXFoundation/bch-wallet"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f",
+      "decimals": 18
+    }
+  ]
 }

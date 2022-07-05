@@ -8,5 +8,13 @@
   "coingeckoId": "paxos-gold-wormhole",
   "links": {
     "twitter": "https://twitter.com/wormholecrypto"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "C6oFsE8nXRDThzrMEQ5SxaNFGKoyyfWDDVPw37JKvPTe",
+      "decimals": 8
+    }
+  ]
 }

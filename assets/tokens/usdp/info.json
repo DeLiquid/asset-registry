@@ -9,5 +9,13 @@
   "links": {
     "telegram": "https://t.me/unit_en",
     "github": "https://github.com/unitprotocol/core"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x1456688345527be1f37e9e627da0837d6f08c925",
+      "decimals": 18
+    }
+  ]
 }

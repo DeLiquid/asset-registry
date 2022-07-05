@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/bezoge",
     "telegram": "https://t.me/Bezoge",
     "github": "https://github.com/BezogeEarth/Bezoge"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xdc349913d53b446485e98b76800b6254f43df695",
+      "decimals": 9
+    }
+  ]
 }

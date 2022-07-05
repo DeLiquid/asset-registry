@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/harvest_finance",
     "telegram": "https://t.me/Breadforthepeople",
     "github": "https://github.com/harvest-finance"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x4b5c23cac08a567ecf0c1ffca8372a45a5d33743",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
+      "decimals": 18
+    }
+  ]
 }

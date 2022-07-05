@@ -8,5 +8,13 @@
   "coingeckoId": "perpetual-wormhole",
   "links": {
     "twitter": "https://twitter.com/wormholecrypto"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "9BsnSWDPfbusseZfnXyZ3un14CyPMZYvsKjWY3Y8Gbqn",
+      "decimals": 8
+    }
+  ]
 }

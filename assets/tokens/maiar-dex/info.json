@@ -11,5 +11,6 @@
     "telegram": "https://t.me/MaiarExchange",
     "reddit": "https://www.reddit.com/r/maiar_exchange/",
     "github": "https://github.com/ElrondNetwork/sc-dex-rs"
-  }
+  },
+  "networks": []
 }

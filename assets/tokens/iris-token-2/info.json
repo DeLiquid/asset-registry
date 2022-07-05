@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/hermesdefi",
     "reddit": "https://www.reddit.com/r/HermesDefi/",
     "github": "https://github.com/Hermes-defi"
-  }
+  },
+  "networks": [
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xdab35042e63e93cc8556c9bae482e5415b5ac4b1",
+      "decimals": 18
+    }
+  ]
 }

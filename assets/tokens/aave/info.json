@@ -13,5 +13,31 @@
     "telegram": "https://t.me/Aavesome",
     "reddit": "https://www.reddit.com/r/Aave_Official",
     "github": "https://github.com/aave/aave-protocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xfb6115445bff7b52feb98650c87f44907e58f802",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+      "decimals": 18
+    }
+  ]
 }

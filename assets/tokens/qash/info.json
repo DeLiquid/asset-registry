@@ -14,5 +14,13 @@
     "whitepaper": "https://liquid.plus/quoine-liquid_v1.3.pdf",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2256844",
     "reddit": "https://www.reddit.com/r/liquid"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6",
+      "decimals": 6
+    }
+  ]
 }

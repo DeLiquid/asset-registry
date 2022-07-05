@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/BitrueOfficial",
     "telegram": "https://t.me/BitrueOfficial",
     "reddit": "https://www.reddit.com/r/BitrueOfficial/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xd433138d12beb9929ff6fd583dc83663eea6aaa5",
+      "decimals": 18
+    }
+  ]
 }

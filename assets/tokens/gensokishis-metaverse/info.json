@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/genso_meta",
     "telegram": "https://t.me/gensometamain"
-  }
+  },
+  "networks": [
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xa3c322ad15218fbfaed26ba7f616249f7705d945",
+      "decimals": 18
+    }
+  ]
 }

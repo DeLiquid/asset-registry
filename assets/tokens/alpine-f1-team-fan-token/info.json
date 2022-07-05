@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/AlpineF1Team",
     "telegram": "https://t.me/binance_announcements"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x287880ea252b52b63cc5f40a2d3e5a44aa665a76",
+      "decimals": 8
+    }
+  ]
 }

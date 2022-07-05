@@ -11,5 +11,6 @@
     "telegram": "https://t.me/Zcash_Community",
     "reddit": "https://www.reddit.com/r/zec",
     "github": "https://github.com/zcash"
-  }
+  },
+  "networks": []
 }

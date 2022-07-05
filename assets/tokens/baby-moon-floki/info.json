@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/babymoonfloki",
     "telegram": "https://t.me/BMFloki"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x54e87ed5a096f09d9665fd114002bddfc2084a7f",
+      "decimals": 9
+    }
+  ]
 }

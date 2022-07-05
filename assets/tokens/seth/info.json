@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/synthetix_io",
     "reddit": "https://www.reddit.com/r/synthetix_io"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
+      "decimals": 18
+    }
+  ]
 }

@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/POKTnetwork",
     "telegram": "https://t.me/POKTnetwork",
     "github": "https://github.com/pokt-network"
-  }
+  },
+  "networks": []
 }

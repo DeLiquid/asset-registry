@@ -13,5 +13,13 @@
     "telegram": "https://t.me/originprotocol",
     "reddit": "https://www.reddit.com/r/originprotocol/",
     "github": "https://github.com/OriginProtocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+      "decimals": 18
+    }
+  ]
 }

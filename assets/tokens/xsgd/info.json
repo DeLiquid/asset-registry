@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/xfers",
     "facebook": "https://www.facebook.com/Xfers",
     "github": "https://github.com/Xfers/StraitsX-tokens/tree/master/Ethereum"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
+      "decimals": 6
+    }
+  ]
 }

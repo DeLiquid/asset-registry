@@ -8,5 +8,19 @@
   "coingeckoId": "apenft",
   "links": {
     "twitter": "https://twitter.com/apenftorg"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x20ee7b720f4e4c4ffcb00c4065cdae55271aecca",
+      "decimals": 6
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x198d14f2ad9ce69e76ea330b374de4957c3f850a",
+      "decimals": 6
+    }
+  ]
 }

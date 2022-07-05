@@ -8,5 +8,13 @@
   "coingeckoId": "keep3rv1-wormhole",
   "links": {
     "twitter": "https://twitter.com/wormholecrypto"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "3a2VW9t5N6p4baMW3M6yLH1UJ9imMt7VsyUk6ouXPVLq",
+      "decimals": 8
+    }
+  ]
 }

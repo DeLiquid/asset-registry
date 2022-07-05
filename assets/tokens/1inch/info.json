@@ -11,5 +11,31 @@
     "telegram": "https://t.me/OneInchNetwork",
     "reddit": "https://www.reddit.com/r/1inch/",
     "github": "https://github.com/1inch"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0xd501281565bf7789224523144fe5d98e8b28f267",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
+      "decimals": 18
+    }
+  ]
 }

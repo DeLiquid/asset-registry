@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/arcticfi",
     "telegram": "https://t.me/ArcticFi"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0xa9d633a1ac5aa995c5e4f7d915ade1be565a97e8",
+      "decimals": 18
+    }
+  ]
 }

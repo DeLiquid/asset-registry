@@ -6,5 +6,6 @@
   "website": "https://litepaper.roninchain.com/",
   "description": "RON is the ecosystem token for the Ronin chain. It will eventually be used to pay gas fees and secure the network for both Axie Infinity and future games/products hosted on the chain.",
   "coingeckoId": "ronin",
-  "links": {}
+  "links": {},
+  "networks": []
 }

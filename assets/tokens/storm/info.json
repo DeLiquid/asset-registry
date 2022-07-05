@@ -14,5 +14,13 @@
     "whitepaper": "https://s3.amazonaws.com/cakecodes/pdf/storm_web/STORM_Token_White_Paper_Market_Research_Network_Development_vFINAL_.pdf",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2006999.0",
     "reddit": "https://www.reddit.com/r/stormxio"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xbe9375c6a420d2eeb258962efb95551a5b722803",
+      "decimals": 18
+    }
+  ]
 }

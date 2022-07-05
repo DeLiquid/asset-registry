@@ -6,5 +6,13 @@
   "website": "https://instadapp.io/",
   "description": "",
   "coingeckoId": "instadapp-eth",
-  "links": {}
+  "links": {},
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xc383a3833a87009fd9597f8184979af5edfad019",
+      "decimals": 18
+    }
+  ]
 }

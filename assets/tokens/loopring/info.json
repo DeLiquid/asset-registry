@@ -11,5 +11,13 @@
     "telegram": "https://t.me/loopring_en",
     "reddit": "https://www.reddit.com/r/loopringorg/",
     "github": "https://github.com/Loopring"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+      "decimals": 18
+    }
+  ]
 }

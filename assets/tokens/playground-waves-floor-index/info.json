@@ -8,5 +8,13 @@
   "coingeckoId": "playground-waves-floor-index",
   "links": {
     "twitter": "https://twitter.com/bridgesplit"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "4uRn7vxRPWYP4HuAa4UNXwEPLRL8oQ71YByMhr6yBnL4",
+      "decimals": 2
+    }
+  ]
 }

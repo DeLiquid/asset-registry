@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/AstarNetwork",
     "telegram": "https://t.me/PlasmOfficial",
     "github": "https://github.com/AstarNetwork/Astar"
-  }
+  },
+  "networks": []
 }

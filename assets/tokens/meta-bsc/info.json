@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/META_Shiba",
     "telegram": "https://t.me/meta_token_bsc",
     "reddit": "https://www.reddit.com/r/METAbsc/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x26165a5a3dd21fa528becf3ff7f114d00a517344",
+      "decimals": 9
+    }
+  ]
 }

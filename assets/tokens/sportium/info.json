@@ -8,5 +8,13 @@
   "coingeckoId": "sportium",
   "links": {
     "twitter": "https://twitter.com/Sportium_Fan"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x56156fb7860d7eb0b4b1a5356c5354b295194a45",
+      "decimals": 18
+    }
+  ]
 }

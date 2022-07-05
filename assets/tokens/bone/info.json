@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/DogsData",
     "telegram": "https://t.me/DogDataICO",
     "reddit": "https://www.reddit.com/r/AskDogExpert/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x5c84bc60a796534bfec3439af0e6db616a966335",
+      "decimals": 18
+    }
+  ]
 }

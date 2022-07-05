@@ -11,5 +11,19 @@
     "telegram": "https://t.me/phantasma_io",
     "reddit": "https://www.reddit.comhttps://www.reddit.com/r/phantasma/",
     "github": "https://github.com/phantasma-io"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x298eff8af1ecebbb2c034eaa3b9a5d0cc56c59cd",
+      "decimals": 8
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x75858677e27c930fb622759feaffee2b754af07f",
+      "decimals": 8
+    }
+  ]
 }

@@ -12,5 +12,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=5274972",
     "telegram": "https://t.me/bitcointrust_bct",
     "github": "https://github.com/bitcointrustbct/bitcointrust"
-  }
+  },
+  "networks": []
 }

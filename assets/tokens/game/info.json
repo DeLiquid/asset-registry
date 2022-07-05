@@ -14,5 +14,13 @@
     "telegram": "https://t.me/gameico",
     "whitepaper": "http://ic.game.com/download/Game.com-Whitepaper_EN.pdf",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2258262"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xb70835d7822ebb9426b56543e391846c107bd32c",
+      "decimals": 18
+    }
+  ]
 }

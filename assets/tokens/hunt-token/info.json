@@ -11,5 +11,13 @@
     "telegram": "https://t.me/steemhunt",
     "reddit": "https://www.reddit.com/r/steemhunt",
     "github": "https://github.com/Steemhunt"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5",
+      "decimals": 18
+    }
+  ]
 }

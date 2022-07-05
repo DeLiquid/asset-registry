@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/mirror_protocol",
     "telegram": "https://t.me/mirror_protocol",
     "github": "https://github.com/Mirror-Protocol/terra-web-app"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x5b6dcf557e2abe2323c48445e8cc948910d8c2c9",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
+      "decimals": 18
+    }
+  ]
 }

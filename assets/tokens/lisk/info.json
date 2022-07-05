@@ -12,5 +12,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=1346646",
     "reddit": "https://www.reddit.com/r/Lisk",
     "github": "https://github.com/LiskHQ"
-  }
+  },
+  "networks": []
 }

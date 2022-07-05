@@ -11,5 +11,13 @@
     "telegram": "https://t.me/oceanprotocol",
     "reddit": "https://www.reddit.com/r/oceanprotocol/",
     "github": "https://github.com/oceanprotocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+      "decimals": 18
+    }
+  ]
 }

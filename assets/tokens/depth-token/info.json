@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/DepthFi",
     "telegram": "https://t.me/depthglobal",
     "github": "https://github.com/depthfinance/contract"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x16f99577b259b069a2d1d166e70d349b11b1d325",
+      "decimals": 18
+    }
+  ]
 }

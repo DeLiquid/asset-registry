@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/infinity_eth",
     "telegram": "https://t.me/infinity_eth",
     "reddit": "https://www.reddit.comr/CryptoMoonShots/comments/qf7uua/dont_miss_infinityetha_bsc_gem_that_gives_passive/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x16f761f89967a1dfc8e851a48904fb0c177bb373",
+      "decimals": 9
+    }
+  ]
 }

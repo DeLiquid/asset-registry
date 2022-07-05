@@ -8,5 +8,13 @@
   "coingeckoId": "ageur-wormhole",
   "links": {
     "twitter": "https://twitter.com/wormholecrypto"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1",
+      "decimals": 8
+    }
+  ]
 }

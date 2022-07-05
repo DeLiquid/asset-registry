@@ -15,5 +15,13 @@
     "whitepaper": "https://storj.io/storj.pdf",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=555159",
     "reddit": "https://www.reddit.com/r/storj/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac",
+      "decimals": 8
+    }
+  ]
 }

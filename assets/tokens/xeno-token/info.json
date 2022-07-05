@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/XENONFTHUB",
     "telegram": "https://t.me/Xenonfthub",
     "github": "https://github.com/XENO-NFT-Hub/eth-contracts"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x05bbe7240de66f6480c9aeda77c1376b13393f83",
+      "decimals": 18
+    }
+  ]
 }

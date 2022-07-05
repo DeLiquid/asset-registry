@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/zipmex",
     "telegram": "https://t.me/zipmexasia",
     "github": "https://github.com/zipmex"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xaa602de53347579f86b996d2add74bb6f79462b2",
+      "decimals": 18
+    }
+  ]
 }

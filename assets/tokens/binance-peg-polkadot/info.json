@@ -8,5 +8,13 @@
   "coingeckoId": "binance-peg-polkadot",
   "links": {
     "twitter": "https://twitter.com/Polkadot"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "decimals": 18
+    }
+  ]
 }

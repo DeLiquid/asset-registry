@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/Stablecoin_HUSD",
     "github": "https://github.com/stcoins/HUSD"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+      "decimals": 8
+    }
+  ]
 }

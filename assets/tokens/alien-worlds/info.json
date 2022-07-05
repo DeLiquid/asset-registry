@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/alienworlds",
     "telegram": "https://t.me/AlienWorldsOffical"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x2222227e22102fe3322098e4cbfe18cfebd57c95",
+      "decimals": 4
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x888888848b652b3e3a0f34c96e00eec0f3a23f72",
+      "decimals": 4
+    }
+  ]
 }

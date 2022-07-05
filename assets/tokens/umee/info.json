@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/Umee_crosschain",
     "telegram": "https://t.me/umeecrosschain",
     "reddit": "https://www.reddit.com/r/UmeeCrossChain/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xc0a4df35568f116c370e6a6a6022ceb908eeddac",
+      "decimals": 6
+    }
+  ]
 }

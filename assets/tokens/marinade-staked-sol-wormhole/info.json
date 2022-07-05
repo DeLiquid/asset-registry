@@ -8,5 +8,13 @@
   "coingeckoId": "marinade-staked-sol-wormhole",
   "links": {
     "twitter": "https://twitter.com/wormholecrypto"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x756bfb452cfe36a5bc82e4f5f4261a89a18c242b",
+      "decimals": 9
+    }
+  ]
 }

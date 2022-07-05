@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/boba_mask",
     "telegram": "https://t.me/bobamask"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x5f20f15d40f24dae50a72be3b5edddddfb5a5bd0",
+      "decimals": 18
+    }
+  ]
 }

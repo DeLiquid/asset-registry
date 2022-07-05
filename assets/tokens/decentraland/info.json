@@ -12,5 +12,19 @@
     "twitter": "https://twitter.com/decentraland",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=1968414",
     "reddit": "https://www.reddit.com/r/decentraland"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
+      "decimals": 18
+    }
+  ]
 }

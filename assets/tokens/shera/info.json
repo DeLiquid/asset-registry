@@ -11,5 +11,13 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=561516",
     "telegram": "https://t.me/sheratokens",
     "github": "https://github.com/SHERATOKENS/shera-tokens"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x029e391fc9fbe3183eccadbdd029149b49b1dbc5",
+      "decimals": 9
+    }
+  ]
 }

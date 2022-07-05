@@ -11,5 +11,13 @@
     "telegram": "https://t.me/goldfinch_finance",
     "reddit": "https://www.reddit.com/r/goldfinch_fi/",
     "github": "https://github.com/goldfinch-eng"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x6a445e9f40e0b97c92d0b8a3366cef1d67f700bf",
+      "decimals": 18
+    }
+  ]
 }

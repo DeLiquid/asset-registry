@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/coinofchampions",
     "telegram": "https://t.me/chatcocinternational"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xbdc3b3639f7aa19e623a4d603a3fb7ab20115a91",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xc4bb7277a74678f053259cb1f96140347efbfd46",
+      "decimals": 18
+    }
+  ]
 }

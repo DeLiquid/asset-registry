@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/METAPLANETBSC",
     "telegram": "https://t.me/MetaPlanetOfficial"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xba007b6170c602c08545ff97395677408688d3a2",
+      "decimals": 9
+    }
+  ]
 }

@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/PolygonHermez",
     "telegram": "https://t.me/polygonhermez",
     "github": "https://github.com/hermeznetwork"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xeef9f339514298c6a857efcfc1a762af84438dee",
+      "decimals": 18
+    }
+  ]
 }

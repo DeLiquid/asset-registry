@@ -9,5 +9,6 @@
   "links": {
     "twitter": "https://twitter.com/protontweets",
     "github": "https://github.com/ProtonBlockchain"
-  }
+  },
+  "networks": []
 }

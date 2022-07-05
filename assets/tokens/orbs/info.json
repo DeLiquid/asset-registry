@@ -11,5 +11,25 @@
     "telegram": "https://t.me/OrbsNetwork",
     "reddit": "https://www.reddit.com/r/ORBS_Network/",
     "github": "https://github.com/orbs-network/nebula"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xebd49b26169e1b52c04cfd19fcf289405df55f80",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x614389eaae0a6821dc49062d56bda3d9d45fa2ff",
+      "decimals": 18
+    }
+  ]
 }

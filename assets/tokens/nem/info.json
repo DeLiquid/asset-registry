@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/nemofficial",
     "reddit": "https://www.reddit.com/r/nem",
     "github": "https://github.com/nemtech"
-  }
+  },
+  "networks": []
 }

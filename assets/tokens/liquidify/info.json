@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/Liquidifyio",
     "telegram": "https://t.me/liquidifyio"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xfdce4b11d6ddc902244726b93e71e2874c7b6af0",
+      "decimals": 18
+    }
+  ]
 }

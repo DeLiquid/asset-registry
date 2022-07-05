@@ -8,5 +8,13 @@
   "coingeckoId": "synthetix-network-token-wormhole",
   "links": {
     "twitter": "https://twitter.com/wormholecrypto"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "8cTNUtcV2ueC3royJ642uRnvTxorJAWLZc58gxAo7y56",
+      "decimals": 8
+    }
+  ]
 }

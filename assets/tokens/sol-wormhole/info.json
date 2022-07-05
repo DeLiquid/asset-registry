@@ -8,5 +8,31 @@
   "coingeckoId": "sol-wormhole",
   "links": {
     "twitter": "https://twitter.com/wormholecrypto"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0xfe6b19286885a4f7f55adad09c3cd1f906d2478f",
+      "decimals": 9
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xfa54ff1a158b5189ebba6ae130ced6bbd3aea76e",
+      "decimals": 9
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xd31a59c85ae9d8edefec411d448f90841571b89c",
+      "decimals": 9
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xd93f7e271cb87c23aaa73edc008a79646d1f9912",
+      "decimals": 9
+    }
+  ]
 }

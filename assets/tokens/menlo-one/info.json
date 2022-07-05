@@ -13,5 +13,13 @@
     "telegram": "https://t.me/Menloone",
     "reddit": "https://www.reddit.com/r/menloone/",
     "github": "https://github.com/MenloOne"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x4d807509aece24c0fa5a102b6a3b059ec6e14392",
+      "decimals": 18
+    }
+  ]
 }

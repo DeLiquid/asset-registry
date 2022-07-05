@@ -11,5 +11,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=5173754",
     "telegram": "https://t.me/dashdiamond",
     "github": "https://github.com/Dash-Diamond"
-  }
+  },
+  "networks": []
 }

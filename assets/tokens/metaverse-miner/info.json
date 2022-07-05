@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/MetaverseMiner",
     "telegram": "https://t.me/MetaverseMiner"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x04073d16c6a08c27e8bbebe262ea4d1c6fa4c772",
+      "decimals": 18
+    }
+  ]
 }

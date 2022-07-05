@@ -10,5 +10,6 @@
     "telegram": "https://t.me/bchchannel",
     "reddit": "https://www.reddit.com/r/btc",
     "github": "https://github.com/gcash"
-  }
+  },
+  "networks": []
 }

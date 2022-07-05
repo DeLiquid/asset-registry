@@ -11,5 +11,13 @@
     "telegram": "https://t.me/axionofficial",
     "reddit": "https://www.reddit.com/r/AXION",
     "github": "https://github.com/Axion-Network/axion-contracts"
-  }
+  },
+  "networks": [
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x839f1a22a59eaaf26c85958712ab32f80fea23d9",
+      "decimals": 18
+    }
+  ]
 }

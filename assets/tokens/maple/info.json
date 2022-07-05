@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/maplefinance",
     "telegram": "https://t.me/maplefinance"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x33349b282065b0284d756f0577fb39c158f935e6",
+      "decimals": 18
+    }
+  ]
 }

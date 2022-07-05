@@ -11,5 +11,25 @@
     "telegram": "https://t.me/beefyfinance",
     "reddit": "https://www.reddit.com",
     "github": "https://github.com/beefyfinance/beefy-app"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0xd6070ae98b8069de6b494332d1a1a81b6179d960",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xca3f508b8e4dd382ee878a314789373d80a5190a",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
+      "decimals": 18
+    }
+  ]
 }

@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/Elonsshibafloki",
     "telegram": "https://t.me/elonsflokimusk",
     "github": "https://github.com/flokimusk-dev"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x67cc621ab2d086a101cff3340df0a065ac75827c",
+      "decimals": 18
+    }
+  ]
 }

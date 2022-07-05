@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/VenusProtocol",
     "telegram": "https://t.me/VenusProtocol",
     "github": "https://github.com/VenusProtocol/Venus-Protocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+      "decimals": 18
+    }
+  ]
 }

@@ -12,5 +12,13 @@
     "telegram": "https://t.me/wavesnews",
     "reddit": "https://www.reddit.com/r/Wavesplatform/",
     "github": "https://github.com/wavesplatform"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a",
+      "decimals": 18
+    }
+  ]
 }

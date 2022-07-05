@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/TheCoinEx",
     "telegram": "https://t.me/TheCoinEx",
     "github": "https://github.com/coinexchain/dex-manual"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f",
+      "decimals": 18
+    }
+  ]
 }

@@ -13,5 +13,13 @@
     "telegram": "https://t.me/elastosgroup",
     "reddit": "https://www.reddit.com/r/Elastos/",
     "github": "https://github.com/elastos"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xe6fd75ff38adca4b97fbcd938c86b98772431867",
+      "decimals": 18
+    }
+  ]
 }

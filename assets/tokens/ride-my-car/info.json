@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/ridemycar_team",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=1562482",
     "github": "https://github.com/RideMyCar/RideMyCar-Coin"
-  }
+  },
+  "networks": []
 }

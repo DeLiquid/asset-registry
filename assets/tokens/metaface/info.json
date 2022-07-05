@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/MetafaceToken",
     "telegram": "https://t.me/metafacetoken"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x93116dac9d16434d02e57846da4a62a1d4c40a12",
+      "decimals": 18
+    }
+  ]
 }

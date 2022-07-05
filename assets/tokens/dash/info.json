@@ -12,5 +12,6 @@
     "telegram": "https://t.me/dash_chat",
     "reddit": "https://www.reddit.com/r/dashpay",
     "github": "https://github.com/dashevo"
-  }
+  },
+  "networks": []
 }

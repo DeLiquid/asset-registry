@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/stakewise_io",
     "telegram": "https://t.me/stakewise_io",
     "github": "https://github.com/stakewise"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xfe2e637202056d30016725477c5da089ab0a043a",
+      "decimals": 18
+    }
+  ]
 }

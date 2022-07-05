@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/BitMoney6",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=5048071",
     "github": "https://github.com/CryptVenture/BitMoneyV2"
-  }
+  },
+  "networks": []
 }

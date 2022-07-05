@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/WeWay_io",
     "telegram": "https://t.me/WeWay_io"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x9ab70e92319f0b9127df78868fd3655fb9f1e322",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x9ab70e92319f0b9127df78868fd3655fb9f1e322",
+      "decimals": 18
+    }
+  ]
 }

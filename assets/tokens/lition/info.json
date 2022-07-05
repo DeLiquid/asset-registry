@@ -12,5 +12,13 @@
     "telegram": "https://t.me/LitionEnergy",
     "reddit": "https://www.reddit.com",
     "github": "https://github.com/lition-blockchain/energy-use-case-trading-client"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x763fa6806e1acf68130d2d0f0df754c93cc546b2",
+      "decimals": 18
+    }
+  ]
 }

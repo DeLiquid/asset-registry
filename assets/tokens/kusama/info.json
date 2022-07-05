@@ -9,5 +9,6 @@
   "links": {
     "twitter": "https://twitter.com/kusamanetwork",
     "github": "https://github.com/kusamanetwork/kusama.network"
-  }
+  },
+  "networks": []
 }

@@ -20,7 +20,7 @@ all_basic_info = [None] * len(token_dirs)
 for i, d in enumerate(token_dirs):
     with open(f"./assets/tokens/{d}/info.json") as f:
         info = json.load(f)
-    basic_info_keys = ["key", "name", "symbol", "logoURI", "coingeckoId"]
+    basic_info_keys = ["key", "name", "symbol", "logoURI", "coingeckoId", "networks"]
     all_basic_info[i] = {k: info[k] for k in basic_info_keys if k in info}
 
 with open("./assets/tokens/basic_info.json", "w") as f:

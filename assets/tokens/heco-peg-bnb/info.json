@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/binance",
     "reddit": "https://www.reddit.com",
     "github": "https://github.com/binance-exchange"
-  }
+  },
+  "networks": []
 }

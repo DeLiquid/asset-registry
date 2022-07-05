@@ -11,5 +11,19 @@
     "telegram": "https://t.me/bluzelle",
     "reddit": "https://www.reddit.com/r/Bluzelle/",
     "github": "https://github.com/njmurarka/bluzelle"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x935a544bf5816e3a7c13db2efe3009ffda0acda2",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x5732046a883704404f284ce41ffadd5b007fd668",
+      "decimals": 18
+    }
+  ]
 }

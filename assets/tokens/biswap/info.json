@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/Biswap_Dex",
     "telegram": "https://t.me/biswap",
     "github": "https://github.com/biswap-org"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x965f527d9159dce6288a2219db51fc6eef120dd1",
+      "decimals": 18
+    }
+  ]
 }

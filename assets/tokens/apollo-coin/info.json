@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/apollocoinAPX",
     "facebook": "https://www.facebook.com/apollocoinAPX",
     "telegram": "https://t.me/apollocointg"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x992ace1acb518837ac615b380719bfc0c64eaa8f",
+      "decimals": 9
+    }
+  ]
 }

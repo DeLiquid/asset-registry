@@ -12,5 +12,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=1605144",
     "reddit": "https://www.reddit.com/r/komodoplatform",
     "github": "https://github.com/KomodoPlatform"
-  }
+  },
+  "networks": []
 }

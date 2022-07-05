@@ -12,5 +12,13 @@
     "telegram": "https://t.me/SafeMoonv2",
     "reddit": "https://www.reddit.com/r/SafeMoon/",
     "github": "https://github.com/safemoonprotocol/Safemoon.sol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3",
+      "decimals": 9
+    }
+  ]
 }

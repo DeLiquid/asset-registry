@@ -13,5 +13,19 @@
     "telegram": "https://t.me/popnetwork",
     "reddit": "https://www.reddit.com/r/popnetwork/",
     "github": "https://github.com/popnetwork"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x1bb76a939d6b7f5be6b95c4f9f822b02b4d62ced",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x5d858bcd53e085920620549214a8b27ce2f04670",
+      "decimals": 18
+    }
+  ]
 }

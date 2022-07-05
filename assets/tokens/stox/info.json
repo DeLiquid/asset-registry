@@ -14,5 +14,13 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2035348",
     "reddit": "https://www.reddit.com/r/STOX",
     "github": "https://github.com/stx-technologies/stox-token"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45",
+      "decimals": 18
+    }
+  ]
 }

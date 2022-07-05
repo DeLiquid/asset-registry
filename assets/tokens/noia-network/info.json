@@ -13,5 +13,19 @@
     "telegram": "https://t.me/SyntropyNet",
     "reddit": "https://www.reddit.com/r/SyntropyNet/",
     "github": "https://github.com/noia-network"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xa8c8cfb141a3bb59fea1e2ea6b79b5ecbcd7b6ca",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x957d1ad5214468332c5e6c00305a25116f9a46bb",
+      "decimals": 18
+    }
+  ]
 }

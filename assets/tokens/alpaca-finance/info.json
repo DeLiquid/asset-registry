@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/AlpacaFinance",
     "telegram": "https://t.me/alpacafinance",
     "github": "https://github.com/alpaca-finance/alpaca-contract"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+      "decimals": 18
+    }
+  ]
 }

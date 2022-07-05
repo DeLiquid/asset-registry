@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/riseofnebula",
     "telegram": "https://t.me/riseofnebula",
     "github": "https://github.com/RiseofNebula"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x40300e0045239fe76cd07251313f923b29df1e55",
+      "decimals": 9
+    }
+  ]
 }

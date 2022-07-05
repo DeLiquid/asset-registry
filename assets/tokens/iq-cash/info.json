@@ -12,5 +12,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=4360591",
     "telegram": "https://t.me/IQ_cash",
     "github": "https://github.com/IQ-Cash/mn_install"
-  }
+  },
+  "networks": []
 }

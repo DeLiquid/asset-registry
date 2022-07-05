@@ -11,5 +11,6 @@
     "telegram": "https://t.me/radix_dlt",
     "reddit": "https://www.reddit.com/r/Radix/",
     "github": "https://github.com/radixdlt"
-  }
+  },
+  "networks": []
 }

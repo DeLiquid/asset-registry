@@ -8,5 +8,13 @@
   "coingeckoId": "snowbank",
   "links": {
     "twitter": "https://twitter.com/SnowbankDAO"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x7d1232b90d3f809a54eeaeebc639c62df8a8942f",
+      "decimals": 9
+    }
+  ]
 }

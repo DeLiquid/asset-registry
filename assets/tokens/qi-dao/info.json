@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/0xLaoZi",
     "github": "https://github.com/0xlaozi/qidao"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0xa56f9a54880afbc30cf29bb66d2d9adcdcaeadd6",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4",
+      "decimals": 18
+    }
+  ]
 }

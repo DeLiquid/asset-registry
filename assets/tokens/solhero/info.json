@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/SolheroFi",
     "telegram": "https://t.me/SolheroFinance",
     "github": "https://github.com/solanahero"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "Hero6s7zJXsw9hfCXLVR5stLqgCok3E7CCkpQEoLAk2g",
+      "decimals": 6
+    }
+  ]
 }

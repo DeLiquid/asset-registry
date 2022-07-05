@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/savebabydoge",
     "telegram": "https://t.me/SaveBabyDoge"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x43f102bbd52259f2cfd0ef82e8807e3610ae3e40",
+      "decimals": 9
+    }
+  ]
 }

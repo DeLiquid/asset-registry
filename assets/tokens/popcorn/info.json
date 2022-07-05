@@ -11,5 +11,13 @@
     "telegram": "https://t.me/popcorndao",
     "reddit": "https://www.reddit.com/r/popcorndao/",
     "github": "https://github.com/popcorndao/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xd0cd466b34a24fcb2f87676278af2005ca8a78c4",
+      "decimals": 18
+    }
+  ]
 }

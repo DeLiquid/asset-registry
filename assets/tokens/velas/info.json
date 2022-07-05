@@ -13,5 +13,19 @@
     "telegram": "https://t.me/velascommunity",
     "reddit": "https://www.reddit.com/r/Velas/",
     "github": "https://github.com/velas"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xe9c803f48dffe50180bd5b01dc04da939e3445fc",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x8c543aed163909142695f2d2acd0d55791a9edb9",
+      "decimals": 18
+    }
+  ]
 }

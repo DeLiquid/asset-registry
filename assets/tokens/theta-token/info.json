@@ -12,5 +12,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2451089",
     "reddit": "https://www.reddit.com",
     "github": "https://github.com/thetatoken"
-  }
+  },
+  "networks": []
 }

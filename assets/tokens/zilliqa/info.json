@@ -12,5 +12,13 @@
     "telegram": "https://t.me/zilliqachat",
     "reddit": "https://www.reddit.com/r/zilliqa/",
     "github": "https://github.com/Zilliqa"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
+      "decimals": 12
+    }
+  ]
 }

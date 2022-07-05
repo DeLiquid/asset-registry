@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/TheUFOtoken",
     "telegram": "https://t.me/ufotokenofficial"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
+      "decimals": 18
+    }
+  ]
 }

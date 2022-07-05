@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/cocktailbarcoc",
     "telegram": "https://t.me/CocktailBar_Discussion"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x22b6c31c2beb8f2d0d5373146eed41ab9ede3caf",
+      "decimals": 8
+    }
+  ]
 }

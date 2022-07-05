@@ -8,5 +8,31 @@
   "coingeckoId": "binance-coin-wormhole",
   "links": {
     "twitter": "https://twitter.com/wormholecrypto"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x442f7f22b1ee2c842beaff52880d4573e9201158",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x418d75f65a02b3d53b2418fb8e1fe493759c7605",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d",
+      "decimals": 18
+    },
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
+      "decimals": 8
+    }
+  ]
 }

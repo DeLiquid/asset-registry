@@ -12,5 +12,13 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2540667",
     "telegram": "https://t.me/CoinMetro",
     "reddit": "https://www.reddit.com/r/CoinMetro"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25",
+      "decimals": 18
+    }
+  ]
 }

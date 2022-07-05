@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/genopets",
     "telegram": "https://t.me/Genopets",
     "reddit": "https://www.reddit.com/r/genopets/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x9df465460938f9ebdf51c38cc87d72184471f8f0",
+      "decimals": 18
+    },
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "GENEtH5amGSi8kHAtQoezp1XEXwZJ8vcuePYnXdKrMYz",
+      "decimals": 9
+    }
+  ]
 }

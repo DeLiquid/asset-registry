@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/alphacoin22",
     "telegram": "https://t.me/Alphacoinerc20"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x138c2f1123cf3f82e4596d097c118eac6684940b",
+      "decimals": 18
+    }
+  ]
 }

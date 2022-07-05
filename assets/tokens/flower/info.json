@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/flower_token",
     "telegram": "https://t.me/flower_token"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x6b9943e598d8da89757caa687ec141c961231fa8",
+      "decimals": 10
+    }
+  ]
 }

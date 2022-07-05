@@ -12,5 +12,13 @@
     "telegram": "https://t.me/revainorg",
     "reddit": "https://www.reddit.com/r/revain_org/",
     "github": "https://github.com/Revain/REVETHToken"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x2ef52ed7de8c5ce03a4ef0efbe9b7450f2d7edc9",
+      "decimals": 6
+    }
+  ]
 }

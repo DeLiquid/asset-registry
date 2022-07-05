@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/gfarmv2",
     "telegram": "https://t.me/GFarmTrading"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x831091da075665168e01898c6dac004a867f1e1b",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x7075cab6bcca06613e2d071bd918d1a0241379e2",
+      "decimals": 18
+    }
+  ]
 }

@@ -11,5 +11,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=1216479",
     "reddit": "https://www.reddit.com/r/Iota",
     "github": "https://github.com/iotaledger"
-  }
+  },
+  "networks": []
 }

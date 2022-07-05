@@ -8,5 +8,13 @@
   "coingeckoId": "aurory-wormhole",
   "links": {
     "twitter": "https://twitter.com/wormholecrypto"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xf5a367b7809e5683538c93ce638b9258a0b88271",
+      "decimals": 9
+    }
+  ]
 }

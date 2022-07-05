@@ -11,5 +11,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=262952",
     "reddit": "https://www.reddit.com/r/NEO",
     "github": "https://github.com/neo-project/neo"
-  }
+  },
+  "networks": []
 }

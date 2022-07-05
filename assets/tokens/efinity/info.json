@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/enjin",
     "telegram": "https://t.me/enjin",
     "reddit": "https://www.reddit.com/r/EnjinCoin/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x656c00e1bcd96f256f224ad9112ff426ef053733",
+      "decimals": 18
+    }
+  ]
 }

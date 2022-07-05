@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/cryptoagrocash",
     "telegram": "https://t.me/agrocashx"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xad759b4634bf48c982541c8db61b4581470b4974",
+      "decimals": 18
+    }
+  ]
 }

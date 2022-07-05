@@ -13,5 +13,6 @@
     "telegram": "https://t.me/DigiByteCoin",
     "reddit": "https://www.reddit.com/r/Digibyte",
     "github": "https://github.com/DigiByte-Core"
-  }
+  },
+  "networks": []
 }

@@ -11,5 +11,25 @@
     "facebook": "https://www.facebook.com/PlayMining",
     "telegram": "https://t.me/DEAPcoin_group",
     "github": "https://github.com/Digita-Entertainment-Asset/DEP"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0xd4d026322c88c2d49942a75dff920fcfbc5614c1",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xcaf5191fc480f43e4df80106c7695eca56e48b18",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x1a3496c18d558bd9c6c8f609e1b129f67ab08163",
+      "decimals": 18
+    }
+  ]
 }

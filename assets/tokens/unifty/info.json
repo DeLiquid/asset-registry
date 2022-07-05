@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/unifty_com",
     "telegram": "https://t.me/unifty"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x7e291890b01e5181f7ecc98d79ffbe12ad23df9e",
+      "decimals": 18
+    }
+  ]
 }

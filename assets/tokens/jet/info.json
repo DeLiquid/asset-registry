@@ -11,5 +11,13 @@
     "telegram": "https://t.me/jetprotocol",
     "reddit": "https://www.reddit.com/r/jetprotocol/",
     "github": "https://github.com/jet-lab/jet-v1/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "JET6zMJWkCN9tpRT2v2jfAmm5VnQFDpUBCyaKojmGtz",
+      "decimals": 9
+    }
+  ]
 }

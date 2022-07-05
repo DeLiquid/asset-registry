@@ -12,5 +12,13 @@
     "telegram": "https://t.me/quarkchainio",
     "reddit": "https://www.reddit.com/r/quarkchainio/",
     "github": "https://github.com/QuarkChain"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
+      "decimals": 18
+    }
+  ]
 }

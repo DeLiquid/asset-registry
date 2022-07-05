@@ -11,5 +11,6 @@
     "facebook": "https://www.facebook.com/bitcoins",
     "reddit": "https://www.reddit.com/r/Bitcoin/",
     "github": "https://github.com/bitcoin"
-  }
+  },
+  "networks": []
 }

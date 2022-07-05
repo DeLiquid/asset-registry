@@ -13,5 +13,6 @@
     "facebook": "https://www.facebook.com/tezosledger/",
     "whitepaper": "https://tezos.com/pdf/position_paper.pdf",
     "reddit": "https://www.reddit.com/r/tezos"
-  }
+  },
+  "networks": []
 }

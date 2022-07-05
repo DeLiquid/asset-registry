@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/bounce_finance",
     "telegram": "https://t.me/bounce_finance"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
+      "decimals": 18
+    }
+  ]
 }

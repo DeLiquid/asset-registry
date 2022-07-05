@@ -8,5 +8,13 @@
   "coingeckoId": "metalk",
   "links": {
     "twitter": "https://twitter.com/Metalk_DAO"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x364fcd7325c035cc4f2cde8b6c8d7df5e7db6589",
+      "decimals": 18
+    }
+  ]
 }

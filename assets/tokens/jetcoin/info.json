@@ -13,5 +13,13 @@
     "telegram": "https://t.me/jetcoins",
     "reddit": "https://www.reddit.com/r/Jetcoin",
     "github": "https://github.com/jetcoins/jetcoin"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x8727c112c712c4a03371ac87a74dd6ab104af768",
+      "decimals": 18
+    }
+  ]
 }

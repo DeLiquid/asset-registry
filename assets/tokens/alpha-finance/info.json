@@ -10,5 +10,25 @@
     "twitter": "https://twitter.com/alphaventuredao",
     "telegram": "https://t.me/AlphaFinanceLab",
     "github": "https://github.com/AlphaFinanceLab"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x2147efff675e4a4ee1c2f918d181cdbd7a8e208f",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "decimals": 18
+    }
+  ]
 }

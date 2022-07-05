@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/HuobiGlobal",
     "telegram": "https://t.me/huobiglobalofficial",
     "reddit": "https://www.reddit.com/r/huobi/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+      "decimals": 18
+    }
+  ]
 }

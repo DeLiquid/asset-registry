@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/SBonds_Finance",
     "telegram": "https://t.me/SuperBonds"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "SuperbZyz7TsSdSoFAZ6RYHfAWe9NmjXBLVQpS8hqdx",
+      "decimals": 6
+    }
+  ]
 }

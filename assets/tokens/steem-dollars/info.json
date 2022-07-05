@@ -12,5 +12,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=1410943",
     "reddit": "https://www.reddit.com/r/steemit",
     "github": "https://github.com/steemit/steem"
-  }
+  },
+  "networks": []
 }

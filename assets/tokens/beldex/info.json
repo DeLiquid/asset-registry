@@ -12,5 +12,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=5050775",
     "telegram": "https://t.me/beldexcoin",
     "github": "https://github.com/Beldex-Coin/beldex"
-  }
+  },
+  "networks": []
 }

@@ -10,5 +10,31 @@
     "twitter": "https://twitter.com/radioshack",
     "telegram": "https://t.me/radioshackfairlaunch",
     "github": "https://github.com/radioshackswap"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x02bfd11499847003de5f0f5aa081c43854d48815",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x30807d3b851a31d62415b8bb7af7dca59390434a",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x7a5d3a9dcd33cb8d527f7b5f96eb4fef43d55636",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x613a489785c95afeb3b404cc41565ccff107b6e0",
+      "decimals": 18
+    }
+  ]
 }

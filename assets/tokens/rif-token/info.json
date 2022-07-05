@@ -11,5 +11,6 @@
     "telegram": "https://t.me/rif_os_community",
     "reddit": "https://www.reddit.com/r/rootstock/",
     "github": "https://github.com/riflabs/RIF-Token"
-  }
+  },
+  "networks": []
 }

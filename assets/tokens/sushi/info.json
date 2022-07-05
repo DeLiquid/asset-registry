@@ -8,5 +8,37 @@
   "coingeckoId": "sushi",
   "links": {
     "twitter": "https://twitter.com/sushiswap"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+      "decimals": 18
+    },
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "ChVzxWRmrTeSgwd3Ui3UumcN8KX7VK3WaD4KGeSKpypj",
+      "decimals": 8
+    }
+  ]
 }

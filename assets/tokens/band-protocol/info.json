@@ -11,5 +11,13 @@
     "telegram": "https://t.me/bandprotocol",
     "reddit": "https://www.reddit.com/r/bandprotocol",
     "github": "https://github.com/bandprotocol/bandchain"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+      "decimals": 18
+    }
+  ]
 }

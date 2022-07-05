@@ -14,5 +14,6 @@
     "telegram": "https://t.me/arkannouncements",
     "whitepaper": "https://ark.io/whitepaper/",
     "reddit": "https://www.reddit.com/r/ArkEcosystem"
-  }
+  },
+  "networks": []
 }

@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/auroryproject",
     "telegram": "https://t.me/aurory_project"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP",
+      "decimals": 9
+    }
+  ]
 }

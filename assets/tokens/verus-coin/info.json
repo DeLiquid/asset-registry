@@ -11,5 +11,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=4070404",
     "reddit": "https://www.reddit.com/r/VerusCoin/",
     "github": "https://github.com/VerusCoin/VerusCoin"
-  }
+  },
+  "networks": []
 }

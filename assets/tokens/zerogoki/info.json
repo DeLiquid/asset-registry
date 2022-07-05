@@ -10,5 +10,25 @@
     "twitter": "https://twitter.com/0Zerogoki",
     "telegram": "https://t.me/zerogokigroup",
     "github": "https://github.com/duet-protocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x765b85839717ebfc84378b83381a4814897a0506",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x011864d37035439e078d64630777ec518138af05",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xb9f9e37c2cdbaff928c3da730b02f06fe09ae70e",
+      "decimals": 18
+    }
+  ]
 }

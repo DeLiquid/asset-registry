@@ -8,5 +8,25 @@
   "coingeckoId": "pancakeswap-wormhole",
   "links": {
     "twitter": "https://twitter.com/wormholecrypto"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x98a4d09036cc5337810096b1d004109686e56afc",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x7c8161545717a334f3196e765d9713f8042ef338",
+      "decimals": 18
+    },
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S",
+      "decimals": 8
+    }
+  ]
 }

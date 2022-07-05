@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/MyNeighborAlice",
     "telegram": "https://t.me/MyNeighborAlice",
     "reddit": "https://www.reddit.com"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
+      "decimals": 6
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
+      "decimals": 6
+    }
+  ]
 }

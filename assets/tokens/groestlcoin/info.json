@@ -12,5 +12,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=525926",
     "reddit": "https://www.reddit.com/r/groestlcoin",
     "github": "https://github.com/GroestlCoin/GroestlCoin"
-  }
+  },
+  "networks": []
 }

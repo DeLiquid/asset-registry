@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/HyperoneO",
     "telegram": "https://t.me/hyperone_official"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xb15e296636cd8c447f0d2564ce4d7dfe4a72a910",
+      "decimals": 18
+    }
+  ]
 }

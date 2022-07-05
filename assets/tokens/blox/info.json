@@ -15,5 +15,13 @@
     "whitepaper": "https://www.coindash.io/wp-content/uploads/2017/05/CoinDashwhitepaper-v0.3-051317.pdf",
     "reddit": "https://www.reddit.com/r/Blox_io/",
     "github": "https://github.com/bloxapp"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af",
+      "decimals": 18
+    }
+  ]
 }

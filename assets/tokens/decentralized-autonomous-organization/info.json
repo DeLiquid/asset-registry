@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/DAO_cash",
     "telegram": "https://t.me/daocashorg",
     "github": "https://github.com/DAO-CASH"
-  }
+  },
+  "networks": []
 }

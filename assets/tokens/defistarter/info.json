@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/DfiStarterPad",
     "telegram": "https://t.me/DfiStarterOfficial",
     "github": "https://github.com/DfiStarter"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x239ec95667e37929d33066a8df8ddc9444dbcbca",
+      "decimals": 18
+    }
+  ]
 }

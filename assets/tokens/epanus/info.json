@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/epanustoken",
     "telegram": "https://t.me/EPANUSTOKEN"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x50ec35d1e18d439f02fa895746fc3e1bef311780",
+      "decimals": 18
+    }
+  ]
 }

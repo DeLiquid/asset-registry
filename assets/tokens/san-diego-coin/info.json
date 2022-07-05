@@ -11,5 +11,6 @@
     "telegram": "https://t.me/sandiegocoin",
     "reddit": "https://www.reddit.com/r/SanDiegoCoin/",
     "github": "https://github.com/ackza/SAND"
-  }
+  },
+  "networks": []
 }

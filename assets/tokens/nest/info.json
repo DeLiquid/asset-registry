@@ -10,5 +10,25 @@
     "twitter": "https://twitter.com/nest_protocol",
     "telegram": "https://t.me/nest_chat",
     "github": "https://github.com/NEST-Protocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x98f8669f6481ebb341b522fcd3663f79a3d1a6a7",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x04abeda201850ac0124161f037efd70c74ddc74c",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x98f8669f6481ebb341b522fcd3663f79a3d1a6a7",
+      "decimals": 18
+    }
+  ]
 }

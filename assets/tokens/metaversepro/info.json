@@ -11,5 +11,13 @@
     "telegram": "https://t.me/CongruentFi",
     "reddit": "https://www.reddit.com",
     "github": "https://github.com/MetaversePRO"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x0a2046c7faa5a5f2b38c0599deb4310ab781cc83",
+      "decimals": 9
+    }
+  ]
 }

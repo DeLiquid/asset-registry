@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/multigame_org",
     "telegram": "https://t.me/multigame_chat"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x3e6c9ee69b90b53628051f8d6cb5b6b2eaccb438",
+      "decimals": 18
+    }
+  ]
 }

@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/AlchemyPay",
     "facebook": "https://www.facebook.com/AlchemyGPS",
     "telegram": "https://t.me/Alchemy_official"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xbc7d6b50616989655afd682fb42743507003056d",
+      "decimals": 8
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xed04915c23f00a313a544955524eb7dbd823143d",
+      "decimals": 8
+    }
+  ]
 }

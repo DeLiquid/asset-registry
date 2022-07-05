@@ -12,5 +12,6 @@
     "telegram": "https://t.me/zelhub",
     "reddit": "https://www.reddit.com/r/Flux_Official/",
     "github": "https://github.com/runonflux"
-  }
+  },
+  "networks": []
 }

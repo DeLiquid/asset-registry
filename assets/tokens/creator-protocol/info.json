@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/CreatorProtocol",
     "telegram": "https://t.me/creatorprotocoloffical",
     "github": "https://github.com/CreatorProtocol/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xc2c14affaddee38d7375c400d144251a87d2c34a",
+      "decimals": 9
+    }
+  ]
 }

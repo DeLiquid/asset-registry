@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/AcalaNetwork",
     "telegram": "https://t.me/acalaofficial",
     "github": "https://github.com/AcalaNetwork/Acala"
-  }
+  },
+  "networks": []
 }

@@ -11,5 +11,6 @@
     "telegram": "https://t.me/flamingo_finance",
     "reddit": "https://www.reddit.com/r/FlamingoDeFi/",
     "github": "https://github.com/flamingo-finance"
-  }
+  },
+  "networks": []
 }

@@ -9,5 +9,13 @@
   "links": {
     "telegram": "https://t.me/DogDataICO",
     "reddit": "https://www.reddit.com/r/AskDogExpert"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x67915e893b68fbc436a288564fff1476b632b009",
+      "decimals": 18
+    }
+  ]
 }

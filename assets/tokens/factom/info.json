@@ -13,5 +13,6 @@
     "telegram": "https://t.me/FactomProtocol",
     "reddit": "https://www.reddit.com/r/factom",
     "github": "https://github.com/FactomProject/factomd"
-  }
+  },
+  "networks": []
 }

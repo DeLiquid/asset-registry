@@ -11,5 +11,13 @@
     "telegram": "https://t.me/APEXcommunity",
     "reddit": "https://www.reddit.com/r/RedPulseToken/",
     "github": "https://github.com/phoenixglobal"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x0409633a72d846fc5bbe2f98d88564d35987904d",
+      "decimals": 18
+    }
+  ]
 }

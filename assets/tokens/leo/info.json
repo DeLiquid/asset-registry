@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/KimRock7125",
     "telegram": "https://t.me/LeoRock7125",
     "github": "https://github.com/SGRTeam/SGR"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xda38d8facd3875daad437839308f1885646dfbb6",
+      "decimals": 18
+    }
+  ]
 }

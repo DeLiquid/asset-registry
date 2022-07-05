@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/blox_staking",
     "github": "https://github.com/bloxapp/ssv-web"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x9d65ff81a3c488d585bbfb0bfe3c7707c7917f54",
+      "decimals": 18
+    }
+  ]
 }

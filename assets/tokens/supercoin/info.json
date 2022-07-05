@@ -12,5 +12,6 @@
     "telegram": "https://t.me/Supercoingroup",
     "reddit": "https://www.reddit.com/r/supercoin",
     "github": "https://github.com/thirstygerry/SuperCoinv2"
-  }
+  },
+  "networks": []
 }

@@ -12,5 +12,6 @@
     "telegram": "https://t.me/DeroProjectGroup",
     "reddit": "https://www.reddit.com/r/DeroProject/",
     "github": "https://github.com/deroproject"
-  }
+  },
+  "networks": []
 }

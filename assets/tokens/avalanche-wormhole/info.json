@@ -8,5 +8,31 @@
   "coingeckoId": "avalanche-wormhole",
   "links": {
     "twitter": "https://twitter.com/wormholecrypto"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x96412902aa9aff61e13f085e70d3152c6ef2a817",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x85f138bfee4ef8e540890cfb48f620571d67eda3",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x7bb11e7f8b10e9e571e5d8eace04735fdfb2358a",
+      "decimals": 18
+    },
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE",
+      "decimals": 8
+    }
+  ]
 }

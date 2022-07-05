@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/FreewayFi",
     "telegram": "https://t.me/FreewayFi_Official_Community"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x893169619461d3aba810a40b5403c62f27e703f9",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x4a7397b0b86bb0f9482a3f4f16de942f04e88702",
+      "decimals": 18
+    }
+  ]
 }

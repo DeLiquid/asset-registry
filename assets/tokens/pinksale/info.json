@@ -11,5 +11,13 @@
     "telegram": "https://t.me/pinkecosystem",
     "reddit": "https://www.reddit.com/r/PinkMoon/",
     "github": "https://github.com/pinkmoonfinance"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x602ba546a7b06e0fc7f58fd27eb6996ecc824689",
+      "decimals": 18
+    }
+  ]
 }

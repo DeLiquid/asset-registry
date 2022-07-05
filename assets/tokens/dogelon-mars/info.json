@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/dogelonmars",
     "telegram": "https://t.me/DogelonMars",
     "reddit": "https://www.reddit.com/r/dogelon/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xe0339c80ffde91f3e20494df88d4206d86024cdf",
+      "decimals": 18
+    }
+  ]
 }

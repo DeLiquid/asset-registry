@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/bitcoingold",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2284289",
     "github": "https://github.com/BTCGPU/BTCGPU"
-  }
+  },
+  "networks": []
 }

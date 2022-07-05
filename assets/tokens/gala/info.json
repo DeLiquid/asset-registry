@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/GoGalaGames",
     "facebook": "https://www.facebook.com/GoGalaGames",
     "reddit": "https://www.reddit.com/r/GoGalaGames/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x7ddee176f665cd201f93eede625770e2fd911990",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da",
+      "decimals": 8
+    }
+  ]
 }

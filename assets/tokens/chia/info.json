@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/chia_project",
     "reddit": "https://www.reddit.com/r/chia/",
     "github": "https://github.com/Chia-Network"
-  }
+  },
+  "networks": []
 }

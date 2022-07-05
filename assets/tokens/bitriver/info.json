@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/BitRiverMining",
     "facebook": "https://www.facebook.com/BitRiverMining",
     "telegram": "https://t.me/bitriver_btr_english"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xcce63fd31e9053c110c74cebc37c8e358a6aa5bd",
+      "decimals": 4
+    }
+  ]
 }

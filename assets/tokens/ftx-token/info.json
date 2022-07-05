@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/FTX_official",
     "telegram": "https://t.me/FTX_Official"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+      "decimals": 18
+    },
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3",
+      "decimals": 6
+    }
+  ]
 }

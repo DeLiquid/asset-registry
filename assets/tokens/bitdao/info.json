@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/BitDAO_Official",
     "telegram": "https://t.me/BitDAO_Official",
     "reddit": "https://www.reddit.com/r/BitDAO/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x1a4b46696b2bb4794eb3d4c26f1c55f9170fa4c5",
+      "decimals": 18
+    }
+  ]
 }

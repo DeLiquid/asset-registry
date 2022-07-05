@@ -12,5 +12,6 @@
     "telegram": "https://t.me/constellationcommunity",
     "reddit": "https://www.reddit.com/r/constellation/",
     "github": "https://github.com/Constellation-Labs/constellation"
-  }
+  },
+  "networks": []
 }

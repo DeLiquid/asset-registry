@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/GameXOfficial1",
     "telegram": "https://t.me/GameXTokenOfficial"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xc62ef0d8e137499833abb05dee47007d2b334ba6",
+      "decimals": 9
+    }
+  ]
 }

@@ -13,5 +13,13 @@
     "telegram": "https://t.me/nknorg",
     "reddit": "https://www.reddit.com/r/nknblockchain/",
     "github": "https://github.com/nknorg"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x5cf04716ba20127f1e2297addcf4b5035000c9eb",
+      "decimals": 18
+    }
+  ]
 }

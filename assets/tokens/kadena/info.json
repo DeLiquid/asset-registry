@@ -12,5 +12,6 @@
     "telegram": "https://t.me/kadena_io",
     "reddit": "https://www.reddit.com/r/kadena/",
     "github": "https://github.com/kadena-io"
-  }
+  },
+  "networks": []
 }

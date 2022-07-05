@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/klever_io",
     "telegram": "https://t.me/Klever_io",
     "github": "https://github.com/klever-app"
-  }
+  },
+  "networks": []
 }

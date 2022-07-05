@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/aavegotchi",
     "telegram": "https://t.me/aavegotchi",
     "github": "https://github.com/aavegotchi"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+      "decimals": 18
+    }
+  ]
 }

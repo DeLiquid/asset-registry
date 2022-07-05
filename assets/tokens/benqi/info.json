@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/BenqiFinance",
     "telegram": "https://t.me/BenqiFinance"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+      "decimals": 18
+    }
+  ]
 }

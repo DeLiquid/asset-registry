@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/ApolloX_com",
     "telegram": "https://t.me/apollox_com",
     "reddit": "https://www.reddit.com/r/ApolloX_com/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x78f5d389f5cdccfc41594abab4b0ed02f31398b3",
+      "decimals": 18
+    }
+  ]
 }

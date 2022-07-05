@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/SWallet_ai",
     "telegram": "https://t.me/SWallet_ai"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xe0648e1d220f8449769a4557498af6f1211368c4",
+      "decimals": 6
+    }
+  ]
 }

@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/clvbiz",
     "telegram": "https://t.me/clvfi",
     "github": "http://github.com/clvfi"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x22222c03318440305ac3e8a7820563d6a9fd777f",
+      "decimals": 6
+    }
+  ]
 }

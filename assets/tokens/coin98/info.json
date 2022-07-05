@@ -10,5 +10,25 @@
     "twitter": "https://twitter.com/coin98_wallet",
     "telegram": "https://t.me/coin98_wallet",
     "github": "https://github.com/coin98"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xae12c5930881c53715b369cec7606b70d8eb229f",
+      "decimals": 18
+    },
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9",
+      "decimals": 6
+    }
+  ]
 }

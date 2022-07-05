@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/GreekMythologyToken",
     "telegram": "https://t.me/GreekMythologyToken",
     "github": "https://github.com/greekmythologytokenBSC/GMT_Token/blob/main/GMT1.sol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x7a59ce9c4248f8b078fd96d9965e6e5dc8e6f0a8",
+      "decimals": 9
+    }
+  ]
 }

@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/bitmartexchange",
     "telegram": "https://t.me/BitMartExchange",
     "reddit": "https://www.reddit.com/r/BitMartExchange/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8",
+      "decimals": 18
+    }
+  ]
 }

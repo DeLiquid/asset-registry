@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/BellaProtocol",
     "telegram": "https://t.me/bellaprotocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x8443f091997f06a61670b735ed92734f5628692f",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
+      "decimals": 18
+    }
+  ]
 }

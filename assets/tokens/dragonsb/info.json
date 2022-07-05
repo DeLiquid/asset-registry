@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/sbgroup_finance",
     "telegram": "https://t.me/dragonsb_offical"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xb7258450681f4aad0ab24e336648d44a6696b30f",
+      "decimals": 6
+    }
+  ]
 }

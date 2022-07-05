@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/bnb48club",
     "telegram": "https://t.me/bnb48club_en",
     "github": "https://github.com/BNB48Club"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xe6df05ce8c8301223373cf5b969afcb1498c5528",
+      "decimals": 18
+    }
+  ]
 }

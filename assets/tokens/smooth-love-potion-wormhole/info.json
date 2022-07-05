@@ -8,5 +8,13 @@
   "coingeckoId": "smooth-love-potion-wormhole",
   "links": {
     "twitter": "https://twitter.com/wormholecrypto"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "4hpngEp1v3CXpeKB81Gw4sv7YvwUVRKvY3SGag9ND8Q4",
+      "decimals": 8
+    }
+  ]
 }

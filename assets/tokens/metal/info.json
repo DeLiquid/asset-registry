@@ -13,5 +13,13 @@
     "telegram": "https://t.me/MetalPayCommunity",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2007466",
     "reddit": "https://www.reddit.com/r/MetalPay/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xf433089366899d83a9f26a773d59ec7ecf30355e",
+      "decimals": 8
+    }
+  ]
 }

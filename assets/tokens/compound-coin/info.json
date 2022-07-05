@@ -11,5 +11,6 @@
     "facebook": "https://www.facebook.com/Compound-Coin-344665469272160",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2220277",
     "github": "https://github.com/compounddev/Compound-Coin"
-  }
+  },
+  "networks": []
 }

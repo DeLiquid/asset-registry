@@ -12,5 +12,6 @@
     "telegram": "https://t.me/ergoplatform",
     "reddit": "https://www.reddit.com/r/ergonauts/",
     "github": "https://github.com/ergoplatform/ergo"
-  }
+  },
+  "networks": []
 }

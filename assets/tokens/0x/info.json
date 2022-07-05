@@ -16,5 +16,19 @@
     "whitepaper": "https://www.0xproject.com/pdfs/0x_white_paper.pdf",
     "telegram": "https://t.me/official_0x",
     "reddit": "https://www.reddit.com/r/0xProject/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x596fa47043f99a4e0f122243b841e55375cde0d2",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+      "decimals": 18
+    }
+  ]
 }

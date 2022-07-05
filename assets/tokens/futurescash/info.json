@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/FuturesCash",
     "telegram": "https://t.me/FuturesFoundation"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xce7709b026ed17b25fedf64b6a4c48f23580c429",
+      "decimals": 18
+    }
+  ]
 }

@@ -11,5 +11,6 @@
     "facebook": "https://www.facebook.com/NearProtocol/",
     "telegram": "https://t.me/cryptonear",
     "github": "https://github.com/near"
-  }
+  },
+  "networks": []
 }

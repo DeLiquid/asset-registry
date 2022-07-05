@@ -11,5 +11,19 @@
     "facebook": "https://www.facebook.com/globaltrustcoin",
     "telegram": "https://t.me/globaltrustcoin",
     "github": "https://github.com/GTIBCOIN/tokenbase"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x6cd871fb811224aa23b6bf1646177cdfe5106416",
+      "decimals": 4
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xe138fda441fc31b36171122397a8a11d6cd2c479",
+      "decimals": 0
+    }
+  ]
 }

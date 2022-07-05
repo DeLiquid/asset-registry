@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/TornadoCash",
     "telegram": "https://t.me/TornadoCashOfficial",
     "github": "https://github.com/tornadocash/tornado-core"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x1ba8d3c4c219b124d351f603060663bd1bcd9bbf",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x77777feddddffc19ff86db637967013e6c6a116c",
+      "decimals": 18
+    }
+  ]
 }

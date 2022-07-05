@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/linanetwork.Intl",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=5091232",
     "telegram": "https://t.me/linareviewintl"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xc05d14442a510de4d3d71a3d316585aa0ce32b50",
+      "decimals": 18
+    }
+  ]
 }

@@ -12,5 +12,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=1428573",
     "reddit": "https://www.reddit.com/r/stellar",
     "github": "https://github.com/stellar"
-  }
+  },
+  "networks": []
 }

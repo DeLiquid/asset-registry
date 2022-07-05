@@ -11,5 +11,19 @@
     "telegram": "https://t.me/fantom_english",
     "reddit": "https://www.reddit.com/r/FantomFoundation/",
     "github": "https://github.com/Fantom-foundation/go-lachesis"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xad29abb318791d579433d831ed122afeaf29dcfe",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+      "decimals": 18
+    }
+  ]
 }

@@ -6,5 +6,13 @@
   "website": "https://yearn.fi/lend",
   "description": "",
   "coingeckoId": "iron-bank-euro",
-  "links": {}
+  "links": {},
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27",
+      "decimals": 18
+    }
+  ]
 }

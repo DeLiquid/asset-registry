@@ -15,5 +15,13 @@
     "whitepaper": "https://smartlands.io/documents/White_paper_2208.pdf",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2157763",
     "reddit": "https://www.reddit.com"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x2456493e757fdeedf569781f053998a72adfad03",
+      "decimals": 6
+    }
+  ]
 }

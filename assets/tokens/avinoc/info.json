@@ -13,5 +13,13 @@
     "telegram": "https://t.me/AVINOC",
     "reddit": "https://www.reddit.com/r/AVINOC/",
     "github": "https://github.com/AVINOCICO"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xf1ca9cb74685755965c7458528a36934df52a3ef",
+      "decimals": 18
+    }
+  ]
 }

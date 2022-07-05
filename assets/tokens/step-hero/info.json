@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/StepHeroNFTs",
     "telegram": "https://t.me/stephero_chat",
     "reddit": "https://www.reddit.com/r/StepHero/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xe8176d414560cfe1bf82fd73b986823b89e4f545",
+      "decimals": 18
+    }
+  ]
 }

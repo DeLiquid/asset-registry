@@ -11,5 +11,6 @@
     "telegram": "https://t.me/wax_io",
     "reddit": "https://www.reddit.com/r/WAX_io",
     "github": "https://github.com/worldwide-asset-exchange"
-  }
+  },
+  "networks": []
 }

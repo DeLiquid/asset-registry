@@ -12,5 +12,13 @@
     "telegram": "https://t.me/marlinprotocol",
     "reddit": "https://www.reddit.com/r/marlinprotocol/",
     "github": "https://github.com/marlinprotocol/OpenWeaver"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x57b946008913b82e4df85f501cbaed910e58d26c",
+      "decimals": 18
+    }
+  ]
 }

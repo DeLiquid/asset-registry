@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/DRIPcommunity",
     "telegram": "https://t.me/The_Animal_Farm"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x276b440fdb4c54631c882cac9e4317929e751ff8",
+      "decimals": 18
+    }
+  ]
 }

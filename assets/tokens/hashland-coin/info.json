@@ -11,5 +11,13 @@
     "telegram": "https://t.me/HashLand_NFT",
     "reddit": "https://www.reddit.com/r/hashland_community/",
     "github": "https://github.com/HashlandGamefi"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xa6e78ad3c9b4a79a01366d01ec4016eb3075d7a0",
+      "decimals": 18
+    }
+  ]
 }

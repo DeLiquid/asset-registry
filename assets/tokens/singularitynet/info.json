@@ -15,5 +15,13 @@
     "whitepaper": "https://public.singularitynet.io/whitepaper.pdf",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2491147",
     "reddit": "https://www.reddit.com/r/SingularityNetsub/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x5b7533812759b45c2b44c19e320ba2cd2681b542",
+      "decimals": 8
+    }
+  ]
 }

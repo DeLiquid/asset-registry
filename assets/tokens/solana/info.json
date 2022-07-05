@@ -11,5 +11,22 @@
     "telegram": "https://t.me/solana",
     "reddit": "https://www.reddit.com/r/solana",
     "github": "https://github.com/solana-labs/solana"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "devnet",
+      "decimals": 9
+    },
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "decimals": 9
+    },
+    {
+      "chain": "solana",
+      "network": "testnet",
+      "decimals": 9
+    }
+  ]
 }

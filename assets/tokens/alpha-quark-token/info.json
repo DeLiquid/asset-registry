@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/Alphaquark_",
     "telegram": "https://t.me/AlphaQuark",
     "github": "https://github.com/alphaquark/Alpha-Quark"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x2a9bdcff37ab68b95a53435adfd8892e86084f93",
+      "decimals": 18
+    }
+  ]
 }

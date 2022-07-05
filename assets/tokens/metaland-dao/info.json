@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/DaoMetaland",
     "telegram": "https://t.me/metalanddao"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xe3502567872cb3310143d7e00ae7c93e63315862",
+      "decimals": 18
+    }
+  ]
 }

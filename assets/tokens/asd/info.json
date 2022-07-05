@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/BitMaxOfficial",
     "telegram": "https://t.me/AscendEXEnglish",
     "reddit": "https://www.reddit.com/r/Ascendex/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xff742d05420b6aca4481f635ad8341f81a6300c2",
+      "decimals": 18
+    }
+  ]
 }

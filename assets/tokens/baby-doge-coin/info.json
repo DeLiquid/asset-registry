@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/babydogecoin",
     "telegram": "https://t.me/babydogecoin"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xc748673057861a797275cd8a068abb95a902e8de",
+      "decimals": 9
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xac57de9c1a09fec648e93eb98875b212db0d460b",
+      "decimals": 9
+    }
+  ]
 }

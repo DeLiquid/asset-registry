@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/paxosglobal",
     "facebook": "https://www.facebook.com/paxosglobal",
     "github": "https://github.com/paxosglobal/paxos-gold-contract"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+      "decimals": 18
+    }
+  ]
 }

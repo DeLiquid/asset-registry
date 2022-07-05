@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/bakery_swap",
     "telegram": "https://t.me/bakeryswap",
     "github": "https://github.com/BakeryProject"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
+      "decimals": 18
+    }
+  ]
 }

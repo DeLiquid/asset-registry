@@ -12,5 +12,6 @@
     "telegram": "https://t.me/nervosnetwork",
     "reddit": "https://www.reddit.com/r/NervosNetwork/",
     "github": "https://github.com/nervosnetwork"
-  }
+  },
+  "networks": []
 }

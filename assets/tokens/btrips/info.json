@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/Btrips_Project",
     "telegram": "https://t.me/btripsglobalchat",
     "github": "https://github.com/hyunter7/BTRToken/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x5ea82c27efc7634f1c5ad20a3561c453433a2f3a",
+      "decimals": 18
+    }
+  ]
 }

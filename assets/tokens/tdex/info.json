@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/MetaTdex",
     "telegram": "https://t.me/TDEX_groupCN"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x445cc9518cf7bc7386a2e3aaf510650b0fb05f5f",
+      "decimals": 18
+    }
+  ]
 }

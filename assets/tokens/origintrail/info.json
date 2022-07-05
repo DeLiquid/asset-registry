@@ -16,5 +16,13 @@
     "whitepaper": "https://origintrail.io/wp-content/uploads/2017/10/OriginTrail-White-Paper.pdf",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=2436140",
     "reddit": "https://www.reddit.com/r/origintrail"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+      "decimals": 18
+    }
+  ]
 }

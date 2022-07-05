@@ -11,5 +11,25 @@
     "telegram": "https://t.me/graphprotocol",
     "reddit": "https://www.reddit.com/r/thegraph",
     "github": "https://github.com/graphprotocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0x8a0cac13c7da965a312f08ea4229c37869e85cb9",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
+      "decimals": 18
+    }
+  ]
 }

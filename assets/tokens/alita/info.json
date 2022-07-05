@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/AlitaFinance",
     "telegram": "https://t.me/ALita_Finance",
     "github": "https://github.com/alita-finance/alita-token"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x557233e794d1a5fbcc6d26dca49147379ea5073c",
+      "decimals": 18
+    }
+  ]
 }

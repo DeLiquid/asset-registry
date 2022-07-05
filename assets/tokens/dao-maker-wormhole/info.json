@@ -8,5 +8,6 @@
   "coingeckoId": "dao-maker-wormhole",
   "links": {
     "twitter": "https://twitter.com/wormholecrypto"
-  }
+  },
+  "networks": []
 }

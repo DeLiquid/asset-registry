@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/MetisDAO",
     "telegram": "https://t.me/MetisDAO",
     "github": "https://github.com/MetisProtocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xe552fb52a4f19e44ef5a967632dbc320b0820639",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x9e32b13ce7f2e80a01932b42553652e053d6ed8e",
+      "decimals": 18
+    }
+  ]
 }

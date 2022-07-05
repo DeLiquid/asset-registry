@@ -12,5 +12,13 @@
     "twitter": "https://twitter.com/ethstatus",
     "facebook": "https://www.facebook.com/ethstatus",
     "reddit": "https://www.reddit.com/r/statusim/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+      "decimals": 18
+    }
+  ]
 }

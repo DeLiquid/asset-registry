@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/ankr",
     "telegram": "https://t.me/stkrsupport",
     "github": "https://github.com/Ankr-network/stkr-smartcontract-public"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
+      "decimals": 18
+    }
+  ]
 }

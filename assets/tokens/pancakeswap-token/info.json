@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/pancakeswap",
     "telegram": "https://t.me/PancakeSwap",
     "github": "https://github.com/pancakeswap"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "decimals": 18
+    }
+  ]
 }

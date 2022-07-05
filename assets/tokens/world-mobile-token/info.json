@@ -11,5 +11,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=5343042",
     "telegram": "https://t.me/WorldMobileTeam",
     "reddit": "https://www.reddit.com"
-  }
+  },
+  "networks": []
 }

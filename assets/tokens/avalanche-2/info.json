@@ -11,5 +11,29 @@
     "telegram": "https://t.me/avalancheavax",
     "reddit": "https://www.reddit.com/r/Avax",
     "github": "https://github.com/ava-labs/avalanchego"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "fuji",
+      "decimals": 18
+    },
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
+      "decimals": 18
+    },
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "7JnHPPJBBKSTJ7iEmsiGSBcPJgbcKw28uCRXtQgimncp",
+      "decimals": 8
+    }
+  ]
 }

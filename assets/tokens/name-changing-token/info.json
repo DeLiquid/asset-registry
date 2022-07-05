@@ -8,5 +8,13 @@
   "coingeckoId": "name-changing-token",
   "links": {
     "twitter": "https://twitter.com/TheHashmasks"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x8a9c4dfe8b9d8962b31e4e16f8321c44d48e246e",
+      "decimals": 18
+    }
+  ]
 }

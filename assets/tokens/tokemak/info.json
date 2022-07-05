@@ -8,5 +8,13 @@
   "coingeckoId": "tokemak",
   "links": {
     "twitter": "https://twitter.com/TokenReactor"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x2e9d63788249371f1dfc918a52f8d799f4a38c94",
+      "decimals": 18
+    }
+  ]
 }

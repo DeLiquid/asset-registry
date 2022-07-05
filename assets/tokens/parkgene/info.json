@@ -13,5 +13,13 @@
     "telegram": "https://t.me/parkgene",
     "reddit": "https://www.reddit.com/r/PARKGENE/",
     "github": "https://github.com/PARKGENE/ERC20-SmartContract"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x6dd4e4aad29a40edd6a409b9c1625186c9855b4d",
+      "decimals": 8
+    }
+  ]
 }

@@ -11,5 +11,6 @@
     "telegram": "https://t.me/algorand",
     "reddit": "https://www.reddit.com",
     "github": "https://github.com/algorand"
-  }
+  },
+  "networks": []
 }

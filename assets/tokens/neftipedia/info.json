@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/neftipedia",
     "telegram": "https://t.me/iamneftipedia",
     "github": "https://github.com/NEFTiPEDiA"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xfaab744db9def8e13194600ed02bc5d5bed3b85c",
+      "decimals": 16
+    }
+  ]
 }

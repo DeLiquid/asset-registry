@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/QredoNetwork",
     "telegram": "https://t.me/qredonetwork",
     "github": "https://github.com/qredo"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463",
+      "decimals": 8
+    }
+  ]
 }

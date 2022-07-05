@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/NervChain",
     "telegram": "https://t.me/NervChain"
-  }
+  },
+  "networks": [
+    {
+      "chain": "solana",
+      "network": "mainnet",
+      "address": "BtnUizMTmDdKxP3hZhQhZMUXF9RZZaZJvcNDFLiRbZ5e",
+      "decimals": 0
+    }
+  ]
 }

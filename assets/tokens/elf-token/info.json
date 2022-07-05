@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/elf_token",
     "telegram": "https://t.me/Elf_Token"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x82ca3300a503cc10b56d2ca487bdf81d5fa09eb2",
+      "decimals": 18
+    }
+  ]
 }

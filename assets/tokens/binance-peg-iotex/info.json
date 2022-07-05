@@ -11,5 +11,13 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=3099670",
     "telegram": "https://t.me/IoTeXGroup",
     "reddit": "https://www.reddit.com"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
+      "decimals": 18
+    }
+  ]
 }

@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/xixo_ecosystem",
     "telegram": "https://t.me/xixoecosystem_official"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x4d864e4f542b4b40acb3151c9dad2e2c9236a88f",
+      "decimals": 6
+    }
+  ]
 }

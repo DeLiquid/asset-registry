@@ -11,5 +11,13 @@
     "telegram": "https://t.me/Verasity_Official",
     "reddit": "https://www.reddit.com",
     "github": "https://github.com/verasitytech/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xf411903cbc70a74d22900a5de66a2dda66507255",
+      "decimals": 18
+    }
+  ]
 }

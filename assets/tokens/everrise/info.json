@@ -10,5 +10,31 @@
     "twitter": "https://twitter.com/everrise",
     "telegram": "https://t.me/everriseofficial",
     "reddit": "https://www.reddit.com/r/EverRise"
-  }
+  },
+  "networks": [
+    {
+      "chain": "avalanche-c",
+      "network": "mainnet",
+      "address": "0xc17c30e98541188614df99239cabd40280810ca3",
+      "decimals": 18
+    },
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xc17c30e98541188614df99239cabd40280810ca3",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xc17c30e98541188614df99239cabd40280810ca3",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xc17c30e98541188614df99239cabd40280810ca3",
+      "decimals": 18
+    }
+  ]
 }

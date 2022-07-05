@@ -12,5 +12,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=361813",
     "reddit": "https://www.reddit.com/r/dogecoin/",
     "github": "https://github.com/dogecoin"
-  }
+  },
+  "networks": []
 }

@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/cratostoken",
     "telegram": "https://t.me/CratosToken"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x678e840c640f619e17848045d23072844224dd37",
+      "decimals": 18
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x678e840c640f619e17848045d23072844224dd37",
+      "decimals": 18
+    }
+  ]
 }

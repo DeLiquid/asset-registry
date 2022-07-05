@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/justaped",
     "telegram": "https://t.me/justaped"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x40e0a6ef9dbadfc83c5e0d15262feb4638588d77",
+      "decimals": 9
+    }
+  ]
 }

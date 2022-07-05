@@ -12,5 +12,13 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=1512202",
     "reddit": "https://www.reddit.com/r/stratisplatform/",
     "github": "https://github.com/stratisproject"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xa3c22370de5f9544f0c4de126b1e46ceadf0a51b",
+      "decimals": 18
+    }
+  ]
 }

@@ -10,5 +10,6 @@
     "bitcointalk": "https://bitcointalk.org/index.php?topic=5283540",
     "telegram": "https://t.me/mineplex_news ",
     "github": "https://github.com/mineplexio"
-  }
+  },
+  "networks": []
 }

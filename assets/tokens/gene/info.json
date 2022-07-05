@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/genefinance",
     "github": "https://github.com/genefinance"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xf6ec87dfe1ed3a7256cc0c38e3c8139103e9af3b",
+      "decimals": 18
+    }
+  ]
 }

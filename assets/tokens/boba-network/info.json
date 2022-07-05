@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/bobanetwork",
     "telegram": "https://t.me/bobanetwork",
     "github": "https://github.com/omgnetwork"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
+      "decimals": 18
+    }
+  ]
 }

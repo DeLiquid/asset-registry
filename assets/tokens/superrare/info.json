@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/SuperRare",
     "telegram": "https://t.me/SuperRare",
     "reddit": "https://www.reddit.com/r/SuperRare/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xba5bde662c17e2adff1075610382b9b691296350",
+      "decimals": 18
+    }
+  ]
 }

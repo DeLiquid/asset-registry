@@ -12,5 +12,13 @@
     "telegram": "https://t.me/nexofinance",
     "reddit": "https://www.reddit.com/r/Nexo/",
     "github": "https://github.com/nexofinance/NEXO-Token/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+      "decimals": 18
+    }
+  ]
 }

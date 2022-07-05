@@ -12,5 +12,6 @@
     "telegram": "https://t.me/hederahashgraph",
     "reddit": "https://www.reddit.com/r/Hedera/",
     "github": "https://github.com/hashgraph"
-  }
+  },
+  "networks": []
 }

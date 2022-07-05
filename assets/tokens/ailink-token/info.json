@@ -11,5 +11,13 @@
     "facebook": "https://www.facebook.com/ailinkofficial",
     "telegram": "https://t.me/ailinkofficial",
     "github": "https://github.com/ailinkofficial/ailink"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x4289c043a12392f1027307fb58272d8ebd853912",
+      "decimals": 18
+    }
+  ]
 }

@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/kava_swap",
     "telegram": "https://t.me/kavalabs",
     "github": "https://github.com/Kava-Labs/kava"
-  }
+  },
+  "networks": []
 }

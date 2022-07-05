@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/coc_crypto",
     "telegram": "https://t.me/coc_capital",
     "reddit": "https://www.reddit.com/r/ClashofClans21/"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xb43fcc44973738e7b8c0025cf25c7f1c46de1549",
+      "decimals": 18
+    }
+  ]
 }

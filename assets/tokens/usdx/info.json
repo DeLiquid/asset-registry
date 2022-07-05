@@ -6,5 +6,6 @@
   "website": "https://www.kava.io/overview",
   "description": "USDX is the crypto-backed native stablecoin of the Kava DeFi hub.",
   "coingeckoId": "usdx",
-  "links": {}
+  "links": {},
+  "networks": []
 }

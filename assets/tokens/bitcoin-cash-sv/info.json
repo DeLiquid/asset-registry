@@ -8,5 +8,6 @@
   "coingeckoId": "bitcoin-cash-sv",
   "links": {
     "github": "https://github.com/bitcoin-sv/bitcoin-sv"
-  }
+  },
+  "networks": []
 }

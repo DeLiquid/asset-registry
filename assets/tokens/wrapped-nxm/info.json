@@ -8,5 +8,13 @@
   "coingeckoId": "wrapped-nxm",
   "links": {
     "twitter": "https://twitter.com/NexusMutual"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x0d438f3b5175bebc262bf23753c1e53d03432bde",
+      "decimals": 18
+    }
+  ]
 }

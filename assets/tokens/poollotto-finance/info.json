@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/pltfinance",
     "telegram": "https://t.me/pltlottochat"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x631c2f0edabac799f07550aee4ff0bf7fd35212b",
+      "decimals": 18
+    }
+  ]
 }

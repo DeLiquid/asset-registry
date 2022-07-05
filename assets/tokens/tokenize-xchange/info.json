@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/TokenizeXchange",
     "facebook": "https://www.facebook.com/tokenize.exchange",
     "telegram": "https://t.me/tkxannoucement "
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x667102bd3413bfeaa3dffb48fa8288819e480a88",
+      "decimals": 8
+    }
+  ]
 }

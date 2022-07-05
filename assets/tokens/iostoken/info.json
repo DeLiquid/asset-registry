@@ -12,5 +12,6 @@
     "telegram": "https://t.me/officialios",
     "reddit": "https://www.reddit.com/r/IOStoken/",
     "github": "https://github.com/iost-official"
-  }
+  },
+  "networks": []
 }

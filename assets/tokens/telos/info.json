@@ -12,5 +12,6 @@
     "telegram": "https://t.me/HelloTelos",
     "reddit": "https://www.reddit.com/r/telos/",
     "github": "https://github.com/telosnetwork"
-  }
+  },
+  "networks": []
 }

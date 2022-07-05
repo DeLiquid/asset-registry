@@ -10,5 +10,19 @@
     "twitter": "https://twitter.com/RariCapital",
     "telegram": "https://t.me/RariCapitalChat",
     "github": "https://github.com/Rari-Capital"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xd291e7a03283640fdc51b121ac401383a46cc623",
+      "decimals": 18
+    },
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xf4bb0ed25ac7bcc9c327b88bac5ca288a08ec41e",
+      "decimals": 18
+    }
+  ]
 }

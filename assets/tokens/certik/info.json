@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/shentuchain",
     "telegram": "https://t.me/certikfoundation",
     "github": "https://github.com/ShentuChain"
-  }
+  },
+  "networks": []
 }

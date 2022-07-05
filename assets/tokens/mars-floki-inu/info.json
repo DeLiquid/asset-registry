@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/marsflokiinubsc",
     "telegram": "https://t.me/MarsFlokiInuBsc"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x2969fac8eabbb3cbdac56778323930bbc90e471c",
+      "decimals": 9
+    }
+  ]
 }

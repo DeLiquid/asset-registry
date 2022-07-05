@@ -10,5 +10,6 @@
     "twitter": "https://twitter.com/PlatON_Network",
     "telegram": "https://t.me/PlatONNetwork",
     "github": "https://github.com/PlatONnetwork/PlatON-Go"
-  }
+  },
+  "networks": []
 }

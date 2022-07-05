@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/Metaverseinu",
     "telegram": "https://t.me/Meta_Inu"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x93ecdfe316de6dc44c2104183b7f6736d83521c2",
+      "decimals": 18
+    }
+  ]
 }

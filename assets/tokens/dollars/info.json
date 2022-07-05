@@ -11,5 +11,13 @@
     "telegram": "https://t.me/dollarprotocol",
     "reddit": "https://www.reddit.com/r/DollarProtocol/",
     "github": "https://github.com/dollar-protocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x2f6081e3552b1c86ce4479b80062a1dda8ef23e3",
+      "decimals": 9
+    }
+  ]
 }

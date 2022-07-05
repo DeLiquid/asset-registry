@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/feiprotocol",
     "telegram": "https://t.me/feiprotocol ",
     "github": "https://github.com/fei-protocol/fei-protocol-core"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+      "decimals": 18
+    }
+  ]
 }

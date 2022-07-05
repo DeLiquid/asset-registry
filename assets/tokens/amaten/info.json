@@ -6,5 +6,13 @@
   "website": "https://amaten.io/",
   "description": "Amaten will lead the application of blockchain technology to the gift card industry and develop a self-sustaining blockchain based ecosystem for tokenized gift cards.\r\n\r\nAmaten is committed to providing liquidity to this traditionally illiquid market.\r\n\r\nAmaten has since then generated incredible results with an exceptionally great service for all participants in the Japanese gift card market\r\n\r\nJapan\u2019s first gift card marketplace of Japan\r\n-Transaction growth on average of 20% per year\r\n-Reached one million Transactions in 2018\r\n-Fast growing company with revenues multiplying 8 fold over the past 5 years from 2013-2017\r\n-240 000 active users\r\n-40% of secondary market share",
   "coingeckoId": "amaten",
-  "links": {}
+  "links": {},
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x2509ee05b8df07ec75046e24bbf1cfcdb8b2a183",
+      "decimals": 18
+    }
+  ]
 }

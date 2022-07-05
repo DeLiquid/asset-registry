@@ -12,5 +12,13 @@
     "telegram": "https://t.me/Meter_IO",
     "reddit": "https://www.reddit.com/r/Meter_io/",
     "github": "https://github.com/meterio"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xbd2949f67dcdc549c6ebe98696449fa79d988a9f",
+      "decimals": 18
+    }
+  ]
 }

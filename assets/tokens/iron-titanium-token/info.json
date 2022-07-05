@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/TITANisourDOGE",
     "telegram": "https://t.me/titanisourdoge",
     "github": "https://github.com/ironfinance"
-  }
+  },
+  "networks": [
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xaaa5b9e6c589642f98a1cda99b9d024b8407285a",
+      "decimals": 18
+    }
+  ]
 }

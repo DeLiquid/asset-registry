@@ -9,5 +9,19 @@
   "links": {
     "twitter": "https://twitter.com/laroenergy",
     "telegram": "https://t.me/+QJdivLKaWdFjMzZl"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x77ccbbca68958ee7a1786090c1dcdd45b80dfdf0",
+      "decimals": 2
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xbbcd3e4eb43aa7f3f57286da31333d53b24d0d6a",
+      "decimals": 2
+    }
+  ]
 }

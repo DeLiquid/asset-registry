@@ -12,5 +12,13 @@
     "facebook": "https://www.facebook.com/omgnetworkhq",
     "reddit": "https://www.reddit.com",
     "github": "https://github.com/omgnetwork"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
+      "decimals": 18
+    }
+  ]
 }

@@ -12,5 +12,13 @@
     "telegram": "https://t.me/CryptoComOfficial",
     "reddit": "https://www.reddit.com/r/Crypto_com/",
     "github": "https://github.com/crypto-org-chain/chain-main"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+      "decimals": 8
+    }
+  ]
 }

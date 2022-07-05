@@ -9,5 +9,13 @@
   "links": {
     "twitter": "https://twitter.com/fwarfinance",
     "telegram": "https://t.me/fwarchannel"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0xce3e05e2dfce8673e08514615dd976754bb88b25",
+      "decimals": 18
+    }
+  ]
 }

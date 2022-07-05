@@ -14,5 +14,6 @@
     "telegram": "https://t.me/APEXcommunity",
     "reddit": "https://www.reddit.com/r/RedPulseToken/",
     "github": "https://github.com/phoenixglobal"
-  }
+  },
+  "networks": []
 }

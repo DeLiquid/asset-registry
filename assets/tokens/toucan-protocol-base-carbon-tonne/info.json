@@ -8,5 +8,13 @@
   "coingeckoId": "toucan-protocol-base-carbon-tonne",
   "links": {
     "twitter": "https://twitter.com/ToucanProtocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0x2f800db0fdb5223b3c3f354886d907a671414a7f",
+      "decimals": 18
+    }
+  ]
 }

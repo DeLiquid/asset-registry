@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/Eco_Watt_",
     "facebook": "https://www.facebook.com/www.ecowatt.io",
     "telegram": "https://t.me/ecowatt"
-  }
+  },
+  "networks": [
+    {
+      "chain": "polygon",
+      "network": "mainnet",
+      "address": "0xd9e838dd60c8ea1e7dd4e670913323bb87db112c",
+      "decimals": 4
+    }
+  ]
 }

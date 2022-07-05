@@ -14,5 +14,19 @@
     "telegram": "https://t.me/chronotech",
     "reddit": "https://www.reddit.com/r/ChronoBank",
     "github": "https://github.com/ChronoBank/SmartContracts"
-  }
+  },
+  "networks": [
+    {
+      "chain": "binance-smart-chain",
+      "network": "mainnet",
+      "address": "0x3b198e26e473b8fab2085b37978e36c9de5d7f68",
+      "decimals": 8
+    },
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x485d17a6f1b8780392d53d64751824253011a260",
+      "decimals": 8
+    }
+  ]
 }

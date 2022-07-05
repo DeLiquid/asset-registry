@@ -9,5 +9,6 @@
   "links": {
     "twitter": "https://twitter.com/optimismPBC",
     "github": "https://github.com/ethereum-optimism/"
-  }
+  },
+  "networks": []
 }

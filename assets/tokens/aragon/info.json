@@ -13,5 +13,13 @@
     "whitepaper": "https://aragon.one/network/",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=1880338",
     "reddit": "https://www.reddit.com/r/aragonproject"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+      "decimals": 18
+    }
+  ]
 }

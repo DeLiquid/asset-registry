@@ -13,5 +13,13 @@
     "telegram": "https://t.me/propy",
     "whitepaper": "http://tokensale.propy.com/WhitepaperSummary.pdf",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=1982115"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0x226bb599a12c826476e3a771454697ea52e9e220",
+      "decimals": 8
+    }
+  ]
 }

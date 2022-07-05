@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/auroraisnear",
     "telegram": "https://t.me/auroraisnear",
     "github": "https://github.com/aurora-is-near/aurora-engine"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xaaaaaa20d9e0e2461697782ef11675f668207961",
+      "decimals": 18
+    }
+  ]
 }

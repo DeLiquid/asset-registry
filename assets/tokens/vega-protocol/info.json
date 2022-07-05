@@ -10,5 +10,13 @@
     "twitter": "https://twitter.com/vegaprotocol",
     "telegram": "https://t.me/vegacommunity",
     "github": "https://github.com/vegaprotocol"
-  }
+  },
+  "networks": [
+    {
+      "chain": "ethereum",
+      "network": "mainnet",
+      "address": "0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e",
+      "decimals": 18
+    }
+  ]
 }
