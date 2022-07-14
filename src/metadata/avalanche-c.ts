@@ -23,7 +23,7 @@ export const AVALANCHEC_NETWORK_METADATA: Readonly<
   mainnet: {
     key: 'mainnet',
     chainKey: 'avalanche-c',
-    symbol: 'AVAX-C',
+    displayedName: 'AVAX-C',
     name: 'Avalanche C-Chain Mainnet',
     chainId: 43114,
     isTestnet: false,
@@ -38,7 +38,7 @@ export const AVALANCHEC_NETWORK_METADATA: Readonly<
     key: 'fuji',
     chainKey: 'avalanche-c',
     name: 'Avalanche C-Chain Fuji Testnet',
-    symbol: 'AVAX-C Testnet',
+    displayedName: 'AVAX-C Testnet',
     chainId: 43113,
     isTestnet: true,
     explorer: {

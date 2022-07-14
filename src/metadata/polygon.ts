@@ -22,7 +22,7 @@ export const POLYGON_NETWORK_METADATA: Readonly<Record<string, NetworkMetadata<'
     mainnet: {
       key: 'mainnet',
       chainKey: 'polygon',
-      symbol: 'Polygon',
+      displayedName: 'Polygon',
       name: 'Polygon Mainnet',
       chainId: 137,
       isTestnet: false,
@@ -36,7 +36,7 @@ export const POLYGON_NETWORK_METADATA: Readonly<Record<string, NetworkMetadata<'
     mumbai: {
       key: 'mumbai',
       chainKey: 'polygon',
-      symbol: 'Polygon Testnet',
+      displayedName: 'Polygon Testnet',
       name: 'Polygon Mumbai Testnet',
       chainId: 80001,
       isTestnet: true,

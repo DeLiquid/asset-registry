@@ -24,7 +24,7 @@ export const COSMOSHUB_NETWORK_METADATA: Readonly<Record<string, NetworkMetadata
     mainnet: {
       key: 'mainnet',
       chainKey: 'cosmoshub',
-      symbol: 'Cosmos',
+      displayedName: 'Cosmos',
       name: 'Cosmos Hub Mainnet',
       chainId: 'cosmoshub-4',
       isTestnet: false,
@@ -37,7 +37,7 @@ export const COSMOSHUB_NETWORK_METADATA: Readonly<Record<string, NetworkMetadata
     theta: {
       key: 'theta',
       chainKey: 'cosmoshub',
-      symbol: 'Cosmos Testnet',
+      displayedName: 'Cosmos Testnet',
       name: 'Cosmos Hub v7-Theta Public Testnet',
       chainId: 'theta-testnet-001',
       isTestnet: true,
