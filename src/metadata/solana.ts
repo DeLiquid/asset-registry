@@ -23,6 +23,7 @@ export const SOLANA_NETWORK_METADATA: Readonly<Record<string, NetworkMetadata<'s
       key: 'mainnet',
       chainKey: 'solana',
       name: 'Solana Mainnet',
+      displayedName: 'Solana',
       chainId: 101,
       isTestnet: false,
       explorer: {
@@ -34,6 +35,7 @@ export const SOLANA_NETWORK_METADATA: Readonly<Record<string, NetworkMetadata<'s
     testnet: {
       key: 'testnet',
       chainKey: 'solana',
+      displayedName: 'Solana Testnet',
       name: 'Solana Testnet',
       chainId: 102,
       isTestnet: true,
@@ -46,6 +48,7 @@ export const SOLANA_NETWORK_METADATA: Readonly<Record<string, NetworkMetadata<'s
     devnet: {
       key: 'devnet',
       chainKey: 'solana',
+      displayedName: 'Solana Devnet',
       name: 'Solana Devnet',
       chainId: 103,
       isTestnet: true,
