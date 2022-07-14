@@ -23,6 +23,7 @@ export const ETHEREUM_NETWORK_METADATA: Readonly<Record<string, NetworkMetadata<
     mainnet: {
       key: 'mainnet',
       chainKey: 'ethereum',
+      symbol: 'Ethereum',
       name: 'Ethereum Mainnet',
       chainId: 1,
       isTestnet: false,
@@ -36,6 +37,7 @@ export const ETHEREUM_NETWORK_METADATA: Readonly<Record<string, NetworkMetadata<
     goerli: {
       key: 'goerli',
       chainKey: 'ethereum',
+      symbol: 'Ethereum Testnet',
       name: 'Ethereum Goerli Testnet',
       chainId: 5,
       isTestnet: true,

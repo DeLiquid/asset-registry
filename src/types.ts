@@ -89,6 +89,7 @@ export interface TokenMetadata extends BasicTokenMetadata {
 export interface NetworkMetadata<C extends SupportedChain> {
   key: string;
   chainKey: C;
+  symbol: string;
   name: string;
   chainId: number | string;
   isTestnet: boolean;

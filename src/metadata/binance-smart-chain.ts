@@ -23,6 +23,7 @@ export const BSC_NETWORK_METADATA: Readonly<
   mainnet: {
     key: 'mainnet',
     chainKey: 'binance-smart-chain',
+    symbol: 'BSC',
     name: 'Binance Smart Chain Mainnet',
     chainId: 56,
     isTestnet: false,
@@ -37,6 +38,7 @@ export const BSC_NETWORK_METADATA: Readonly<
     key: 'testnet',
     chainKey: 'binance-smart-chain',
     name: 'Binance Smart Chain Testnet',
+    symbol: 'BSC Testnet',
     chainId: 97,
     isTestnet: true,
     explorer: {
