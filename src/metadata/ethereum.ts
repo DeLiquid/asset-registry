@@ -3,8 +3,7 @@ import { ChainMetadata, NetworkMetadata } from '../types';
 export const ETHEREUM_CHAIN_METADATA: Readonly<ChainMetadata<'ethereum'>> = Object.freeze({
   key: 'ethereum',
   name: 'Ethereum',
-  logoURI:
-    'https://raw.githubusercontent.com/DeLiquid/asset-registry/main/assets/tokens/ethereum/logo.png',
+  logoURI: 'https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880',
   website: 'https://ethereum.org/',
   links: {
     twitter: 'https://twitter.com/ethereum',
